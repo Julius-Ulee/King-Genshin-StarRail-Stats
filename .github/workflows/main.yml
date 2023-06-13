@@ -32,9 +32,9 @@ jobs:
           npx prettier README.md --write --parser html
       - name: Commit and push if changed
         run: |
-          git config user.name "Paimon"
+          git config user.name "King"
           git config user.email "actions@users.noreply.github.com"
           git diff
           git add README.md
-          git commit -m "Kiizuha's Genshin Impact stats"
+          git commit -m "King's Genshin Impact stats"
           git push
