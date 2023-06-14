@@ -63,7 +63,7 @@ async def main():
         #sr_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.STARRAIL).next()
         #sr_reward_info = await client.get_reward_info(game=genshin.types.Game.STARRAIL)
 
-    #template: jinja2.Template = jinja2.Template(args.template.read_text())
+    template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
         user=user,
         lang=args.lang,
@@ -72,7 +72,7 @@ async def main():
         sr_reward=sr_reward,
         diary=diary,
         reward_info=reward_info,
-        sr_reward_info=sr_reward_info,
+        #sr_reward_info=sr_reward_info,
         updated_at=format_date(reward.time),
         _int=int
     )
