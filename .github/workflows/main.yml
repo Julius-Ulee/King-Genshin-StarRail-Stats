@@ -35,7 +35,7 @@ jobs:
           git diff
           git checkout --orphan temp_branch
           git config user.name "King"
-          git config user.email "fidzlieazriel@gmail.com"
+          git config user.email "actions@users.noreply.github.com""
           git add -A
           git commit -asm "King's Genshin Impact stats"
           git branch -D master
