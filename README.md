@@ -1,6 +1,6 @@
-<h1 align="center">King's Genshin Stats</h1>
+<h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 15, 2023 03:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 15, 2023 04:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
