@@ -55,28 +55,6 @@ async def main():
         reward_info = await client.get_reward_info()
     
     # claim daily reward honkai star rail
-    try:
-        await client.claim_daily_reward(lang=args.lang, reward=False, game=genshin.types.Game.STARRAIL)
-    except genshin.AlreadyClaimed:
-        pass
-    finally:
-        #sr_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.STARRAIL).next()
-        #sr_reward_info = await client.get_reward_info(game=genshin.types.Game.STARRAIL)
-
-    template: jinja2.Template = jinja2.Template(args.template.read_text())
-    rendered = template.render(
-        user=user,
-        lang=args.lang,
-        abyss=abyss,
-        reward=reward,
-        sr_reward=sr_reward,
-        diary=diary,
-        reward_info=reward_info,
-        #sr_reward_info=sr_reward_info,
-        updated_at=format_date(reward.time),
-        _int=int
-    )
-    args.output.write_text(rendered)
 
 
 if __name__ == "__main__":
