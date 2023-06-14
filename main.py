@@ -60,8 +60,8 @@ async def main():
     except genshin.AlreadyClaimed:
         pass
     finally:
-        sr_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.STARRAIL).next()
-        sr_reward_info = await client.get_reward_info(game=genshin.types.Game.STARRAIL)
+        #sr_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.STARRAIL).next()
+        #sr_reward_info = await client.get_reward_info(game=genshin.types.Game.STARRAIL)
 
     template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
