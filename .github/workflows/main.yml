@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: 3.10.11
 
       - name: Install requirements
         run: |
@@ -34,8 +34,8 @@ jobs:
         run: |
           git diff
           git checkout --orphan temp_branch
-          git config user.name "juliusulee"
-          git config user.email "actions@users.noreply.github.com""
+          git config user.name "King"
+          git config user.email "actions@users.noreply.github.com"
           git add -A
           git commit -asm "King's Genshin Impact stats"
           git branch -D master
