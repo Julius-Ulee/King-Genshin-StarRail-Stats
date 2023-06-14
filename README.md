@@ -1,6 +1,6 @@
-<h1 align="center">Joy's Genshin Stats</h1>
+<h1 align="center">King's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 15, 2023 04:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 15, 2023 06:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>113</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -315,7 +315,7 @@
       />
       Primogems earned
     </td>
-    <td>916 (rate -82)</td>
+    <td>976 (rate -81)</td>
   </tr>
   <tr>
     <td>
@@ -326,13 +326,13 @@
       />
       Mora earned
     </td>
-    <td>601640 (rate -84)</td>
+    <td>634626 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 270 (30%)<br />Daily Activity: 270 (30%)<br />Adventure: 161
-      (18%)<br />Quests: 150 (16%)<br />Other: 45 (4%)<br />Mail: 20 (2%)<br />Spiral
+      Daily Activity: 330 (34%)<br />Events: 270 (28%)<br />Adventure: 161
+      (17%)<br />Quests: 150 (15%)<br />Other: 45 (4%)<br />Mail: 20 (2%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
