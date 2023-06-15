@@ -1,6 +1,6 @@
 <h1 align="center">King's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 15, 2023 19:31 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 15, 2023 20:55 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>1 x Condensed Aether</td>
+    <td>5000 x Credit</td>
   </tr>
 </table>
 
