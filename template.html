@@ -26,7 +26,7 @@
     </tr>
 </table>
 
-<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"></h2>
 <table align="center">
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -36,7 +36,7 @@
     {%- endfor -%}
 </table>
 
-<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration <img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"></h2>
 <table align="center">
     <tr>
         {%- for exploration in user.explorations -%}
@@ -73,7 +73,7 @@
 </table>
 
 {%- if user.teapot -%}
-<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot <img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"></h2>
 <table align="center">
     <tr>
         <td>Level</td>
@@ -95,7 +95,7 @@
 {%- endif -%}
 
 {%- if abyss.floors|length -%}
-<h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
+<h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss <img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"></h2>
 <table align="center">
     <tr>
         <td>Season</td>
@@ -130,7 +130,7 @@
 </table>
 {%- endif -%}
 
-<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary <img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"></h2>
 <table align="center">
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
@@ -150,7 +150,7 @@
     </tr>
 </table>
 
-<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters <img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"></h2>
 {%- for character in user.characters -%}
     {%- if user.characters.index(character) == 0 -%}
         <details open>
