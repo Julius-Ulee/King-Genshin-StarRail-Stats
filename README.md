@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 13:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 13:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -44,6 +44,8 @@
   Daily Rewards Honkai Star Rail
   <img
     src="https://hsr.honeyhunterworld.com/img/achievement/how-i-learned-to-stop-worrying-achievement_icon.webp"
+    ,
+    height="20"
   />
 </h2>
 <table align="center">
@@ -333,7 +335,14 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Level</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp"
+        ,
+        height="18"
+      />
+      Level Trust
+    </td>
     <td>3</td>
   </tr>
   <tr>
