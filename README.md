@@ -8,19 +8,44 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 06:43 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 06:55 +0700</u> (🤖automated)
 </h3>
 <br />
 
-<picture><img src="" /></picture>
-<h2 align="center">Profile Information</h2>
-<table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+    ,
+    height="20"
+  />
+  Profile Information
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
   <tr>
-    <td>Nickname</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        ,
+        height="18"
+      />
+      Nickname
+    </td>
     <td>King</td>
   </tr>
   <tr>
-    <td>Rank Adventure</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2002.webp?x50246"
+        ,
+        height="18"
+      />
+      Rank Adventure
+    </td>
     <td>50</td>
   </tr>
 </table>
