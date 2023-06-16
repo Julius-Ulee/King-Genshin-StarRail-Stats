@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 13:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 13:33 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -19,7 +19,14 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Total Rewards Claimed</td>
+    <td>
+      <img
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        ,
+        height="18"
+      />
+      Total Rewards Claimed
+    </td>
     <td>10</td>
   </tr>
   <tr>
@@ -28,7 +35,15 @@
   </tr>
 </table>
 
-<h2 align="center">Daily Rewards Honkai Star Rail</h2>
+<h2 align="center">
+  <img
+    src="https://hsr.honeyhunterworld.com/img/achievement/how-i-learned-to-stop-worrying-achievement_icon.webp"
+  />
+  Daily Rewards Honkai Star Rail
+  <img
+    src="https://hsr.honeyhunterworld.com/img/achievement/how-i-learned-to-stop-worrying-achievement_icon.webp"
+  />
+</h2>
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
