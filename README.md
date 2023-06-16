@@ -8,9 +8,22 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 06:06 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 06:43 +0700</u> (🤖automated)
 </h3>
 <br />
+
+<picture><img src="" /></picture>
+<h2 align="center">Profile Information</h2>
+<table>
+  <tr>
+    <td>Nickname</td>
+    <td>King</td>
+  </tr>
+  <tr>
+    <td>Rank Adventure</td>
+    <td>50</td>
+  </tr>
+</table>
 
 <h2 align="center">
   <img src="./images/logo/check-in.webp" , height="20" /> Daily Rewards Genshin
