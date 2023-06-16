@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 14:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 14:46 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>114</td>
+    <td>115</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -357,11 +357,18 @@
     <td>Cozy (3930)</td>
   </tr>
   <tr>
-    <td>Items</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp"
+        ,
+        height="18"
+      />
+      Items
+    </td>
     <td>140</td>
   </tr>
   <tr>
-    <td>Visitors</td>
+    <td>👤 Visitors</td>
     <td>0</td>
   </tr>
 </table>
