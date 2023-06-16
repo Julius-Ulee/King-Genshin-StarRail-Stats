@@ -2,3 +2,5 @@ genshin @ git+https://github.com/thesadru/genshin.py@263d2412caca302089b35ef4c5a
 Jinja2
 python-dotenv
 pytz
+requests
+beautifulsoup4
