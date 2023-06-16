@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 12:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 12:44 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -16,8 +16,8 @@
   </tr>
 </table>
 
-<h2>Daily Rewards Honkai Star Rail</h2>
-<table>
+<h2 align="center">Daily Rewards Honkai Star Rail</h2>
+<table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
     <td>4</td>
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<h2>
+<h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
     ,
@@ -36,7 +36,7 @@
   />
   Stats
 </h2>
-<table>
+<table align="center">
   <tr>
     <td>Achievements</td>
     <td>242</td>
@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-<h2>
+<h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp"
     ,
@@ -103,7 +103,7 @@
   />
   Exploration
 </h2>
-<table>
+<table align="center">
   <tr>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
@@ -272,7 +272,7 @@
     </td>
   </tr>
 </table>
-<h2>
+<h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
     ,
@@ -280,7 +280,7 @@
   />
   Teapot
 </h2>
-<table>
+<table align="center">
   <tr>
     <td>Level</td>
     <td>3</td>
@@ -298,14 +298,14 @@
     <td>0</td>
   </tr>
 </table>
-<h2>
+<h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
     height="20"
   />
   Diary
 </h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <img
@@ -338,7 +338,7 @@
   </tr>
 </table>
 
-<h2>
+<h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
     ,
@@ -347,9 +347,9 @@
   Characters
 </h2>
 <details open>
-  <summary><b>Xingqiu</b></summary>
+  <summary align="center"><b>Xingqiu</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
       <th><h3 align="center">Skyrider Sword</h3></th>
@@ -463,9 +463,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Cyno</b></summary>
+  <summary align="center"><b>Cyno</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Cyno</h3></th>
       <th><h3 align="center">White Tassel</h3></th>
@@ -579,9 +579,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Bennett</b></summary>
+  <summary align="center"><b>Bennett</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Bennett</h3></th>
       <th><h3 align="center">Lion's Roar</h3></th>
@@ -695,9 +695,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Diluc</b></summary>
+  <summary align="center"><b>Diluc</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Diluc</h3></th>
       <th><h3 align="center">Beacon of the Reed Sea</h3></th>
@@ -808,9 +808,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Traveler</b></summary>
+  <summary align="center"><b>Traveler</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Traveler</h3></th>
       <th><h3 align="center">Prototype Rancour</h3></th>
@@ -924,9 +924,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Xiangling</b></summary>
+  <summary align="center"><b>Xiangling</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Xiangling</h3></th>
       <th><h3 align="center">Prototype Starglitter</h3></th>
@@ -1040,9 +1040,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Kaeya</b></summary>
+  <summary align="center"><b>Kaeya</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Kaeya</h3></th>
       <th><h3 align="center">Traveler's Handy Sword</h3></th>
@@ -1126,9 +1126,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Razor</b></summary>
+  <summary align="center"><b>Razor</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Razor</h3></th>
       <th><h3 align="center">Waster Greatsword</h3></th>
@@ -1232,9 +1232,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Keqing</b></summary>
+  <summary align="center"><b>Keqing</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Keqing</h3></th>
       <th><h3 align="center">The Alley Flash</h3></th>
@@ -1318,9 +1318,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Yaoyao</b></summary>
+  <summary align="center"><b>Yaoyao</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Yaoyao</h3></th>
       <th><h3 align="center">Black Tassel</h3></th>
@@ -1434,9 +1434,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Amber</b></summary>
+  <summary align="center"><b>Amber</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Amber</h3></th>
       <th><h3 align="center">Slingshot</h3></th>
@@ -1542,9 +1542,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Barbara</b></summary>
+  <summary align="center"><b>Barbara</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Barbara</h3></th>
       <th><h3 align="center">Emerald Orb</h3></th>
@@ -1658,9 +1658,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Lisa</b></summary>
+  <summary align="center"><b>Lisa</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Lisa</h3></th>
       <th><h3 align="center">Apprentice's Notes</h3></th>
@@ -1744,9 +1744,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Xinyan</b></summary>
+  <summary align="center"><b>Xinyan</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Xinyan</h3></th>
       <th><h3 align="center">Waster Greatsword</h3></th>
@@ -1830,9 +1830,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Rosaria</b></summary>
+  <summary align="center"><b>Rosaria</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Rosaria</h3></th>
       <th><h3 align="center">Beginner's Protector</h3></th>
@@ -1916,9 +1916,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Gorou</b></summary>
+  <summary align="center"><b>Gorou</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Gorou</h3></th>
       <th><h3 align="center">Hunter's Bow</h3></th>
@@ -2002,9 +2002,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Kuki Shinobu</b></summary>
+  <summary align="center"><b>Kuki Shinobu</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
       <th><h3 align="center">Dull Blade</h3></th>
@@ -2088,9 +2088,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Chongyun</b></summary>
+  <summary align="center"><b>Chongyun</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Chongyun</h3></th>
       <th><h3 align="center">Waster Greatsword</h3></th>
@@ -2174,9 +2174,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Sucrose</b></summary>
+  <summary align="center"><b>Sucrose</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Sucrose</h3></th>
       <th><h3 align="center">Apprentice's Notes</h3></th>
@@ -2260,9 +2260,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Yun Jin</b></summary>
+  <summary align="center"><b>Yun Jin</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Yun Jin</h3></th>
       <th><h3 align="center">Beginner's Protector</h3></th>
@@ -2346,9 +2346,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Collei</b></summary>
+  <summary align="center"><b>Collei</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Collei</h3></th>
       <th><h3 align="center">Hunter's Bow</h3></th>
@@ -2432,9 +2432,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Dori</b></summary>
+  <summary align="center"><b>Dori</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Dori</h3></th>
       <th><h3 align="center">Waster Greatsword</h3></th>
@@ -2518,9 +2518,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Layla</b></summary>
+  <summary align="center"><b>Layla</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Layla</h3></th>
       <th><h3 align="center">Dull Blade</h3></th>
@@ -2604,9 +2604,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Faruzan</b></summary>
+  <summary align="center"><b>Faruzan</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Faruzan</h3></th>
       <th><h3 align="center">Hunter's Bow</h3></th>
@@ -2690,9 +2690,9 @@
   </table>
 </details>
 <details>
-  <summary><b>Mika</b></summary>
+  <summary align="center"><b>Mika</b></summary>
   <br />
-  <table>
+  <table align="center">
     <tr>
       <th><h3 align="center">Mika</h3></th>
       <th><h3 align="center">Beginner's Protector</h3></th>
