@@ -1,6 +1,8 @@
+<img src="./images/banner/zongli-banner.gif" />
+
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 04:50 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 05:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
