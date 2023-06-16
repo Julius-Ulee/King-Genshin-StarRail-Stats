@@ -7,6 +7,7 @@ import pathlib
 import json
 import pytz
 import requests
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from datetime import datetime
 
