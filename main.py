@@ -6,6 +6,7 @@ import io
 import pathlib
 import json
 import pytz
+import requests
 from dotenv import load_dotenv
 from datetime import datetime
 
