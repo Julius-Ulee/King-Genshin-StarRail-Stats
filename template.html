@@ -14,8 +14,8 @@
     </tr>
 </table>
 
-<h2>Daily Rewards Honkai Star Rail</h2>
-<table>
+<h2 align="center">Daily Rewards Honkai Star Rail</h2>
+<table align="center">
     <tr>
         <td>Total Rewards Claimed</td>
         <td>{{ sr_reward_info.claimed_rewards }}</td>
@@ -26,8 +26,8 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
-<table>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
+<table align="center">
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field.title() }}</td>
@@ -36,8 +36,8 @@
     {%- endfor -%}
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
-<table>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
+<table align="center">
     <tr>
         {%- for exploration in user.explorations -%}
         <th>{{ exploration.name }}</th>
@@ -73,8 +73,8 @@
 </table>
 
 {%- if user.teapot -%}
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
-<table>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
+<table align="center">
     <tr>
         <td>Level</td>
         <td>{{ user.teapot.level }}</td>
@@ -95,8 +95,8 @@
 {%- endif -%}
 
 {%- if abyss.floors|length -%}
-<h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
-<table>
+<h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
+<table align="center">
     <tr>
         <td>Season</td>
         <td>{{ abyss.season }}</td>
@@ -130,8 +130,8 @@
 </table>
 {%- endif -%}
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
-<table>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+<table align="center">
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
         <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
@@ -150,7 +150,7 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2>
+<h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2>
 {%- for character in user.characters -%}
     {%- if user.characters.index(character) == 0 -%}
         <details open>
@@ -158,9 +158,9 @@
         <details>
     {%- endif -%}
 
-    <summary><b>{{ character.name }}</b></summary>
+    <summary align="center"><b>{{ character.name }}</b></summary>
     <br/>
-    <table>
+    <table align="center">
         <tr>
             <th><h3 align="center">{{ character.name }}</h3></th>
             <th><h3 align="center">{{ character.weapon.name }}</h3></th>
