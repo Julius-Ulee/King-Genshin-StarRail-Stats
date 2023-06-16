@@ -1,4 +1,4 @@
-<img src="./images/banner/zongli-banner.gif" />
+<picture><img src="./images/banner/zongli-banner.gif" /></picture>
 
 <p align="center">
   <a href=""
