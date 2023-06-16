@@ -8,22 +8,13 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 05:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 06:06 +0700</u> (🤖automated)
 </h3>
 <br />
 
 <h2 align="center">
-  <img
-    src="https://webstatic.hoyoverse.com/upload/op-public/2022/08/04/eaac1cc05bb7e4102595d217b05fde20_3545560780709862630.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
-    ,
-    height="20"
-  />
-  Daily Rewards Genshin
-  <img
-    src="https://webstatic.hoyoverse.com/upload/op-public/2022/08/04/eaac1cc05bb7e4102595d217b05fde20_3545560780709862630.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
-    ,
-    height="20"
-  />
+  <img src="./images/logo/check-in.webp" , height="20" /> Daily Rewards Genshin
+  <img src="./images/logo/check-in.webp" , height="20" />
 </h2>
 <table align="center">
   <tr>
@@ -44,17 +35,8 @@
 </table>
 
 <h2 align="center">
-  <img
-    src="https://upload-os-bbs.hoyolab.com/upload/2023/05/11/59d62b74efdf339d9e60c2fde0b9442a_5002283662616272289.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
-    ,
-    height="20"
-  />
-  Daily Rewards Honkai Star Rail
-  <img
-    src="https://upload-os-bbs.hoyolab.com/upload/2023/05/11/59d62b74efdf339d9e60c2fde0b9442a_5002283662616272289.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
-    ,
-    height="20"
-  />
+  <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
+  Honkai Star Rail <img src="./images/logo/check-in-hsr.webp" , height="20" />
 </h2>
 <table align="center">
   <tr>
