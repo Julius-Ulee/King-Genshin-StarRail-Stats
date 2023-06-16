@@ -2,6 +2,7 @@ import argparse
 import asyncio
 import logging
 import os
+import io
 import pathlib
 import json
 import pytz
