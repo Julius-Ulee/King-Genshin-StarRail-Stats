@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 13:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 14:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -341,12 +341,19 @@
         ,
         height="18"
       />
-      Level Trust
+      Trust Rank
     </td>
     <td>3</td>
   </tr>
   <tr>
-    <td>Comfort</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp"
+        ,
+        height="18"
+      />
+      Highest Adeptal Energy
+    </td>
     <td>Cozy (3930)</td>
   </tr>
   <tr>
