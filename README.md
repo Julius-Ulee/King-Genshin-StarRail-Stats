@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 13:33 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 13:36 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -19,18 +19,18 @@
 </h2>
 <table align="center">
   <tr>
+    <td>Total Rewards Claimed</td>
+    <td>10</td>
+  </tr>
+  <tr>
     <td>
       <img
         src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         ,
         height="18"
       />
-      Total Rewards Claimed
+      Last Claimed Reward
     </td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Last Claimed Reward</td>
     <td>5000 x Mora</td>
   </tr>
 </table>
@@ -38,6 +38,8 @@
 <h2 align="center">
   <img
     src="https://hsr.honeyhunterworld.com/img/achievement/how-i-learned-to-stop-worrying-achievement_icon.webp"
+    ,
+    height="20"
   />
   Daily Rewards Honkai Star Rail
   <img
@@ -50,7 +52,14 @@
     <td>4</td>
   </tr>
   <tr>
-    <td>Last Claimed Reward</td>
+    <td>
+      <img
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+        ,
+        height="18"
+      />
+      Last Claimed Reward
+    </td>
     <td>1 x Canned Soda</td>
   </tr>
 </table>
