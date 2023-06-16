@@ -1,10 +1,22 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 12:49 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 13:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
-<h2 align="center">Daily Rewards Genshin</h2>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/q_23010.webp"
+    ,
+    height="20"
+  />
+  Daily Rewards Genshin
+  <img
+    src="https://genshin.honeyhunterworld.com/img/q_23010.webp"
+    ,
+    height="20"
+  />
+</h2>
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
