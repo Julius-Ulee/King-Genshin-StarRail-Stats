@@ -1,10 +1,10 @@
-<h1 align="center">King's Genshin Stats</h1>
+<h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 15, 2023 20:55 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 12:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
-<h2>Daily Rewards Genshin</h2>
+<h2 align="center">Daily Rewards Genshin</h2>
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Credit</td>
+    <td>1 x Canned Soda</td>
   </tr>
 </table>
 
