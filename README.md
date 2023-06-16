@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 13:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 13:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -47,6 +47,11 @@
     height="20"
   />
   Stats
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+    ,
+    height="20"
+  />
 </h2>
 <table align="center">
   <tr>
@@ -114,6 +119,11 @@
     height="20"
   />
   Exploration
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp"
+    ,
+    height="20"
+  />
 </h2>
 <table align="center">
   <tr>
@@ -291,6 +301,11 @@
     height="20"
   />
   Teapot
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
+    ,
+    height="20"
+  />
 </h2>
 <table align="center">
   <tr>
@@ -316,6 +331,10 @@
     height="20"
   />
   Diary
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
 </h2>
 <table align="center">
   <tr>
@@ -357,6 +376,11 @@
     height="20"
   />
   Characters
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+    ,
+    height="20"
+  />
 </h2>
 <details open>
   <summary align="center"><b>Xingqiu</b></summary>
