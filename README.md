@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 19:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 04:50 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,18 +20,18 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         ,
         height="18"
       />
       Last Claimed Reward
     </td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -51,18 +51,18 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
         ,
         height="18"
       />
       Last Claimed Reward
     </td>
-    <td>1 x Canned Soda</td>
+    <td>20 x Stellar Jade</td>
   </tr>
 </table>
 
@@ -82,11 +82,11 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td>243</td>
+    <td>244</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>115</td>
+    <td>116</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>546</td>
+    <td>548</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>96</td>
+    <td>98</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -239,7 +239,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/62/" width="80" />
+            <img src="https://progress-bar.dev/64/" width="80" />
           </td>
         </tr>
         <tr>
@@ -393,7 +393,7 @@
       />
       Primogems earned
     </td>
-    <td>1390 (rate -73)</td>
+    <td>2002 (rate -62)</td>
   </tr>
   <tr>
     <td>
@@ -404,14 +404,14 @@
       />
       Mora earned
     </td>
-    <td>1267908 (rate -66)</td>
+    <td>1638584 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Quests: 400 (29%)<br />Daily Activity: 340 (25%)<br />Adventure: 293
-      (22%)<br />Events: 270 (19%)<br />Other: 47 (3%)<br />Mail: 40 (2%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Events: 810 (41%)<br />Quests: 400 (20%)<br />Daily Activity: 390 (20%)<br />Adventure:
+      315 (16%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -429,6 +429,122 @@
     height="20"
   />
 </h2>
+<details open>
+  <summary align="center"><b>Cyno</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Cyno</h3></th>
+      <th><h3 align="center">White Tassel</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/55ccf33e3d708badb3b0790201fc188e.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Gilded Dreams<br />2 x The Exile<br />1 x
+              Instructor<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3eac8a4bcce08e22def6976def27483f.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/9d28bb8f3b812515958d335cfbc5f4be.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1d84092ca64d76385ae8bc6fc369249b.png"
+                ,
+                height="18"
+              />
+              Exile's Pocket Watch<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
+                ,
+                height="18"
+              />
+              Exile's Goblet<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
+                ,
+                height="18"
+              />
+              Instructor's Cap<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>White Tassel</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>4</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
 <details open>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
@@ -546,122 +662,6 @@
   </table>
 </details>
 <details open>
-  <summary align="center"><b>Cyno</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Cyno</h3></th>
-      <th><h3 align="center">White Tassel</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/55ccf33e3d708badb3b0790201fc188e.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />2 x Thundering Fury<br />2 x The Exile<br />1 x
-              Instructor<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e2aca35b8e2173c5447c7283377e6788.png"
-                ,
-                height="18"
-              />
-              Thunderbird's Mercy<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/0fc968f7ebd4e3aa053f13a8340569ae.png"
-                ,
-                height="18"
-              />
-              Survivor of Catastrophe<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1d84092ca64d76385ae8bc6fc369249b.png"
-                ,
-                height="18"
-              />
-              Exile's Pocket Watch<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
-                ,
-                height="18"
-              />
-              Exile's Goblet<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
-                ,
-                height="18"
-              />
-              Instructor's Cap<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>White Tassel</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>4</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
   <summary align="center"><b>Bennett</b></summary>
   <br />
   <table align="center">
@@ -708,7 +708,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Constellation</td>
