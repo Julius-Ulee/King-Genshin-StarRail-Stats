@@ -1,12 +1,14 @@
 <img src="./images/banner/zongli-banner.gif" />
 
-<a href=""
-  ><img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Genshin+Impact+Stats"
-    alt="Typing SVG"
-/></a>
+<p align="center">
+  <a href=""
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Genshin+Impact+Stats"
+      alt="Typing SVG"
+  /></a>
+</p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 05:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 05:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
