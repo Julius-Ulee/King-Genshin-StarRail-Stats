@@ -8,19 +8,19 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 05:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 05:52 +0700</u> (🤖automated)
 </h3>
 <br />
 
 <h2 align="center">
   <img
-    src="https://genshin.honeyhunterworld.com/img/q_23010.webp"
+    src="https://webstatic.hoyoverse.com/upload/op-public/2022/08/04/eaac1cc05bb7e4102595d217b05fde20_3545560780709862630.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
     ,
     height="20"
   />
   Daily Rewards Genshin
   <img
-    src="https://genshin.honeyhunterworld.com/img/q_23010.webp"
+    src="https://webstatic.hoyoverse.com/upload/op-public/2022/08/04/eaac1cc05bb7e4102595d217b05fde20_3545560780709862630.png?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp"
     ,
     height="20"
   />
@@ -401,7 +401,7 @@
       />
       Primogems earned
     </td>
-    <td>2002 (rate -62)</td>
+    <td>2104 (rate -60)</td>
   </tr>
   <tr>
     <td>
@@ -412,13 +412,13 @@
       />
       Mora earned
     </td>
-    <td>1638584 (rate -57)</td>
+    <td>1708840 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 810 (41%)<br />Quests: 400 (20%)<br />Daily Activity: 390 (20%)<br />Adventure:
-      315 (16%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 810 (39%)<br />Daily Activity: 450 (22%)<br />Quests: 430 (21%)<br />Adventure:
+      327 (15%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
