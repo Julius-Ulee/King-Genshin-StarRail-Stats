@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 14:46 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 14:48 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -368,7 +368,7 @@
     <td>140</td>
   </tr>
   <tr>
-    <td>👤 Visitors</td>
+    <td>👤Visitors</td>
     <td>0</td>
   </tr>
 </table>
