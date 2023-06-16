@@ -11,7 +11,6 @@ from datetime import datetime
 
 import genshin
 import jinja2
-import requests
 
 logger = logging.getLogger()
 load_dotenv()
