@@ -1,6 +1,6 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 14:48 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 19:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,18 +20,18 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         ,
         height="18"
       />
       Last Claimed Reward
     </td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td>242</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -393,7 +393,7 @@
       />
       Primogems earned
     </td>
-    <td>1360 (rate -74)</td>
+    <td>1390 (rate -73)</td>
   </tr>
   <tr>
     <td>
@@ -404,13 +404,13 @@
       />
       Mora earned
     </td>
-    <td>1261208 (rate -66)</td>
+    <td>1267908 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Quests: 400 (30%)<br />Daily Activity: 330 (25%)<br />Adventure: 293
-      (22%)<br />Events: 270 (19%)<br />Other: 47 (3%)<br />Mail: 20 (1%)<br />Spiral
+      Quests: 400 (29%)<br />Daily Activity: 340 (25%)<br />Adventure: 293
+      (22%)<br />Events: 270 (19%)<br />Other: 47 (3%)<br />Mail: 40 (2%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
