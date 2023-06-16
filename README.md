@@ -1,11 +1,11 @@
 <h1 align="center">⭐King's Genshin Stats⭐</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2023 12:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 16, 2023 12:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
 <h2 align="center">Daily Rewards Genshin</h2>
-<table>
+<table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
     <td>10</td>
