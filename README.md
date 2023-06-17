@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 07:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 07:55 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -60,15 +60,15 @@
     <td>12</td>
   </tr>
   <tr>
+    <td>Last Claimed Reward</td>
     <td>
       <img
         src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         ,
         height="18"
       />
-      Last Claimed Reward
+      3 x Fried Radish Balls
     </td>
-    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -82,15 +82,15 @@
     <td>6</td>
   </tr>
   <tr>
+    <td>Last Claimed Reward</td>
     <td>
       <img
         src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
         ,
         height="18"
       />
-      Last Claimed Reward
+      2 x Adventure Log
     </td>
-    <td>2 x Adventure Log</td>
   </tr>
 </table>
 
@@ -142,15 +142,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>548</td>
+    <td>554</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>394</td>
+    <td>396</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>98</td>
+    <td>99</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -267,7 +267,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/64/" width="80" />
+            <img src="https://progress-bar.dev/66/" width="80" />
           </td>
         </tr>
         <tr>
