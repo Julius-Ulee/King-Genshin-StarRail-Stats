@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 07:08 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 07:11 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -79,18 +79,18 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
         ,
         height="18"
       />
       Last Claimed Reward
     </td>
-    <td>20 x Stellar Jade</td>
+    <td>2 x Adventure Log</td>
   </tr>
 </table>
 
