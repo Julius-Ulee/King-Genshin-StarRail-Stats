@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 06:45 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 06:48 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -53,9 +53,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="./images/logo/paimon.png" , width="240" heigth="240" />
-</p>
 <h2 align="center">
   <img src="./images/logo/check-in.webp" , height="20" /> Daily Rewards Genshin
   <img src="./images/logo/check-in.webp" , height="20" />
@@ -120,7 +117,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>116</td>
+    <td>117</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -450,6 +447,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="./images/logo/paimon-eat.webp" , width="240" heigth="240" />
+</p>
 <h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
