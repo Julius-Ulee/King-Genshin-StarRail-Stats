@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 20:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 22:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -432,7 +432,7 @@
       />
       Mora earned
     </td>
-    <td>1727268 (rate -54)</td>
+    <td>1764493 (rate -53)</td>
   </tr>
   <tr>
     <td>Categories</td>
