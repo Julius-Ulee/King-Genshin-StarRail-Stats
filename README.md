@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 07:55 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 08:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,26 +27,26 @@
 </h2>
 <table align="center">
   <tr>
+    <td>Nickname</td>
     <td>
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
         ,
         height="18"
       />
-      Nickname
+      King
     </td>
-    <td>King</td>
   </tr>
   <tr>
+    <td>Rank Adventure</td>
     <td>
       <img
-        src="https://genshin.honeyhunterworld.com/img/i_2002.webp?x50246"
+        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
         ,
         height="18"
       />
-      Rank Adventure
+      50
     </td>
-    <td>50</td>
   </tr>
 </table>
 
