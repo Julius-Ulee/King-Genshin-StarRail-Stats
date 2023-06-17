@@ -8,12 +8,12 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 06:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 06:45 +0700</u> (🤖automated)
 </h3>
 <br />
 
 <p align="center">
-  <img src="./images/logo/paimon-eat.webp" , width="240" heigth="240" />
+  <img src="./images/logo/paimon.png" , width="240" heigth="240" />
 </p>
 <h2 align="center">
   <img
