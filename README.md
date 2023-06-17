@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 05:48 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 06:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -41,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td>Rank Adventure</td>
+    <td>Adventure Rank</td>
     <td>
       <img
         src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
@@ -82,17 +82,17 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
         ,
         height="18"
       />
-      1 x Condensed Aether
+      1 x Lost Gold Fragment
     </td>
   </tr>
 </table>
