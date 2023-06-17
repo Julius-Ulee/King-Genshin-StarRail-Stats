@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 09:03 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 19:27 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -421,7 +421,7 @@
       />
       Primogems earned
     </td>
-    <td>2104 (rate -60)</td>
+    <td>2150 (rate -59)</td>
   </tr>
   <tr>
     <td>
@@ -432,13 +432,13 @@
       />
       Mora earned
     </td>
-    <td>1720568 (rate -54)</td>
+    <td>1727268 (rate -54)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 810 (39%)<br />Daily Activity: 450 (22%)<br />Quests: 430 (21%)<br />Adventure:
-      327 (15%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 810 (38%)<br />Daily Activity: 450 (21%)<br />Quests: 430 (21%)<br />Adventure:
+      373 (17%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -919,6 +919,122 @@
   </table>
 </details>
 <details>
+  <summary align="center"><b>Xiangling</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Xiangling</h3></th>
+      <th><h3 align="center">Prototype Starglitter</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/32fb2599bce5a92f03406066aa26a6d1.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />1 x Thundering Fury<br />3 x Gladiator's Finale<br />1
+              x Instructor<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e2aca35b8e2173c5447c7283377e6788.png"
+                ,
+                height="18"
+              />
+              Thunderbird's Mercy<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b3cc2e8b2f096872f5a5c59527c5135.png"
+                ,
+                height="18"
+              />
+              Gladiator's Destiny<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7a268c0f51a565cf8addabcf1c62b8b0.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
+                ,
+                height="18"
+              />
+              Instructor's Tea Cup<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7234cb13d57683dda3de9c26ebb0ad07.png"
+                ,
+                height="18"
+              />
+              Gladiator's Triumphus<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Prototype Starglitter</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table align="center">
@@ -1024,122 +1140,6 @@
           <tr>
             <td>Level</td>
             <td>50</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center"><b>Xiangling</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Xiangling</h3></th>
-      <th><h3 align="center">Prototype Starglitter</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/32fb2599bce5a92f03406066aa26a6d1.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />1 x Thundering Fury<br />3 x Gladiator's Finale<br />1
-              x Instructor<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e2aca35b8e2173c5447c7283377e6788.png"
-                ,
-                height="18"
-              />
-              Thunderbird's Mercy<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b3cc2e8b2f096872f5a5c59527c5135.png"
-                ,
-                height="18"
-              />
-              Gladiator's Destiny<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7a268c0f51a565cf8addabcf1c62b8b0.png"
-                ,
-                height="18"
-              />
-              Gladiator's Longing<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
-                ,
-                height="18"
-              />
-              Instructor's Tea Cup<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7234cb13d57683dda3de9c26ebb0ad07.png"
-                ,
-                height="18"
-              />
-              Gladiator's Triumphus<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Prototype Starglitter</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
