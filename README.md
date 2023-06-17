@@ -8,12 +8,12 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 06:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 06:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
 <p align="center">
-  <img src="./images/logo/paimon.png" />
+  <img src="./images/logo/paimon-eat.webp" />
 </p>
 <h2 align="center">
   <img
@@ -53,6 +53,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="./images/logo/paimon.png" />
+</p>
 <h2 align="center">
   <img src="./images/logo/check-in.webp" , height="20" /> Daily Rewards Genshin
   <img src="./images/logo/check-in.webp" , height="20" />
