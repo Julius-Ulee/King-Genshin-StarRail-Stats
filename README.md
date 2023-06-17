@@ -8,10 +8,13 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 22:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 05:46 +0700</u> (🤖automated)
 </h3>
 <br />
 
+<p align="center">
+  <img src="./images/logo/paimon.png" />
+</p>
 <h2 align="center">
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
@@ -57,17 +60,17 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         ,
         height="18"
       />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -79,17 +82,17 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
         ,
         height="18"
       />
-      2 x Adventure Log
+      1 x Condensed Aether
     </td>
   </tr>
 </table>
@@ -432,7 +435,7 @@
       />
       Mora earned
     </td>
-    <td>1764493 (rate -53)</td>
+    <td>1779643 (rate -53)</td>
   </tr>
   <tr>
     <td>Categories</td>
