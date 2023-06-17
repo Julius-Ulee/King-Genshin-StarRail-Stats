@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2023 08:43 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 17, 2023 09:03 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -142,11 +142,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>554</td>
+    <td>555</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>396</td>
+    <td>397</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -267,7 +267,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/66/" width="80" />
+            <img src="https://progress-bar.dev/67/" width="80" />
           </td>
         </tr>
         <tr>
@@ -432,7 +432,7 @@
       />
       Mora earned
     </td>
-    <td>1708840 (rate -55)</td>
+    <td>1720568 (rate -54)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -573,7 +573,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
   <table align="center">
@@ -689,7 +689,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Bennett</b></summary>
   <br />
   <table align="center">
@@ -805,7 +805,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Diluc</b></summary>
   <br />
   <table align="center">
@@ -918,7 +918,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table align="center">
@@ -1034,7 +1034,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xiangling</b></summary>
   <br />
   <table align="center">
@@ -1150,7 +1150,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Kaeya</b></summary>
   <br />
   <table align="center">
@@ -1236,7 +1236,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Razor</b></summary>
   <br />
   <table align="center">
@@ -1342,7 +1342,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Keqing</b></summary>
   <br />
   <table align="center">
@@ -1428,7 +1428,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Yaoyao</b></summary>
   <br />
   <table align="center">
@@ -1544,7 +1544,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Amber</b></summary>
   <br />
   <table align="center">
@@ -1652,7 +1652,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Barbara</b></summary>
   <br />
   <table align="center">
@@ -1768,7 +1768,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Lisa</b></summary>
   <br />
   <table align="center">
@@ -1854,7 +1854,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xinyan</b></summary>
   <br />
   <table align="center">
@@ -1940,7 +1940,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Rosaria</b></summary>
   <br />
   <table align="center">
@@ -2026,7 +2026,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Gorou</b></summary>
   <br />
   <table align="center">
@@ -2112,7 +2112,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Kuki Shinobu</b></summary>
   <br />
   <table align="center">
@@ -2198,7 +2198,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Chongyun</b></summary>
   <br />
   <table align="center">
@@ -2284,7 +2284,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Sucrose</b></summary>
   <br />
   <table align="center">
@@ -2370,7 +2370,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Yun Jin</b></summary>
   <br />
   <table align="center">
@@ -2456,7 +2456,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Collei</b></summary>
   <br />
   <table align="center">
@@ -2542,7 +2542,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Dori</b></summary>
   <br />
   <table align="center">
@@ -2628,7 +2628,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Layla</b></summary>
   <br />
   <table align="center">
@@ -2714,7 +2714,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Faruzan</b></summary>
   <br />
   <table align="center">
@@ -2800,7 +2800,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Mika</b></summary>
   <br />
   <table align="center">
