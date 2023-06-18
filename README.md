@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 07:01 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 08:48 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -68,7 +68,7 @@
       <img
         src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         ,
-        height="18"
+        height="120"
       />
       2 x Adventurer's Experience
     </td>
@@ -90,7 +90,7 @@
       <img
         src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
         ,
-        height="18"
+        height="120"
       />
       1 x Lost Gold Fragment
     </td>
@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td>244</td>
+    <td>245</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>555</td>
+    <td>556</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
