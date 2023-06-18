@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 20:48 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 22:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -431,7 +431,7 @@
       />
       Primogems earned
     </td>
-    <td>2382 (rate -55)</td>
+    <td>2463 (rate -53)</td>
   </tr>
   <tr>
     <td>
@@ -442,13 +442,13 @@
       />
       Mora earned
     </td>
-    <td>2048002 (rate -46)</td>
+    <td>2119630 (rate -44)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 900 (38%)<br />Quests: 490 (21%)<br />Daily Activity: 490 (21%)<br />Adventure:
-      414 (17%)<br />Other: 48 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (37%)<br />Quests: 550 (23%)<br />Daily Activity: 490 (20%)<br />Adventure:
+      435 (18%)<br />Other: 48 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -560,7 +560,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -677,7 +677,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -794,7 +794,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -908,7 +908,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1025,7 +1025,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1142,7 +1142,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1229,7 +1229,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1336,7 +1336,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1423,7 +1423,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1540,7 +1540,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1649,7 +1649,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>100% Outrider</td>
+            <td align="center">100% Outrider</td>
           </tr>
         </table>
       </td>
@@ -1766,7 +1766,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1853,7 +1853,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -1940,7 +1940,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2027,7 +2027,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td>To the Church's Free Spirit</td>
+            <td align="center">To the Church's Free Spirit</td>
           </tr>
         </table>
       </td>
@@ -2114,7 +2114,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2201,7 +2201,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2288,7 +2288,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2375,7 +2375,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2462,7 +2462,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2549,7 +2549,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2636,7 +2636,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2723,7 +2723,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2810,7 +2810,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -2897,7 +2897,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
