@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 19:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 20:02 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>
+    <td align="center">
       <img
         src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         ,
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>
+    <td align="center">
       <img
         src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
         ,
