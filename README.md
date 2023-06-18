@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 05:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 06:31 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -70,10 +70,9 @@
         ><img
           src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
-          height="80"
-        /><br />
-        8000 x Mora</a
-      >
+          height="80" /></a
+      ><br />
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -119,11 +118,11 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td align="center">245</td>
+    <td align="center">247</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td align="center">117</td>
+    <td align="center">118</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -151,7 +150,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td align="center">560</td>
+    <td align="center">561</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -159,7 +158,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td align="center">101</td>
+    <td align="center">102</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
