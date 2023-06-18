@@ -13,11 +13,11 @@
 <table align="center">
   <tr>
     <td>Nickname</td>
-    <td><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> {{ user.info.nickname }}</td>
+    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> {{ user.info.nickname }}</td>
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td><img src="https://genshin.honeyhunterworld.com/img/i_2002.webp", height="18"> {{ user.info.level }}</td>
+    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/i_2002.webp", height="18"> {{ user.info.level }}</td>
   </tr>
 </table>
 
@@ -25,7 +25,7 @@
 <table align="center">
     <tr>
         <td>Total Rewards Claimed</td>
-        <td>{{ reward_info.claimed_rewards }}</td>
+        <td align="center">{{ reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
         <td>Last Claimed Reward</td>
@@ -37,7 +37,7 @@
 <table align="center">
     <tr>
         <td>Total Rewards Claimed</td>
-        <td>{{ sr_reward_info.claimed_rewards }}</td>
+        <td align="center">{{ sr_reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
         <td>Last Claimed Reward</td>
@@ -50,7 +50,7 @@
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field.title() }}</td>
-        <td>{{ value }}</td>
+        <td align="center">{{ value }}</td>
     </tr>
     {%- endfor -%}
 </table>
@@ -83,7 +83,7 @@
                 </tr>
                 <tr>
                     <td>{{ exploration.type }}</td>
-                    <td>{{ exploration.level }}</td>
+                    <td align="center">{{ exploration.level }}</td>
                 </tr>
             </table>
         </td>
@@ -96,19 +96,19 @@
 <table align="center">
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp", height="18"> Trust Rank</td>
-        <td>{{ user.teapot.level }}</td>
+        <td align="center">{{ user.teapot.level }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp", height="18"> Highest Adeptal Energy</td>
-        <td>{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
+        <td align="center">{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp", height="18"> Items</td>
-        <td>{{ user.teapot.items }}</td>
+        <td align="center">{{ user.teapot.items }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> Visitors</td>
-        <td>{{ user.teapot.visitors }}</td>
+        <td align="center">{{ user.teapot.visitors }}</td>
     </tr>
 </table>
 {%- endif -%}
@@ -118,23 +118,23 @@
 <table align="center">
     <tr>
         <td>Season</td>
-        <td>{{ abyss.season }}</td>
+        <td align="center">{{ abyss.season }}</td>
     </tr>
     <tr>
         <td>Total Battles</td>
-        <td>{{ abyss.total_battles }}</td>
+        <td align="center">{{ abyss.total_battles }}</td>
     </tr>
     <tr>
         <td>Total Wins</td>
-        <td>{{ abyss.total_wins }}</td>
+        <td align="center">{{ abyss.total_wins }}</td>
     </tr>
     <tr>
         <td>Max Floor</td>
-        <td>{{ abyss.max_floor }}</td>
+        <td align="center">{{ abyss.max_floor }}</td>
     </tr>
     <tr>
         <td>Total Stars</td>
-        <td>{{ abyss.total_stars }}</td>
+        <td align="center">{{ abyss.total_stars }}</td>
     </tr>
     {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
@@ -200,23 +200,23 @@
                 <table>
                     <tr>
                         <td>Rarity</td>
-                        <td>{{ "⭐" * character.rarity }}</td>
+                        <td align="center">{{ "⭐" * character.rarity }}</td>
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp", height="18"> {{ character.element }}</td>
+                        <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp", height="18"> {{ character.element }}</td>
                     </tr>
                     <tr>
                         <td>Level</td>
-                        <td>{{ character.level }}</td>
+                        <td align="center">{{ character.level }}</td>
                     </tr>
                     <tr>
                         <td>Friendship</td>
-                        <td>{{ character.friendship }}</td>
+                        <td align="center">{{ character.friendship }}</td>
                     </tr>
                     <tr>
                         <td>Constellation</td>
-                        <td>{{ character.constellation }}</td>
+                        <td align="center">{{ character.constellation }}</td>
                     </tr>
                     <tr>
                         <td>Artifacts<br>
@@ -241,19 +241,19 @@
                 <table>
                     <tr>
                         <td>Name</td>
-                        <td>{{ character.weapon.name }}</td>
+                        <td align="center">{{ character.weapon.name }}</td>
                     </tr>
                     <tr>
                         <td>Rarity</td>
-                        <td>{{ "⭐" * character.weapon.rarity }}</td>
+                        <td align="center">{{ "⭐" * character.weapon.rarity }}</td>
                     </tr>
                     <tr>
                         <td>Level</td>
-                        <td>{{ character.weapon.level }}</td>
+                        <td align="center">{{ character.weapon.level }}</td>
                     </tr>
                     <tr>
                         <td>Refinement</td>
-                        <td>{{ character.weapon.refinement }}</td>
+                        <td align="center">{{ character.weapon.refinement }}</td>
                     </tr>
                 </table>
             </td>
