@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 09:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 10:05 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -431,7 +431,7 @@
       />
       Primogems earned
     </td>
-    <td>2150 (rate -59)</td>
+    <td>2280 (rate -57)</td>
   </tr>
   <tr>
     <td>
@@ -442,13 +442,13 @@
       />
       Mora earned
     </td>
-    <td>1779643 (rate -53)</td>
+    <td>1849806 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 810 (38%)<br />Daily Activity: 450 (21%)<br />Quests: 430 (21%)<br />Adventure:
-      373 (17%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (40%)<br />Daily Activity: 490 (22%)<br />Quests: 430 (19%)<br />Adventure:
+      373 (16%)<br />Other: 47 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -499,7 +499,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -509,6 +509,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -615,7 +616,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -625,6 +626,7 @@
                 ,
                 height="18"
               />
+              Hydro
             </td>
           </tr>
           <tr>
@@ -731,7 +733,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -741,6 +743,7 @@
                 ,
                 height="18"
               />
+              Pyro
             </td>
           </tr>
           <tr>
@@ -847,7 +850,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -857,6 +860,7 @@
                 ,
                 height="18"
               />
+              Pyro
             </td>
           </tr>
           <tr>
@@ -960,7 +964,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -970,6 +974,7 @@
                 ,
                 height="18"
               />
+              Pyro
             </td>
           </tr>
           <tr>
@@ -1076,7 +1081,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1086,6 +1091,7 @@
                 ,
                 height="18"
               />
+              Anemo
             </td>
           </tr>
           <tr>
@@ -1192,7 +1198,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1202,6 +1208,7 @@
                 ,
                 height="18"
               />
+              Cryo
             </td>
           </tr>
           <tr>
@@ -1278,7 +1285,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1288,6 +1295,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -1384,7 +1392,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1394,6 +1402,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -1470,7 +1479,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1480,6 +1489,7 @@
                 ,
                 height="18"
               />
+              Dendro
             </td>
           </tr>
           <tr>
@@ -1586,7 +1596,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1596,6 +1606,7 @@
                 ,
                 height="18"
               />
+              Pyro
             </td>
           </tr>
           <tr>
@@ -1694,7 +1705,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1704,6 +1715,7 @@
                 ,
                 height="18"
               />
+              Hydro
             </td>
           </tr>
           <tr>
@@ -1810,7 +1822,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1820,6 +1832,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -1896,7 +1909,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1906,6 +1919,7 @@
                 ,
                 height="18"
               />
+              Pyro
             </td>
           </tr>
           <tr>
@@ -1982,7 +1996,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -1992,6 +2006,7 @@
                 ,
                 height="18"
               />
+              Cryo
             </td>
           </tr>
           <tr>
@@ -2068,7 +2083,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2078,6 +2093,7 @@
                 ,
                 height="18"
               />
+              Geo
             </td>
           </tr>
           <tr>
@@ -2154,7 +2170,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2164,6 +2180,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -2240,7 +2257,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2250,6 +2267,7 @@
                 ,
                 height="18"
               />
+              Cryo
             </td>
           </tr>
           <tr>
@@ -2326,7 +2344,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2336,6 +2354,7 @@
                 ,
                 height="18"
               />
+              Anemo
             </td>
           </tr>
           <tr>
@@ -2412,7 +2431,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2422,6 +2441,7 @@
                 ,
                 height="18"
               />
+              Geo
             </td>
           </tr>
           <tr>
@@ -2498,7 +2518,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2508,6 +2528,7 @@
                 ,
                 height="18"
               />
+              Dendro
             </td>
           </tr>
           <tr>
@@ -2584,7 +2605,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2594,6 +2615,7 @@
                 ,
                 height="18"
               />
+              Electro
             </td>
           </tr>
           <tr>
@@ -2670,7 +2692,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2680,6 +2702,7 @@
                 ,
                 height="18"
               />
+              Cryo
             </td>
           </tr>
           <tr>
@@ -2756,7 +2779,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2766,6 +2789,7 @@
                 ,
                 height="18"
               />
+              Anemo
             </td>
           </tr>
           <tr>
@@ -2842,7 +2866,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
@@ -2852,6 +2876,7 @@
                 ,
                 height="18"
               />
+              Cryo
             </td>
           </tr>
           <tr>
