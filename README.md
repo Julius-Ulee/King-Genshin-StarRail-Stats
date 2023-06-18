@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 06:31 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 06:33 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -94,10 +94,9 @@
         ><img
           src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
-          height="80"
-        /><br />
-        5000 x Credit</a
-      >
+          height="80" /></a
+      ><br />
+      5000 x Credit
     </td>
   </tr>
 </table>
