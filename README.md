@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 23:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 05:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -65,12 +65,15 @@
   <tr>
     <td>Last Claimed Reward</td>
     <td align="center">
-      <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
-        ,
-        height="80"
-      /><br />
-      8000 x Mora
+      <a
+        href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
+        ><img
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          ,
+          height="80"
+        /><br />
+        8000 x Mora</a
+      >
     </td>
   </tr>
 </table>
@@ -87,12 +90,15 @@
   <tr>
     <td>Last Claimed Reward</td>
     <td align="center">
-      <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
-        ,
-        height="80"
-      /><br />
-      5000 x Credit
+      <a
+        href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
+        ><img
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          ,
+          height="80"
+        /><br />
+        5000 x Credit</a
+      >
     </td>
   </tr>
 </table>
@@ -442,7 +448,7 @@
       />
       Mora earned
     </td>
-    <td>2119630 (rate -44)</td>
+    <td>2150755 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
