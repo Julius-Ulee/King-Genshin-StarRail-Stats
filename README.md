@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 09:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 09:47 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -385,7 +385,7 @@
       />
       Highest Adeptal Energy
     </td>
-    <td><img src="" width="18" /> Cozy (3930)</td>
+    <td>Cozy (3930)</td>
   </tr>
   <tr>
     <td>
