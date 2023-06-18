@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 20:02 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 20:48 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td>Nickname</td>
-    <td>
+    <td align="center">
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
         ,
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td>
+    <td align="center">
       <img
         src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
         ,
@@ -60,7 +60,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -82,7 +82,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td align="center">8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -113,59 +113,59 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td>245</td>
+    <td align="center">245</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>117</td>
+    <td align="center">117</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>25</td>
+    <td align="center">25</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>221</td>
+    <td align="center">221</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>66</td>
+    <td align="center">66</td>
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>65</td>
+    <td align="center">65</td>
   </tr>
   <tr>
     <td>Dendroculi</td>
-    <td>26</td>
+    <td align="center">26</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>17</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>560</td>
+    <td align="center">560</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>398</td>
+    <td align="center">399</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>100</td>
+    <td align="center">101</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>39</td>
+    <td align="center">39</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>4</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>34</td>
+    <td align="center">34</td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td align="center">1</td>
         </tr>
       </table>
     </td>
@@ -275,7 +275,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td>7</td>
+          <td align="center">7</td>
         </tr>
       </table>
     </td>
@@ -289,7 +289,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td>7</td>
+          <td align="center">7</td>
         </tr>
       </table>
     </td>
@@ -303,7 +303,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td align="center">1</td>
         </tr>
       </table>
     </td>
@@ -317,7 +317,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td>1</td>
+          <td align="center">1</td>
         </tr>
       </table>
     </td>
@@ -331,7 +331,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td align="center">3</td>
         </tr>
       </table>
     </td>
@@ -345,7 +345,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>8</td>
+          <td align="center">8</td>
         </tr>
       </table>
     </td>
@@ -374,7 +374,7 @@
       />
       Trust Rank
     </td>
-    <td>3</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>
@@ -385,7 +385,7 @@
       />
       Highest Adeptal Energy
     </td>
-    <td>Cozy (3930)</td>
+    <td align="center">Cozy (3930)</td>
   </tr>
   <tr>
     <td>
@@ -396,7 +396,7 @@
       />
       Items
     </td>
-    <td>140</td>
+    <td align="center">140</td>
   </tr>
   <tr>
     <td>
@@ -407,7 +407,7 @@
       />
       Visitors
     </td>
-    <td>0</td>
+    <td align="center">0</td>
   </tr>
 </table>
 <h2 align="center">
@@ -431,7 +431,7 @@
       />
       Primogems earned
     </td>
-    <td>2362 (rate -55)</td>
+    <td>2382 (rate -55)</td>
   </tr>
   <tr>
     <td>
@@ -442,13 +442,13 @@
       />
       Mora earned
     </td>
-    <td>2044866 (rate -46)</td>
+    <td>2048002 (rate -46)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 900 (39%)<br />Quests: 490 (21%)<br />Daily Activity: 490 (21%)<br />Adventure:
-      395 (17%)<br />Other: 47 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (38%)<br />Quests: 490 (21%)<br />Daily Activity: 490 (21%)<br />Adventure:
+      414 (17%)<br />Other: 48 (2%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -499,11 +499,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -514,15 +514,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>10</td>
+            <td align="center">10</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -568,19 +568,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>White Tassel</td>
+            <td align="center">White Tassel</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td align="center">4</td>
           </tr>
         </table>
       </td>
@@ -616,11 +616,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
                 ,
@@ -631,15 +631,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>10</td>
+            <td align="center">10</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -685,19 +685,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyrider Sword</td>
+            <td align="center">Skyrider Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td align="center">60</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
         </table>
       </td>
@@ -733,11 +733,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
                 ,
@@ -748,15 +748,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td align="center">8</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -802,19 +802,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Lion's Roar</td>
+            <td align="center">Lion's Roar</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td align="center">70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -850,11 +850,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
                 ,
@@ -865,15 +865,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br />4 x Berserker<br />1 x Instructor<br /></td>
@@ -916,19 +916,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beacon of the Reed Sea</td>
+            <td align="center">Beacon of the Reed Sea</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td align="center">70</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -964,11 +964,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
                 ,
@@ -979,15 +979,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -1033,19 +1033,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Prototype Starglitter</td>
+            <td align="center">Prototype Starglitter</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1081,11 +1081,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
                 ,
@@ -1096,15 +1096,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>6</td>
+            <td align="center">6</td>
           </tr>
           <tr>
             <td>
@@ -1150,19 +1150,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Prototype Rancour</td>
+            <td align="center">Prototype Rancour</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td align="center">50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1198,11 +1198,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
                 ,
@@ -1213,15 +1213,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td align="center">60</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td align="center">4</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -1237,19 +1237,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Traveler's Handy Sword</td>
+            <td align="center">Traveler's Handy Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1285,11 +1285,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -1300,15 +1300,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td align="center">50</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -1344,19 +1344,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Waster Greatsword</td>
+            <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1392,11 +1392,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -1407,15 +1407,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td align="center">50</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -1431,19 +1431,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Alley Flash</td>
+            <td align="center">The Alley Flash</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1479,11 +1479,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
                 ,
@@ -1494,15 +1494,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>40</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td align="center">8</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>
@@ -1548,19 +1548,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Black Tassel</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>40</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1596,11 +1596,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
                 ,
@@ -1611,15 +1611,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>40</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br />4 x Traveling Doctor<br /></td>
@@ -1657,19 +1657,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Slingshot</td>
+            <td align="center">Slingshot</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1705,11 +1705,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
                 ,
@@ -1720,15 +1720,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>
@@ -1774,19 +1774,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Emerald Orb</td>
+            <td align="center">Emerald Orb</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1822,11 +1822,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -1837,15 +1837,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -1861,19 +1861,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td align="center">Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1909,11 +1909,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
                 ,
@@ -1924,15 +1924,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -1948,19 +1948,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Waster Greatsword</td>
+            <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1996,11 +1996,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
                 ,
@@ -2011,15 +2011,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2035,19 +2035,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beginner's Protector</td>
+            <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2083,11 +2083,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
                 ,
@@ -2098,15 +2098,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2122,19 +2122,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Hunter's Bow</td>
+            <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2170,11 +2170,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -2185,15 +2185,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2209,19 +2209,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dull Blade</td>
+            <td align="center">Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2257,11 +2257,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
                 ,
@@ -2272,15 +2272,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2296,19 +2296,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Waster Greatsword</td>
+            <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2344,11 +2344,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
                 ,
@@ -2359,15 +2359,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2383,19 +2383,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td align="center">Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2431,11 +2431,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
                 ,
@@ -2446,15 +2446,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2470,19 +2470,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beginner's Protector</td>
+            <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2518,11 +2518,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
                 ,
@@ -2533,15 +2533,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2557,19 +2557,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Hunter's Bow</td>
+            <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2605,11 +2605,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                 ,
@@ -2620,15 +2620,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2644,19 +2644,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Waster Greatsword</td>
+            <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2692,11 +2692,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
                 ,
@@ -2707,15 +2707,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2731,19 +2731,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dull Blade</td>
+            <td align="center">Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2779,11 +2779,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
                 ,
@@ -2794,15 +2794,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2818,19 +2818,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Hunter's Bow</td>
+            <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2866,11 +2866,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
-            <td>
+            <td align="center">
               <img
                 src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
                 ,
@@ -2881,15 +2881,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2905,19 +2905,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beginner's Protector</td>
+            <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>⭐</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
