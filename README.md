@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 06:48 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 07:01 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -399,7 +399,14 @@
     <td>140</td>
   </tr>
   <tr>
-    <td>👤Visitors</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        ,
+        height="18"
+      />
+      Visitors
+    </td>
     <td>0</td>
   </tr>
 </table>
