@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 22:35 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 23:09 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -82,17 +82,17 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">8</td>
+    <td align="center">9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td align="center">
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+        src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
         ,
         height="80"
       /><br />
-      1 x Lost Gold Fragment
+      5000 x Credit
     </td>
   </tr>
 </table>
