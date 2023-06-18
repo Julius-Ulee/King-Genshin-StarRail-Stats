@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 10:05 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 10:08 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -572,7 +572,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -689,7 +689,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -806,7 +806,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -920,7 +920,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★★</td>
+            <td>⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1037,7 +1037,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1154,7 +1154,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1241,7 +1241,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1348,7 +1348,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1435,7 +1435,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1552,7 +1552,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1661,7 +1661,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1778,7 +1778,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★</td>
+            <td>⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1865,7 +1865,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1952,7 +1952,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2039,7 +2039,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2126,7 +2126,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2213,7 +2213,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2300,7 +2300,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2387,7 +2387,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2474,7 +2474,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2561,7 +2561,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2648,7 +2648,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2735,7 +2735,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2822,7 +2822,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2909,7 +2909,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>⭐</td>
           </tr>
           <tr>
             <td>Level</td>
