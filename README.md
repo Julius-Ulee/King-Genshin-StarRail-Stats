@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 18, 2023 23:09 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 18, 2023 23:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -60,17 +60,17 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td align="center">
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         ,
         height="80"
       /><br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
