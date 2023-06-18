@@ -56,6 +56,15 @@ async def main():
     finally:
         reward = await client.claimed_rewards(lang=args.lang).next()
         reward_info = await client.get_reward_info()
+
+    # claim daily reward honkai impact 3
+    try:
+        await client.claim_daily_reward(lang=args.lang, reward=False, game=genshin.types.Game.HONKAI)
+    except genshin.AlreadyClaimed:
+        pass
+    finally:
+        h_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.HONKAI).next()
+        h_reward_info = await client.get_reward_info(game=genshin.types.Game.HONKAI)
         
     # claim daily reward honkai star rail
     try:
