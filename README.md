@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 07:53 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 10:08 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -117,7 +117,7 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td align="center">247</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -157,7 +157,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td align="center">102</td>
+    <td align="center">103</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -435,7 +435,7 @@
       />
       Primogems earned
     </td>
-    <td>2533 (rate -52)</td>
+    <td>2598 (rate -51)</td>
   </tr>
   <tr>
     <td>
@@ -446,13 +446,13 @@
       />
       Mora earned
     </td>
-    <td>2303148 (rate -39)</td>
+    <td>2374527 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 900 (36%)<br />Quests: 550 (22%)<br />Daily Activity: 550 (22%)<br />Adventure:
-      445 (18%)<br />Other: 48 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (35%)<br />Quests: 610 (24%)<br />Daily Activity: 550 (22%)<br />Adventure:
+      450 (17%)<br />Other: 48 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
