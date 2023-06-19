@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 12:29 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 19:32 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -117,7 +117,7 @@
 <table align="center">
   <tr>
     <td>Achievements</td>
-    <td align="center">251</td>
+    <td align="center">253</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -141,7 +141,7 @@
   </tr>
   <tr>
     <td>Dendroculi</td>
-    <td align="center">26</td>
+    <td align="center">28</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -433,11 +433,11 @@
     </td>
     <td align="center">
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_3.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_4.png"
         ,
         height="18"
       />
-      Cozy (3930)
+      Queen-Size (4680)
     </td>
   </tr>
   <tr>
@@ -449,7 +449,7 @@
       />
       Items
     </td>
-    <td align="center">140</td>
+    <td align="center">147</td>
   </tr>
   <tr>
     <td>
@@ -484,7 +484,7 @@
       />
       Primogems earned
     </td>
-    <td>2706 (rate -49)</td>
+    <td>2756 (rate -48)</td>
   </tr>
   <tr>
     <td>
@@ -495,12 +495,12 @@
       />
       Mora earned
     </td>
-    <td>2469106 (rate -35)</td>
+    <td>2509706 (rate -34)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 900 (34%)<br />Quests: 670 (25%)<br />Daily Activity: 550 (21%)<br />Adventure:
+      Events: 900 (33%)<br />Quests: 720 (27%)<br />Daily Activity: 550 (20%)<br />Adventure:
       497 (18%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
