@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 10:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 10:29 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -117,7 +117,7 @@
 <table align="center">
   <tr>
     <td><img src="" />Achievements</td>
-    <td align="center">250</td>
+    <td align="center">251</td>
   </tr>
   <tr>
     <td><img src="" />Days Active</td>
@@ -149,7 +149,7 @@
   </tr>
   <tr>
     <td><img src="" />Common Chests Opened</td>
-    <td align="center">561</td>
+    <td align="center">564</td>
   </tr>
   <tr>
     <td><img src="" />Exquisite Chests Opened</td>
@@ -165,7 +165,7 @@
   </tr>
   <tr>
     <td><img src="" />Remarkable Chests Opened</td>
-    <td align="center">4</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td><img src="" />Domains Unlocked</td>
