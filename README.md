@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 00:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 06:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -38,6 +38,17 @@
         height="18"
       />
       King
+    </td>
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td align="center">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
+        ,
+        height="18"
+      />
+      877493089
     </td>
   </tr>
   <tr>
@@ -124,7 +135,7 @@
       />
       Achievements
     </td>
-    <td align="center">253</td>
+    <td align="center">256</td>
   </tr>
   <tr>
     <td>
@@ -135,7 +146,7 @@
       />
       Days Active
     </td>
-    <td align="center">118</td>
+    <td align="center">119</td>
   </tr>
   <tr>
     <td>
@@ -174,7 +185,7 @@
       />
       Geoculus
     </td>
-    <td align="center">65</td>
+    <td align="center">66</td>
   </tr>
   <tr>
     <td>
@@ -198,21 +209,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">564</td>
+    <td align="center">579</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">399</td>
+    <td align="center">404</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">103</td>
+    <td align="center">105</td>
   </tr>
   <tr>
     <td>
@@ -385,7 +396,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/67/" width="80" />
+            <img src="https://progress-bar.dev/72/" width="80" />
           </td>
         </tr>
         <tr>
@@ -432,7 +443,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">1</td>
+          <td align="center">4</td>
         </tr>
       </table>
     </td>
@@ -441,7 +452,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/37/" width="80" />
+            <img src="https://progress-bar.dev/38/" width="80" />
           </td>
         </tr>
         <tr>
@@ -553,7 +564,7 @@
       />
       Primogems earned
     </td>
-    <td>2771 (rate -47)</td>
+    <td>2840 (rate -46)</td>
   </tr>
   <tr>
     <td>
@@ -564,13 +575,13 @@
       />
       Mora earned
     </td>
-    <td>2567881 (rate -32)</td>
+    <td>2631713 (rate -30)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 900 (33%)<br />Quests: 720 (26%)<br />Daily Activity: 550 (20%)<br />Adventure:
-      512 (19%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (32%)<br />Quests: 780 (28%)<br />Daily Activity: 550 (20%)<br />Adventure:
+      521 (18%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
