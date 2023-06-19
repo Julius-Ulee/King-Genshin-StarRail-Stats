@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 22:44 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 23:13 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -84,7 +84,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -92,11 +92,11 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      3 x Adventure Log
     </td>
   </tr>
 </table>
@@ -116,35 +116,81 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Achievements</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/acat_0.webp"
+        ,
+        height="18"
+      />
+      Achievements
+    </td>
     <td align="center">253</td>
   </tr>
   <tr>
-    <td>Days Active</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/acat_33.webp"
+        ,
+        height="18"
+      />
+      Days Active
+    </td>
     <td align="center">118</td>
   </tr>
   <tr>
-    <td>Characters</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        ,
+        height="18"
+      />
+      Characters
+    </td>
     <td align="center">25</td>
   </tr>
   <tr>
-    <td>Waypoints Unlocked</td>
+    <td>
+      <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
+    </td>
     <td align="center">221</td>
   </tr>
   <tr>
-    <td>Anemoculi</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2027.webp"
+        ,
+        height="18"
+      />
+      Anemoculus
+    </td>
     <td align="center">66</td>
   </tr>
   <tr>
-    <td>Geoculi</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2029.webp"
+        ,
+        height="18"
+      />
+      Geoculus
+    </td>
     <td align="center">65</td>
   </tr>
   <tr>
-    <td>Dendroculi</td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_n107017.webp"
+        ,
+        height="18"
+      />
+      Dendroculus
+    </td>
     <td align="center">28</td>
   </tr>
   <tr>
-    <td>Electroculi</td>
+    <td>
+      <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
+    </td>
     <td align="center">18</td>
   </tr>
   <tr>
