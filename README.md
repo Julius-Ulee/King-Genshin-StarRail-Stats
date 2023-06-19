@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 11:56 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -188,19 +188,61 @@
 </h2>
 <table align="center">
   <tr>
-    <th>Sumeru</th>
-    <th>The Chasm: Underground Mines</th>
-    <th>The Chasm</th>
-    <th>Inazuma</th>
-    <th>Dragonspine</th>
-    <th>Liyue</th>
-    <th>Mondstadt</th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
+        width="20"
+      />
+      Sumeru
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+        width="20"
+      />
+      The Chasm: Underground Mines
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+        width="20"
+      />
+      The Chasm
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png"
+        width="20"
+      />
+      Inazuma
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png"
+        width="20"
+      />
+      Dragonspine
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png"
+        width="20"
+      />
+      Liyue
+    </th>
+    <th>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png"
+        width="20"
+      />
+      Mondstadt
+    </th>
   </tr>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Xumi.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Xumi.png"
           width="180"
         />
       </p>
@@ -208,7 +250,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChasmsMaw.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
           width="180"
         />
       </p>
@@ -216,7 +258,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChasmsMaw.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
           width="180"
         />
       </p>
@@ -224,7 +266,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Daoqi.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Daoqi.png"
           width="180"
         />
       </p>
@@ -232,7 +274,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Dragonspine.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Dragonspine.png"
           width="180"
         />
       </p>
@@ -240,7 +282,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Liyue.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Liyue.png"
           width="180"
         />
       </p>
@@ -248,7 +290,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Mengde.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Mengde.png"
           width="180"
         />
       </p>
