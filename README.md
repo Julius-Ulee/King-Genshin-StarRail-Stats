@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 23:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 23:32 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -223,11 +223,15 @@
     <td align="center">5</td>
   </tr>
   <tr>
-    <td>Domains Unlocked</td>
+    <td>
+      <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
+    </td>
     <td align="center">34</td>
   </tr>
   <tr>
-    <td>Spiral Abyss</td>
+    <td>
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
+    </td>
     <td align="center">5-1</td>
   </tr>
 </table>
