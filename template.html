@@ -47,15 +47,65 @@
 
 <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"></h2>
 <table align="center">
-    {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
-        <td>{{ field.title() }}</td>
-        <td align="center">{{ value }}</td>
-    </tr>
-    {%- endfor -%}
-    <tr>
-        <td>achiev</td>
+        <td>Achievements</td>
         <td align="center">{{ user.stats.achievements }}</td>
+    </tr>
+    <tr>
+        <td>Days Active</td>
+        <td align="center">{{ user.stats.days_active }}</td>
+    </tr>
+    <tr>
+        <td>Characters</td>
+        <td align="center">{{ user.stats.characters }}</td>
+    </tr>
+    <tr>
+        <td>Waypoints Unlocked</td>
+        <td align="center">{{ user.stats.unlocked_waypoints }}</td>
+    </tr>
+    <tr>
+        <td>Anemoculi</td>
+        <td align="center">{{ user.stats.anemoculi }}</td>
+    </tr>
+    <tr>
+        <td>Geoculi</td>
+        <td align="center">{{ user.stats.geoculi }}</td>
+    </tr>
+    <tr>
+        <td>Dendroculi</td>
+        <td align="center">{{ user.stats.dendroculi }}</td>
+    </tr>
+    <tr>
+        <td>Electroculi</td>
+        <td align="center">{{ user.stats.electroculi }}</td>
+    </tr>
+    <tr>
+        <td>Common Chests Opened</td>
+        <td align="center">{{ user.stats.common_chests }}</td>
+    </tr>
+    <tr>
+        <td>Exquisite Chests Opened</td>
+        <td align="center">{{ user.stats.exquisite_chests }}</td>
+    </tr>
+    <tr>
+        <td>Precious Chests Opened</td>
+        <td align="center">{{ user.stats.precious_chests }}</td>
+    </tr>
+    <tr>
+        <td>Luxurious Chests Opened</td>
+        <td align="center">{{ user.stats.luxurious_chests }}</td>
+    </tr>
+    <tr>
+        <td>Remarkable Chests Opened</td>
+        <td align="center">{{ user.stats.remarkable_chests }}</td>
+    </tr>
+    <tr>
+        <td>Domains Unlocked</td>
+        <td align="center">{{ user.stats.unlocked_domains }}</td>
+    </tr>
+    <tr>
+        <td>Spiral Abyss</td>
+        <td align="center">{{ user.stats.spiral_abyss }}</td>
     </tr>
 </table>
 
