@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 23:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 00:16 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -60,7 +60,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -68,11 +68,11 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -483,17 +483,6 @@
   <tr>
     <td>
       <img
-        src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp"
-        ,
-        height="18"
-      />
-      Trust Rank
-    </td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
-    <td>
-      <img
         src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp"
         ,
         height="18"
@@ -512,6 +501,17 @@
   <tr>
     <td>
       <img
+        src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp"
+        ,
+        height="18"
+      />
+      Trust Rank
+    </td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>
+      <img
         src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp"
         ,
         height="18"
@@ -519,6 +519,20 @@
       Items
     </td>
     <td align="center">147</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
+        ,
+        height="18"
+      />
+      Realms
+    </td>
+    <td align="center">
+      [TeapotRealm(lang='en-us', name='Emerald Peak',
+      icon='https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_HomeworldModule_1_Pic.png')]
+    </td>
   </tr>
   <tr>
     <td>
