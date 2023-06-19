@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 10:08 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 10:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -116,59 +116,59 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Achievements</td>
+    <td><img src="" />Achievements</td>
     <td align="center">250</td>
   </tr>
   <tr>
-    <td>Days Active</td>
+    <td><img src="" />Days Active</td>
     <td align="center">118</td>
   </tr>
   <tr>
-    <td>Characters</td>
+    <td><img src="" />Characters</td>
     <td align="center">25</td>
   </tr>
   <tr>
-    <td>Waypoints Unlocked</td>
+    <td><img src="" />Waypoints Unlocked</td>
     <td align="center">221</td>
   </tr>
   <tr>
-    <td>Anemoculi</td>
+    <td><img src="" />Anemoculi</td>
     <td align="center">66</td>
   </tr>
   <tr>
-    <td>Geoculi</td>
+    <td><img src="" />Geoculi</td>
     <td align="center">65</td>
   </tr>
   <tr>
-    <td>Dendroculi</td>
+    <td><img src="" />Dendroculi</td>
     <td align="center">26</td>
   </tr>
   <tr>
-    <td>Electroculi</td>
+    <td><img src="" />Electroculi</td>
     <td align="center">18</td>
   </tr>
   <tr>
-    <td>Common Chests Opened</td>
+    <td><img src="" />Common Chests Opened</td>
     <td align="center">561</td>
   </tr>
   <tr>
-    <td>Exquisite Chests Opened</td>
+    <td><img src="" />Exquisite Chests Opened</td>
     <td align="center">399</td>
   </tr>
   <tr>
-    <td>Precious Chests Opened</td>
+    <td><img src="" />Precious Chests Opened</td>
     <td align="center">103</td>
   </tr>
   <tr>
-    <td>Luxurious Chests Opened</td>
+    <td><img src="" />Luxurious Chests Opened</td>
     <td align="center">39</td>
   </tr>
   <tr>
-    <td>Remarkable Chests Opened</td>
+    <td><img src="" />Remarkable Chests Opened</td>
     <td align="center">4</td>
   </tr>
   <tr>
-    <td>Domains Unlocked</td>
+    <td><img src="" />Domains Unlocked</td>
     <td align="center">34</td>
   </tr>
 </table>
