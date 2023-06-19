@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 12:01 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -242,7 +242,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Xumi.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Xumi.png"
           width="180"
         />
       </p>
@@ -250,7 +250,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png"
           width="180"
         />
       </p>
@@ -258,7 +258,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png"
           width="180"
         />
       </p>
@@ -266,7 +266,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Daoqi.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Daoqi.png"
           width="180"
         />
       </p>
@@ -274,7 +274,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Dragonspine.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Dragonspine.png"
           width="180"
         />
       </p>
@@ -282,7 +282,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Liyue.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Liyue.png"
           width="180"
         />
       </p>
@@ -290,7 +290,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Mengde.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Mengde.png"
           width="180"
         />
       </p>
