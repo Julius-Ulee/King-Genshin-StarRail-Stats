@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:00 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 11:07 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -539,27 +539,27 @@
                 ,
                 height="18"
               />
-              Dreaming Steelbloom<br /><img
+              Dreaming Steelbloom<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/9d28bb8f3b812515958d335cfbc5f4be.png"
                 ,
                 height="18"
               />
-              Feather of Judgment<br /><img
+              Feather of Judgment<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1d84092ca64d76385ae8bc6fc369249b.png"
                 ,
                 height="18"
               />
-              Exile's Pocket Watch<br /><img
+              Exile's Pocket Watch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
                 ,
                 height="18"
               />
-              Exile's Goblet<br /><img
+              Exile's Goblet<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
                 ,
                 height="18"
               />
-              Instructor's Cap<br />
+              Instructor's Cap<br /><br />
             </td>
           </tr>
           <tr>
@@ -656,27 +656,27 @@
                 ,
                 height="18"
               />
-              Gilded Corsage<br /><img
+              Gilded Corsage<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5121dc38e788c22666b7b9393936d378.png"
                 ,
                 height="18"
               />
-              Gust of Nostalgia<br /><img
+              Gust of Nostalgia<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5958d96f0e57486a6db57a69ba917d09.png"
                 ,
                 height="18"
               />
-              Concert's Final Hour<br /><img
+              Concert's Final Hour<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
                 ,
                 height="18"
               />
-              Exile's Goblet<br /><img
+              Exile's Goblet<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/a4267b8f48687341ffa70a05aead6153.png"
                 ,
                 height="18"
               />
-              Exile's Circlet<br />
+              Exile's Circlet<br /><br />
             </td>
           </tr>
           <tr>
@@ -773,27 +773,27 @@
                 ,
                 height="18"
               />
-              Scholar's Bookmark<br /><img
+              Scholar's Bookmark<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f201401bfd8de0c96a72e2064a22db8.png"
                 ,
                 height="18"
               />
-              Scholar's Quill Pen<br /><img
+              Scholar's Quill Pen<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1d84092ca64d76385ae8bc6fc369249b.png"
                 ,
                 height="18"
               />
-              Exile's Pocket Watch<br /><img
+              Exile's Pocket Watch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
                 ,
                 height="18"
               />
-              Exile's Goblet<br /><img
+              Exile's Goblet<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/f88f84b01dc797d26ff3f5f4e48e690d.png"
                 ,
                 height="18"
               />
-              Tiara of Flame<br />
+              Tiara of Flame<br /><br />
             </td>
           </tr>
           <tr>
@@ -887,27 +887,27 @@
                 ,
                 height="18"
               />
-              Berserker's Rose<br /><img
+              Berserker's Rose<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/67bf59e1ea1ddc2a2a4bba7e0bb38ce8.png"
                 ,
                 height="18"
               />
-              Berserker's Indigo Feather<br /><img
+              Berserker's Indigo Feather<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/bcf01eec0d25b1efe2b5c58fd6f880ea.png"
                 ,
                 height="18"
               />
-              Berserker's Timepiece<br /><img
+              Berserker's Timepiece<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
                 ,
                 height="18"
               />
-              Instructor's Tea Cup<br /><img
+              Instructor's Tea Cup<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3285d3abc62348cf6c09bd1e02f750e3.png"
                 ,
                 height="18"
               />
-              Berserker's Battle Mask<br />
+              Berserker's Battle Mask<br /><br />
             </td>
           </tr>
           <tr>
@@ -1004,27 +1004,27 @@
                 ,
                 height="18"
               />
-              Thunderbird's Mercy<br /><img
+              Thunderbird's Mercy<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b3cc2e8b2f096872f5a5c59527c5135.png"
                 ,
                 height="18"
               />
-              Gladiator's Destiny<br /><img
+              Gladiator's Destiny<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7a268c0f51a565cf8addabcf1c62b8b0.png"
                 ,
                 height="18"
               />
-              Gladiator's Longing<br /><img
+              Gladiator's Longing<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
                 ,
                 height="18"
               />
-              Instructor's Tea Cup<br /><img
+              Instructor's Tea Cup<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7234cb13d57683dda3de9c26ebb0ad07.png"
                 ,
                 height="18"
               />
-              Gladiator's Triumphus<br />
+              Gladiator's Triumphus<br /><br />
             </td>
           </tr>
           <tr>
@@ -1121,27 +1121,27 @@
                 ,
                 height="18"
               />
-              Instructor's Brooch<br /><img
+              Instructor's Brooch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/b07e2f31b4ea5bf7997bdbf8bd56643d.png"
                 ,
                 height="18"
               />
-              Adventurer's Tail Feather<br /><img
+              Adventurer's Tail Feather<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/aae8fb7e60884e87ae2f95e01fb1f60c.png"
                 ,
                 height="18"
               />
-              Martial Artist's Water Hourglass<br /><img
+              Martial Artist's Water Hourglass<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/f83d74493fd59010607e6d8aeb04e921.png"
                 ,
                 height="18"
               />
-              Adventurer's Golden Goblet<br /><img
+              Adventurer's Golden Goblet<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
                 ,
                 height="18"
               />
-              Instructor's Cap<br />
+              Instructor's Cap<br /><br />
             </td>
           </tr>
           <tr>
@@ -1325,17 +1325,17 @@
                 ,
                 height="18"
               />
-              Troupe's Dawnlight<br /><img
+              Troupe's Dawnlight<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/67bf59e1ea1ddc2a2a4bba7e0bb38ce8.png"
                 ,
                 height="18"
               />
-              Berserker's Indigo Feather<br /><img
+              Berserker's Indigo Feather<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7cc7e4cb1d57ad1e01fbe87454d9377a.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Pocket Watch<br />
+              Traveling Doctor's Pocket Watch<br /><br />
             </td>
           </tr>
           <tr>
@@ -1519,27 +1519,27 @@
                 ,
                 height="18"
               />
-              Berserker's Rose<br /><img
+              Berserker's Rose<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f201401bfd8de0c96a72e2064a22db8.png"
                 ,
                 height="18"
               />
-              Scholar's Quill Pen<br /><img
+              Scholar's Quill Pen<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ed2fa47c998a605641582c90d6566a22.png"
                 ,
                 height="18"
               />
-              Instructor's Pocket Watch<br /><img
+              Instructor's Pocket Watch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7c66b1a63529517962df6da3b910a1a5.png"
                 ,
                 height="18"
               />
-              Scholar's Ink Cup<br /><img
+              Scholar's Ink Cup<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
                 ,
                 height="18"
               />
-              Instructor's Cap<br />
+              Instructor's Cap<br /><br />
             </td>
           </tr>
           <tr>
@@ -1633,22 +1633,22 @@
                 ,
                 height="18"
               />
-              Traveling Doctor's Silver Lotus<br /><img
+              Traveling Doctor's Silver Lotus<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7cc7e4cb1d57ad1e01fbe87454d9377a.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Pocket Watch<br /><img
+              Traveling Doctor's Pocket Watch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/189f633d08c7991a4981c45b652eae27.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Medicine Pot<br /><img
+              Traveling Doctor's Medicine Pot<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/b4258a6418b7901e837081efc38b37c1.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Handkerchief<br />
+              Traveling Doctor's Handkerchief<br /><br />
             </td>
           </tr>
           <tr>
@@ -1745,27 +1745,27 @@
                 ,
                 height="18"
               />
-              Adventurer's Flower<br /><img
+              Adventurer's Flower<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/a2fbb00d47bcd816e3b02f14fad885c9.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Owl Feather<br /><img
+              Traveling Doctor's Owl Feather<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7cc7e4cb1d57ad1e01fbe87454d9377a.png"
                 ,
                 height="18"
               />
-              Traveling Doctor's Pocket Watch<br /><img
+              Traveling Doctor's Pocket Watch<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/f83d74493fd59010607e6d8aeb04e921.png"
                 ,
                 height="18"
               />
-              Adventurer's Golden Goblet<br /><img
+              Adventurer's Golden Goblet<br /><br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/83e285949a09fee5c60046321d7eafbc.png"
                 ,
                 height="18"
               />
-              Lucky Dog's Silver Circlet<br />
+              Lucky Dog's Silver Circlet<br /><br />
             </td>
           </tr>
           <tr>
