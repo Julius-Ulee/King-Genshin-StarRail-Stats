@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:40 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 11:42 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -389,7 +389,13 @@
       />
       Highest Adeptal Energy
     </td>
-    <td align="center"><img src="" , height="18" />Cozy (3930)</td>
+    <td align="center">
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_3.png"
+        ,
+        height="18"
+      />Cozy (3930)
+    </td>
   </tr>
   <tr>
     <td>
