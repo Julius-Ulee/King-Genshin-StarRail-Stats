@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 00:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 00:22 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -516,23 +516,9 @@
         ,
         height="18"
       />
-      Items
+      Total Furnishings Obtained
     </td>
     <td align="center">147</td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
-        ,
-        height="18"
-      />
-      Realms
-    </td>
-    <td align="center">
-      [TeapotRealm(lang='en-us', name='Emerald Peak',
-      icon='https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_HomeworldModule_1_Pic.png')]
-    </td>
   </tr>
   <tr>
     <td>
@@ -541,7 +527,7 @@
         ,
         height="18"
       />
-      Visitors
+      Visitor History
     </td>
     <td align="center">0</td>
   </tr>
