@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 22:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 22:44 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -172,8 +172,8 @@
     <td align="center">34</td>
   </tr>
   <tr>
-    <td>achiev</td>
-    <td align="center">253</td>
+    <td>Spiral Abyss</td>
+    <td align="center">5-1</td>
   </tr>
 </table>
 
