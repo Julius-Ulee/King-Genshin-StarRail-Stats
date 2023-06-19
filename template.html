@@ -49,7 +49,7 @@
 <table align="center">
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
-        <td>{{ field.title() }}</td>
+        <td><img src="{{ field.title.icon() }}">{{ field.title() }}</td>
         <td align="center">{{ value }}</td>
     </tr>
     {%- endfor -%}
