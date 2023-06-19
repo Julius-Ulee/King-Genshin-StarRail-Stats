@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 10:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 10:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -49,16 +49,6 @@
         height="18"
       />
       50
-    </td>
-  </tr>
-  <tr>
-    <td>Signature</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
-        ,
-        height="18"
-      />
     </td>
   </tr>
 </table>
