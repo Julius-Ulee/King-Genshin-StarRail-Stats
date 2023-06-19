@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 06:33 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 07:53 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -435,7 +435,7 @@
       />
       Primogems earned
     </td>
-    <td>2463 (rate -53)</td>
+    <td>2533 (rate -52)</td>
   </tr>
   <tr>
     <td>
@@ -446,13 +446,13 @@
       />
       Mora earned
     </td>
-    <td>2150755 (rate -43)</td>
+    <td>2303148 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 900 (37%)<br />Quests: 550 (23%)<br />Daily Activity: 490 (20%)<br />Adventure:
-      435 (18%)<br />Other: 48 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (36%)<br />Quests: 550 (22%)<br />Daily Activity: 550 (22%)<br />Adventure:
+      445 (18%)<br />Other: 48 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
