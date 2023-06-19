@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 12:01 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 12:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -242,56 +242,56 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Xumi.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Xumi.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Daoqi.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Daoqi.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Dragonspine.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Dragonspine.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Liyue.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Liyue.png"
+          width="250"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Mengde.png"
-          width="180"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Mengde.png"
+          width="250"
         />
       </p>
     </td>
@@ -484,7 +484,7 @@
       />
       Primogems earned
     </td>
-    <td>2676 (rate -49)</td>
+    <td>2706 (rate -49)</td>
   </tr>
   <tr>
     <td>
@@ -495,13 +495,13 @@
       />
       Mora earned
     </td>
-    <td>2468906 (rate -35)</td>
+    <td>2469106 (rate -35)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 900 (34%)<br />Quests: 670 (26%)<br />Daily Activity: 550 (21%)<br />Adventure:
-      467 (17%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
+      Events: 900 (34%)<br />Quests: 670 (25%)<br />Daily Activity: 550 (21%)<br />Adventure:
+      497 (18%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
