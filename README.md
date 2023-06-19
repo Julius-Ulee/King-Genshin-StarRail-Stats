@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:11 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 11:13 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -525,10 +525,6 @@
             <td align="center">10</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -644,10 +640,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">10</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -767,10 +759,6 @@
             <td align="center">8</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -888,10 +876,6 @@
             <td align="center">5</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -1004,10 +988,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1127,10 +1107,6 @@
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">6</td>
           </tr>
@@ -1248,10 +1224,6 @@
             <td align="center">4</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">1</td>
           </tr>
@@ -1337,10 +1309,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1450,10 +1418,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -1539,10 +1503,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">8</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1662,10 +1622,6 @@
             <td align="center">3</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -1773,10 +1729,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">3</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1896,10 +1848,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">1</td>
           </tr>
@@ -1985,10 +1933,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2078,10 +2022,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -2167,10 +2107,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2260,10 +2196,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">2</td>
           </tr>
@@ -2349,10 +2281,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2442,10 +2370,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -2531,10 +2455,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2624,10 +2544,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -2713,10 +2629,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2806,10 +2718,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -2897,10 +2805,6 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Region</td>
-            <td align="center"></td>
-          </tr>
-          <tr>
             <td>Constellation</td>
             <td align="center">0</td>
           </tr>
@@ -2986,10 +2890,6 @@
           <tr>
             <td>Friendship</td>
             <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Region</td>
-            <td align="center"></td>
           </tr>
           <tr>
             <td>Constellation</td>
