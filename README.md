@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 11:13 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 11:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -449,7 +449,7 @@
     <td>2468906 (rate -35)</td>
   </tr>
   <tr>
-    <td>Categories</td>
+    <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
       Events: 900 (34%)<br />Quests: 670 (26%)<br />Daily Activity: 550 (21%)<br />Adventure:
       467 (17%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
