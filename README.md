@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2023 23:32 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 19, 2023 23:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -208,7 +208,10 @@
     <td align="center">399</td>
   </tr>
   <tr>
-    <td>Precious Chests Opened</td>
+    <td>
+      <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
+      Opened
+    </td>
     <td align="center">103</td>
   </tr>
   <tr>
@@ -219,7 +222,10 @@
     <td align="center">39</td>
   </tr>
   <tr>
-    <td>Remarkable Chests Opened</td>
+    <td>
+      <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
+      Opened
+    </td>
     <td align="center">5</td>
   </tr>
   <tr>
