@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 19:32 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 23:10 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -95,7 +95,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -103,11 +103,11 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Lost Gold Fragment
     </td>
   </tr>
 </table>
