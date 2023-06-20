@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 23:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 00:12 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -135,7 +135,7 @@
       />
       Achievements
     </td>
-    <td align="center">257</td>
+    <td align="center">258</td>
   </tr>
   <tr>
     <td>
@@ -249,7 +249,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center">5-1</td>
+    <td align="center">5-3</td>
   </tr>
 </table>
 
