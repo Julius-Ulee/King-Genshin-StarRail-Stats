@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 07:03 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 09:53 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -135,7 +135,7 @@
       />
       Achievements
     </td>
-    <td align="center">256</td>
+    <td align="center">257</td>
   </tr>
   <tr>
     <td>
@@ -209,21 +209,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">579</td>
+    <td align="center">587</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">404</td>
+    <td align="center">412</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">105</td>
+    <td align="center">106</td>
   </tr>
   <tr>
     <td>
@@ -396,7 +396,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/72/" width="80" />
+            <img src="https://progress-bar.dev/78/" width="80" />
           </td>
         </tr>
         <tr>
@@ -410,7 +410,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/32/" width="80" />
+            <img src="https://progress-bar.dev/33/" width="80" />
           </td>
         </tr>
         <tr>
@@ -564,7 +564,7 @@
       />
       Primogems earned
     </td>
-    <td>2840 (rate -46)</td>
+    <td>3117 (rate -41)</td>
   </tr>
   <tr>
     <td>
@@ -575,14 +575,14 @@
       />
       Mora earned
     </td>
-    <td>2631713 (rate -30)</td>
+    <td>2946504 (rate -22)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 900 (32%)<br />Quests: 780 (28%)<br />Daily Activity: 550 (20%)<br />Adventure:
-      521 (18%)<br />Other: 49 (1%)<br />Mail: 40 (1%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 1005 (33%)<br />Quests: 780 (26%)<br />Adventure: 632 (20%)<br />Daily
+      Activity: 610 (19%)<br />Other: 50 (1%)<br />Mail: 40 (1%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1477,6 +1477,123 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Yaoyao</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Yaoyao</h3></th>
+      <th><h3 align="center">Black Tassel</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/124f8fb1f7c037bb575cf55ed048f942.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">8</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />1 x Berserker<br />2 x Scholar<br />2 x
+              Instructor<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8fb7582c525821ea5d22b6c1b2faa3fc.png"
+                ,
+                height="18"
+              />
+              Berserker's Rose<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f201401bfd8de0c96a72e2064a22db8.png"
+                ,
+                height="18"
+              />
+              Scholar's Quill Pen<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ed2fa47c998a605641582c90d6566a22.png"
+                ,
+                height="18"
+              />
+              Instructor's Pocket Watch<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7c66b1a63529517962df6da3b910a1a5.png"
+                ,
+                height="18"
+              />
+              Scholar's Ink Cup<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
+                ,
+                height="18"
+              />
+              Instructor's Cap<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Black Tassel</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Razor</b></summary>
   <br />
   <table align="center">
@@ -1660,123 +1777,6 @@
           <tr>
             <td>Level</td>
             <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Yaoyao</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Yaoyao</h3></th>
-      <th><h3 align="center">Black Tassel</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/124f8fb1f7c037bb575cf55ed048f942.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                ,
-                height="18"
-              />
-              Dendro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">40</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">8</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />1 x Berserker<br />2 x Scholar<br />2 x
-              Instructor<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8fb7582c525821ea5d22b6c1b2faa3fc.png"
-                ,
-                height="18"
-              />
-              Berserker's Rose<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f201401bfd8de0c96a72e2064a22db8.png"
-                ,
-                height="18"
-              />
-              Scholar's Quill Pen<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ed2fa47c998a605641582c90d6566a22.png"
-                ,
-                height="18"
-              />
-              Instructor's Pocket Watch<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/7c66b1a63529517962df6da3b910a1a5.png"
-                ,
-                height="18"
-              />
-              Scholar's Ink Cup<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/24666f76c64b4bf60a485c075b33f1dc.png"
-                ,
-                height="18"
-              />
-              Instructor's Cap<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Black Tassel</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">40</td>
           </tr>
           <tr>
             <td>Refinement</td>
