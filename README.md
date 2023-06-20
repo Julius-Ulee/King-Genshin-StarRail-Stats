@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 20, 2023 06:58 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 20, 2023 07:03 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -41,17 +41,6 @@
     </td>
   </tr>
   <tr>
-    <td>UID</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
-        ,
-        height="18"
-      />
-      877493089
-    </td>
-  </tr>
-  <tr>
     <td>Adventure Rank</td>
     <td align="center">
       <img
@@ -60,6 +49,17 @@
         height="18"
       />
       50
+    </td>
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td align="center">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
+        ,
+        height="18"
+      />
+      877493089
     </td>
   </tr>
 </table>
@@ -659,7 +659,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />2 x The Exile<br />1 x
+              Artifacts<br />3 x Gilded Dreams<br />1 x The Exile<br />1 x
               Instructor<br />
             </td>
             <td>
@@ -674,11 +674,11 @@
                 height="18"
               />
               Feather of Judgment<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1d84092ca64d76385ae8bc6fc369249b.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/105417220186df9362ab5cda9fe12bc1.png"
                 ,
                 height="18"
               />
-              Exile's Pocket Watch<br /><img
+              The Sunken Years<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1c5b83a04e3e8fe649ec2fb1a90175a.png"
                 ,
                 height="18"
