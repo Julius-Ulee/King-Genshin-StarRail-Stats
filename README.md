@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 09:21 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 09:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -775,12 +775,12 @@
             <td align="center">80</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">4</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">5</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">4</td>
           </tr>
         </table>
       </td>
@@ -900,12 +900,12 @@
             <td align="center">60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">2</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">3</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">2</td>
           </tr>
         </table>
       </td>
@@ -1025,12 +1025,12 @@
             <td align="center">70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">4</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1147,12 +1147,12 @@
             <td align="center">70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">4</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1272,12 +1272,12 @@
             <td align="center">20</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1397,12 +1397,12 @@
             <td align="center">50</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1492,12 +1492,12 @@
             <td align="center">20</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1587,12 +1587,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1712,12 +1712,12 @@
             <td align="center">40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1827,12 +1827,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1922,12 +1922,12 @@
             <td align="center">20</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2039,12 +2039,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2164,12 +2164,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2259,12 +2259,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2354,12 +2354,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2449,12 +2449,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2544,12 +2544,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2639,12 +2639,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2734,12 +2734,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2829,12 +2829,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -2924,12 +2924,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -3019,12 +3019,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -3114,12 +3114,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -3209,12 +3209,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -3304,12 +3304,12 @@
             <td align="center">1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
             <td>Ascension</td>
             <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
