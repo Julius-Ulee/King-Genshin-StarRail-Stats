@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 09:59 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 10:20 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -623,7 +623,7 @@
       />
       Primogems earned
     </td>
-    <td>3507 (rate -34)</td>
+    <td>3567 (rate -32)</td>
   </tr>
   <tr>
     <td>
@@ -634,13 +634,13 @@
       />
       Mora earned
     </td>
-    <td>3090216 (rate -18)</td>
+    <td>3125291 (rate -18)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1005 (29%)<br />Quests: 780 (23%)<br />Adventure: 722 (21%)<br />Daily
-      Activity: 610 (17%)<br />Spiral Abyss: 300 (8%)<br />Other: 50 (1%)<br />Mail:
+      Events: 1005 (29%)<br />Quests: 780 (22%)<br />Adventure: 722 (21%)<br />Daily
+      Activity: 670 (18%)<br />Spiral Abyss: 300 (8%)<br />Other: 50 (1%)<br />Mail:
       40 (1%)<br />
     </td>
   </tr>
@@ -675,6 +675,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -682,6 +684,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/55ccf33e3d708badb3b0790201fc188e.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -800,6 +804,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -807,6 +813,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/eb17436cb1b4cc20ac401bb6800db935.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -925,6 +933,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -932,6 +942,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f306f1abc7aac182672c037b745cf4e.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1050,6 +1062,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1057,6 +1071,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c56e20273aac0401c2df2a8b50b98620.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1172,6 +1188,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1179,6 +1197,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/32fb2599bce5a92f03406066aa26a6d1.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1297,6 +1317,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_PlayerBoy_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1304,6 +1326,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/efdc5bc1afd083b5720f4e73f8ec16e3.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1422,6 +1446,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1429,6 +1455,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3df09d80ba6be7cab317d7dc098e6199.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1517,6 +1545,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1524,6 +1554,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/33b9adc96f8bdda347228347011ebf26.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1612,6 +1644,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yaoyao_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1619,6 +1653,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/124f8fb1f7c037bb575cf55ed048f942.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1737,6 +1773,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1744,6 +1782,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1852,6 +1892,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Keqing_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1859,6 +1901,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ada28dcd88dcbec3a2506a3a0e2da879.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1947,6 +1991,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ambor_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -1954,6 +2000,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1442cc2fedb0ed0f8e469e44238fd317.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2064,6 +2112,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Barbara_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2071,6 +2121,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/26e9bdb845d87c7c70b9ee0a0b7dcfe9.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2189,6 +2241,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Lisa_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2196,6 +2250,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/33b9adc96f8bdda347228347011ebf26.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2284,6 +2340,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chongyun_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2291,6 +2349,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2379,6 +2439,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xinyan_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2386,6 +2448,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2474,6 +2538,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Rosaria_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2481,6 +2547,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2569,6 +2637,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gorou_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2576,6 +2646,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2664,6 +2736,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yunjin_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2671,6 +2745,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2759,6 +2835,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shinobu_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2766,6 +2844,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d3d03320d16dcdd3838dcbebb4f35098.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2854,6 +2934,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Collei_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2861,6 +2943,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2949,6 +3033,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dori_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -2956,6 +3042,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3044,6 +3132,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Layla_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3051,6 +3141,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d3d03320d16dcdd3838dcbebb4f35098.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3139,6 +3231,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Faruzan_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3146,6 +3240,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3234,6 +3330,8 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
+            ,
+            height="256"
           />
         </p>
       </td>
@@ -3241,6 +3339,8 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            ,
+            height="256"
           />
         </p>
       </td>
