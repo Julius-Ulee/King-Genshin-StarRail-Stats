@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 09:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 09:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -763,11 +763,8 @@
             <td align="center">White Tassel</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A standard-issue weapon of the Millelith soldiers. It has a sturdy
-              shaft and sharp spearhead. It's a reliable weapon.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -887,11 +884,8 @@
             <td align="center">Skyrider Sword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A reliable steel sword. The legendary Skyrider once tried to ride
-              it as a flying sword...
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1011,12 +1005,8 @@
             <td align="center">Lion's Roar</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A sharp blade with extravagant carvings that somehow does not
-              compromise on durability and sharpness. It roars like a lion as it
-              cuts through the air.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1133,11 +1123,8 @@
             <td align="center">Beacon of the Reed Sea</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A large, flat-tipped sword designed in to fit as the weapon of an
-              ancient king or some ceremonial instrument.
-            </td>
+            <td>Type</td>
+            <td align="center">Claymore</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1257,11 +1244,8 @@
             <td align="center">Prototype Starglitter</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A hooked spear discovered hidden away in the Blackcliff Forge. The
-              glimmers along the sharp edge are like stars in the night.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1381,11 +1365,8 @@
             <td align="center">Prototype Rancour</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              An ancient longsword discovered in the Blackcliff Forge that cuts
-              through rocks like a hot knife through butter.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1475,11 +1456,8 @@
             <td align="center">Traveler's Handy Sword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A handy steel sword which contains scissors, a magnifying glass,
-              tinder, and other useful items in its sheath.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1569,11 +1547,8 @@
             <td align="center">Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              Notes left behind by a top student. Many useful spells are listed,
-              and the handwriting is beautiful.
-            </td>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1693,11 +1668,8 @@
             <td align="center">Black Tassel</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              An exceptionally powerful polearm that also offers a simple but
-              elegant solution to the issue of the easily stained white tassel.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1807,11 +1779,8 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A sturdy sheet of iron that may be powerful enough to break apart
-              mountains if wielded with enough willpower.
-            </td>
+            <td>Type</td>
+            <td align="center">Claymore</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1901,11 +1870,8 @@
             <td align="center">The Alley Flash</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A straight sword as black as the night. It once belonged to a
-              thief who roamed the benighted streets.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2017,12 +1983,8 @@
             <td align="center">Slingshot</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A bow, despite the name. After countless experiments and
-              improvements to the design, the creator of the ultimate slingshot
-              found himself to have made what was actually a bow.
-            </td>
+            <td>Type</td>
+            <td align="center">Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2142,12 +2104,8 @@
             <td align="center">Emerald Orb</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A catalyst carved out of the hard jade from Jueyun Karst north of
-              Liyue. Small, light, and durable, it is known more colloquially as
-              the "jade ball."
-            </td>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2237,11 +2195,8 @@
             <td align="center">Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              Notes left behind by a top student. Many useful spells are listed,
-              and the handwriting is beautiful.
-            </td>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2331,11 +2286,8 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A sturdy sheet of iron that may be powerful enough to break apart
-              mountains if wielded with enough willpower.
-            </td>
+            <td>Type</td>
+            <td align="center">Claymore</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2425,11 +2377,8 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A sturdy sheet of iron that may be powerful enough to break apart
-              mountains if wielded with enough willpower.
-            </td>
+            <td>Type</td>
+            <td align="center">Claymore</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2519,11 +2468,8 @@
             <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A polearm as straight as a flag pole. Well suited to most combat
-              situations, it has an imposing presence when swung.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2613,11 +2559,8 @@
             <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A hunter's music consists of but two sounds: the twang of the
-              bowstring and the whoosh of soaring arrows.
-            </td>
+            <td>Type</td>
+            <td align="center">Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2707,11 +2650,8 @@
             <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A polearm as straight as a flag pole. Well suited to most combat
-              situations, it has an imposing presence when swung.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2801,11 +2741,8 @@
             <td align="center">Dull Blade</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              Youthful dreams and the thrill of adventure. If this isn't enough,
-              then make it up with valiance.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2895,11 +2832,8 @@
             <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A hunter's music consists of but two sounds: the twang of the
-              bowstring and the whoosh of soaring arrows.
-            </td>
+            <td>Type</td>
+            <td align="center">Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2989,11 +2923,8 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A sturdy sheet of iron that may be powerful enough to break apart
-              mountains if wielded with enough willpower.
-            </td>
+            <td>Type</td>
+            <td align="center">Claymore</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -3083,11 +3014,8 @@
             <td align="center">Dull Blade</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              Youthful dreams and the thrill of adventure. If this isn't enough,
-              then make it up with valiance.
-            </td>
+            <td>Type</td>
+            <td align="center">Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -3177,11 +3105,8 @@
             <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A hunter's music consists of but two sounds: the twang of the
-              bowstring and the whoosh of soaring arrows.
-            </td>
+            <td>Type</td>
+            <td align="center">Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -3271,11 +3196,8 @@
             <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Description</td>
-            <td align="center">
-              A polearm as straight as a flag pole. Well suited to most combat
-              situations, it has an imposing presence when swung.
-            </td>
+            <td>Type</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
