@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 09:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 09:59 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -512,17 +512,6 @@
   <tr>
     <td>
       <img
-        src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp"
-        ,
-        height="18"
-      />
-      Trust Rank
-    </td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
-    <td>
-      <img
         src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp"
         ,
         height="18"
@@ -530,6 +519,17 @@
       Total Furnishings Obtained
     </td>
     <td align="center">149</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp"
+        ,
+        height="18"
+      />
+      Trust Rank
+    </td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>
