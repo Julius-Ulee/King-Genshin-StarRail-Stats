@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 00:35 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 09:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -135,7 +135,7 @@
       />
       Achievements
     </td>
-    <td align="center">258</td>
+    <td align="center">260</td>
   </tr>
   <tr>
     <td>
@@ -146,7 +146,7 @@
       />
       Days Active
     </td>
-    <td align="center">119</td>
+    <td align="center">120</td>
   </tr>
   <tr>
     <td>
@@ -209,21 +209,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">587</td>
+    <td align="center">592</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">412</td>
+    <td align="center">415</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">106</td>
+    <td align="center">107</td>
   </tr>
   <tr>
     <td>
@@ -396,7 +396,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/78/" width="80" />
+            <img src="https://progress-bar.dev/80/" width="80" />
           </td>
         </tr>
         <tr>
@@ -506,7 +506,7 @@
         ,
         height="18"
       />
-      Queen-Size (4680)
+      Queen-Size (4760)
     </td>
   </tr>
   <tr>
@@ -529,7 +529,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">147</td>
+    <td align="center">149</td>
   </tr>
   <tr>
     <td>
@@ -541,6 +541,65 @@
       Visitor History
     </td>
     <td align="center">0</td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center">72</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center">5-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center">9</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
   </tr>
 </table>
 <h2 align="center">
@@ -564,7 +623,7 @@
       />
       Primogems earned
     </td>
-    <td>3117 (rate -41)</td>
+    <td>3507 (rate -34)</td>
   </tr>
   <tr>
     <td>
@@ -575,14 +634,14 @@
       />
       Mora earned
     </td>
-    <td>2946504 (rate -22)</td>
+    <td>3090216 (rate -18)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1005 (33%)<br />Quests: 780 (26%)<br />Adventure: 632 (20%)<br />Daily
-      Activity: 610 (19%)<br />Other: 50 (1%)<br />Mail: 40 (1%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Events: 1005 (29%)<br />Quests: 780 (23%)<br />Adventure: 722 (21%)<br />Daily
+      Activity: 610 (17%)<br />Spiral Abyss: 300 (8%)<br />Other: 50 (1%)<br />Mail:
+      40 (1%)<br />
     </td>
   </tr>
 </table>
@@ -704,6 +763,13 @@
             <td align="center">White Tassel</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A standard-issue weapon of the Millelith soldiers. It has a sturdy
+              shaft and sharp spearhead. It's a reliable weapon.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
           </tr>
@@ -819,6 +885,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Skyrider Sword</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A reliable steel sword. The legendary Skyrider once tried to ride
+              it as a flying sword...
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -938,6 +1011,14 @@
             <td align="center">Lion's Roar</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A sharp blade with extravagant carvings that somehow does not
+              compromise on durability and sharpness. It roars like a lion as it
+              cuts through the air.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
           </tr>
@@ -1050,6 +1131,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Beacon of the Reed Sea</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A large, flat-tipped sword designed in to fit as the weapon of an
+              ancient king or some ceremonial instrument.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1169,6 +1257,13 @@
             <td align="center">Prototype Starglitter</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A hooked spear discovered hidden away in the Blackcliff Forge. The
+              glimmers along the sharp edge are like stars in the night.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
           </tr>
@@ -1286,6 +1381,13 @@
             <td align="center">Prototype Rancour</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              An ancient longsword discovered in the Blackcliff Forge that cuts
+              through rocks like a hot knife through butter.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
           </tr>
@@ -1373,6 +1475,13 @@
             <td align="center">Traveler's Handy Sword</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A handy steel sword which contains scissors, a magnifying glass,
+              tinder, and other useful items in its sheath.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
           </tr>
@@ -1458,6 +1567,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              Notes left behind by a top student. Many useful spells are listed,
+              and the handwriting is beautiful.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1577,6 +1693,13 @@
             <td align="center">Black Tassel</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              An exceptionally powerful polearm that also offers a simple but
+              elegant solution to the issue of the easily stained white tassel.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
           </tr>
@@ -1684,6 +1807,13 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A sturdy sheet of iron that may be powerful enough to break apart
+              mountains if wielded with enough willpower.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -1769,6 +1899,13 @@
           <tr>
             <td>Name</td>
             <td align="center">The Alley Flash</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A straight sword as black as the night. It once belonged to a
+              thief who roamed the benighted streets.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1878,6 +2015,14 @@
           <tr>
             <td>Name</td>
             <td align="center">Slingshot</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A bow, despite the name. After countless experiments and
+              improvements to the design, the creator of the ultimate slingshot
+              found himself to have made what was actually a bow.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1997,6 +2142,14 @@
             <td align="center">Emerald Orb</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A catalyst carved out of the hard jade from Jueyun Karst north of
+              Liyue. Small, light, and durable, it is known more colloquially as
+              the "jade ball."
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
           </tr>
@@ -2082,6 +2235,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              Notes left behind by a top student. Many useful spells are listed,
+              and the handwriting is beautiful.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2171,6 +2331,13 @@
             <td align="center">Waster Greatsword</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A sturdy sheet of iron that may be powerful enough to break apart
+              mountains if wielded with enough willpower.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -2256,6 +2423,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A sturdy sheet of iron that may be powerful enough to break apart
+              mountains if wielded with enough willpower.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2345,6 +2519,13 @@
             <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A polearm as straight as a flag pole. Well suited to most combat
+              situations, it has an imposing presence when swung.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -2430,6 +2611,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Hunter's Bow</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A hunter's music consists of but two sounds: the twang of the
+              bowstring and the whoosh of soaring arrows.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2519,6 +2707,13 @@
             <td align="center">Beginner's Protector</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A polearm as straight as a flag pole. Well suited to most combat
+              situations, it has an imposing presence when swung.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -2604,6 +2799,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              Youthful dreams and the thrill of adventure. If this isn't enough,
+              then make it up with valiance.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2693,6 +2895,13 @@
             <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A hunter's music consists of but two sounds: the twang of the
+              bowstring and the whoosh of soaring arrows.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -2778,6 +2987,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A sturdy sheet of iron that may be powerful enough to break apart
+              mountains if wielded with enough willpower.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2867,6 +3083,13 @@
             <td align="center">Dull Blade</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              Youthful dreams and the thrill of adventure. If this isn't enough,
+              then make it up with valiance.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -2954,6 +3177,13 @@
             <td align="center">Hunter's Bow</td>
           </tr>
           <tr>
+            <td>Description</td>
+            <td align="center">
+              A hunter's music consists of but two sounds: the twang of the
+              bowstring and the whoosh of soaring arrows.
+            </td>
+          </tr>
+          <tr>
             <td>Rarity</td>
             <td align="center">⭐</td>
           </tr>
@@ -3039,6 +3269,13 @@
           <tr>
             <td>Name</td>
             <td align="center">Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td align="center">
+              A polearm as straight as a flag pole. Well suited to most combat
+              situations, it has an imposing presence when swung.
+            </td>
           </tr>
           <tr>
             <td>Rarity</td>
