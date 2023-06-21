@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 22, 2023 05:04 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,11 +79,11 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">11</td>
+    <td align="center">12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -103,11 +103,11 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      2 x Lost Gold Fragment
+      2 x Condensed Aether
     </td>
   </tr>
 </table>
@@ -623,7 +623,7 @@
       />
       Primogems earned
     </td>
-    <td>3573 (rate -32)</td>
+    <td>3633 (rate -31)</td>
   </tr>
   <tr>
     <td>
@@ -634,14 +634,14 @@
       />
       Mora earned
     </td>
-    <td>3155291 (rate -17)</td>
+    <td>3192868 (rate -16)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1005 (29%)<br />Quests: 780 (22%)<br />Adventure: 727 (21%)<br />Daily
-      Activity: 670 (18%)<br />Spiral Abyss: 300 (8%)<br />Other: 51 (1%)<br />Mail:
-      40 (1%)<br />
+      Events: 1005 (28%)<br />Quests: 780 (22%)<br />Daily Activity: 730
+      (20%)<br />Adventure: 727 (20%)<br />Spiral Abyss: 300 (8%)<br />Other: 51
+      (1%)<br />Mail: 40 (1%)<br />
     </td>
   </tr>
 </table>
