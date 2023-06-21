@@ -18,8 +18,8 @@ logger = logging.getLogger()
 load_dotenv()
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
-parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
+parser.add_argument("-t", "--template", default="src/template.html", type=pathlib.Path)
+parser.add_argument("-o", "--output", default="output/stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
 parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
