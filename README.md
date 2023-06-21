@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2023 09:32 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 21, 2023 09:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -558,23 +558,23 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Season</td>
+    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
     <td align="center">72</td>
   </tr>
   <tr>
-    <td>Total Battles</td>
+    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
     <td align="center">4</td>
   </tr>
   <tr>
-    <td>Total Wins</td>
+    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
     <td align="center">3</td>
   </tr>
   <tr>
-    <td>Max Floor</td>
+    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
     <td align="center">5-3</td>
   </tr>
   <tr>
-    <td>Total Stars</td>
+    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
     <td align="center">9</td>
   </tr>
   <tr>
