@@ -69,7 +69,6 @@ async def main():
     template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
         user=user,
-        sr_user=sr_user,
         lang=args.lang,
         abyss=abyss,
         reward=reward,
