@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 22, 2023 07:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 22, 2023 07:38 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -85,6 +85,10 @@
       ><br />
       5000 x Mora
     </td>
+  </tr>
+  <tr>
+    <td>Last Checked</td>
+    <td align="center">🕒 Jun 22, 2023 07:38 +0700</td>
   </tr>
 </table>
 
