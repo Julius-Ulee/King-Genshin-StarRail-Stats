@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 22, 2023 07:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 22, 2023 08:00 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -91,6 +91,10 @@
     <td align="center">🕒 2023-06-22 06:03:14+08:00</td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
+</p>
 
 <h2 align="center">
   <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
