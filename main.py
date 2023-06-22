@@ -36,6 +36,7 @@ def format_date(date: "datetime"):
 
 async def main():
     args = parser.parse_args()
+    debug = args.verbose
 
     # type: <class 'str'>
     _c = os.getenv("COOKIES")
