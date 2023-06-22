@@ -36,14 +36,13 @@ def format_date(date: "datetime"):
 
 async def main():
     args = parser.parse_args()
-    debug = args.verbose
 
     # type: <class 'str'>
     _c = os.getenv("COOKIES")
     # must loads to dict
     cookies = json.loads(_c)
 
-    client = genshin.Client(cookies, debug=debug, game=genshin.Game.GENSHIN)
+    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
 
     user = await client.get_full_genshin_user(0, lang=args.lang)
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
