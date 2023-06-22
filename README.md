@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 22, 2023 08:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 22, 2023 08:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -66,7 +66,7 @@
 
 <h2 align="center">
   <img src="./images/logo/check-in.webp" , height="20" /> Daily Rewards Genshin
-  <img src="./images/logo/check-in.webp" , height="20" />
+  Impact <img src="./images/logo/check-in.webp" , height="20" />
 </h2>
 <table align="center">
   <tr>
