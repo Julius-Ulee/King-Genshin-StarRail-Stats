@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 23, 2023 19:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 23, 2023 20:28 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -48,7 +48,7 @@
         ,
         height="18"
       />
-      50
+      52
     </td>
   </tr>
   <tr>
@@ -722,7 +722,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center">84</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1550,7 +1550,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -1565,7 +1565,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/33b9adc96f8bdda347228347011ebf26.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1cc6994537ddcf072296759e592a34d.png"
             ,
             height="256"
           />
@@ -1616,7 +1616,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Apprentice's Notes</td>
+            <td align="center">The Widsith</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1624,7 +1624,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1695,7 +1695,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">8</td>
+            <td align="center">9</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1778,7 +1778,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Razor</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Rainslasher</h3></th>
     </tr>
     <tr>
       <td>
@@ -1793,7 +1793,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/250ed21ad017d42a035d34ddc109e8d7.png"
             ,
             height="256"
           />
@@ -1864,7 +1864,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Rainslasher</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1872,15 +1872,15 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">53</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1996,7 +1996,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Amber</h3></th>
-      <th><h3 align="center">Slingshot</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -2011,7 +2011,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1442cc2fedb0ed0f8e469e44238fd317.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/bb97d07a2fe4a8767f487c77d019cbc5.png"
             ,
             height="256"
           />
@@ -2084,7 +2084,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Slingshot</td>
+            <td align="center">Favonius Warbow</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2092,7 +2092,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2345,7 +2345,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Chongyun</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Skyrider Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -2360,7 +2360,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/16b2bef2d4cd48d7fc89325ff7c9a5dc.png"
             ,
             height="256"
           />
@@ -2411,7 +2411,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Skyrider Greatsword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2419,7 +2419,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2543,7 +2543,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Rosaria</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Black Tassel</h3></th>
     </tr>
     <tr>
       <td>
@@ -2558,7 +2558,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/124f8fb1f7c037bb575cf55ed048f942.png"
             ,
             height="256"
           />
@@ -2609,7 +2609,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Beginner's Protector</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2617,11 +2617,11 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -2642,7 +2642,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Gorou</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Slingshot</h3></th>
     </tr>
     <tr>
       <td>
@@ -2657,7 +2657,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1442cc2fedb0ed0f8e469e44238fd317.png"
             ,
             height="256"
           />
@@ -2708,7 +2708,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Hunter's Bow</td>
+            <td align="center">Slingshot</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2716,7 +2716,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2741,7 +2741,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Yun Jin</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Halberd</h3></th>
     </tr>
     <tr>
       <td>
@@ -2756,7 +2756,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1e63876bcf850f2ef2541c78b3e0a92c.png"
             ,
             height="256"
           />
@@ -2807,7 +2807,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Beginner's Protector</td>
+            <td align="center">Halberd</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2815,7 +2815,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3038,7 +3038,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Dori</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">The Bell</h3></th>
     </tr>
     <tr>
       <td>
@@ -3053,7 +3053,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8f5ee5f6e058c06ac06ceb2af767be1e.png"
             ,
             height="256"
           />
@@ -3104,7 +3104,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">The Bell</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3112,7 +3112,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3137,7 +3137,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Dark Iron Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -3152,7 +3152,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d3d03320d16dcdd3838dcbebb4f35098.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5231f2bdc59eb8f92c32476156883c3c.png"
             ,
             height="256"
           />
@@ -3203,7 +3203,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Dull Blade</td>
+            <td align="center">Dark Iron Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3211,7 +3211,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3236,7 +3236,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Faruzan</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Messenger</h3></th>
     </tr>
     <tr>
       <td>
@@ -3251,7 +3251,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/4d957238a353cb383fd399457ca316e0.png"
             ,
             height="256"
           />
@@ -3302,7 +3302,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Hunter's Bow</td>
+            <td align="center">Messenger</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3310,7 +3310,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
