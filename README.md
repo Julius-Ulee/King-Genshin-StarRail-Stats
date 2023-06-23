@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 22, 2023 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 23, 2023 19:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +79,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-22 06:03:14+08:00</td>
+    <td align="center">🕒 2023-06-23 01:55:25+08:00</td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">12</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      2 x Condensed Aether
+      20 x Stellar Jade
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-22 01:06:21+08:00</td>
+    <td align="center">🕒 2023-06-23 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -147,7 +147,7 @@
       />
       Achievements
     </td>
-    <td align="center">261</td>
+    <td align="center">271</td>
   </tr>
   <tr>
     <td>
@@ -158,7 +158,7 @@
       />
       Days Active
     </td>
-    <td align="center">121</td>
+    <td align="center">122</td>
   </tr>
   <tr>
     <td>
@@ -175,7 +175,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">221</td>
+    <td align="center">230</td>
   </tr>
   <tr>
     <td>
@@ -208,7 +208,7 @@
       />
       Dendroculus
     </td>
-    <td align="center">28</td>
+    <td align="center">34</td>
   </tr>
   <tr>
     <td>
@@ -221,28 +221,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">592</td>
+    <td align="center">603</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">415</td>
+    <td align="center">421</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">107</td>
+    <td align="center">108</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">39</td>
+    <td align="center">41</td>
   </tr>
   <tr>
     <td>
@@ -394,7 +394,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/11/" width="80" />
+            <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
         <tr>
@@ -530,7 +530,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">149</td>
+    <td align="center">150</td>
   </tr>
   <tr>
     <td>
@@ -635,7 +635,7 @@
       />
       Primogems earned
     </td>
-    <td>3719 (rate -30)</td>
+    <td>4178 (rate -21)</td>
   </tr>
   <tr>
     <td>
@@ -646,14 +646,14 @@
       />
       Mora earned
     </td>
-    <td>3242569 (rate -14)</td>
+    <td>3971879 (rate 4)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1005 (28%)<br />Quests: 810 (22%)<br />Adventure: 778 (21%)<br />Daily
-      Activity: 730 (19%)<br />Spiral Abyss: 300 (8%)<br />Other: 56 (1%)<br />Mail:
-      40 (1%)<br />
+      Quests: 1110 (27%)<br />Events: 1005 (25%)<br />Adventure: 909 (22%)<br />Daily
+      Activity: 730 (17%)<br />Spiral Abyss: 300 (7%)<br />Other: 64 (1%)<br />Mail:
+      60 (1%)<br />
     </td>
   </tr>
 </table>
