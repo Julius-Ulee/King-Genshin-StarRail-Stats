@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 23, 2023 20:48 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 24, 2023 03:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-23 01:06:20+08:00</td>
+    <td align="center">🕒 2023-06-24 01:06:22+08:00</td>
   </tr>
 </table>
 
@@ -147,7 +147,7 @@
       />
       Achievements
     </td>
-    <td align="center">271</td>
+    <td align="center">273</td>
   </tr>
   <tr>
     <td>
@@ -228,7 +228,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">421</td>
+    <td align="center">422</td>
   </tr>
   <tr>
     <td>
@@ -262,6 +262,14 @@
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
     <td align="center">5-3</td>
+  </tr>
+  <tr>
+    <td>🕐 Start Time</td>
+    <td align="center">2023-06-15 20:00:00+00:00</td>
+  </tr>
+  <tr>
+    <td>🕛 End Time</td>
+    <td align="center">2023-06-30 19:59:59+00:00</td>
   </tr>
 </table>
 
@@ -635,7 +643,7 @@
       />
       Primogems earned
     </td>
-    <td>4178 (rate -21)</td>
+    <td>4543 (rate -14)</td>
   </tr>
   <tr>
     <td>
@@ -646,14 +654,14 @@
       />
       Mora earned
     </td>
-    <td>3971879 (rate 4)</td>
+    <td>4096022 (rate 7)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1110 (27%)<br />Events: 1005 (25%)<br />Adventure: 909 (22%)<br />Daily
-      Activity: 730 (17%)<br />Spiral Abyss: 300 (7%)<br />Other: 64 (1%)<br />Mail:
-      60 (1%)<br />
+      Quests: 1110 (25%)<br />Events: 1005 (23%)<br />Adventure: 914 (21%)<br />Daily
+      Activity: 790 (17%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
+      64 (1%)<br />
     </td>
   </tr>
 </table>
