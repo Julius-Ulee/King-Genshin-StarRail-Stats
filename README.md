@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 24, 2023 03:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 24, 2023 03:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">18</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +79,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
           ,
           height="80" /></a
       ><br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-23 01:55:25+08:00</td>
+    <td align="center">🕒 2023-06-24 04:05:27+08:00</td>
   </tr>
 </table>
 
@@ -262,14 +262,6 @@
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
     <td align="center">5-3</td>
-  </tr>
-  <tr>
-    <td>🕐 Start Time</td>
-    <td align="center">2023-06-15 20:00:00+00:00</td>
-  </tr>
-  <tr>
-    <td>🕛 End Time</td>
-    <td align="center">2023-06-30 19:59:59+00:00</td>
   </tr>
 </table>
 
@@ -590,12 +582,20 @@
     <td align="center">3</td>
   </tr>
   <tr>
+    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
+    <td align="center">9</td>
+  </tr>
+  <tr>
     <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
     <td align="center">5-3</td>
   </tr>
   <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center">9</td>
+    <td>🕐 Start Time</td>
+    <td align="center">2023-06-15 20:00:00+00:00</td>
+  </tr>
+  <tr>
+    <td>🕛 End Time</td>
+    <td align="center">2023-06-30 19:59:59+00:00</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -1454,6 +1454,135 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Sucrose</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Sucrose</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/9b053ef011fd233c3cddfc0c781a2bf3.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
+              x Maiden Beloved<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e2ba012f3732cbdb4cef420d2953aa13.png"
+                ,
+                height="18"
+              />
+              Thundersoother's Heart<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/78c77bfd68106528cac4127fd93a3025.png"
+                ,
+                height="18"
+              />
+              Viridescent Arrow Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/591dd76070f497b35d3e38de607181b8.png"
+                ,
+                height="18"
+              />
+              Hour of Soothing Thunder<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e12808d4787f1575c0370516ef3687e9.png"
+                ,
+                height="18"
+              />
+              Maiden's Fleeting Leisure<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/80e6f0d896ceb87ecd2b0781161b0f4c.png"
+                ,
+                height="18"
+              />
+              Maiden's Fading Beauty<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Kaeya</b></summary>
   <br />
   <table align="center">
@@ -1538,105 +1667,6 @@
           <tr>
             <td>Level</td>
             <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Sucrose</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c1cc6994537ddcf072296759e592a34d.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                ,
-                height="18"
-              />
-              Anemo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">The Widsith</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Catalyst</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -2101,6 +2131,105 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Faruzan</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Faruzan</h3></th>
+      <th><h3 align="center">Messenger</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Faruzan_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/4d957238a353cb383fd399457ca316e0.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">24</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Messenger</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3216,105 +3345,6 @@
           <tr>
             <td>Type</td>
             <td align="center">Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Faruzan</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Faruzan</h3></th>
-      <th><h3 align="center">Messenger</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Faruzan_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/4d957238a353cb383fd399457ca316e0.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                ,
-                height="18"
-              />
-              Anemo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Messenger</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
