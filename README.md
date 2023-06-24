@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 24, 2023 03:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 24, 2023 19:32 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -158,7 +158,7 @@
       />
       Days Active
     </td>
-    <td align="center">122</td>
+    <td align="center">123</td>
   </tr>
   <tr>
     <td>
@@ -214,14 +214,14 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center">18</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">603</td>
+    <td align="center">604</td>
   </tr>
   <tr>
     <td>
@@ -643,7 +643,7 @@
       />
       Primogems earned
     </td>
-    <td>4543 (rate -14)</td>
+    <td>4627 (rate -12)</td>
   </tr>
   <tr>
     <td>
@@ -654,13 +654,13 @@
       />
       Mora earned
     </td>
-    <td>4096022 (rate 7)</td>
+    <td>4191712 (rate 9)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1110 (25%)<br />Events: 1005 (23%)<br />Adventure: 914 (21%)<br />Daily
-      Activity: 790 (17%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
+      Quests: 1110 (24%)<br />Events: 1005 (22%)<br />Adventure: 938 (21%)<br />Daily
+      Activity: 850 (19%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
       64 (1%)<br />
     </td>
   </tr>
