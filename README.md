@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 25, 2023 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 26, 2023 04:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -48,7 +48,7 @@
         ,
         height="18"
       />
-      52
+      53
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">20</td>
+    <td align="center">21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +79,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-25 01:01:08+08:00</td>
+    <td align="center">🕒 2023-06-26 01:06:19+08:00</td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">15</td>
+    <td align="center">16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      1 x Energy Drink (sugar-free)
+      3 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-25 01:06:21+08:00</td>
+    <td align="center">🕒 2023-06-26 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -730,7 +730,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">84</td>
+            <td align="center">85</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1363,11 +1363,11 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
                 ,
                 height="18"
               />
-              Anemo
+              Geo
             </td>
           </tr>
           <tr>
@@ -1380,7 +1380,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">6</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>
@@ -1567,11 +1567,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center">90</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
           </tr>
           <tr>
             <td>Refinement</td>
