@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 24, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 25, 2023 19:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">19</td>
+    <td align="center">20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +79,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-24 04:05:27+08:00</td>
+    <td align="center">🕒 2023-06-25 01:01:08+08:00</td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      1 x Energy Drink (sugar-free)
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-24 01:06:22+08:00</td>
+    <td align="center">🕒 2023-06-25 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -147,7 +147,7 @@
       />
       Achievements
     </td>
-    <td align="center">273</td>
+    <td align="center">274</td>
   </tr>
   <tr>
     <td>
@@ -158,7 +158,7 @@
       />
       Days Active
     </td>
-    <td align="center">123</td>
+    <td align="center">124</td>
   </tr>
   <tr>
     <td>
@@ -228,7 +228,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">422</td>
+    <td align="center">423</td>
   </tr>
   <tr>
     <td>
@@ -643,7 +643,7 @@
       />
       Primogems earned
     </td>
-    <td>4627 (rate -12)</td>
+    <td>4689 (rate -11)</td>
   </tr>
   <tr>
     <td>
@@ -654,13 +654,13 @@
       />
       Mora earned
     </td>
-    <td>4191712 (rate 9)</td>
+    <td>4296148 (rate 12)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1110 (24%)<br />Events: 1005 (22%)<br />Adventure: 938 (21%)<br />Daily
-      Activity: 850 (19%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
+      Quests: 1110 (24%)<br />Events: 1005 (22%)<br />Adventure: 940 (21%)<br />Daily
+      Activity: 910 (19%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
       64 (1%)<br />
     </td>
   </tr>
@@ -1567,11 +1567,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>Refinement</td>
