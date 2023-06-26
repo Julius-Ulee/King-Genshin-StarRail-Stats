@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 04:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 26, 2023 19:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
       />
       Achievements
     </td>
-    <td align="center">274</td>
+    <td align="center">277</td>
   </tr>
   <tr>
     <td>
@@ -158,7 +158,7 @@
       />
       Days Active
     </td>
-    <td align="center">124</td>
+    <td align="center">125</td>
   </tr>
   <tr>
     <td>
@@ -175,7 +175,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">230</td>
+    <td align="center">231</td>
   </tr>
   <tr>
     <td>
@@ -394,7 +394,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/14/" width="80" />
           </td>
         </tr>
         <tr>
@@ -643,7 +643,7 @@
       />
       Primogems earned
     </td>
-    <td>4689 (rate -11)</td>
+    <td>4824 (rate -9)</td>
   </tr>
   <tr>
     <td>
@@ -654,14 +654,14 @@
       />
       Mora earned
     </td>
-    <td>4296148 (rate 12)</td>
+    <td>4385981 (rate 15)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1110 (24%)<br />Events: 1005 (22%)<br />Adventure: 940 (21%)<br />Daily
-      Activity: 910 (19%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300 (6%)<br />Other:
-      64 (1%)<br />
+      Quests: 1160 (25%)<br />Events: 1005 (21%)<br />Daily Activity: 970
+      (20%)<br />Adventure: 965 (20%)<br />Mail: 360 (7%)<br />Spiral Abyss: 300
+      (6%)<br />Other: 64 (1%)<br />
     </td>
   </tr>
 </table>
