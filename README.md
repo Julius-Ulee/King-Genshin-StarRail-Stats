@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 19:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 27, 2023 19:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">21</td>
+    <td align="center">22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +79,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-26 01:06:19+08:00</td>
+    <td align="center">🕒 2023-06-27 01:06:19+08:00</td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-26 01:06:20+08:00</td>
+    <td align="center">🕒 2023-06-27 01:06:20+08:00</td>
   </tr>
 </table>
 
