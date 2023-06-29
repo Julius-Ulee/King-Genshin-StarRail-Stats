@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 19:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 21:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -52,6 +52,17 @@
     </td>
   </tr>
   <tr>
+    <td>Server</td>
+    <td align="center">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
+        ,
+        height="18"
+      />
+      Asia
+    </td>
+  </tr>
+  <tr>
     <td>UID</td>
     <td align="center">
       <img
@@ -71,7 +82,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">23</td>
+    <td align="center">24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -79,16 +90,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-28 11:41:22+08:00</td>
+    <td align="center">🕒 2023-06-29 21:40:32+08:00</td>
   </tr>
 </table>
 
@@ -643,7 +654,7 @@
       />
       Primogems earned
     </td>
-    <td>5613 (rate 5)</td>
+    <td>5673 (rate 6)</td>
   </tr>
   <tr>
     <td>
@@ -654,12 +665,12 @@
       />
       Mora earned
     </td>
-    <td>5341041 (rate 40)</td>
+    <td>5456890 (rate 43)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1425 (26%)<br />Quests: 1240 (23%)<br />Adventure: 1131 (20%)<br />Daily
+      Events: 1425 (26%)<br />Quests: 1300 (23%)<br />Adventure: 1131 (20%)<br />Daily
       Activity: 1090 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
       67 (1%)<br />
     </td>
@@ -730,7 +741,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">85</td>
+            <td align="center">90</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -992,7 +1003,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">8</td>
+            <td align="center">9</td>
           </tr>
           <tr>
             <td>Constellation</td>
