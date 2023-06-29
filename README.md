@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 21:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 21:53 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -54,12 +54,7 @@
   <tr>
     <td>Server</td>
     <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
-        ,
-        height="18"
-      />
-      Asia
+      <img src="./images/logo/star.png" , height="18" /> Asia
     </td>
   </tr>
   <tr>
