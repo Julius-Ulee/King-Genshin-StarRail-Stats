@@ -351,3 +351,184 @@
     </table>
 </details>
 {%- endfor -%}
+
+<details><summary>Honkai Star Rail Details</summary>
+    <h2>Info</h2>
+    <table>
+        <tr>
+            <td>Nickname</td>
+            <td>{{ hsr.user.info.nickname }}</td>
+        </tr>
+        <tr>
+            <td>Trailblaze Level</td>
+            <td>{{ hsr.user.info.level }}</td>
+        </tr>
+        <tr>
+            <td>Server</td>
+            <td>{{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
+        </tr>
+    </table>
+
+    <h2>Daily Rewards</h2>
+    <table>
+        <tr>
+            <td>Total Rewards Claimed</td>
+            <td>{{ hsr.reward_info.claimed_rewards }}</td>
+        </tr>
+        <tr>
+            <td>Last Claimed Reward</td>
+            <td>{{ hsr.reward.amount }} x <img src="{{ hsr.reward.icon }}" height="20"> {{ hsr.reward.name }}</td>
+        </tr>
+    </table>
+
+    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
+    <table>
+        {%- for field, value in hsr.user.stats.dict().items() -%}
+        <tr>
+        {%- if field not in ["lang", "abyss_process"] -%}
+            {%- if "chest" in field -%}
+            <td>Chest Opened</td>
+            {%- else -%}
+            <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
+            {%- endif -%}
+            <td>{{ value }}</td>
+        {%- endif -%}
+        </tr>
+        {%- endfor -%}
+    </table>
+
+    {%- if hsr.forgotten_hall.floors|length -%}
+    <h2>Memory of Chaos</h2>
+    <table>
+        <tr>
+            <td>Season</td>
+            <td>{{ hsr.forgotten_hall.season }}</td>
+        </tr>
+        <tr>
+            <td>Max Floor</td>
+            <td>{{ hsr.forgotten_hall.max_floor }}</td>
+        </tr>
+        <tr>
+            <td>Total Battles</td>
+            <td>{{ hsr.forgotten_hall.total_battles }}</td>
+        </tr>
+        <tr>
+            <td>Total Stars</td>
+            <td>{{ hsr.forgotten_hall.total_stars }}</td>
+        </tr>
+        {%- for floor in hsr.forgotten_hall.floors -%}
+        <tr>
+            <td>Name</td>
+            <td>{{ floor.name }}</td>
+        </tr>
+        <tr>
+            <td>Floor {{ floor.floor }}</td>
+            <td>{{ floor.star_num }} Stars</td>
+        </tr>
+        <tr>
+            <td>Cycles used</td>
+            <td>{{ floor.round_num }}</td>
+        </tr>
+        <tr>
+            <td>Party 1</td>
+            <td>
+                {%- for avatar in floor.node_1.avatars -%}
+                <img src="{{ avatar.icon }}" height="18">
+                {%- endfor -%}
+            </td>
+        </tr>
+        <tr>
+            <td>Party 2</td>
+            <td>
+                {%- for avatar in floor.node_2.avatars -%}
+                <img src="{{ avatar.icon }}" height="18">
+                {%- endfor -%}
+        </tr>
+        {%- endfor -%}
+    </table>
+    {%- endif -%}
+
+    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters</h2>
+    {%- for character in hsr.characters -%}
+        {%- if hsr.characters.index(character) == 0 -%}
+        <details open>
+        {%- else -%}
+        <details>
+        {%- endif -%}
+        <summary><b>{{ character.name}} </b></summary>
+        <br/>
+        <table>
+            <tr>
+                <th><h3>{{ character.name }}</h3></th>
+                <th><h3>{{ character.equip.name }}</h3></th>
+            </tr>
+            <tr>
+                <td>
+                    <p align="center"><img src="{{ character.icon }}"></p>
+                </td>
+                <td>
+                    <p align="center"><img src="{{ character.equip.icon }}"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table>
+                        <tr>
+                            <td>Rarity</td>
+                            <td>{{ "★" * character.rarity }}</td>
+                        </tr>
+                        <tr>
+                            <td>Element</td>
+                            <td><img src="https://hsr.honeyhunterworld.com/img/damage_type/{{ character.element }}-damage_type_icon_50.webp" height="18"></td>
+                        </tr>
+                        <tr>
+                            <td>Level</td>
+                            <td>{{ character.level }}</td>
+                        </tr>
+                        <tr>
+                            <td>Eidolon</td>
+                            <td>{{ character.rank }}</td>
+                        </tr>
+                        <tr>
+                            <td>Relics</td>
+                            <td>
+                                {%- for relic in character.relics -%}
+                                <img src="{{ relic.icon }}", height="18"> {{ relic.name }}<br>
+                                {%- endfor -%}
+                            </td>
+                        </tr>
+                        {%- if character.ornaments -%}
+                        <tr>
+                            <td>Planar</td>
+                            <td>
+                                {%- for planar in character.ornaments -%}
+                                <img src="{{ planar.icon }}", height="18"> {{ planar.name }}<br>
+                                {%- endfor -%}
+                            </td>
+                        </tr>
+                        {%- endif -%}
+                    </table>
+                </td>
+                <td valign="top">
+                    <table>
+                        <tr>
+                            <td>Name</td>
+                            <td>{{ character.equip.name }}</td>
+                        </tr>
+                        <tr>
+                            <td>Level</td>
+                            <td>{{ character.equip.level }}</td>
+                        </tr>
+                        <tr>
+                            <td>Superimpose</td>
+                            <td>{{ character.equip.rank }}</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </details>
+    {%- endfor -%}
+
+
+</details>
