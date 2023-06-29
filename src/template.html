@@ -13,11 +13,11 @@
 <table align="center">
   <tr>
     <td>Nickname</td>
-    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> {{ user.info.nickname }}</td>
+    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> {{ genshin.user.info.nickname }}</td>
   </tr>
   <tr>
     <td>Adventure Rank</td>
-    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/i_2002.webp", height="18"> {{ user.info.level }}</td>
+    <td align="center"><img src="https://genshin.honeyhunterworld.com/img/i_2002.webp", height="18"> {{ genshin.user.info.level }}</td>
   </tr>
   <tr>
     <td>Server</td>
@@ -33,15 +33,15 @@
 <table align="center">
     <tr>
         <td>Total Rewards Claimed</td>
-        <td align="center">{{ reward_info.claimed_rewards }}</td>
+        <td align="center">{{ genshin.reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
         <td>Last Claimed Reward</td>
-        <td align="center"><a href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"><img src="{{ reward.icon }}", height="80"></a><br> {{ reward.amount }} x {{ reward.name }}</td>
+        <td align="center"><a href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"><img src="{{ genshin.reward.icon }}", height="80"></a><br> {{ genshin.reward.amount }} x {{ genshin.reward.name }}</td>
     </tr>
      <tr>
         <td>Last Checked</td>
-        <td align="center">🕒 {{ reward.time }}</td>
+        <td align="center">🕒 {{ genshin.reward.time }}</td>
     </tr>
 </table>
 
@@ -53,15 +53,15 @@
 <table align="center">
     <tr>
         <td>Total Rewards Claimed</td>
-        <td align="center">{{ sr_reward_info.claimed_rewards }}</td>
+        <td align="center">{{ hsr.sr_reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
         <td>Last Claimed Reward</td>
-        <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ sr_reward.icon }}", height="80"></a><br> {{ sr_reward.amount }} x {{ sr_reward.name }}</td>
+        <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ hsr.sr_reward.icon }}", height="80"></a><br> {{ hsr.sr_reward.amount }} x {{ hsr.sr_reward.name }}</td>
     </tr>
     <tr>
         <td>Last Checked</td>
-        <td align="center">🕒 {{ sr_reward.time }}</td>
+        <td align="center">🕒 {{ hsr.sr_reward.time }}</td>
     </tr>
 </table>
 
