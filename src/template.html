@@ -45,26 +45,6 @@
     </tr>
 </table>
 
-<p align="center">
-  <img src="./images/logo/starrail.webp", width="240" heigth="240">
-</p>
-
-<h2 align="center"><img src="./images/logo/check-in-hsr.webp", height="20"> Daily Rewards Honkai Star Rail <img src="./images/logo/check-in-hsr.webp", height="20"></h2>
-<table align="center">
-    <tr>
-        <td>Total Rewards Claimed</td>
-        <td align="center">{{ hsr.reward_info.claimed_rewards }}</td>
-    </tr>
-    <tr>
-        <td>Last Claimed Reward</td>
-        <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ hsr.reward.icon }}", height="80"></a><br> {{ hsr.reward.amount }} x {{ hsr.reward.name }}</td>
-    </tr>
-    <tr>
-        <td>Last Checked</td>
-        <td align="center">🕒 {{ hsr.reward.time }}</td>
-    </tr>
-</table>
-
 <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"></h2>
 <table align="center">
     <tr>
@@ -353,35 +333,42 @@
 {%- endfor -%}
 
 <details><summary>Honkai Star Rail Details</summary>
-    <h2>Info</h2>
+    <p align="center">
+      <img src="./images/logo/starrail.webp", width="240" heigth="240">
+    </p>
+    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Profile Information <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
     <table>
         <tr>
             <td>Nickname</td>
-            <td>{{ hsr.user.info.nickname }}</td>
+            <td align="center"><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> {{ hsr.user.info.nickname }}</td>
         </tr>
         <tr>
             <td>Trailblaze Level</td>
-            <td>{{ hsr.user.info.level }}</td>
+            <td align="center"><img src="./images/logo/star.png" height="20"> {{ hsr.user.info.level }}</td>
         </tr>
         <tr>
             <td>Server</td>
-            <td>{{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
+            <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp", height="18"> {{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
         </tr>
     </table>
 
-    <h2>Daily Rewards</h2>
-    <table>
+    <h2 align="center"><img src="./images/logo/check-in-hsr.webp", height="20"> Daily Rewards Honkai Star Rail <img src="./images/logo/check-in-hsr.webp", height="20"></h2>
+    <table align="center">
         <tr>
             <td>Total Rewards Claimed</td>
-            <td>{{ hsr.reward_info.claimed_rewards }}</td>
+            <td align="center">{{ hsr.reward_info.claimed_rewards }}</td>
         </tr>
         <tr>
             <td>Last Claimed Reward</td>
-            <td>{{ hsr.reward.amount }} x <img src="{{ hsr.reward.icon }}" height="20"> {{ hsr.reward.name }}</td>
+            <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ hsr.reward.icon }}", height="80"></a><br> {{ hsr.reward.amount }} x {{ hsr.reward.name }}</td>
+        </tr>
+        <tr>
+            <td>Last Checked</td>
+            <td align="center">🕒 {{ hsr.reward.time }}</td>
         </tr>
     </table>
 
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
+    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"></h2>
     <table>
         {%- for field, value in hsr.user.stats.dict().items() -%}
         <tr>
@@ -448,7 +435,7 @@
     </table>
     {%- endif -%}
 
-    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters</h2>
+    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
     {%- for character in hsr.characters -%}
         {%- if hsr.characters.index(character) == 0 -%}
         <details open>
