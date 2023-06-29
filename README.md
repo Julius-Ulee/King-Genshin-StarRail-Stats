@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -95,38 +95,6 @@
   <tr>
     <td>Last Checked</td>
     <td align="center">🕒 2023-06-29 21:40:32+08:00</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
-</p>
-
-<h2 align="center">
-  <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
-  Honkai Star Rail <img src="./images/logo/check-in-hsr.webp" , height="20" />
-</h2>
-<table align="center">
-  <tr>
-    <td>Total Rewards Claimed</td>
-    <td align="center">19</td>
-  </tr>
-  <tr>
-    <td>Last Claimed Reward</td>
-    <td align="center">
-      <a
-        href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
-        ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
-          ,
-          height="80" /></a
-      ><br />
-      8000 x Credit
-    </td>
-  </tr>
-  <tr>
-    <td>Last Checked</td>
-    <td align="center">🕒 2023-06-29 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -3474,38 +3442,73 @@
 </details>
 <details>
   <summary>Honkai Star Rail Details</summary>
-  <h2>Info</h2>
+  <p align="center">
+    <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
+  </p>
+  <h2>
+    <img
+      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+      height="20"
+    />
+    Profile Information
+    <img
+      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+      height="20"
+    />
+  </h2>
   <table>
     <tr>
       <td>Nickname</td>
-      <td>King</td>
+      <td align="center">
+        <img
+          src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+          height="20"
+        />
+        King
+      </td>
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td>2</td>
+      <td align="center"><img src="./images/logo/star.png" height="20" /> 2</td>
     </tr>
     <tr>
       <td>Server</td>
-      <td>Asia</td>
+      <td align="center">
+        <img
+          src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
+          ,
+          height="18"
+        />
+        Asia
+      </td>
     </tr>
   </table>
 
-  <h2>Daily Rewards</h2>
-  <table>
+  <h2 align="center">
+    <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
+    Honkai Star Rail <img src="./images/logo/check-in-hsr.webp" , height="20" />
+  </h2>
+  <table align="center">
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>19</td>
+      <td align="center">19</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
-      <td>
-        8000 x
-        <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
-          height="20"
-        />
-        Credit
+      <td align="center">
+        <a
+          href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
+          ><img
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            ,
+            height="80" /></a
+        ><br />
+        8000 x Credit
       </td>
+    </tr>
+    <tr>
+      <td>Last Checked</td>
+      <td align="center">🕒 2023-06-29 01:06:20+08:00</td>
     </tr>
   </table>
 
@@ -3515,6 +3518,10 @@
       height="20"
     />
     Stats
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+      height="20"
+    />
   </h2>
   <table>
     <tr></tr>
@@ -3542,6 +3549,10 @@
       height="20"
     />
     Characters
+    <img
+      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+      height="20"
+    />
   </h2>
   <details open>
     <summary><b>Trailblazer </b></summary>
