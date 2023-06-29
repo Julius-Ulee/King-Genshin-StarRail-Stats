@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:45 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3442,7 +3442,7 @@
 </details>
 <details align="center">
   <summary>Honkai Star Rail Details</summary>
-  <img src="./images/banner/zongli-banner.gif" />
+  <img src="./images/banner/hsr-banner.gif" />
 
   <p align="center">
     <a href=""
