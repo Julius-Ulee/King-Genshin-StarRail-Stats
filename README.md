@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:45 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:59 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3555,6 +3555,9 @@
     </tr>
     <tr></tr>
   </table>
+  <p align="center">
+    <img src="./images/logo/hsr-sticker.png" , width="240" heigth="240" />
+  </p>
   <h2 align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
