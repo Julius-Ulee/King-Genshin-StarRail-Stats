@@ -336,19 +336,19 @@
     <p align="center">
       <img src="./images/logo/starrail.webp", width="240" heigth="240">
     </p>
-    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Profile Information <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
-    <table>
+    <h2 align="center"><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Profile Information <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
+    <table align="center">
         <tr>
             <td>Nickname</td>
             <td align="center"><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> {{ hsr.user.info.nickname }}</td>
         </tr>
         <tr>
             <td>Trailblaze Level</td>
-            <td align="center"><img src="./images/logo/star.png" height="20"> {{ hsr.user.info.level }}</td>
+            <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp", height="20"> {{ hsr.user.info.level }}</td>
         </tr>
         <tr>
             <td>Server</td>
-            <td align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp", height="18"> {{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
+            <td align="center"><img src="./images/logo/star.png" height="20"> {{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
         </tr>
     </table>
 
@@ -368,8 +368,8 @@
         </tr>
     </table>
 
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"></h2>
-    <table>
+    <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"></h2>
+    <table align="center">
         {%- for field, value in hsr.user.stats.dict().items() -%}
         <tr>
         {%- if field not in ["lang", "abyss_process"] -%}
@@ -385,28 +385,28 @@
     </table>
 
     {%- if hsr.forgotten_hall.floors|length -%}
-    <h2>Memory of Chaos</h2>
-    <table>
+    <h2 align="center">Memory of Chaos</h2>
+    <table align="center">
         <tr>
             <td>Season</td>
-            <td>{{ hsr.forgotten_hall.season }}</td>
+            <td align="center">{{ hsr.forgotten_hall.season }}</td>
         </tr>
         <tr>
             <td>Max Floor</td>
-            <td>{{ hsr.forgotten_hall.max_floor }}</td>
+            <td align="center">{{ hsr.forgotten_hall.max_floor }}</td>
         </tr>
         <tr>
             <td>Total Battles</td>
-            <td>{{ hsr.forgotten_hall.total_battles }}</td>
+            <td align="center">{{ hsr.forgotten_hall.total_battles }}</td>
         </tr>
         <tr>
             <td>Total Stars</td>
-            <td>{{ hsr.forgotten_hall.total_stars }}</td>
+            <td align="center">{{ hsr.forgotten_hall.total_stars }}</td>
         </tr>
         {%- for floor in hsr.forgotten_hall.floors -%}
         <tr>
             <td>Name</td>
-            <td>{{ floor.name }}</td>
+            <td align="center">{{ floor.name }}</td>
         </tr>
         <tr>
             <td>Floor {{ floor.floor }}</td>
@@ -435,19 +435,19 @@
     </table>
     {%- endif -%}
 
-    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
+    <h2 align="center"><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"></h2>
     {%- for character in hsr.characters -%}
         {%- if hsr.characters.index(character) == 0 -%}
         <details open>
         {%- else -%}
         <details>
         {%- endif -%}
-        <summary><b>{{ character.name}} </b></summary>
+        <summary align="center"><b>{{ character.name}} </b></summary>
         <br/>
-        <table>
+        <table align="center">
             <tr>
-                <th><h3>{{ character.name }}</h3></th>
-                <th><h3>{{ character.equip.name }}</h3></th>
+                <th align="center"><h3>{{ character.name }}</h3></th>
+                <th align="center"><h3>{{ character.equip.name }}</h3></th>
             </tr>
             <tr>
                 <td>
@@ -462,19 +462,19 @@
                     <table>
                         <tr>
                             <td>Rarity</td>
-                            <td>{{ "★" * character.rarity }}</td>
+                            <td align="center">{{ "⭐" * character.rarity }}</td>
                         </tr>
                         <tr>
                             <td>Element</td>
-                            <td><img src="https://hsr.honeyhunterworld.com/img/damage_type/{{ character.element }}-damage_type_icon_50.webp" height="18"></td>
+                            <td align="center"><img src="https://hsr.honeyhunterworld.com/img/damage_type/{{ character.element }}-damage_type_icon_50.webp" height="18"></td>
                         </tr>
                         <tr>
                             <td>Level</td>
-                            <td>{{ character.level }}</td>
+                            <td align="center">{{ character.level }}</td>
                         </tr>
                         <tr>
                             <td>Eidolon</td>
-                            <td>{{ character.rank }}</td>
+                            <td align="center">{{ character.rank }}</td>
                         </tr>
                         <tr>
                             <td>Relics</td>
@@ -500,15 +500,15 @@
                     <table>
                         <tr>
                             <td>Name</td>
-                            <td>{{ character.equip.name }}</td>
+                            <td align="center">{{ character.equip.name }}</td>
                         </tr>
                         <tr>
                             <td>Level</td>
-                            <td>{{ character.equip.level }}</td>
+                            <td align="center">{{ character.equip.level }}</td>
                         </tr>
                         <tr>
                             <td>Superimpose</td>
-                            <td>{{ character.equip.rank }}</td>
+                            <td align="center">{{ character.equip.rank }}</td>
                         </tr>
                     </table>
                 </td>
