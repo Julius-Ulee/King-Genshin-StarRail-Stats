@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 28, 2023 19:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 19:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">18</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -111,16 +111,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      2 x Lost Gold Fragment
+      8000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-28 01:06:20+08:00</td>
+    <td align="center">🕒 2023-06-29 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -147,7 +147,7 @@
       />
       Achievements
     </td>
-    <td align="center">279</td>
+    <td align="center">286</td>
   </tr>
   <tr>
     <td>
@@ -158,7 +158,7 @@
       />
       Days Active
     </td>
-    <td align="center">126</td>
+    <td align="center">127</td>
   </tr>
   <tr>
     <td>
@@ -208,41 +208,41 @@
       />
       Dendroculus
     </td>
-    <td align="center">38</td>
+    <td align="center">39</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center">19</td>
+    <td align="center">21</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">616</td>
+    <td align="center">622</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">424</td>
+    <td align="center">425</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">109</td>
+    <td align="center">113</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">41</td>
+    <td align="center">42</td>
   </tr>
   <tr>
     <td>
@@ -436,7 +436,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/12/" width="80" />
+            <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
         <tr>
@@ -643,7 +643,7 @@
       />
       Primogems earned
     </td>
-    <td>5405 (rate 1)</td>
+    <td>5613 (rate 5)</td>
   </tr>
   <tr>
     <td>
@@ -654,13 +654,13 @@
       />
       Mora earned
     </td>
-    <td>5045620 (rate 32)</td>
+    <td>5341041 (rate 40)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1425 (27%)<br />Quests: 1180 (22%)<br />Adventure: 1043 (20%)<br />Daily
-      Activity: 1030 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
+      Events: 1425 (26%)<br />Quests: 1240 (23%)<br />Adventure: 1131 (20%)<br />Daily
+      Activity: 1090 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
       67 (1%)<br />
     </td>
   </tr>
@@ -3419,7 +3419,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Constellation</td>
