@@ -1,4 +1,4 @@
-<img src="./images/banner/zongli-banner.gif" />
+<img align="center" src="./images/banner/zongli-banner.gif" />
 
 <p align="center">
   <a href=""
@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 23:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 23:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3440,7 +3440,7 @@
     </tr>
   </table>
 </details>
-<img src="./images/banner/hsr-banner.gif" />
+<img align="center" src="./images/banner/hsr-banner.gif" />
 
 <p align="center">
   <a href=""
@@ -3470,6 +3470,12 @@
     </td>
   </tr>
   <tr>
+    <td>Server</td>
+    <td align="center">
+      <img src="./images/logo/star.png" height="20" /> Asia
+    </td>
+  </tr>
+  <tr>
     <td>Trailblaze Level</td>
     <td align="center">
       <img
@@ -3478,12 +3484,6 @@
         height="20"
       />
       2
-    </td>
-  </tr>
-  <tr>
-    <td>Server</td>
-    <td align="center">
-      <img src="./images/logo/star.png" height="20" /> Asia
     </td>
   </tr>
 </table>
