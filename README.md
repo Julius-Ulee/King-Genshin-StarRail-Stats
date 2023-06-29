@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 23:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 23:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3568,11 +3568,13 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/157989936f090a8b21759eb4476a76b1.png"
+            ,
+            height="256"
           />
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center"><img src="" , height="256" /></p>
       </td>
     </tr>
     <tr>
@@ -3637,11 +3639,13 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+            ,
+            height="256"
           />
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center"><img src="" , height="256" /></p>
       </td>
     </tr>
     <tr>
