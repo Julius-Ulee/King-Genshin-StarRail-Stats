@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:21 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3445,7 +3445,7 @@
   <p align="center">
     <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
   </p>
-  <h2>
+  <h2 align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
       height="20"
@@ -3456,7 +3456,7 @@
       height="20"
     />
   </h2>
-  <table>
+  <table align="center">
     <tr>
       <td>Nickname</td>
       <td align="center">
@@ -3469,17 +3469,19 @@
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td align="center"><img src="./images/logo/star.png" height="20" /> 2</td>
-    </tr>
-    <tr>
-      <td>Server</td>
       <td align="center">
         <img
           src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
           ,
-          height="18"
+          height="20"
         />
-        Asia
+        2
+      </td>
+    </tr>
+    <tr>
+      <td>Server</td>
+      <td align="center">
+        <img src="./images/logo/star.png" height="20" /> Asia
       </td>
     </tr>
   </table>
@@ -3512,7 +3514,7 @@
     </tr>
   </table>
 
-  <h2>
+  <h2 align="center">
     <img
       src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
       height="20"
@@ -3523,7 +3525,7 @@
       height="20"
     />
   </h2>
-  <table>
+  <table align="center">
     <tr></tr>
     <tr>
       <td>Days Active</td>
@@ -3543,7 +3545,7 @@
     </tr>
     <tr></tr>
   </table>
-  <h2>
+  <h2 align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
       height="20"
@@ -3555,12 +3557,12 @@
     />
   </h2>
   <details open>
-    <summary><b>Trailblazer </b></summary>
+    <summary align="center"><b>Trailblazer </b></summary>
     <br />
-    <table>
+    <table align="center">
       <tr>
-        <th><h3>Trailblazer</h3></th>
-        <th><h3></h3></th>
+        <th align="center"><h3>Trailblazer</h3></th>
+        <th align="center"><h3></h3></th>
       </tr>
       <tr>
         <td>
@@ -3579,11 +3581,11 @@
           <table>
             <tr>
               <td>Rarity</td>
-              <td>★★★★★</td>
+              <td align="center">⭐⭐⭐⭐⭐</td>
             </tr>
             <tr>
               <td>Element</td>
-              <td>
+              <td align="center">
                 <img
                   src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                   height="18"
@@ -3592,11 +3594,11 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>1</td>
+              <td align="center">1</td>
             </tr>
             <tr>
               <td>Eidolon</td>
-              <td>0</td>
+              <td align="center">0</td>
             </tr>
             <tr>
               <td>Relics</td>
@@ -3608,15 +3610,15 @@
           <table>
             <tr>
               <td>Name</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
             <tr>
               <td>Level</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
             <tr>
               <td>Superimpose</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
           </table>
         </td>
@@ -3624,12 +3626,12 @@
     </table>
   </details>
   <details>
-    <summary><b>March 7th </b></summary>
+    <summary align="center"><b>March 7th </b></summary>
     <br />
-    <table>
+    <table align="center">
       <tr>
-        <th><h3>March 7th</h3></th>
-        <th><h3></h3></th>
+        <th align="center"><h3>March 7th</h3></th>
+        <th align="center"><h3></h3></th>
       </tr>
       <tr>
         <td>
@@ -3648,11 +3650,11 @@
           <table>
             <tr>
               <td>Rarity</td>
-              <td>★★★★</td>
+              <td align="center">⭐⭐⭐⭐</td>
             </tr>
             <tr>
               <td>Element</td>
-              <td>
+              <td align="center">
                 <img
                   src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                   height="18"
@@ -3661,11 +3663,11 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>1</td>
+              <td align="center">1</td>
             </tr>
             <tr>
               <td>Eidolon</td>
-              <td>0</td>
+              <td align="center">0</td>
             </tr>
             <tr>
               <td>Relics</td>
@@ -3677,15 +3679,15 @@
           <table>
             <tr>
               <td>Name</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
             <tr>
               <td>Level</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
             <tr>
               <td>Superimpose</td>
-              <td></td>
+              <td align="center"></td>
             </tr>
           </table>
         </td>
