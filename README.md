@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3442,6 +3442,16 @@
 </details>
 <details align="center">
   <summary>Honkai Star Rail Details</summary>
+  <img src="./images/banner/zongli-banner.gif" />
+
+  <p align="center">
+    <a href=""
+      ><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai+Star+Rail+Stats"
+        alt="Typing SVG"
+    /></a>
+  </p>
+
   <p align="center">
     <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
   </p>
