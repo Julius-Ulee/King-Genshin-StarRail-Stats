@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 22:59 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 23:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3440,271 +3440,256 @@
     </tr>
   </table>
 </details>
-<details align="center">
-  <summary>Honkai Star Rail Details</summary>
-  <img src="./images/banner/hsr-banner.gif" />
+<img src="./images/banner/hsr-banner.gif" />
 
-  <p align="center">
-    <a href=""
-      ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai+Star+Rail+Stats"
-        alt="Typing SVG"
-    /></a>
-  </p>
+<p align="center">
+  <a href=""
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai+Star+Rail+Stats"
+      alt="Typing SVG"
+  /></a>
+</p>
 
-  <p align="center">
-    <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
-  </p>
-  <h2 align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-      height="20"
-    />
-    Profile Information
-    <img
-      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-      height="20"
-    />
-  </h2>
-  <table align="center">
-    <tr>
-      <td>Nickname</td>
-      <td align="center">
-        <img
-          src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-          height="20"
-        />
-        King
-      </td>
-    </tr>
-    <tr>
-      <td>Trailblaze Level</td>
-      <td align="center">
-        <img
-          src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
+<p align="center">
+  <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
+</p>
+<h2 align="center">
+  <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
+  Profile Information
+  <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
+</h2>
+<table align="center">
+  <tr>
+    <td>Nickname</td>
+    <td align="center">
+      <img
+        src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+        height="20"
+      />
+      King
+    </td>
+  </tr>
+  <tr>
+    <td>Trailblaze Level</td>
+    <td align="center">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
+        ,
+        height="20"
+      />
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td align="center">
+      <img src="./images/logo/star.png" height="20" /> Asia
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">
+  <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
+  Honkai Star Rail <img src="./images/logo/check-in-hsr.webp" , height="20" />
+</h2>
+<table align="center">
+  <tr>
+    <td>Total Rewards Claimed</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Last Claimed Reward</td>
+    <td align="center">
+      <a
+        href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
+        ><img
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
-          height="20"
-        />
-        2
-      </td>
-    </tr>
-    <tr>
-      <td>Server</td>
-      <td align="center">
-        <img src="./images/logo/star.png" height="20" /> Asia
-      </td>
-    </tr>
-  </table>
+          height="80" /></a
+      ><br />
+      20 x Stellar Jade
+    </td>
+  </tr>
+  <tr>
+    <td>Last Checked</td>
+    <td align="center">🕒 2023-06-30 00:03:05+08:00</td>
+  </tr>
+</table>
 
-  <h2 align="center">
-    <img src="./images/logo/check-in-hsr.webp" , height="20" /> Daily Rewards
-    Honkai Star Rail <img src="./images/logo/check-in-hsr.webp" , height="20" />
-  </h2>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+    height="20"
+  />
+  Stats
+  <img
+    src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr></tr>
+  <tr>
+    <td>Days Active</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Total Avatar</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Total Achievement</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Chest Opened</td>
+    <td>0</td>
+  </tr>
+  <tr></tr>
+</table>
+<p align="center">
+  <img src="./images/logo/hsr-sticker.png" , width="240" heigth="240" />
+</p>
+<h2 align="center">
+  <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
+  Characters
+  <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
+</h2>
+<details open>
+  <summary align="center"><b>Trailblazer </b></summary>
+  <br />
   <table align="center">
     <tr>
-      <td>Total Rewards Claimed</td>
-      <td align="center">19</td>
+      <th align="center"><h3>Trailblazer</h3></th>
+      <th align="center"><h3></h3></th>
     </tr>
     <tr>
-      <td>Last Claimed Reward</td>
-      <td align="center">
-        <a
-          href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
-          ><img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
-            ,
-            height="80" /></a
-        ><br />
-        8000 x Credit
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/157989936f090a8b21759eb4476a76b1.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
       </td>
     </tr>
     <tr>
-      <td>Last Checked</td>
-      <td align="center">🕒 2023-06-29 01:06:20+08:00</td>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
-
-  <h2 align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
-      height="20"
-    />
-    Stats
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
-      height="20"
-    />
-  </h2>
+</details>
+<details open>
+  <summary align="center"><b>March 7th </b></summary>
+  <br />
   <table align="center">
-    <tr></tr>
     <tr>
-      <td>Days Active</td>
-      <td>1</td>
+      <th align="center"><h3>March 7th</h3></th>
+      <th align="center"><h3></h3></th>
     </tr>
     <tr>
-      <td>Total Avatar</td>
-      <td>2</td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
     </tr>
     <tr>
-      <td>Total Achievement</td>
-      <td>0</td>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
     </tr>
-    <tr>
-      <td>Chest Opened</td>
-      <td>0</td>
-    </tr>
-    <tr></tr>
   </table>
-  <p align="center">
-    <img src="./images/logo/hsr-sticker.png" , width="240" heigth="240" />
-  </p>
-  <h2 align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-      height="20"
-    />
-    Characters
-    <img
-      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-      height="20"
-    />
-  </h2>
-  <details open>
-    <summary align="center"><b>Trailblazer </b></summary>
-    <br />
-    <table align="center">
-      <tr>
-        <th align="center"><h3>Trailblazer</h3></th>
-        <th align="center"><h3></h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/157989936f090a8b21759eb4476a76b1.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center"><img src="" /></p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td align="center">⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td align="center">
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td align="center">1</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td align="center">0</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td align="center"></td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td align="center"></td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td align="center"></td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary align="center"><b>March 7th </b></summary>
-    <br />
-    <table align="center">
-      <tr>
-        <th align="center"><h3>March 7th</h3></th>
-        <th align="center"><h3></h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center"><img src="" /></p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td align="center">⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td align="center">
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td align="center">1</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td align="center">0</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td align="center"></td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td align="center"></td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td align="center"></td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
 </details>
