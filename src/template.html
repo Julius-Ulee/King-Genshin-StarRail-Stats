@@ -69,82 +69,82 @@
 <table align="center">
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/acat_0.webp", height="18"> Achievements</td>
-        <td align="center">{{ user.stats.achievements }}</td>
+        <td align="center">{{ genshin.user.stats.achievements }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/acat_33.webp", height="18"> Days Active</td>
-        <td align="center">{{ user.stats.days_active }}</td>
+        <td align="center">{{ genshin.user.stats.days_active }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> Characters</td>
-        <td align="center">{{ user.stats.characters }}</td>
+        <td align="center">{{ genshin.user.stats.characters }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/waypoint.webp", height="18"> Waypoints Unlocked</td>
-        <td align="center">{{ user.stats.unlocked_waypoints }}</td>
+        <td align="center">{{ genshin.user.stats.unlocked_waypoints }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/i_2027.webp", height="18"> Anemoculus</td>
-        <td align="center">{{ user.stats.anemoculi }}</td>
+        <td align="center">{{ genshin.user.stats.anemoculi }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/i_2029.webp", height="18"> Geoculus</td>
-        <td align="center">{{ user.stats.geoculi }}</td>
+        <td align="center">{{ genshin.user.stats.geoculi }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/i_n107017.webp", height="18"> Dendroculus</td>
-        <td align="center">{{ user.stats.dendroculi }}</td>
+        <td align="center">{{ genshin.user.stats.dendroculi }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/Electroculus.png", height="18"> Electroculus</td>
-        <td align="center">{{ user.stats.electroculi }}</td>
+        <td align="center">{{ genshin.user.stats.electroculi }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/Common-Chest.webp", height="18"> Common Chests Opened</td>
-        <td align="center">{{ user.stats.common_chests }}</td>
+        <td align="center">{{ genshin.user.stats.common_chests }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/Exquisite-Chest.webp", height="18"> Exquisite Chests Opened</td>
-        <td align="center">{{ user.stats.exquisite_chests }}</td>
+        <td align="center">{{ genshin.user.stats.exquisite_chests }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/Precious.png", height="18"> Precious Chests Opened</td>
-        <td align="center">{{ user.stats.precious_chests }}</td>
+        <td align="center">{{ genshin.user.stats.precious_chests }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/Luxurious-Chest.png", height="18"> Luxurious Chests Opened</td>
-        <td align="center">{{ user.stats.luxurious_chests }}</td>
+        <td align="center">{{ genshin.user.stats.luxurious_chests }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/remarkable.png", height="18"> Remarkable Chests Opened</td>
-        <td align="center">{{ user.stats.remarkable_chests }}</td>
+        <td align="center">{{ genshin.user.stats.remarkable_chests }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/domain.webp", height="18"> Domains Unlocked</td>
-        <td align="center">{{ user.stats.unlocked_domains }}</td>
+        <td align="center">{{ genshin.user.stats.unlocked_domains }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/spiral-abyss.webp", height="18"> Spiral Abyss</td>
-        <td align="center">{{ user.stats.spiral_abyss }}</td>
+        <td align="center">{{ genshin.user.stats.spiral_abyss }}</td>
     </tr>
 </table>
 
 <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration <img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"></h2>
 <table align="center">
     <tr>
-        {%- for exploration in user.explorations -%}
+        {%- for exploration in genshin.user.explorations -%}
         <th><img src="{{ exploration.icon }}" width="20"> {{ exploration.name }}</th>
         {%- endfor -%}
     </tr>
     <tr>
-        {%- for exploration in user.explorations -%}
+        {%- for exploration in genshin.user.explorations -%}
         <td>
             <p align="center"><img src="{{ exploration.inner_icon }}" width="250"></p>
         </td>
         {%- endfor -%}
     </tr>
     <tr>
-        {%- for exploration in user.explorations -%}
+        {%- for exploration in genshin.user.explorations -%}
         <td>
             <table>
                 <tr>
@@ -165,60 +165,60 @@
     </tr>
 </table>
 
-{%- if user.teapot -%}
+{%- if genshin.user.teapot -%}
 <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot <img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"></h2>
 <table align="center">
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp", height="18"> Highest Adeptal Energy</td>
-        <td align="center"><img src="{{ user.teapot.comfort_icon }}", height="18"> {{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
+        <td align="center"><img src="{{ genshin.user.teapot.comfort_icon }}", height="18"> {{ genshin.user.teapot.comfort_name }} ({{ genshin.user.teapot.comfort }})</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/home_material_35.webp", height="18"> Total Furnishings Obtained</td>
-        <td align="center">{{ user.teapot.items }}</td>
+        <td align="center">{{ genshin.user.teapot.items }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/rep_6969_1.webp", height="18"> Trust Rank</td>
-        <td align="center">{{ user.teapot.level }}</td>
+        <td align="center">{{ genshin.user.teapot.level }}</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="18"> Visitor History</td>
-        <td align="center">{{ user.teapot.visitors }}</td>
+        <td align="center">{{ genshin.user.teapot.visitors }}</td>
     </tr>
 </table>
 {%- endif -%}
 
-{%- if abyss.floors|length -%}
+{%- if genshin.abyss.floors|length -%}
 <h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss <img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"></h2>
 <table align="center">
     <tr>
         <td><img src="./images/logo/spiral-abyss.webp", height="18"> Season</td>
-        <td align="center">{{ abyss.season }}</td>
+        <td align="center">{{ genshin.abyss.season }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/battle.webp", height="18"> Total Battles</td>
-        <td align="center">{{ abyss.total_battles }}</td>
+        <td align="center">{{ genshin.abyss.total_battles }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/wins.webp", height="18"> Total Wins</td>
-        <td align="center">{{ abyss.total_wins }}</td>
+        <td align="center">{{ genshin.abyss.total_wins }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/star.png", height="18"> Total Stars</td>
-        <td align="center">{{ abyss.total_stars }}</td>
+        <td align="center">{{ genshin.abyss.total_stars }}</td>
     </tr>
     <tr>
         <td><img src="./images/logo/floor.webp", height="18"> Max Floor</td>
-        <td align="center">{{ abyss.max_floor }}</td>
+        <td align="center">{{ genshin.abyss.max_floor }}</td>
     </tr>
     <tr>
         <td>🕐 Start Time</td>
-        <td align="center">{{ abyss.start_time }}</td>
+        <td align="center">{{ genshin.abyss.start_time }}</td>
     </tr>
     <tr>
         <td>🕛 End Time</td>
-        <td align="center">{{ abyss.end_time }}</td>
+        <td align="center">{{ genshin.abyss.end_time }}</td>
     </tr>
-    {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
+    {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field }}</td>
         <td>
@@ -235,16 +235,16 @@
 <table align="center">
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
-        <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
+        <td>{{ genshin.diary.data.current_primogems }} (rate {{ genshin.diary.data.primogems_rate }})</td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
-        <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
+        <td>{{ genshin.diary.data.current_mora }} (rate {{ genshin.diary.data.mora_rate }})</td>
     </tr>
     <tr>
         <td><img src="./images/logo/quest.webp", height="18"> Categories</td>
         <td>
-            {%- for category in diary.data.categories -%}
+            {%- for category in genshin.diary.data.categories -%}
             {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
             {%- endfor -%}
         </td>
@@ -255,8 +255,8 @@
   <img src="./images/logo/paimon-eat.webp", width="240" heigth="240">
 </p>
 <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters <img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"></h2>
-{%- for character in user.characters -%}
-    {%- if user.characters.index(character) == 0 -%}
+{%- for character in genshin.user.characters -%}
+    {%- if genshin.user.characters.index(character) == 0 -%}
         <details open>
     {%- else -%}
         <details open>
