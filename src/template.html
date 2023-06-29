@@ -332,7 +332,6 @@
 </details>
 {%- endfor -%}
 
-<details align="center"><summary>Honkai Star Rail Details</summary>
     <img src="./images/banner/hsr-banner.gif">
 
     <p align="center">
@@ -449,7 +448,7 @@
         {%- if hsr.characters.index(character) == 0 -%}
         <details open>
         {%- else -%}
-        <details>
+        <details open>
         {%- endif -%}
         <summary align="center"><b>{{ character.name}} </b></summary>
         <br/>
@@ -525,6 +524,3 @@
         </table>
     </details>
     {%- endfor -%}
-
-
-</details>
