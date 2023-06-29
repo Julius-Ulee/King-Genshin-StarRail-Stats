@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 23:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 23:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -77,7 +77,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">24</td>
+    <td align="center">25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -85,16 +85,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-29 21:40:32+08:00</td>
+    <td align="center">🕒 2023-06-30 00:08:04+08:00</td>
   </tr>
 </table>
 
