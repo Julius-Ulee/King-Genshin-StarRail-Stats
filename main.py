@@ -4,6 +4,7 @@ import logging
 import os
 import io
 import pathlib
+import typing
 import json
 import pytz
 import requests
@@ -24,62 +25,101 @@ parser.add_argument("-c", "--cookies", default=None)
 parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
 
-def format_date(date: "datetime"):
+class GenshinRes:
+    user: typing.Any
+    abyss: typing.Any
+    diary: typing.Any
+    reward: typing.Any
+    reward_info: typing.Any
+
+    def __init__(self, **kwargs):
+        for k, v in kwargs.items():
+            setattr(self, k, v)
+
+
+class HsrRes:
+    user: typing.Any
+    characters: typing.Any
+    diary: typing.Any
+    forgotten_hall: typing.Any
+    reward: typing.Any
+    reward_info: typing.Any
+
+    def __init__(self, **kwargs):
+        for k, v in kwargs.items():
+            setattr(self, k, v)
+
+
+def format_date(date: datetime) -> str:
     tz = pytz.timezone("Asia/Jakarta")
     now = date.now(tz=tz)
-    fmt = f"{now.strftime('%b')} \
-            {now.strftime('%d')}, \
-            {now.strftime('%Y')} \
-            {now.strftime('%H:%M %z')}"
-    return fmt
+    return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-async def main():
-    args = parser.parse_args()
+class AnimeGame(genshin.Client):
+    args: argparse.Namespace
 
-    # type: <class 'str'>
-    _c = os.getenv("COOKIES")
-    # must loads to dict
-    cookies = json.loads(_c)
+    def __init__(self):
+        self.args = parser.parse_args()
+        _c = self.args.cookies or os.getenv("COOKIES")
+        cookies = json.loads(_c)
+        super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
 
-    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
+    async def _claim_daily(self, game: typing.Optional[genshin.types.Game] = None):
+        try:
+            await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
+        except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
+            pass
+        finally:
+            reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
+            reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
+        return reward, reward_info
 
-    user = await client.get_full_genshin_user(0, lang=args.lang)
-    abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
-    diary = await client.get_diary()
+    async def get_genshin_res(self):
+        user = await self.get_full_genshin_user(0, lang=self.args.lang)
+        abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
+        diary = await self.get_genshin_diary()
 
-    # claim daily reward genshin
-    try:
-        await client.claim_daily_reward(lang=args.lang, reward=False)
-    except genshin.AlreadyClaimed:
-        pass
-    finally:
-        reward = await client.claimed_rewards(lang=args.lang).next()
-        reward_info = await client.get_reward_info()
+        reward, reward_info = await self._claim_daily()
 
-    # claim daily reward honkai star rail
-    try:
-        await client.claim_daily_reward(lang=args.lang, reward=False, game=genshin.types.Game.STARRAIL)
-    except genshin.AlreadyClaimed:
-        pass
-    finally:
-        sr_reward = await client.claimed_rewards(lang=args.lang, game=genshin.types.Game.STARRAIL).next()
-        sr_reward_info = await client.get_reward_info(game=genshin.types.Game.STARRAIL)
+        return GenshinRes(
+            user=user,
+            abyss=abyss,
+            diary=diary,
+            reward=reward,
+            reward_info=reward_info
+        )
 
-    template: jinja2.Template = jinja2.Template(args.template.read_text())
-    rendered = template.render(
-        user=user,
-        lang=args.lang,
-        abyss=abyss,
-        reward=reward,
-        sr_reward=sr_reward,
-        diary=diary,
-        reward_info=reward_info,
-        sr_reward_info=sr_reward_info,
-        updated_at=format_date(reward.time),
-        _int=int
-    )
-    args.output.write_text(rendered)
+    async def get_hsr_res(self):
+        user = await self.get_starrail_user()
+        diary = None  # await self.get_starrail_diary()  # skip this sh1t for now bcz error, idk why
+        forgotten_hall = await self.get_starrail_challenge(previous=True)
+        characters = await self.get_starrail_characters()
+
+        reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
+
+        return HsrRes(
+            user=user,
+            characters=characters.avatar_list,
+            diary=diary,
+            forgotten_hall=forgotten_hall,
+            reward=reward,
+            reward_info=reward_info
+        )
+
+    async def main(self):
+        _genshin, _hsr = await asyncio.gather(*[
+            self.get_genshin_res(),
+            self.get_hsr_res()
+        ])
+        template: jinja2.Template = jinja2.Template(self.args.template.read_text())
+        rendered = template.render(
+            genshin=_genshin,
+            hsr=_hsr,
+            _int=int,
+            updated_at=format_date(_hsr.reward.time)
+        )
+        self.args.output.write_text(rendered)
 
     #Get New Code
     res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
@@ -116,4 +156,4 @@ async def main():
     io.open(codes_file, "w", newline="\n").write("\n".join(used_codes))
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(AnimeGame().main())
