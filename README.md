@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 21:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 29, 2023 22:00 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3471,4 +3471,214 @@
       </td>
     </tr>
   </table>
+</details>
+<details>
+  <summary>Honkai Star Rail Details</summary>
+  <h2>Info</h2>
+  <table>
+    <tr>
+      <td>Nickname</td>
+      <td>King</td>
+    </tr>
+    <tr>
+      <td>Trailblaze Level</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Server</td>
+      <td>Asia</td>
+    </tr>
+  </table>
+
+  <h2>Daily Rewards</h2>
+  <table>
+    <tr>
+      <td>Total Rewards Claimed</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>Last Claimed Reward</td>
+      <td>
+        8000 x
+        <img
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          height="20"
+        />
+        Credit
+      </td>
+    </tr>
+  </table>
+
+  <h2>
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+      height="20"
+    />
+    Stats
+  </h2>
+  <table>
+    <tr></tr>
+    <tr>
+      <td>Days Active</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Total Avatar</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Total Achievement</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Chest Opened</td>
+      <td>0</td>
+    </tr>
+    <tr></tr>
+  </table>
+  <h2>
+    <img
+      src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+      height="20"
+    />
+    Characters
+  </h2>
+  <details open>
+    <summary><b>Trailblazer </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Trailblazer</h3></th>
+        <th><h3></h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/157989936f090a8b21759eb4476a76b1.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center"><img src="" /></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>March 7th </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>March 7th</h3></th>
+        <th><h3></h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center"><img src="" /></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
 </details>
