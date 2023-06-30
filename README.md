@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 11:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2023 11:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3597,6 +3597,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
+              wind
             </td>
           </tr>
           <tr>
@@ -3674,6 +3675,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
+              physical
             </td>
           </tr>
           <tr>
@@ -3751,6 +3753,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
+              ice
             </td>
           </tr>
           <tr>
@@ -3828,6 +3831,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
+              lightning
             </td>
           </tr>
           <tr>
@@ -3905,6 +3909,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
+              fire
             </td>
           </tr>
           <tr>
