@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 11:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2023 11:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -121,7 +121,7 @@
       />
       Achievements
     </td>
-    <td align="center">286</td>
+    <td align="center">287</td>
   </tr>
   <tr>
     <td>
@@ -195,14 +195,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">622</td>
+    <td align="center">627</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">425</td>
+    <td align="center">426</td>
   </tr>
   <tr>
     <td>
@@ -382,7 +382,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/80/" width="80" />
+            <img src="https://progress-bar.dev/82/" width="80" />
           </td>
         </tr>
         <tr>
