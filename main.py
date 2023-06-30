@@ -84,8 +84,7 @@ class AnimeGame(genshin.Client):
             abyss=abyss,
             diary=diary,
             reward=reward,
-            reward_info=reward_info,
-            _int=int
+            reward_info=reward_info
         )
 
     async def get_hsr_res(self):
