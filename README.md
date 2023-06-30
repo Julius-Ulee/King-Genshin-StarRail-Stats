@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 23:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2023 08:58 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3483,7 +3483,7 @@
         ,
         height="20"
       />
-      2
+      4
     </td>
   </tr>
 </table>
@@ -3531,19 +3531,19 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>2</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>0</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>0</td>
+    <td>12</td>
   </tr>
   <tr></tr>
 </table>
@@ -3556,12 +3556,89 @@
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
 <details open>
+  <summary align="center"><b>Dan Heng </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Dan Heng</h3></th>
+      <th align="center"><h3>Arrows</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3622285008828df6be8df3f8b606a271.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/351bfcd4a85343ab7b0a102e2266c647.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">6</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Arrows</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Trailblazer </b></summary>
   <br />
   <table align="center">
     <tr>
       <th align="center"><h3>Trailblazer</h3></th>
-      <th align="center"><h3></h3></th>
+      <th align="center"><h3>Collapsing Sky</h3></th>
     </tr>
     <tr>
       <td>
@@ -3574,7 +3651,13 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" , height="256" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/5d11358ef897d195526632a89733ed8c.png"
+            ,
+            height="256"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -3595,7 +3678,84 @@
           </tr>
           <tr>
             <td>Level</td>
+            <td align="center">5</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
             <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Collapsing Sky</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>March 7th </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>March 7th</h3></th>
+      <th align="center"><h3>Amber</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3c2bc5385ab26b717c0c0c40f139bd13.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -3611,15 +3771,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Amber</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -3627,25 +3787,31 @@
   </table>
 </details>
 <details open>
-  <summary align="center"><b>March 7th </b></summary>
+  <summary align="center"><b>Serval </b></summary>
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>March 7th</h3></th>
-      <th align="center"><h3></h3></th>
+      <th align="center"><h3>Serval</h3></th>
+      <th align="center"><h3>Passkey</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d365aebd9134522ebdc8a19e42c016e5.png"
             ,
             height="256"
           />
         </p>
       </td>
       <td>
-        <p align="center"><img src="" , height="256" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/c23366ec4c4f77df0cff8f40bb950546.png"
+            ,
+            height="256"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -3659,7 +3825,84 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Passkey</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Asta </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Asta</h3></th>
+      <th align="center"><h3>Chorus</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/324adb53d6676cfc29ec36aeacc3d249.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
             </td>
@@ -3682,15 +3925,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Chorus</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
