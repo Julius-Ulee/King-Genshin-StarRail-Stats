@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 11:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2023 11:39 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3568,8 +3568,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3622285008828df6be8df3f8b606a271.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3577,8 +3575,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/351bfcd4a85343ab7b0a102e2266c647.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3646,8 +3642,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/157989936f090a8b21759eb4476a76b1.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3655,8 +3649,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/5d11358ef897d195526632a89733ed8c.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3724,8 +3716,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3733,8 +3723,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3c2bc5385ab26b717c0c0c40f139bd13.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3802,8 +3790,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d365aebd9134522ebdc8a19e42c016e5.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3811,8 +3797,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/c23366ec4c4f77df0cff8f40bb950546.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3880,8 +3864,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
-            ,
-            height="256"
           />
         </p>
       </td>
@@ -3889,8 +3871,6 @@
         <p align="center">
           <img
             src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/324adb53d6676cfc29ec36aeacc3d249.png"
-            ,
-            height="256"
           />
         </p>
       </td>
