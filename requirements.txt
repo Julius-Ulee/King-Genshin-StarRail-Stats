@@ -2,4 +2,4 @@ genshin
 Jinja2
 python-dotenv
 pytz
-pydantic==1
+pydantic==1.*
