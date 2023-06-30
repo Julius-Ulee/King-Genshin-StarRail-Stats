@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 09:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2023 11:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -617,7 +617,7 @@
       />
       Primogems earned
     </td>
-    <td>5673 (rate 6)</td>
+    <td>5763 (rate 8)</td>
   </tr>
   <tr>
     <td>
@@ -628,13 +628,13 @@
       />
       Mora earned
     </td>
-    <td>5456890 (rate 43)</td>
+    <td>5871830 (rate 54)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1425 (26%)<br />Quests: 1300 (23%)<br />Adventure: 1131 (20%)<br />Daily
-      Activity: 1090 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
+      Events: 1425 (25%)<br />Quests: 1300 (23%)<br />Adventure: 1161 (21%)<br />Daily
+      Activity: 1150 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
       67 (1%)<br />
     </td>
   </tr>
@@ -778,7 +778,133 @@
           </tr>
           <tr>
             <td>Refinement</td>
+            <td align="center">5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Diluc</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Diluc</h3></th>
+      <th><h3 align="center">Beacon of the Reed Sea</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c56e20273aac0401c2df2a8b50b98620.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">82</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">5</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />4 x Berserker<br />1 x Instructor<br /></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8fb7582c525821ea5d22b6c1b2faa3fc.png"
+                ,
+                height="18"
+              />
+              Berserker's Rose<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/67bf59e1ea1ddc2a2a4bba7e0bb38ce8.png"
+                ,
+                height="18"
+              />
+              Berserker's Indigo Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/bcf01eec0d25b1efe2b5c58fd6f880ea.png"
+                ,
+                height="18"
+              />
+              Berserker's Timepiece<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
+                ,
+                height="18"
+              />
+              Instructor's Tea Cup<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3285d3abc62348cf6c09bd1e02f750e3.png"
+                ,
+                height="18"
+              />
+              Berserker's Battle Mask<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Beacon of the Reed Sea</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Claymore</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">70</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
             <td align="center">4</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -907,7 +1033,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">2</td>
+            <td align="center">5</td>
           </tr>
         </table>
       </td>
@@ -1025,132 +1151,6 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">70</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">4</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Diluc</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Diluc</h3></th>
-      <th><h3 align="center">Beacon of the Reed Sea</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c56e20273aac0401c2df2a8b50b98620.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">5</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />4 x Berserker<br />1 x Instructor<br /></td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/8fb7582c525821ea5d22b6c1b2faa3fc.png"
-                ,
-                height="18"
-              />
-              Berserker's Rose<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/67bf59e1ea1ddc2a2a4bba7e0bb38ce8.png"
-                ,
-                height="18"
-              />
-              Berserker's Indigo Feather<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/bcf01eec0d25b1efe2b5c58fd6f880ea.png"
-                ,
-                height="18"
-              />
-              Berserker's Timepiece<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5b6b22623c05aaf388b5325236f14bac.png"
-                ,
-                height="18"
-              />
-              Instructor's Tea Cup<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3285d3abc62348cf6c09bd1e02f750e3.png"
-                ,
-                height="18"
-              />
-              Berserker's Battle Mask<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Beacon of the Reed Sea</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Claymore</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2357,7 +2357,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Lisa</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
     </tr>
     <tr>
       <td>
@@ -2372,7 +2372,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/33b9adc96f8bdda347228347011ebf26.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/87f884361593f87755472e724912233c.png"
             ,
             height="256"
           />
@@ -2423,7 +2423,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Apprentice's Notes</td>
+            <td align="center">Favonius Codex</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2431,7 +2431,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2555,7 +2555,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Xinyan</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Old Merc's Pal</h3></th>
     </tr>
     <tr>
       <td>
@@ -2570,7 +2570,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d5064dec921b2c48980a3b90c6becb3a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/e837ea87215db03d7fd4c510871b697b.png"
             ,
             height="256"
           />
@@ -2621,7 +2621,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Old Merc's Pal</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2629,7 +2629,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2951,7 +2951,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -2966,7 +2966,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d3d03320d16dcdd3838dcbebb4f35098.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/f50381fbcd491bb275d9f7c1ac0aafd3.png"
             ,
             height="256"
           />
@@ -3017,7 +3017,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Dull Blade</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3025,7 +3025,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3050,7 +3050,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Collei</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Messenger</h3></th>
     </tr>
     <tr>
       <td>
@@ -3065,7 +3065,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/90af1e9dc479fe114cfebce895628c3e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/4d957238a353cb383fd399457ca316e0.png"
             ,
             height="256"
           />
@@ -3116,7 +3116,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Hunter's Bow</td>
+            <td align="center">Messenger</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3124,7 +3124,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3347,7 +3347,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Mika</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Iron Point</h3></th>
     </tr>
     <tr>
       <td>
@@ -3362,7 +3362,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/5a61ec321f168fc5115c6eca8b163100.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/f86448d38f28dfd79d88f2c7e96b7c37.png"
             ,
             height="256"
           />
@@ -3413,7 +3413,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Beginner's Protector</td>
+            <td align="center">Iron Point</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3421,7 +3421,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
