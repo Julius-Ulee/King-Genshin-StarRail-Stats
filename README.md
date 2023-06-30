@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 01, 2023 02:15 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -77,7 +77,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">25</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -85,16 +85,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Hero's Wit
+      3 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-30 00:08:04+08:00</td>
+    <td align="center">🕒 2023-07-01 02:44:10+08:00</td>
   </tr>
 </table>
 
@@ -617,7 +617,7 @@
       />
       Primogems earned
     </td>
-    <td>5778 (rate 8)</td>
+    <td>5817 (rate 9)</td>
   </tr>
   <tr>
     <td>
@@ -628,12 +628,12 @@
       />
       Mora earned
     </td>
-    <td>5934017 (rate 55)</td>
+    <td>6007871 (rate 57)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 1425 (25%)<br />Quests: 1300 (23%)<br />Adventure: 1176 (21%)<br />Daily
+      Events: 1425 (25%)<br />Quests: 1330 (23%)<br />Adventure: 1185 (21%)<br />Daily
       Activity: 1150 (19%)<br />Mail: 360 (6%)<br />Spiral Abyss: 300 (5%)<br />Other:
       67 (1%)<br />
     </td>
@@ -3495,7 +3495,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">20</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3503,16 +3503,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      2 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-06-30 00:03:05+08:00</td>
+    <td align="center">🕒 2023-07-01 01:06:20+08:00</td>
   </tr>
 </table>
 
