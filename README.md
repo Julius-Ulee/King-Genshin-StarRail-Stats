@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 08:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 01, 2023 19:31 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -121,7 +121,7 @@
       />
       Achievements
     </td>
-    <td align="center">287</td>
+    <td align="center">288</td>
   </tr>
   <tr>
     <td>
@@ -132,7 +132,7 @@
       />
       Days Active
     </td>
-    <td align="center">128</td>
+    <td align="center">129</td>
   </tr>
   <tr>
     <td>
@@ -235,7 +235,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center">-</td>
+    <td align="center">5-3</td>
   </tr>
 </table>
 
@@ -504,7 +504,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">172</td>
+    <td align="center">209</td>
   </tr>
   <tr>
     <td>
@@ -617,7 +617,7 @@
       />
       Primogems earned
     </td>
-    <td>0 (rate -100)</td>
+    <td>60 (rate -98)</td>
   </tr>
   <tr>
     <td>
@@ -628,14 +628,13 @@
       />
       Mora earned
     </td>
-    <td>0 (rate -100)</td>
+    <td>710768 (rate -88)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3483,7 +3482,7 @@
         ,
         height="20"
       />
-      11
+      14
     </td>
   </tr>
 </table>
@@ -3531,19 +3530,19 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>23</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>30</td>
+    <td>38</td>
   </tr>
   <tr></tr>
 </table>
@@ -3618,7 +3617,81 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Yukong </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Yukong</h3></th>
+      <th align="center"><h3>Mediation</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/1be9c0a893c1bb34288591c5b6c3906f.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/c1e8d1d874942ec239a283df49c60e10.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Mediation</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -3766,7 +3839,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -3840,11 +3913,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center">5</td>
           </tr>
         </table>
       </td>
@@ -3914,7 +3987,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Superimpose</td>
