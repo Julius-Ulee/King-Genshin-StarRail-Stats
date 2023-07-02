@@ -10,7 +10,6 @@ from typing import List, Optional, Tuple
 import genshin
 import jinja2
 import pytz
-import requests
 from dotenv import load_dotenv
 
 logger = logging.getLogger()
