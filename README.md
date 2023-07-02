@@ -1,10 +1,10 @@
 <img src="./images/banner/zongli-banner.gif" />
 <h1 align="center">
-  <img src="./images/logo/paimon.png" /> King's Genshin Impact & Honkai Star
-  Rail Stats <img src="./images/logo/starrail.webp" height="20" />
+  <img src="./images/logo/paimon.png" height="20" /> King's Genshin Impact &
+  Honkai Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
 </h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 17:16 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 17:19 +0700</u> (🤖Automated)
 </h3>
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
