@@ -10,7 +10,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 14:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -786,7 +786,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Diluc</b></summary>
   <br />
   <table align="center">
@@ -912,7 +912,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
   <table align="center">
@@ -1041,7 +1041,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Bennett</b></summary>
   <br />
   <table align="center">
@@ -1170,7 +1170,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xiangling</b></summary>
   <br />
   <table align="center">
@@ -1299,7 +1299,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table align="center">
@@ -1428,7 +1428,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Sucrose</b></summary>
   <br />
   <table align="center">
@@ -1557,7 +1557,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Kaeya</b></summary>
   <br />
   <table align="center">
@@ -1656,7 +1656,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Yaoyao</b></summary>
   <br />
   <table align="center">
@@ -1785,7 +1785,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Razor</b></summary>
   <br />
   <table align="center">
@@ -1904,7 +1904,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Keqing</b></summary>
   <br />
   <table align="center">
@@ -2003,7 +2003,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Amber</b></summary>
   <br />
   <table align="center">
@@ -2124,7 +2124,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Faruzan</b></summary>
   <br />
   <table align="center">
@@ -2223,7 +2223,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Barbara</b></summary>
   <br />
   <table align="center">
@@ -2352,7 +2352,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Lisa</b></summary>
   <br />
   <table align="center">
@@ -2451,7 +2451,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Chongyun</b></summary>
   <br />
   <table align="center">
@@ -2550,7 +2550,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Xinyan</b></summary>
   <br />
   <table align="center">
@@ -2649,7 +2649,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Rosaria</b></summary>
   <br />
   <table align="center">
@@ -2748,7 +2748,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Gorou</b></summary>
   <br />
   <table align="center">
@@ -2847,7 +2847,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Yun Jin</b></summary>
   <br />
   <table align="center">
@@ -2946,7 +2946,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Kuki Shinobu</b></summary>
   <br />
   <table align="center">
@@ -3045,7 +3045,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Collei</b></summary>
   <br />
   <table align="center">
@@ -3144,7 +3144,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Dori</b></summary>
   <br />
   <table align="center">
@@ -3243,7 +3243,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Layla</b></summary>
   <br />
   <table align="center">
@@ -3342,7 +3342,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Mika</b></summary>
   <br />
   <table align="center">
@@ -3444,11 +3444,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details open align="center">
   <summary>Showcase 1</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_44_16.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_48_02.png" />
 </details>
 <details open align="center">
   <summary>Showcase 2</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_44_17.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_48_04.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
@@ -3655,7 +3655,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>March 7th </b></summary>
   <br />
   <table align="center">
@@ -3729,7 +3729,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Dan Heng </b></summary>
   <br />
   <table align="center">
@@ -3803,7 +3803,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Yukong </b></summary>
   <br />
   <table align="center">
@@ -3877,7 +3877,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Qingque </b></summary>
   <br />
   <table align="center">
@@ -3951,7 +3951,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Serval </b></summary>
   <br />
   <table align="center">
@@ -4025,7 +4025,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Herta </b></summary>
   <br />
   <table align="center">
@@ -4099,7 +4099,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Asta </b></summary>
   <br />
   <table align="center">
@@ -4173,7 +4173,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<details>
   <summary align="center"><b>Hook </b></summary>
   <br />
   <table align="center">
