@@ -13,12 +13,7 @@
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
         height="20"
-      /><a href="#----profile-information--">
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&size=19&lines=Genshin+Impact+Stats"
-          alt="Typing SVG"
-        />
-      </a>
+      /><a href="#----profile-information--"> Genshin Impact Stats</a>
     </td>
     <td>
       <img
@@ -43,7 +38,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 23:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 23:05 +0700</u> (🤖Automated)
 </h3>
 <br />
 
