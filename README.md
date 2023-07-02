@@ -1,10 +1,10 @@
 <img src="./images/banner/zongli-banner.gif" />
 <h1 align="center">
   <img src="./images/logo/paimon.png" height="20" /> King's Genshin Impact &
-  Honkai Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
+  Honkai: Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
 </h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 17:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 17:31 +0700</u> (🤖Automated)
 </h3>
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
@@ -15,7 +15,7 @@
   & <img src="./images/logo/hsr-logo.png" height="20" /><a
     href="#----profile-information---1"
   >
-    Honkai Star Rail Stats <img src="./images/logo/hsr-logo.png" height="20"
+    Honkai: Star Rail Stats <img src="./images/logo/hsr-logo.png" height="20"
   /></a>
 </p>
 <p align="center">
@@ -34,7 +34,7 @@
     src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
     height="20"
   /><a href="#----characters---1">
-    Honkai Star Rail Characters
+    Honkai: Star Rail Characters
     <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"
   /></a>
 </p>
@@ -3489,7 +3489,7 @@
 <p align="center">
   <a href=""
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai+Star+Rail+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai:+Star+Rail+Stats"
       alt="Typing SVG"
   /></a>
 </p>
