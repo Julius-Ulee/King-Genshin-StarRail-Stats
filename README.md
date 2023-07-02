@@ -4,7 +4,7 @@
   Honkai Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
 </h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 17:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 17:22 +0700</u> (🤖Automated)
 </h3>
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
@@ -22,13 +22,21 @@
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
     height="20"
-  /><a href="#----characters--"> Genshin Impact Characters</a>
+  /><a href="#----characters--">
+    Genshin Impact Characters
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+      height="20"
+  /></a>
 </p>
 <p align="center">
   <img
     src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
     height="20"
-  /><a href="#----characters---1"> Star Rail Characters</a>
+  /><a href="#----characters---1">
+    Honkai Star Rail Characters
+    <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"
+  /></a>
 </p>
 
 <p align="center">
