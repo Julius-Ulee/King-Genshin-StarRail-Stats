@@ -1,4 +1,7 @@
-<img align="center" src="" />
+<img
+  align="center"
+  src="['images/info/genshin_card_02_07_2023-13_39_11.png']"
+/>
 
 <p align="center">
   <a href=""
@@ -8,7 +11,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 13:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 13:39 +0700</u> (🤖Automated)
 </h3>
 <br />
 
