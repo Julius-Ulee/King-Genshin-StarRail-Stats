@@ -55,15 +55,15 @@ def format_date(date: datetime) -> str:
 
 
 def clear_and_save_images(urls: List[str]) -> List[str]:
-    if os.path.exists("images"):
-        for filename in os.listdir("images/info"):
-            os.unlink(os.path.join("images/info", filename))
-    os.makedirs("images/info", exist_ok=True)
+    if os.path.exists("img"):
+        for filename in os.listdir("img"):
+            os.unlink(os.path.join("img", filename))
+    os.makedirs("img", exist_ok=True)
     saved_files = []
     for url in urls:
         response = requests.get(url)
         if response.status_code == 200:
-            filename = os.path.join("images/info", url.split("/")[-1])
+            filename = os.path.join("img", url.split("/")[-1])
             with open(filename, "wb") as f:
                 f.write(response.content)
             saved_files.append(filename)
