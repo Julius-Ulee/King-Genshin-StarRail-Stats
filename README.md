@@ -3,15 +3,15 @@
   <img src="./images/logo/genshin-logo.png" height="20" /><a
     href="#----profile-information--"
   >
-    Genshin Impact Stats</a
-  >
+    Genshin Impact Stats <img src="./images/logo/genshin-logo.png" height="20"
+  /></a>
 </p>
 <p align="center">
   <img src="./images/logo/hsr-logo.png" height="20" /><a
     href="#----profile-information---1"
   >
-    Honkai Star Rail Stats</a
-  >
+    Honkai Star Rail Stats <img src="./images/logo/hsr-logo.png" height="20"
+  /></a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
