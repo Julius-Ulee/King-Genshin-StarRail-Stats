@@ -1,7 +1,7 @@
 <img src="./images/banner/zongli-banner.gif" />
 <h1 align="center">King's Genshin Impact & Honkai Star Rail Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 <p align="center">
@@ -3471,6 +3471,7 @@
       alt="Typing SVG"
   /></a>
 </p>
+<br />
 
 <p align="center">
   <img src="./images/logo/starrail.webp" , width="240" height="240" />
