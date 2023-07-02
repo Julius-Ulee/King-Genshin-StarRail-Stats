@@ -1,6 +1,7 @@
+<img src="./images/banner/zongli-banner.gif" />
 <h1 align="center">King's Genshin Impact & Honkai Star Rail Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:44 +0700</u> (🤖Automated)
 </h3>
 <br />
 <p align="center">
