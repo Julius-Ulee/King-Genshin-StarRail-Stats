@@ -4,7 +4,7 @@
   Honkai: Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
 </h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 17:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 19:31 +0700</u> (🤖Automated)
 </h3>
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
@@ -161,7 +161,7 @@
       />
       Achievements
     </td>
-    <td align="center">288</td>
+    <td align="center">289</td>
   </tr>
   <tr>
     <td>
@@ -249,7 +249,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">113</td>
+    <td align="center">114</td>
   </tr>
   <tr>
     <td>
@@ -668,7 +668,7 @@
       />
       Mora earned
     </td>
-    <td>723018 (rate -87)</td>
+    <td>1242165 (rate -79)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
