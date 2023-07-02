@@ -337,7 +337,7 @@
 {%- if genshin.showcase -%}
 <h2 align="center">My Genshin Characters Showcase</h2>
 {%- for index, res in _enumerate(genshin.showcase, 1) -%}
-    <details align="center">
+    <details open align="center">
         <summary>Showcase {{ index }}</summary>
         <img src="{{ res }}">
     </details>
