@@ -10,7 +10,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 15:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3441,19 +3441,11 @@
     </tr>
   </table>
 </details>
-<h2 align="center">My Genshin Characters Showcase</h2>
-<details open align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/info/genshin_card_02_07_2023-15_01_49.png" />
-</details>
-<details open align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/info/genshin_card_02_07_2023-15_01_50.png" />
-</details>
 <h2 align="center">
   You can also check my characters showcase/builds on
   <a href="https://enka.network/u/juliusulee">Enka.Network</a>
 </h2>
+
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
