@@ -4,40 +4,46 @@
   Honkai: Star Rail Stats <img src="./images/logo/starrail.webp" height="20" />
 </h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 22:41 +0700</u> (🤖Automated)
 </h3>
-<p align="center">
-  <img src="./images/logo/genshin-logo.png" height="20" /><a
-    href="#----profile-information--"
-  >
-    Genshin Impact Stats <img src="./images/logo/genshin-logo.png" height="20"
-  /></a>
-  & <img src="./images/logo/hsr-logo.png" height="20" /><a
-    href="#----profile-information---1"
-  >
-    Honkai: Star Rail Stats <img src="./images/logo/hsr-logo.png" height="20"
-  /></a>
-</p>
-<p align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
-    height="20"
-  /><a href="#----characters--">
-    Genshin Impact Characters
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
-      height="20"
-  /></a>
-</p>
-<p align="center">
-  <img
-    src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-    height="20"
-  /><a href="#----characters---1">
-    Honkai: Star Rail Characters
-    <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"
-  /></a>
-</p>
+<table align="center">
+  <tr>
+    <th align="center" colspan="2">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Genshin+Impact+/+Honkai:+Star+Rail"
+        alt="Typing SVG"
+      />
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+        height="20"
+      /><a href="#----profile-information--"> Genshin Impact Stats</a>
+    </td>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+        height="20"
+      /><a href="#----profile-information---1"> Honkai: Star Rail Stats</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        height="20"
+      /><a href="#----characters--"> Genshin Impact Characters</a>
+    </td>
+    <td>
+      <img
+        src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+        height="20"
+      /><a href="#----characters---1"> Honkai: Star Rail Characters</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./images/banner/genshin-impact-banner.png" />
@@ -657,7 +663,7 @@
       />
       Primogems earned
     </td>
-    <td>120 (rate -97)</td>
+    <td>145 (rate -97)</td>
   </tr>
   <tr>
     <td>
@@ -668,12 +674,12 @@
       />
       Mora earned
     </td>
-    <td>1242165 (rate -79)</td>
+    <td>1258950 (rate -79)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 120 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      Daily Activity: 120 (83%)<br />Adventure: 25 (17%)<br />Events: 0 (0%)<br />Quests:
       0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -935,11 +941,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">70</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">4</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>Refinement</td>
