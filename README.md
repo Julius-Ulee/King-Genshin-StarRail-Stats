@@ -1,3 +1,5 @@
+[💾 Installation](#Updated)
+
 <img align="center" src="./images/banner/zongli-banner.gif" />
 
 <p align="center">
