@@ -10,7 +10,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:48 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 15:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3444,11 +3444,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details open align="center">
   <summary>Showcase 1</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_48_02.png" />
+  <img src="images/info/genshin_card_02_07_2023-15_01_49.png" />
 </details>
 <details open align="center">
   <summary>Showcase 2</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_48_04.png" />
+  <img src="images/info/genshin_card_02_07_2023-15_01_50.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
