@@ -1,4 +1,10 @@
-<img align="center" src="./images/banner/genshin-impact-banner.png" />
+<img
+  align="center"
+  src="./images/banner/genshin-impact-banner.png"
+  ,
+  width="1340"
+  height="660"
+/>
 
 <p align="center">
   <a href=""
@@ -8,12 +14,12 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 14:30 +0700</u> (🤖Automated)
 </h3>
 <br />
 
 <p align="center">
-  <img src="./images/logo/paimon.png" , width="240" heigth="240" />
+  <img src="./images/logo/paimon.png" , width="240" height="240" />
 </p>
 <h2 align="center">
   <img
@@ -640,7 +646,7 @@
 </table>
 
 <p align="center">
-  <img src="./images/logo/paimon-eat.webp" , width="240" heigth="240" />
+  <img src="./images/logo/paimon-eat.webp" , width="240" height="240" />
 </p>
 <h2 align="center">
   <img
@@ -3442,11 +3448,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_18_53.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_29_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_18_54.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_29_45.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
@@ -3463,7 +3469,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/logo/starrail.webp" , width="240" heigth="240" />
+  <img src="./images/logo/starrail.webp" , width="240" height="240" />
 </p>
 <h2 align="center">
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
@@ -3560,7 +3566,7 @@
   <tr></tr>
 </table>
 <p align="center">
-  <img src="./images/logo/hsr-sticker.png" , width="240" heigth="240" />
+  <img src="./images/logo/hsr-sticker.png" , width="240" height="240" />
 </p>
 <h2 align="center">
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
