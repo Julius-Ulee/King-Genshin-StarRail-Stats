@@ -1,3 +1,11 @@
+<img src="./images/banner/zongli-banner.gif" />
+<p align="center">
+  <a href="#----profile-information--">Genshin Impact Stats</a>
+</p>
+<p align="center">
+  <a href="#----profile-information---1">Honkai Star Rail Stats</a>
+</p>
+
 <p align="center">
   <img src="./images/banner/genshin-impact-banner.png" />
 </p>
@@ -10,7 +18,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -786,7 +794,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Diluc</b></summary>
   <br />
   <table align="center">
@@ -912,7 +920,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
   <table align="center">
@@ -1041,7 +1049,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Bennett</b></summary>
   <br />
   <table align="center">
@@ -1170,7 +1178,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Xiangling</b></summary>
   <br />
   <table align="center">
@@ -1299,7 +1307,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table align="center">
@@ -1428,7 +1436,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Sucrose</b></summary>
   <br />
   <table align="center">
@@ -1557,7 +1565,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Kaeya</b></summary>
   <br />
   <table align="center">
@@ -1656,7 +1664,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Yaoyao</b></summary>
   <br />
   <table align="center">
@@ -1785,7 +1793,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Razor</b></summary>
   <br />
   <table align="center">
@@ -1904,7 +1912,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Keqing</b></summary>
   <br />
   <table align="center">
@@ -2003,7 +2011,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Amber</b></summary>
   <br />
   <table align="center">
@@ -2124,7 +2132,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Faruzan</b></summary>
   <br />
   <table align="center">
@@ -2223,7 +2231,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Barbara</b></summary>
   <br />
   <table align="center">
@@ -2352,7 +2360,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Lisa</b></summary>
   <br />
   <table align="center">
@@ -2451,7 +2459,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Chongyun</b></summary>
   <br />
   <table align="center">
@@ -2550,7 +2558,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Xinyan</b></summary>
   <br />
   <table align="center">
@@ -2649,7 +2657,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Rosaria</b></summary>
   <br />
   <table align="center">
@@ -2748,7 +2756,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Gorou</b></summary>
   <br />
   <table align="center">
@@ -2847,7 +2855,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Yun Jin</b></summary>
   <br />
   <table align="center">
@@ -2946,7 +2954,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Kuki Shinobu</b></summary>
   <br />
   <table align="center">
@@ -3045,7 +3053,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Collei</b></summary>
   <br />
   <table align="center">
@@ -3144,7 +3152,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Dori</b></summary>
   <br />
   <table align="center">
@@ -3243,7 +3251,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Layla</b></summary>
   <br />
   <table align="center">
@@ -3342,7 +3350,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Mika</b></summary>
   <br />
   <table align="center">
@@ -3647,7 +3655,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>March 7th </b></summary>
   <br />
   <table align="center">
@@ -3721,7 +3729,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Dan Heng </b></summary>
   <br />
   <table align="center">
@@ -3795,7 +3803,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Yukong </b></summary>
   <br />
   <table align="center">
@@ -3869,7 +3877,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Qingque </b></summary>
   <br />
   <table align="center">
@@ -3943,7 +3951,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Serval </b></summary>
   <br />
   <table align="center">
@@ -4017,7 +4025,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Herta </b></summary>
   <br />
   <table align="center">
@@ -4091,7 +4099,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Asta </b></summary>
   <br />
   <table align="center">
@@ -4165,7 +4173,7 @@
     </tr>
   </table>
 </details>
-<details>
+<details open>
   <summary align="center"><b>Hook </b></summary>
   <br />
   <table align="center">
