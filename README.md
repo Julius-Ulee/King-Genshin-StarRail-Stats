@@ -1,4 +1,7 @@
 <img src="./images/banner/zongli-banner.gif" />
+<h3 align="center">
+  🕒 Updated at <u>Jul 02, 2023 23:14 +0700</u> (🤖Automated)
+</h3>
 <table align="center">
   <tr>
     <th align="center" colspan="2">
@@ -37,9 +40,6 @@
     </td>
   </tr>
 </table>
-<h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 23:05 +0700</u> (🤖Automated)
-</h3>
 <br />
 
 <p align="center">
@@ -120,7 +120,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">2</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -128,16 +128,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-02 09:19:35+08:00</td>
+    <td align="center">🕒 2023-07-03 00:06:48+08:00</td>
   </tr>
 </table>
 
