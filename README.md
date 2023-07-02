@@ -1,10 +1,11 @@
-<img
-  align="center"
-  src="./images/banner/genshin-impact-banner.png"
-  ,
-  width="1340"
-  height="660"
-/>
+<p align="center">
+  <img
+    src="./images/banner/genshin-impact-banner.png"
+    ,
+    width="1340"
+    height="660"
+  />
+</p>
 
 <p align="center">
   <a href=""
@@ -14,7 +15,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 14:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3448,15 +3449,15 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_29_44.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_37_18.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/info/genshin_card_02_07_2023-14_29_45.png" />
+  <img src="images/info/genshin_card_02_07_2023-14_37_20.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
-  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+  <a href="https://enka.network/u/juliusulee">Enka.Network</a>
 </h2>
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
