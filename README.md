@@ -1,7 +1,7 @@
 <img src="./images/banner/zongli-banner.gif" />
 <h1 align="center">King's Genshin Impact & Honkai Star Rail Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:49 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 17:04 +0700</u> (🤖Automated)
 </h3>
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
@@ -634,7 +634,7 @@
       />
       Primogems earned
     </td>
-    <td>60 (rate -98)</td>
+    <td>120 (rate -97)</td>
   </tr>
   <tr>
     <td>
@@ -645,12 +645,12 @@
       />
       Mora earned
     </td>
-    <td>710768 (rate -88)</td>
+    <td>723018 (rate -87)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      Daily Activity: 120 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
       0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
