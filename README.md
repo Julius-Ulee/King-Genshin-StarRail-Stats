@@ -1,13 +1,15 @@
-<img src="./images/banner/zongli-banner.gif" />
+<h1 align="center">King's Genshin Impact & Honkai Star Rail Stats</h1>
+<h3 align="center">
+  🕒 Updated at <u>Jul 02, 2023 16:40 +0700</u> (🤖Automated)
+</h3>
+<br />
 <p align="center">
   <img src="./images/logo/genshin-logo.png" height="20" /><a
     href="#----profile-information--"
   >
     Genshin Impact Stats <img src="./images/logo/genshin-logo.png" height="20"
   /></a>
-</p>
-<p align="center">
-  <img src="./images/logo/hsr-logo.png" height="20" /><a
+  & <img src="./images/logo/hsr-logo.png" height="20" /><a
     href="#----profile-information---1"
   >
     Honkai Star Rail Stats <img src="./images/logo/hsr-logo.png" height="20"
@@ -25,9 +27,6 @@
       alt="Typing SVG"
   /></a>
 </p>
-<h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:33 +0700</u> (🤖Automated)
-</h3>
 <br />
 
 <p align="center">
