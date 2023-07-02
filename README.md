@@ -1,7 +1,8 @@
 <img src="./images/banner/zongli-banner.gif" />
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 23:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 23:20 +0700</u> (🤖Automated)
 </h3>
+<br />
 <table align="center">
   <tr>
     <th align="center" colspan="2">
