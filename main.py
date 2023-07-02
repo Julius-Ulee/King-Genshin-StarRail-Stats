@@ -17,7 +17,6 @@ logger = logging.getLogger()
 load_dotenv()
 
 # Constants
-MBB_API = "https://api.mhankbarbar.tech"
 DEFAULT_TEMPLATE_PATH = "src/template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
 
@@ -54,22 +53,6 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-def clear_and_save_images(urls: List[str]) -> List[str]:
-    if os.path.exists("images/info"):
-        for filename in os.listdir("images/info"):
-            os.unlink(os.path.join("images/info", filename))
-    os.makedirs("images/info", exist_ok=True)
-    saved_files = []
-    for url in urls:
-        response = requests.get(url)
-        if response.status_code == 200:
-            filename = os.path.join("images/info", url.split("/")[-1])
-            with open(filename, "wb") as f:
-                f.write(response.content)
-            saved_files.append(filename)
-    return saved_files
-
-
 class AnimeGame(genshin.Client):
 
     def __init__(self, args: argparse.Namespace):
@@ -90,15 +73,6 @@ class AnimeGame(genshin.Client):
             reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
             reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
         return reward, reward_info
-
-    def _get_character_showcase(self, game: str, uid: int) -> Optional[List[str]]:
-        if game == "genshin":
-            res = requests.get(f"{MBB_API}/genshin_card?uid={uid}")
-        else:
-            return None  # TODO: add HSR implementation
-        if res.status_code == 200:
-            return clear_and_save_images(res.json()["result"])
-        return None
 
     async def get_genshin_res(self) -> GenshinRes:
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
