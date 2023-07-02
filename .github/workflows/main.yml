@@ -35,6 +35,5 @@ jobs:
           git diff
           git config user.name "King"
           git config user.email "actions@users.noreply.github.com"
-          git add .
           git commit -asm "King's Genshin & StarRail stats"
-          git push
+          git push -f origin master
