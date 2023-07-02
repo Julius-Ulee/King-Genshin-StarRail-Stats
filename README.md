@@ -1,9 +1,17 @@
 <img src="./images/banner/zongli-banner.gif" />
 <p align="center">
-  <a href="#----profile-information--">Genshin Impact Stats</a>
+  <img src="./images/logo/genshin-logo.png" height="20" /><a
+    href="#----profile-information--"
+  >
+    Genshin Impact Stats</a
+  >
 </p>
 <p align="center">
-  <a href="#----profile-information---1">Honkai Star Rail Stats</a>
+  <img src="./images/logo/hsr-logo.png" height="20" /><a
+    href="#----profile-information---1"
+  >
+    Honkai Star Rail Stats</a
+  >
 </p>
 
 <p align="center">
@@ -18,7 +26,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 16:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 16:30 +0700</u> (🤖Automated)
 </h3>
 <br />
 
