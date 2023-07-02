@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="['images/info/genshin_card_02_07_2023-14_02_44.png']"
+  src="['images/info/genshin_card_02_07_2023-14_05_34.png', 'images/info/genshin_card_02_07_2023-14_05_36.png']"
 />
 
 <p align="center">
@@ -11,7 +11,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 14:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -135,7 +135,7 @@
       />
       Days Active
     </td>
-    <td align="center">129</td>
+    <td align="center">130</td>
   </tr>
   <tr>
     <td>
