@@ -1,7 +1,4 @@
-<img
-  align="center"
-  src="['images/info/genshin_card_02_07_2023-14_05_34.png', 'images/info/genshin_card_02_07_2023-14_05_36.png']"
-/>
+<img align="center" src="./images/banner/zongli-banner.gif" />
 
 <p align="center">
   <a href=""
@@ -11,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 14:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 14:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3442,6 +3439,19 @@
     </tr>
   </table>
 </details>
+<h2 align="center">My Genshin Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/info/genshin_card_02_07_2023-14_09_49.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/info/genshin_card_02_07_2023-14_09_51.png" />
+</details>
+<h2 align="center">
+  You can also check my characters showcase/builds on
+  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+</h2>
 <img align="center" src="./images/banner/hsr-banner.gif" />
 
 <p align="center">
