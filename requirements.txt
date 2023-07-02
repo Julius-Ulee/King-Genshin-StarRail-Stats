@@ -1,5 +1,6 @@
 genshin
 Jinja2
+pydantic==1.*
 python-dotenv
 pytz
-pydantic==1.*
+requests
