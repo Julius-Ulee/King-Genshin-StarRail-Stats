@@ -1,6 +1,6 @@
-[💾 Installation](#---updated-at-jul-01-2023-1931-0700-automated)
-
 <img align="center" src="./images/banner/zongli-banner.gif" />
+[💾 Installation](#---updated-at-jul-01-2023-1931-0700-automated)
+<a href="#---updated-at-jul-01-2023-1931-0700-automated">Genshin</a>
 
 <p align="center">
   <a href=""
