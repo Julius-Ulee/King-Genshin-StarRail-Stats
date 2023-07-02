@@ -1,6 +1,13 @@
 <img src="./images/banner/zongli-banner.gif" />
+<p align="center">
+  <a href=""
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Anime+Game+Stats"
+      alt="Typing SVG"
+  /></a>
+</p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 23:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 23:27 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
