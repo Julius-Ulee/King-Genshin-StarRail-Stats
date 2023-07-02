@@ -13,7 +13,12 @@
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
         height="20"
-      /><a href="#----profile-information--"> Genshin Impact Stats</a>
+      /><a href="#----profile-information--">
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&size=19&lines=Genshin+Impact+Stats"
+          alt="Typing SVG"
+        />
+      </a>
     </td>
     <td>
       <img
@@ -38,7 +43,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 22:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 23:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -3543,7 +3548,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">2</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3551,16 +3556,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      1 x Condensed Aether
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-02 01:06:20+08:00</td>
+    <td align="center">🕒 2023-07-03 00:02:01+08:00</td>
   </tr>
 </table>
 
