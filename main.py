@@ -1,33 +1,34 @@
 import argparse
 import asyncio
+import json
 import logging
 import os
 import pathlib
-import typing
-import json
-import pytz
-from dotenv import load_dotenv
 from datetime import datetime
+from typing import List, Optional, Tuple
 
 import genshin
 import jinja2
+import pytz
+import requests
+from dotenv import load_dotenv
 
 logger = logging.getLogger()
 load_dotenv()
 
-parser = argparse.ArgumentParser()
-parser.add_argument("-t", "--template", default="src/template.html", type=pathlib.Path)
-parser.add_argument("-o", "--output", default="output/stats.html", type=pathlib.Path)
-parser.add_argument("-c", "--cookies", default=None)
-parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+# Constants
+MBB_API = "https://api.mhankbarbar.tech"
+DEFAULT_TEMPLATE_PATH = "src/template.html"
+DEFAULT_OUTPUT_PATH = "stats.html"
 
 
 class GenshinRes:
-    user: typing.Any
-    abyss: typing.Any
-    diary: typing.Any
-    reward: typing.Any
-    reward_info: typing.Any
+    user: genshin.models.FullGenshinUserStats
+    abyss: genshin.models.SpiralAbyss
+    diary: genshin.models.Diary
+    reward: genshin.models.ClaimedDailyReward
+    reward_info: genshin.models.DailyRewardInfo
+    showcase: List[str]
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -35,12 +36,12 @@ class GenshinRes:
 
 
 class HsrRes:
-    user: typing.Any
-    characters: typing.Any
-    diary: typing.Any
-    forgotten_hall: typing.Any
-    reward: typing.Any
-    reward_info: typing.Any
+    user: genshin.models.StarRailUserStats
+    characters: List[genshin.models.StarRailDetailCharacter]
+    diary: genshin.models.Diary
+    forgotten_hall: genshin.models.StarRailChallenge
+    reward: genshin.models.ClaimedDailyReward
+    reward_info: genshin.models.DailyRewardInfo
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -53,16 +54,34 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-class AnimeGame(genshin.Client):
-    args: argparse.Namespace
+def clear_and_save_images(urls: List[str]) -> List[str]:
+    if os.path.exists("images"):
+        for filename in os.listdir("images/info"):
+            os.unlink(os.path.join("images/info", filename))
+    os.makedirs("images/info", exist_ok=True)
+    saved_files = []
+    for url in urls:
+        response = requests.get(url)
+        if response.status_code == 200:
+            filename = os.path.join("images/info", url.split("/")[-1])
+            with open(filename, "wb") as f:
+                f.write(response.content)
+            saved_files.append(filename)
+    return saved_files
 
-    def __init__(self):
-        self.args = parser.parse_args()
+
+class AnimeGame(genshin.Client):
+
+    def __init__(self, args: argparse.Namespace):
+        self.args = args
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
         super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
 
-    async def _claim_daily(self, game: typing.Optional[genshin.types.Game] = None):
+    async def _claim_daily(self, game: Optional[genshin.types.Game] = None) -> Tuple[
+        genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
+    ]:
+        """Claim the daily reward and retrieve reward information."""
         try:
             await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
         except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
@@ -72,29 +91,36 @@ class AnimeGame(genshin.Client):
             reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
         return reward, reward_info
 
-    async def get_genshin_res(self):
+    def _get_character_showcase(self, game: str, uid: int) -> Optional[List[str]]:
+        if game == "genshin":
+            res = requests.get(f"{MBB_API}/genshin_card?uid={uid}")
+        else:
+            return None  # TODO: add HSR implementation
+        if res.status_code == 200:
+            return clear_and_save_images(res.json()["result"])
+        return None
+
+    async def get_genshin_res(self) -> GenshinRes:
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
-
         reward, reward_info = await self._claim_daily()
-
+        showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
         return GenshinRes(
             user=user,
             abyss=abyss,
             diary=diary,
             reward=reward,
-            reward_info=reward_info
+            reward_info=reward_info,
+            showcase=showcase
         )
 
-    async def get_hsr_res(self):
+    async def get_hsr_res(self) -> HsrRes:
         user = await self.get_starrail_user()
-        diary = None  # await self.get_starrail_diary()  # skip this sh1t for now bcz error, idk why
+        diary = None  # await self.get_starrail_diary()  # Skip for now due to error
         forgotten_hall = await self.get_starrail_challenge(previous=True)
         characters = await self.get_starrail_characters()
-
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
-
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
@@ -114,9 +140,22 @@ class AnimeGame(genshin.Client):
             genshin=_genshin,
             hsr=_hsr,
             _int=int,
+            _enumerate=enumerate,
             updated_at=format_date(_hsr.reward.time)
         )
         self.args.output.write_text(rendered)
 
+
+def parse_arguments() -> argparse.Namespace:
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-t", "--template", default=DEFAULT_TEMPLATE_PATH, type=pathlib.Path)
+    parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_PATH, type=pathlib.Path)
+    parser.add_argument("-c", "--cookies", default=None)
+    parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    asyncio.run(AnimeGame().main())
+    args = parse_arguments()
+    asyncio.run(AnimeGame(args).main())
