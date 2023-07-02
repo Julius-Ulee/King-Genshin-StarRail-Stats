@@ -26,7 +26,6 @@ class GenshinRes:
     diary: genshin.models.Diary
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
-    showcase: List[str]
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -77,8 +76,7 @@ class AnimeGame(genshin.Client):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
-        reward, reward_info = await self._claim_daily()
-        showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
+        reward, reward_info = await self._claim_daily(genshin.Game.GENSHIN)
         return GenshinRes(
             user=user,
             abyss=abyss,
