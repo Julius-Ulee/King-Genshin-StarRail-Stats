@@ -1,4 +1,4 @@
-<img align="center" src="./images/banner/zongli-banner.gif" />
+<img align="center" src="" />
 
 <p align="center">
   <a href=""
@@ -8,7 +8,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 13:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2023 13:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
