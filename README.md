@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 03, 2023 13:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2023 13:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -66,14 +66,6 @@
       src="https://custom-icon-badges.demolab.com/badge/-Genshin%20Daily-red?style=for-the-badge&logoColor=white&logo=genshin-logo"
   /></a>
   <a
-    href="https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=350&gid=2&utm_source=hoyolab&utm_medium=tools&bbs_theme=dark&bbs_theme_device=1#/ys"
-  >
-    <img
-      alt="Genshin Jurnal"
-      title="Genshin Impact"
-      src="https://custom-icon-badges.demolab.com/badge/-Jurnal%20Genshin%20Impact-red?style=for-the-badge&logoColor=white&logo=genshin-icon"
-  /></a>
-  <a
     href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=hoyolab&utm_medium=tools&utm_campaign=checkin&utm_id=6&lang=id-id&bbs_theme=dark&bbs_theme_device=1"
   >
     <img
@@ -82,12 +74,26 @@
       src="https://custom-icon-badges.demolab.com/badge/-Star%20Rail%20Daily-blue?style=for-the-badge&logoColor=white&logo=hsr"
   /></a>
   <a
+    href="https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=350&gid=2&utm_source=hoyolab&utm_medium=tools&bbs_theme=dark&bbs_theme_device=1#/ys"
+  >
+    <img
+      alt="Genshin Jurnal"
+      title="Genshin Impact"
+      src="https://custom-icon-badges.demolab.com/badge/-Jurnal%20Genshin%20Impact-red?style=for-the-badge&logoColor=white&logo=genshin-icon"
+  /></a>
+  <a
     href="https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=6&utm_campaign=battlechronicle&utm_id=6&utm_medium=tools&utm_source=hoyolab&v=101&bbs_theme=dark&bbs_theme_device=1#/hsr"
   >
     <img
       alt="Star Rail Jurnal"
       title="Honkai: Star Rail"
       src="https://custom-icon-badges.demolab.com/badge/-Jurnal%20Star%20Rail-blue?style=for-the-badge&logoColor=white&logo=hsr-icon"
+  /></a>
+  <a href="https://www.hoyolab.com/home">
+    <img
+      alt="YoHoLAB"
+      title="HoYoLAB"
+      src="https://custom-icon-badges.demolab.com/badge/-HoYoLAB-green?style=for-the-badge&logoColor=white&logo=hoyolab-icon"
   /></a>
 </p>
 <br />
@@ -710,7 +716,7 @@
       />
       Primogems earned
     </td>
-    <td>225 (rate -96)</td>
+    <td>255 (rate -95)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +727,13 @@
       />
       Mora earned
     </td>
-    <td>1460450 (rate -75)</td>
+    <td>1485900 (rate -75)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 120 (54%)<br />Quests: 60 (26%)<br />Adventure: 45
-      (20%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Daily Activity: 120 (48%)<br />Quests: 90 (35%)<br />Adventure: 45
+      (17%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
