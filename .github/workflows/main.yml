@@ -33,7 +33,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git config user.name "King"
+          git config user.name "Julius-Ulee"
           git config user.email "actions@users.noreply.github.com"
           git commit -asm "King's Genshin & StarRail stats"
           git push -f origin master
