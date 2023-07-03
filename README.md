@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 03, 2023 13:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2023 13:14 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -89,6 +89,7 @@
       title="Honkai: Star Rail"
       src="https://custom-icon-badges.demolab.com/badge/-Jurnal%20Star%20Rail-blue?style=for-the-badge&logoColor=white&logo=hsr-icon"
   /></a>
+  <br />
   <a href="https://www.hoyolab.com/home">
     <img
       alt="YoHoLAB"
