@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 23:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2023 12:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -46,6 +46,15 @@
         height="20"
       /><a href="#----characters---1"> Honkai: Star Rail Characters</a>
     </td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">
+      You can also check my characters showcase/builds on
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        height="20"
+      /><a href="https://enka.network/u/juliusulee"> Enka.Network</a>
+    </th>
   </tr>
 </table>
 <br />
@@ -668,7 +677,7 @@
       />
       Primogems earned
     </td>
-    <td>145 (rate -97)</td>
+    <td>225 (rate -96)</td>
   </tr>
   <tr>
     <td>
@@ -679,13 +688,14 @@
       />
       Mora earned
     </td>
-    <td>1258950 (rate -79)</td>
+    <td>1460450 (rate -75)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 120 (83%)<br />Adventure: 25 (17%)<br />Events: 0 (0%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Daily Activity: 120 (54%)<br />Quests: 60 (26%)<br />Adventure: 45
+      (20%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3490,11 +3500,6 @@
     </tr>
   </table>
 </details>
-<h2 align="center">
-  You can also check my characters showcase/builds on
-  <a href="https://enka.network/u/juliusulee">Enka.Network</a>
-</h2>
-
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
@@ -3539,7 +3544,7 @@
         ,
         height="20"
       />
-      17
+      19
     </td>
   </tr>
 </table>
@@ -3587,7 +3592,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3595,11 +3600,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>36</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>57</td>
+    <td>60</td>
   </tr>
   <tr></tr>
 </table>
@@ -3698,6 +3703,80 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Dan Heng </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Dan Heng</h3></th>
+      <th align="center"><h3>Arrows</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3622285008828df6be8df3f8b606a271.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/351bfcd4a85343ab7b0a102e2266c647.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                height="18"
+              />
+              wind
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Arrows</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>March 7th </b></summary>
   <br />
   <table align="center">
@@ -3765,80 +3844,6 @@
           <tr>
             <td>Superimpose</td>
             <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Dan Heng </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Dan Heng</h3></th>
-      <th align="center"><h3>Arrows</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3622285008828df6be8df3f8b606a271.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/351bfcd4a85343ab7b0a102e2266c647.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-                height="18"
-              />
-              wind
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">21</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Arrows</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">5</td>
           </tr>
         </table>
       </td>
