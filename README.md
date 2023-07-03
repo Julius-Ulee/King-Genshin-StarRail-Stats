@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 03, 2023 12:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2023 12:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -49,7 +49,6 @@
   </tr>
   <tr>
     <th align="center" colspan="2">
-      You can also check my characters showcase/builds on
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
         height="20"
@@ -181,7 +180,7 @@
       />
       Achievements
     </td>
-    <td align="center">289</td>
+    <td align="center">294</td>
   </tr>
   <tr>
     <td>
@@ -192,7 +191,7 @@
       />
       Days Active
     </td>
-    <td align="center">130</td>
+    <td align="center">131</td>
   </tr>
   <tr>
     <td>
