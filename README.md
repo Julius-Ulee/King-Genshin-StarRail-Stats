@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 03, 2023 13:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2023 19:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -221,7 +221,7 @@
       />
       Achievements
     </td>
-    <td align="center">294</td>
+    <td align="center">301</td>
   </tr>
   <tr>
     <td>
@@ -543,7 +543,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">4</td>
+          <td align="center">5</td>
         </tr>
       </table>
     </td>
@@ -717,7 +717,7 @@
       />
       Primogems earned
     </td>
-    <td>255 (rate -95)</td>
+    <td>405 (rate -93)</td>
   </tr>
   <tr>
     <td>
@@ -728,13 +728,13 @@
       />
       Mora earned
     </td>
-    <td>1485900 (rate -75)</td>
+    <td>1901531 (rate -68)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 120 (48%)<br />Quests: 90 (35%)<br />Adventure: 45
-      (17%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Daily Activity: 180 (45%)<br />Quests: 120 (30%)<br />Adventure: 105
+      (25%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3640,11 +3640,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>37</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>60</td>
+    <td>68</td>
   </tr>
   <tr></tr>
 </table>
