@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 03, 2023 19:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 04, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -148,7 +148,7 @@
         ,
         height="18"
       />
-      53
+      54
     </td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -185,16 +185,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-03 00:06:48+08:00</td>
+    <td align="center">🕒 2023-07-04 00:14:41+08:00</td>
   </tr>
 </table>
 
@@ -232,7 +232,7 @@
       />
       Days Active
     </td>
-    <td align="center">131</td>
+    <td align="center">132</td>
   </tr>
   <tr>
     <td>
@@ -717,7 +717,7 @@
       />
       Primogems earned
     </td>
-    <td>405 (rate -93)</td>
+    <td>495 (rate -91)</td>
   </tr>
   <tr>
     <td>
@@ -728,13 +728,13 @@
       />
       Mora earned
     </td>
-    <td>1901531 (rate -68)</td>
+    <td>1965697 (rate -67)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 180 (45%)<br />Quests: 120 (30%)<br />Adventure: 105
-      (25%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Daily Activity: 240 (49%)<br />Quests: 120 (24%)<br />Adventure: 115
+      (23%)<br />Mail: 20 (4%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3584,7 +3584,7 @@
         ,
         height="20"
       />
-      19
+      20
     </td>
   </tr>
 </table>
@@ -3596,7 +3596,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3604,16 +3604,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      1 x Canned Soda
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-03 00:02:01+08:00</td>
+    <td align="center">🕒 2023-07-04 00:14:58+08:00</td>
   </tr>
 </table>
 
@@ -3632,7 +3632,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3640,11 +3640,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>68</td>
+    <td>73</td>
   </tr>
   <tr></tr>
 </table>
