@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 05, 2023 12:51 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 05, 2023 12:55 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -3642,11 +3642,11 @@
   <tr></tr>
 </table>
 
-<h2>
+<h2 align="center">
   <img src="images/logo/hsr_diary.png" height="20" /> Diary
   <img src="images/logo/hsr_diary.png" height="20" />
 </h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
