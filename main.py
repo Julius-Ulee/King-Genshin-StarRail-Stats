@@ -95,8 +95,8 @@ class AnimeGame(genshin.Client):
 
     async def get_hsr_res(self) -> HsrRes:
         user = await self.get_starrail_user()
-        diary = None  # await self.get_starrail_diary()  # Skip for now due to error
-        forgotten_hall = await self.get_starrail_challenge(previous=True)
+        diary = await self.get_starrail_diary()
+        forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
