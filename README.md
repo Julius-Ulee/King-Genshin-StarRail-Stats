@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 05, 2023 12:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 05, 2023 12:51 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -697,15 +697,8 @@
   </tr>
 </table>
 <h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Diary
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
+  <img src="./images/logo/genshin_diary.png" height="20" /> Diary
+  <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
 <table align="center">
   <tr>
@@ -3647,6 +3640,37 @@
     <td>74</td>
   </tr>
   <tr></tr>
+</table>
+
+<h2>
+  <img src="images/logo/hsr_diary.png" height="20" /> Diary
+  <img src="images/logo/hsr_diary.png" height="20" />
+</h2>
+<table>
+  <tr>
+    <td>
+      <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
+    </td>
+    <td>1839 (rate 43)</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png"
+        height="18"
+      />
+      Pass & Special Pass earned
+    </td>
+    <td>37 (rate -11)</td>
+  </tr>
+  <tr>
+    <td>Categories</td>
+    <td>
+      Adventure Rewards: 1295 (70%)<br />Daily Activity: 285 (15%)<br />Simulated
+      Universe: 180 (9%)<br />Other: 59 (5%)<br />Mail: 20 (1%)<br />Event: 0
+      (0%)<br />Forgotten Hall: 0 (0%)<br />
+    </td>
+  </tr>
 </table>
 <p align="center">
   <img src="./images/logo/hsr-sticker.png" , width="240" height="240" />
