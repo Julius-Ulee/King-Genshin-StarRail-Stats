@@ -56,7 +56,7 @@ def format_date(date: datetime) -> str:
 
 class AnimeGame(genshin.Client):
 
-    def __init__(self, args: argparse.Namespace):
+    def __init__(self, args: argparse.Namespace, codes: GetCodes):
         self.args = args
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
