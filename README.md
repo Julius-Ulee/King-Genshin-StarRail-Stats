@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 05, 2023 12:55 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 05, 2023 13:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -3664,7 +3664,13 @@
     <td>37 (rate -11)</td>
   </tr>
   <tr>
-    <td>Categories</td>
+    <td>
+      <img
+        src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp"
+        height="18"
+      />
+      Categories
+    </td>
     <td>
       Adventure Rewards: 1295 (70%)<br />Daily Activity: 285 (15%)<br />Simulated
       Universe: 180 (9%)<br />Other: 59 (5%)<br />Mail: 20 (1%)<br />Event: 0
