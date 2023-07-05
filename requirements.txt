@@ -3,3 +3,5 @@ Jinja2
 pydantic==1.*
 python-dotenv
 pytz
+requests
+bs4
