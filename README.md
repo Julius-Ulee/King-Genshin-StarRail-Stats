@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 05, 2023 13:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 05, 2023 14:01 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>495 (rate -91)</td>
+    <td>1195 (rate -79)</td>
   </tr>
   <tr>
     <td>
@@ -721,14 +721,14 @@
       />
       Mora earned
     </td>
-    <td>1965697 (rate -67)</td>
+    <td>2035895 (rate -66)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 240 (49%)<br />Quests: 120 (24%)<br />Adventure: 115
-      (23%)<br />Mail: 20 (4%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Mail: 620 (52%)<br />Daily Activity: 300 (26%)<br />Quests: 120 (10%)<br />Adventure:
+      115 (9%)<br />Events: 40 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -3629,15 +3629,15 @@
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>74</td>
+    <td>76</td>
   </tr>
   <tr></tr>
 </table>
@@ -3867,11 +3867,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">30</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
         </table>
       </td>
@@ -4402,7 +4402,7 @@
   <table align="center">
     <tr>
       <th align="center"><h3>Sushang</h3></th>
-      <th align="center"><h3></h3></th>
+      <th align="center"><h3>Adversarial</h3></th>
     </tr>
     <tr>
       <td>
@@ -4413,7 +4413,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/f326ef19d9d944aa70dc713840e85bdd.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -4451,15 +4455,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Adversarial</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -4546,7 +4550,7 @@
   <table align="center">
     <tr>
       <th align="center"><h3>Pela</h3></th>
-      <th align="center"><h3></h3></th>
+      <th align="center"><h3>Good Night and Sleep Well</h3></th>
     </tr>
     <tr>
       <td>
@@ -4557,7 +4561,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/57c94dc09e3910bc91774e411ccb6626.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -4595,15 +4603,89 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Good Night and Sleep Well</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"></td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"></td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Natasha </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Natasha</h3></th>
+      <th align="center"><h3>Perfect Timing</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/4e1f3662a2fbacbbe2bb080eb3379642.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8d491a8d5c5efae34ffc7d9b667f9caa.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                height="18"
+              />
+              physical
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Perfect Timing</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
