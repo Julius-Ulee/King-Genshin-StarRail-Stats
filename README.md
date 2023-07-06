@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 05, 2023 19:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 06, 2023 19:38 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -177,7 +177,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">5</td>
+    <td align="center">6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -185,16 +185,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-05 03:46:48+08:00</td>
+    <td align="center">🕒 2023-07-06 01:09:26+08:00</td>
   </tr>
 </table>
 
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>1245 (rate -78)</td>
+    <td>1814 (rate -68)</td>
   </tr>
   <tr>
     <td>
@@ -721,14 +721,14 @@
       />
       Mora earned
     </td>
-    <td>2060975 (rate -65)</td>
+    <td>2979548 (rate -50)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 620 (50%)<br />Daily Activity: 300 (25%)<br />Quests: 150 (12%)<br />Adventure:
-      135 (10%)<br />Events: 40 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 680 (38%)<br />Adventure: 382 (22%)<br />Daily Activity: 360
+      (19%)<br />Quests: 350 (19%)<br />Events: 40 (2%)<br />Other: 2 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3589,7 +3589,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">5</td>
+    <td align="center">6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3597,16 +3597,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      2 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-05 01:06:20+08:00</td>
+    <td align="center">🕒 2023-07-06 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3625,7 +3625,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3633,7 +3633,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -3651,7 +3651,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2336 (rate 81)</td>
+    <td>2406 (rate 87)</td>
   </tr>
   <tr>
     <td>
@@ -3672,7 +3672,7 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1770 (75%)<br />Daily Activity: 285 (12%)<br />Simulated
+      Adventure Rewards: 1780 (73%)<br />Daily Activity: 345 (14%)<br />Simulated
       Universe: 200 (8%)<br />Other: 61 (5%)<br />Event: 0 (0%)<br />Forgotten
       Hall: 0 (0%)<br />Mail: 20 (0%)<br />
     </td>
