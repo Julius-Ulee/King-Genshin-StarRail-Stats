@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 06, 2023 19:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 06, 2023 19:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -221,7 +221,7 @@
       />
       Achievements
     </td>
-    <td align="center">304</td>
+    <td align="center">307</td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@
       />
       Days Active
     </td>
-    <td align="center">133</td>
+    <td align="center">134</td>
   </tr>
   <tr>
     <td>
@@ -295,21 +295,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">630</td>
+    <td align="center">655</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">427</td>
+    <td align="center">442</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">115</td>
+    <td align="center">118</td>
   </tr>
   <tr>
     <td>
@@ -482,12 +482,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/82/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">7</td>
+          <td align="center">10</td>
         </tr>
       </table>
     </td>
@@ -501,7 +501,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">7</td>
+          <td align="center">10</td>
         </tr>
       </table>
     </td>
@@ -604,7 +604,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">209</td>
+    <td align="center">211</td>
   </tr>
   <tr>
     <td>
