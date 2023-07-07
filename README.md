@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 07, 2023 23:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 07, 2023 23:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -3554,10 +3554,6 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Avatar</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Nickname</td>
     <td align="center">
       <img
@@ -3644,6 +3640,9 @@
     <td>77</td>
   </tr>
   <tr></tr>
+  <tr>
+    <td></td>
+  </tr>
 </table>
 
 <h2 align="center">
