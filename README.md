@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 07, 2023 10:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 07, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -232,7 +232,7 @@
       />
       Days Active
     </td>
-    <td align="center">134</td>
+    <td align="center">135</td>
   </tr>
   <tr>
     <td>
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>1814 (rate -68)</td>
+    <td>1910 (rate -67)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +721,13 @@
       />
       Mora earned
     </td>
-    <td>3017648 (rate -49)</td>
+    <td>3103544 (rate -48)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 680 (38%)<br />Adventure: 382 (22%)<br />Daily Activity: 360
-      (19%)<br />Quests: 350 (19%)<br />Events: 40 (2%)<br />Other: 2 (0%)<br />Spiral
+      Mail: 680 (36%)<br />Daily Activity: 420 (22%)<br />Adventure: 396
+      (21%)<br />Quests: 350 (18%)<br />Events: 62 (3%)<br />Other: 2 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -3625,7 +3625,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3633,7 +3633,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -3651,7 +3651,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2406 (rate 87)</td>
+    <td>2476 (rate 92)</td>
   </tr>
   <tr>
     <td>
@@ -3672,8 +3672,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1780 (73%)<br />Daily Activity: 345 (14%)<br />Simulated
-      Universe: 200 (8%)<br />Other: 61 (5%)<br />Event: 0 (0%)<br />Forgotten
+      Adventure Rewards: 1790 (72%)<br />Daily Activity: 405 (16%)<br />Simulated
+      Universe: 200 (8%)<br />Other: 61 (4%)<br />Event: 0 (0%)<br />Forgotten
       Hall: 0 (0%)<br />Mail: 20 (0%)<br />
     </td>
   </tr>
