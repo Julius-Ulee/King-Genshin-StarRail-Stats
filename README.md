@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 08, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 08, 2023 19:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -221,7 +221,7 @@
       />
       Achievements
     </td>
-    <td align="center">307</td>
+    <td align="center">308</td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@
       />
       Days Active
     </td>
-    <td align="center">135</td>
+    <td align="center">136</td>
   </tr>
   <tr>
     <td>
@@ -295,21 +295,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">655</td>
+    <td align="center">657</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">442</td>
+    <td align="center">444</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">118</td>
+    <td align="center">119</td>
   </tr>
   <tr>
     <td>
