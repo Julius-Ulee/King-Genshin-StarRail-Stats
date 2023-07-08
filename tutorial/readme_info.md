@@ -56,7 +56,7 @@ For now the cookie is just supported for genshin and hsr at the same account.
 And you're set! From now on the repo will claim any new codes and redeem the daily check-in rewards at Hoyolab for you every 6 hours!
 
 ## Costumization
-You can customize the `template.html` file to modify the appearance and layout of the generated HTML report.
+You can customize the `src/template.html` file to modify the appearance and layout of the generated HTML report.
 
 ## Acknowledgments
 - [genshin](https://github.com/thesadru/genshin.py) library by thesadru for Genshin Impact, HSR and Honkai Impact 3rd API integration.
