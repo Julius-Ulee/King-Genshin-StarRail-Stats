@@ -36,5 +36,5 @@ jobs:
           git config user.name "Julius-Ulee"
           git config user.email "fidzlieazriel@gmail.com"
           git add .
-          git commit -asm "King's Genshin & StarRail stats"
+          git commit -m "King's Genshin & StarRail stats"
           git push
