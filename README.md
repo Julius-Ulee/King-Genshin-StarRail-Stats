@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 08, 2023 20:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 09, 2023 01:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -221,7 +221,7 @@
       />
       Achievements
     </td>
-    <td align="center">308</td>
+    <td align="center">310</td>
   </tr>
   <tr>
     <td>
@@ -282,7 +282,7 @@
       />
       Dendroculus
     </td>
-    <td align="center">40</td>
+    <td align="center">41</td>
   </tr>
   <tr>
     <td>
@@ -295,7 +295,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">657</td>
+    <td align="center">659</td>
   </tr>
   <tr>
     <td>
@@ -468,7 +468,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/15/" width="80" />
+            <img src="https://progress-bar.dev/16/" width="80" />
           </td>
         </tr>
         <tr>
@@ -604,7 +604,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">211</td>
+    <td align="center">212</td>
   </tr>
   <tr>
     <td>
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>2266 (rate -61)</td>
+    <td>2505 (rate -56)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +721,13 @@
       />
       Mora earned
     </td>
-    <td>3521173 (rate -41)</td>
+    <td>3871623 (rate -35)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 680 (31%)<br />Daily Activity: 480 (22%)<br />Adventure: 470
-      (20%)<br />Quests: 350 (15%)<br />Events: 284 (12%)<br />Other: 2 (0%)<br />Spiral
+      Mail: 680 (28%)<br />Adventure: 588 (24%)<br />Daily Activity: 480
+      (19%)<br />Quests: 470 (18%)<br />Events: 284 (11%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -3589,7 +3589,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">8</td>
+    <td align="center">9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3597,16 +3597,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      1 x Lost Gold Fragment
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-08 00:06:13+08:00</td>
+    <td align="center">🕒 2023-07-09 01:06:22+08:00</td>
   </tr>
 </table>
 
