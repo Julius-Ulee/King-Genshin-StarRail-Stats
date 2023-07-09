@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 09, 2023 02:05 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 09, 2023 19:32 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -177,7 +177,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">8</td>
+    <td align="center">9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -185,16 +185,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-08 00:21:16+08:00</td>
+    <td align="center">🕒 2023-07-09 13:07:12+08:00</td>
   </tr>
 </table>
 
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>2505 (rate -56)</td>
+    <td>2867 (rate -50)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +721,13 @@
       />
       Mora earned
     </td>
-    <td>3871623 (rate -35)</td>
+    <td>4208940 (rate -29)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 680 (28%)<br />Adventure: 588 (24%)<br />Daily Activity: 480
-      (19%)<br />Quests: 470 (18%)<br />Events: 284 (11%)<br />Other: 3 (0%)<br />Spiral
+      Adventure: 690 (25%)<br />Mail: 680 (24%)<br />Daily Activity: 540
+      (19%)<br />Events: 484 (16%)<br />Quests: 470 (16%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -926,7 +926,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">82</td>
+            <td align="center">90</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1392,6 +1392,135 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Sucrose</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Sucrose</h3></th>
+      <th><h3 align="center">Sacrificial Fragments</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4e1ce60e8a555708df1d5646aa966d75.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
+              x Maiden Beloved<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/2ca4999a247328ca42f36babaec8b1db.png"
+                ,
+                height="18"
+              />
+              Thundersoother's Heart<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/606acf7e75f8d853d5ae349361cde965.png"
+                ,
+                height="18"
+              />
+              Viridescent Arrow Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/fe973fe2587ee0dfef18853b37d9dadb.png"
+                ,
+                height="18"
+              />
+              Hour of Soothing Thunder<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f6eaf404f544a85d56d92dbebe71df80.png"
+                ,
+                height="18"
+              />
+              Maiden's Fleeting Leisure<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4f4459b8998d625c05866e7872ddacc7.png"
+                ,
+                height="18"
+              />
+              Maiden's Fading Beauty<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">90</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">6</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table align="center">
@@ -1510,135 +1639,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Sucrose</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">Sacrificial Fragments</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4e1ce60e8a555708df1d5646aa966d75.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                ,
-                height="18"
-              />
-              Anemo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
-              x Maiden Beloved<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/2ca4999a247328ca42f36babaec8b1db.png"
-                ,
-                height="18"
-              />
-              Thundersoother's Heart<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/606acf7e75f8d853d5ae349361cde965.png"
-                ,
-                height="18"
-              />
-              Viridescent Arrow Feather<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/fe973fe2587ee0dfef18853b37d9dadb.png"
-                ,
-                height="18"
-              />
-              Hour of Soothing Thunder<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f6eaf404f544a85d56d92dbebe71df80.png"
-                ,
-                height="18"
-              />
-              Maiden's Fleeting Leisure<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4f4459b8998d625c05866e7872ddacc7.png"
-                ,
-                height="18"
-              />
-              Maiden's Fading Beauty<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Sacrificial Fragments</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Catalyst</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">90</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">6</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3625,7 +3625,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3651,7 +3651,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2526 (rate 96)</td>
+    <td>2851 (rate 122)</td>
   </tr>
   <tr>
     <td>
@@ -3661,7 +3661,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>37 (rate -11)</td>
+    <td>38 (rate -9)</td>
   </tr>
   <tr>
     <td>
@@ -3672,9 +3672,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1795 (71%)<br />Daily Activity: 450 (17%)<br />Simulated
-      Universe: 200 (7%)<br />Other: 61 (5%)<br />Event: 0 (0%)<br />Forgotten
-      Hall: 0 (0%)<br />Mail: 20 (0%)<br />
+      Adventure Rewards: 1800 (63%)<br />Daily Activity: 470 (16%)<br />Mail:
+      320 (11%)<br />Simulated Universe: 200 (7%)<br />Other: 61 (3%)<br />Event:
+      0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
