@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 09, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 10, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -177,7 +177,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -185,16 +185,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-09 13:07:12+08:00</td>
+    <td align="center">🕒 2023-07-10 02:18:59+08:00</td>
   </tr>
 </table>
 
@@ -221,7 +221,7 @@
       />
       Achievements
     </td>
-    <td align="center">310</td>
+    <td align="center">314</td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@
       />
       Days Active
     </td>
-    <td align="center">136</td>
+    <td align="center">138</td>
   </tr>
   <tr>
     <td>
@@ -249,7 +249,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">236</td>
+    <td align="center">237</td>
   </tr>
   <tr>
     <td>
@@ -282,7 +282,7 @@
       />
       Dendroculus
     </td>
-    <td align="center">41</td>
+    <td align="center">48</td>
   </tr>
   <tr>
     <td>
@@ -295,14 +295,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">659</td>
+    <td align="center">661</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">444</td>
+    <td align="center">445</td>
   </tr>
   <tr>
     <td>
@@ -543,7 +543,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">5</td>
+          <td align="center">6</td>
         </tr>
       </table>
     </td>
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>2867 (rate -50)</td>
+    <td>3393 (rate -41)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +721,13 @@
       />
       Mora earned
     </td>
-    <td>4208940 (rate -29)</td>
+    <td>4707971 (rate -21)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 690 (25%)<br />Mail: 680 (24%)<br />Daily Activity: 540
-      (19%)<br />Events: 484 (16%)<br />Quests: 470 (16%)<br />Other: 3 (0%)<br />Spiral
+      Quests: 850 (26%)<br />Adventure: 774 (23%)<br />Mail: 680 (20%)<br />Daily
+      Activity: 600 (17%)<br />Events: 484 (14%)<br />Other: 5 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -1559,11 +1559,11 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
                 ,
                 height="18"
               />
-              Geo
+              Dendro
             </td>
           </tr>
           <tr>
@@ -1576,7 +1576,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">5</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>
@@ -3589,7 +3589,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3597,16 +3597,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      3 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-09 01:06:22+08:00</td>
+    <td align="center">🕒 2023-07-10 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3625,7 +3625,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3651,7 +3651,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2851 (rate 122)</td>
+    <td>2886 (rate 124)</td>
   </tr>
   <tr>
     <td>
@@ -3672,8 +3672,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1800 (63%)<br />Daily Activity: 470 (16%)<br />Mail:
-      320 (11%)<br />Simulated Universe: 200 (7%)<br />Other: 61 (3%)<br />Event:
+      Adventure Rewards: 1805 (62%)<br />Daily Activity: 500 (17%)<br />Mail:
+      320 (11%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
