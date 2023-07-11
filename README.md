@@ -7,7 +7,7 @@
   /></a>
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 10, 2023 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 11, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 <table align="center">
@@ -177,7 +177,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -185,16 +185,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-10 02:18:59+08:00</td>
+    <td align="center">🕒 2023-07-11 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -710,7 +710,7 @@
       />
       Primogems earned
     </td>
-    <td>3393 (rate -41)</td>
+    <td>4007 (rate -31)</td>
   </tr>
   <tr>
     <td>
@@ -721,13 +721,13 @@
       />
       Mora earned
     </td>
-    <td>4707971 (rate -21)</td>
+    <td>5338488 (rate -11)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 850 (26%)<br />Adventure: 774 (23%)<br />Mail: 680 (20%)<br />Daily
-      Activity: 600 (17%)<br />Events: 484 (14%)<br />Other: 5 (0%)<br />Spiral
+      Quests: 930 (24%)<br />Events: 864 (22%)<br />Adventure: 846 (21%)<br />Mail:
+      700 (17%)<br />Daily Activity: 660 (16%)<br />Other: 7 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -1010,7 +1010,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Skyrider Sword</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -1025,7 +1025,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/5e64b3f07380823231e6018a7c2a17a1.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/85c4ad30336b94bb60fbaee98c3f9862.png"
             ,
             height="256"
           />
@@ -1106,7 +1106,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Skyrider Sword</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1114,19 +1114,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">60</td>
+            <td align="center">70</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">3</td>
+            <td align="center">4</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">5</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -1655,7 +1655,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Kaeya</h3></th>
-      <th><h3 align="center">Traveler's Handy Sword</h3></th>
+      <th><h3 align="center">Iron Sting</h3></th>
     </tr>
     <tr>
       <td>
@@ -1670,7 +1670,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f039e14b1a0f63480274439c73eb563b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/b036d71d7b32c7a63030294bba6eebbe.png"
             ,
             height="256"
           />
@@ -1713,7 +1713,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">Sailwind Shadow</td>
           </tr>
         </table>
       </td>
@@ -1721,7 +1721,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Traveler's Handy Sword</td>
+            <td align="center">Iron Sting</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1729,7 +1729,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2198,6 +2198,132 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Collei</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Collei</h3></th>
+      <th><h3 align="center">Messenger</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Collei_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/5909bdbed1640ac3eed0da3974b4272f.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />5 x Gilded Dreams<br /></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4f275aa581340451f481a3baaa5d3e94.png"
+                ,
+                height="18"
+              />
+              Dreaming Steelbloom<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/0496c76d02819d538f262772f307fce7.png"
+                ,
+                height="18"
+              />
+              Feather of Judgment<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/1d320083288e2afbdc85dc7897166553.png"
+                ,
+                height="18"
+              />
+              The Sunken Years<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/01f28c0245ab3376b24db698b9203136.png"
+                ,
+                height="18"
+              />
+              Honeyed Final Feast<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/fbe30709b3ac7760322b51f94a6e3930.png"
+                ,
+                height="18"
+              />
+              Shadow of the Sand King<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Messenger</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3044,7 +3170,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
-      <th><h3 align="center">Favonius Sword</h3></th>
+      <th><h3 align="center">Skyrider Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -3059,7 +3185,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/85c4ad30336b94bb60fbaee98c3f9862.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/5e64b3f07380823231e6018a7c2a17a1.png"
             ,
             height="256"
           />
@@ -3110,7 +3236,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Sword</td>
+            <td align="center">Skyrider Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3118,118 +3244,19 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Collei</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Collei</h3></th>
-      <th><h3 align="center">Messenger</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Collei_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/5909bdbed1640ac3eed0da3974b4272f.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                ,
-                height="18"
-              />
-              Dendro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Messenger</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Bow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">60</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center">5</td>
           </tr>
         </table>
       </td>
@@ -3391,7 +3418,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3589,7 +3616,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3597,16 +3624,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Lost Gold Fragment
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-10 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-11 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3625,7 +3652,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3633,7 +3660,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -3651,7 +3678,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2886 (rate 124)</td>
+    <td>2926 (rate 127)</td>
   </tr>
   <tr>
     <td>
@@ -3672,8 +3699,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1805 (62%)<br />Daily Activity: 500 (17%)<br />Mail:
-      320 (11%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
+      Adventure Rewards: 1815 (62%)<br />Daily Activity: 530 (18%)<br />Mail:
+      320 (10%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
