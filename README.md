@@ -15,14 +15,14 @@
     </th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./images/logo/genshin-icon.webp" height="20" /><a
         href="#----profile-information--"
       >
         Genshin Impact Stats</a
       >
     </td>
-    <td>
+    <td align="center">
       <img src="./images/logo/hsr-icon.webp" height="20" /><a
         href="#----profile-information---1"
       >
@@ -31,14 +31,14 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./images/logo/genshin-logo.png" height="20" /><a
         href="#----characters--"
       >
         Genshin Impact Characters</a
       >
     </td>
-    <td>
+    <td align="center">
       <img src="./images/logo/hsr-logo.png" height="20" /><a
         href="#----characters---1"
       >
@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 12, 2023 15:42 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 12, 2023 15:52 +0700</u> (🤖Automated)
 </h3>
 <br />
 
