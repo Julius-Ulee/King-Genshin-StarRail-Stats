@@ -1,4 +1,3 @@
-<img src="./images/banner/zongli-banner.gif" />
 <p align="center">
   <a href=""
     ><img
@@ -17,14 +16,14 @@
   </tr>
   <tr>
     <td>
-      <img src="./images/logo/genshin-icon.png" height="20" /><a
+      <img src="./images/logo/genshin-icon.webp" height="20" /><a
         href="#----profile-information--"
       >
         Genshin Impact Stats</a
       >
     </td>
     <td>
-      <img src="./images/logo/hsr-icon.png" height="20" /><a
+      <img src="./images/logo/hsr-icon.webp" height="20" /><a
         href="#----profile-information---1"
       >
         Honkai: Star Rail Stats</a
@@ -57,9 +56,8 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 12, 2023 15:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 12, 2023 15:29 +0700</u> (🤖Automated)
 </h3>
-<br />
 <br />
 
 <p align="center">
