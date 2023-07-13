@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 12, 2023 19:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 13, 2023 19:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">12</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-12 01:06:19+08:00</td>
+    <td align="center">🕒 2023-07-13 03:20:43+08:00</td>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@
       />
       Achievements
     </td>
-    <td align="center">316</td>
+    <td align="center">320</td>
   </tr>
   <tr>
     <td>
@@ -193,7 +193,7 @@
       />
       Days Active
     </td>
-    <td align="center">139</td>
+    <td align="center">141</td>
   </tr>
   <tr>
     <td>
@@ -210,7 +210,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">237</td>
+    <td align="center">238</td>
   </tr>
   <tr>
     <td>
@@ -243,7 +243,7 @@
       />
       Dendroculus
     </td>
-    <td align="center">49</td>
+    <td align="center">54</td>
   </tr>
   <tr>
     <td>
@@ -256,35 +256,35 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">666</td>
+    <td align="center">671</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">449</td>
+    <td align="center">456</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">121</td>
+    <td align="center">123</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">42</td>
+    <td align="center">44</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center">6</td>
+    <td align="center">9</td>
   </tr>
   <tr>
     <td>
@@ -429,7 +429,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/16/" width="80" />
+            <img src="https://progress-bar.dev/17/" width="80" />
           </td>
         </tr>
         <tr>
@@ -457,7 +457,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/33/" width="80" />
+            <img src="https://progress-bar.dev/35/" width="80" />
           </td>
         </tr>
         <tr>
@@ -565,7 +565,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">212</td>
+    <td align="center">214</td>
   </tr>
   <tr>
     <td>
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td>4390 (rate -24)</td>
+    <td>5198 (rate -10)</td>
   </tr>
   <tr>
     <td>
@@ -682,13 +682,13 @@
       />
       Mora earned
     </td>
-    <td>5492917 (rate -8)</td>
+    <td>6285524 (rate 4)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 1126 (26%)<br />Quests: 1030 (24%)<br />Events: 864 (20%)<br />Mail:
-      700 (15%)<br />Daily Activity: 660 (15%)<br />Other: 10 (0%)<br />Spiral
+      Adventure: 1397 (27%)<br />Quests: 1260 (25%)<br />Events: 1046 (20%)<br />Daily
+      Activity: 780 (15%)<br />Mail: 700 (13%)<br />Other: 15 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -3607,7 +3607,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">12</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3615,16 +3615,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      2 x Condensed Aether
+      20 x Stellar Jade
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-12 01:06:20+08:00</td>
+    <td align="center">🕒 2023-07-13 01:06:22+08:00</td>
   </tr>
 </table>
 
@@ -3643,7 +3643,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>14</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3669,7 +3669,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2926 (rate 127)</td>
+    <td>3006 (rate 134)</td>
   </tr>
   <tr>
     <td>
@@ -3690,8 +3690,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1815 (62%)<br />Daily Activity: 530 (18%)<br />Mail:
-      320 (10%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
+      Adventure Rewards: 1825 (60%)<br />Daily Activity: 580 (19%)<br />Mail:
+      340 (11%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
