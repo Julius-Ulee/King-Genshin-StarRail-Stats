@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 13, 2023 19:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 14, 2023 19:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-13 03:20:43+08:00</td>
+    <td align="center">🕒 2023-07-14 13:06:20+08:00</td>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@
       />
       Achievements
     </td>
-    <td align="center">320</td>
+    <td align="center">322</td>
   </tr>
   <tr>
     <td>
@@ -193,7 +193,7 @@
       />
       Days Active
     </td>
-    <td align="center">141</td>
+    <td align="center">142</td>
   </tr>
   <tr>
     <td>
@@ -204,13 +204,13 @@
       />
       Characters
     </td>
-    <td align="center">25</td>
+    <td align="center">29</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">238</td>
+    <td align="center">242</td>
   </tr>
   <tr>
     <td>
@@ -243,48 +243,48 @@
       />
       Dendroculus
     </td>
-    <td align="center">54</td>
+    <td align="center">56</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center">21</td>
+    <td align="center">22</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">671</td>
+    <td align="center">674</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">456</td>
+    <td align="center">458</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">123</td>
+    <td align="center">124</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">44</td>
+    <td align="center">47</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center">9</td>
+    <td align="center">12</td>
   </tr>
   <tr>
     <td>
@@ -429,12 +429,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/17/" width="80" />
+            <img src="https://progress-bar.dev/18/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">1</td>
+          <td align="center">2</td>
         </tr>
       </table>
     </td>
@@ -471,7 +471,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/17/" width="80" />
           </td>
         </tr>
         <tr>
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td>5198 (rate -10)</td>
+    <td>5711 (rate -1)</td>
   </tr>
   <tr>
     <td>
@@ -682,13 +682,13 @@
       />
       Mora earned
     </td>
-    <td>6285524 (rate 4)</td>
+    <td>6780301 (rate 12)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 1397 (27%)<br />Quests: 1260 (25%)<br />Events: 1046 (20%)<br />Daily
-      Activity: 780 (15%)<br />Mail: 700 (13%)<br />Other: 15 (0%)<br />Spiral
+      Quests: 1590 (28%)<br />Adventure: 1519 (27%)<br />Events: 1046 (19%)<br />Daily
+      Activity: 840 (14%)<br />Mail: 700 (12%)<br />Other: 16 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -1146,7 +1146,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">9</td>
+            <td align="center">10</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1972,7 +1972,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">53</td>
+            <td align="center">60</td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -3607,7 +3607,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3615,16 +3615,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-13 01:06:22+08:00</td>
+    <td align="center">🕒 2023-07-14 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3643,7 +3643,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3651,7 +3651,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>54</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -3669,7 +3669,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>3006 (rate 134)</td>
+    <td>3181 (rate 147)</td>
   </tr>
   <tr>
     <td>
@@ -3690,8 +3690,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1825 (60%)<br />Daily Activity: 580 (19%)<br />Mail:
-      340 (11%)<br />Simulated Universe: 200 (6%)<br />Other: 61 (4%)<br />Event:
+      Adventure Rewards: 1840 (57%)<br />Daily Activity: 640 (20%)<br />Mail:
+      340 (10%)<br />Simulated Universe: 300 (9%)<br />Other: 61 (4%)<br />Event:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
@@ -3793,7 +3793,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">2</td>
+            <td align="center">5</td>
           </tr>
         </table>
       </td>
@@ -3947,7 +3947,24 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c37df206983a3de0e8a8e26ab263f29.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ee97eda1fcc2efa1b3707ac8874d0415.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/f154a8db00519e1ef54a6db57e641ec7.png"
+                ,
+                height="18"
+              />
+              Thief's Steel Grappling Hook<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -3959,7 +3976,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">30</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -4021,7 +4038,29 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/9b5bd2d2cdba5d5345f284211a782689.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ee97eda1fcc2efa1b3707ac8874d0415.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6054886e1709ec7353e79fa6256c6df5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -4033,7 +4072,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">30</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -4095,7 +4134,24 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/9b5bd2d2cdba5d5345f284211a782689.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ee97eda1fcc2efa1b3707ac8874d0415.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -4107,7 +4163,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">30</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -4169,7 +4225,24 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/9b5bd2d2cdba5d5345f284211a782689.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ee97eda1fcc2efa1b3707ac8874d0415.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
           </tr>
         </table>
       </td>
