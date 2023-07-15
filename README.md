@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 14, 2023 19:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 15, 2023 19:32 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-14 13:06:20+08:00</td>
+    <td align="center">🕒 2023-07-15 13:07:16+08:00</td>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@
       />
       Achievements
     </td>
-    <td align="center">322</td>
+    <td align="center">325</td>
   </tr>
   <tr>
     <td>
@@ -193,7 +193,7 @@
       />
       Days Active
     </td>
-    <td align="center">142</td>
+    <td align="center">143</td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@
       />
       Geoculus
     </td>
-    <td align="center">66</td>
+    <td align="center">67</td>
   </tr>
   <tr>
     <td>
@@ -249,14 +249,14 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center">22</td>
+    <td align="center">23</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">674</td>
+    <td align="center">675</td>
   </tr>
   <tr>
     <td>
@@ -277,7 +277,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">47</td>
+    <td align="center">48</td>
   </tr>
   <tr>
     <td>
@@ -565,7 +565,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">214</td>
+    <td align="center">215</td>
   </tr>
   <tr>
     <td>
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td>5711 (rate -1)</td>
+    <td>5814 (rate 0)</td>
   </tr>
   <tr>
     <td>
@@ -682,13 +682,13 @@
       />
       Mora earned
     </td>
-    <td>6780301 (rate 12)</td>
+    <td>6853564 (rate 14)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1590 (28%)<br />Adventure: 1519 (27%)<br />Events: 1046 (19%)<br />Daily
-      Activity: 840 (14%)<br />Mail: 700 (12%)<br />Other: 16 (0%)<br />Spiral
+      Quests: 1590 (28%)<br />Adventure: 1560 (27%)<br />Events: 1046 (18%)<br />Daily
+      Activity: 900 (15%)<br />Mail: 700 (12%)<br />Other: 18 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -971,7 +971,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Favonius Sword</h3></th>
+      <th><h3 align="center">Sacrificial Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -986,7 +986,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/30fda0215614a89f99d99c9c863bc6b3.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/49250bf17662439e64c15815f9173ca2.png"
             ,
             height="256"
           />
@@ -1067,7 +1067,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Sword</td>
+            <td align="center">Sacrificial Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1079,11 +1079,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">70</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">4</td>
+            <td align="center">0</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1616,7 +1616,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Kaeya</h3></th>
-      <th><h3 align="center">Iron Sting</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -1631,7 +1631,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/270492694b7c28e3c47702d3b44665ed.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/30fda0215614a89f99d99c9c863bc6b3.png"
             ,
             height="256"
           />
@@ -1712,7 +1712,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Iron Sting</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1724,11 +1724,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">70</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center">4</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3551,6 +3551,402 @@
     </tr>
   </table>
 </details>
+<details open>
+  <summary align="center"><b>Jean</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Jean</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Qin_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1057e62d5198c0f11e457fb0bf07944e.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center">Gunnhildr's Legacy</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Ningguang</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Ningguang</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ningguang_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/292e999951d07694ae986994c6bc561b.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                ,
+                height="18"
+              />
+              Geo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Fischl</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Fischl</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                ,
+                height="18"
+              />
+              Electro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Hunter's Bow</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Noelle</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Noelle</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Noel_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                ,
+                height="18"
+              />
+              Geo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Waster Greatsword</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Claymore</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
@@ -3607,7 +4003,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3615,16 +4011,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      1 x Energy Drink (sugar-free)
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-14 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-15 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3643,7 +4039,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
