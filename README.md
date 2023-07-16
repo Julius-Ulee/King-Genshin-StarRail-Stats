@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 16, 2023 19:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 17, 2023 02:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-16 09:39:18+08:00</td>
+    <td align="center">🕒 2023-07-17 00:29:55+08:00</td>
   </tr>
 </table>
 
@@ -604,7 +604,7 @@
       />
       Primogems earned
     </td>
-    <td>5814 (rate 0)</td>
+    <td>5874 (rate 0)</td>
   </tr>
   <tr>
     <td>
@@ -615,13 +615,13 @@
       />
       Mora earned
     </td>
-    <td>6873047 (rate 14)</td>
+    <td>6925501 (rate 15)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
       Quests: 1590 (28%)<br />Adventure: 1560 (27%)<br />Events: 1046 (18%)<br />Daily
-      Activity: 900 (15%)<br />Mail: 700 (12%)<br />Other: 18 (0%)<br />Spiral
+      Activity: 960 (16%)<br />Mail: 700 (11%)<br />Other: 18 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -3936,7 +3936,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3944,16 +3944,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-16 01:06:20+08:00</td>
+    <td align="center">🕒 2023-07-17 01:06:21+08:00</td>
   </tr>
 </table>
 
