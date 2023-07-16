@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 15, 2023 21:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 16, 2023 08:22 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -193,7 +193,7 @@
       />
       Days Active
     </td>
-    <td align="center">143</td>
+    <td align="center">144</td>
   </tr>
   <tr>
     <td>
@@ -591,73 +591,6 @@
   </tr>
 </table>
 <h2 align="center">
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-  Spiral Abyss
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center">72</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center">4</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center">9</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center">5-3</td>
-  </tr>
-  <tr>
-    <td>🕐 Start Time</td>
-    <td align="center">2023-06-15 20:00:00+00:00</td>
-  </tr>
-  <tr>
-    <td>🕛 End Time</td>
-    <td align="center">2023-06-30 19:59:59+00:00</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td></td>
-  </tr>
-</table>
-<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -682,7 +615,7 @@
       />
       Mora earned
     </td>
-    <td>6853564 (rate 14)</td>
+    <td>6873047 (rate 14)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -4003,7 +3936,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">15</td>
+    <td align="center">16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4011,16 +3944,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      1 x Energy Drink (sugar-free)
+      3 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-15 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-16 01:06:20+08:00</td>
   </tr>
 </table>
 
