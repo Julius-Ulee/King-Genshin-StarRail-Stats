@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 16, 2023 08:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 16, 2023 08:55 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">15</td>
+    <td align="center">16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-15 13:07:16+08:00</td>
+    <td align="center">🕒 2023-07-16 09:39:18+08:00</td>
   </tr>
 </table>
 
