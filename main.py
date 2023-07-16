@@ -33,20 +33,6 @@ class GenshinRes:
         for k, v in kwargs.items():
             setattr(self, k, v)
 
-
-class HsrRes:
-    user: typing.Any
-    characters: typing.Any
-    diary: typing.Any
-    forgotten_hall: typing.Any
-    reward: typing.Any
-    reward_info: typing.Any
-
-    def __init__(self, **kwargs):
-        for k, v in kwargs.items():
-            setattr(self, k, v)
-
-
 def format_date(date: datetime) -> str:
     tz = pytz.timezone("Asia/Jakarta")
     now = date.now(tz=tz)
@@ -87,34 +73,14 @@ class AnimeGame(genshin.Client):
             reward_info=reward_info
         )
 
-    async def get_hsr_res(self):
-        user = await self.get_starrail_user()
-        diary = None  # await self.get_starrail_diary()  # skip this sh1t for now bcz error, idk why
-        forgotten_hall = await self.get_starrail_challenge(previous=True)
-        characters = await self.get_starrail_characters()
-
-        reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
-
-        return HsrRes(
-            user=user,
-            characters=characters.avatar_list,
-            diary=diary,
-            forgotten_hall=forgotten_hall,
-            reward=reward,
-            reward_info=reward_info
-        )
-
     async def main(self):
         _genshin, _hsr = await asyncio.gather(*[
-            self.get_genshin_res(),
-            self.get_hsr_res()
+            self.get_genshin_res()
         ])
         template: jinja2.Template = jinja2.Template(self.args.template.read_text())
         rendered = template.render(
             genshin=_genshin,
-            hsr=_hsr,
             _int=int,
-            updated_at=format_date(_hsr.reward.time)
         )
         self.args.output.write_text(rendered)
 
