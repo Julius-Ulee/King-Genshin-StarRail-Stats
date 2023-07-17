@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 17, 2023 02:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 17, 2023 08:16 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -615,7 +615,7 @@
       />
       Mora earned
     </td>
-    <td>6925501 (rate 15)</td>
+    <td>6930501 (rate 15)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -1162,7 +1162,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Xiangling</h3></th>
-      <th><h3 align="center">Prototype Starglitter</h3></th>
+      <th><h3 align="center">"The Catch"</h3></th>
     </tr>
     <tr>
       <td>
@@ -1177,7 +1177,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/fbd1b5b08456ccedc1a2d3004dac0a17.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bfe6d10aedcdad7b97c353bd2a28f27c.png"
             ,
             height="256"
           />
@@ -1258,7 +1258,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Prototype Starglitter</td>
+            <td align="center">"The Catch"</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2698,7 +2698,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Xinyan</h3></th>
-      <th><h3 align="center">Old Merc's Pal</h3></th>
+      <th><h3 align="center">Bloodtainted Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -2713,7 +2713,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9cf91e714dd09b7f9779245f037efc25.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/e635f1573448ad0a3d2dd66b57f9f8ab.png"
             ,
             height="256"
           />
@@ -2764,7 +2764,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Old Merc's Pal</td>
+            <td align="center">Bloodtainted Greatsword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2772,7 +2772,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3490,7 +3490,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Jean</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Iron Sting</h3></th>
     </tr>
     <tr>
       <td>
@@ -3505,7 +3505,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1057e62d5198c0f11e457fb0bf07944e.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/270492694b7c28e3c47702d3b44665ed.png"
             ,
             height="256"
           />
@@ -3556,7 +3556,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Dull Blade</td>
+            <td align="center">Iron Sting</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3564,11 +3564,11 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">20</td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -3589,7 +3589,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Ningguang</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -3604,7 +3604,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/292e999951d07694ae986994c6bc561b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9512ce33a4b1deabf659a6bade044f6a.png"
             ,
             height="256"
           />
@@ -3655,7 +3655,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Apprentice's Notes</td>
+            <td align="center">The Widsith</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3663,7 +3663,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3675,7 +3675,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
         </table>
       </td>
@@ -3688,7 +3688,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -3703,7 +3703,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/123fc7b2d68a9024bfd427b61fbe0745.png"
             ,
             height="256"
           />
@@ -3754,7 +3754,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Hunter's Bow</td>
+            <td align="center">The Stringless</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3762,7 +3762,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3787,7 +3787,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Noelle</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Whiteblind</h3></th>
     </tr>
     <tr>
       <td>
@@ -3802,7 +3802,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/03adaf7c27e758920764265554dc7df8.png"
             ,
             height="256"
           />
@@ -3853,7 +3853,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Whiteblind</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3861,7 +3861,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
