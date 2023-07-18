@@ -56,7 +56,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 17, 2023 22:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 18, 2023 08:28 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -138,7 +138,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -146,16 +146,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-17 00:29:55+08:00</td>
+    <td align="center">🕒 2023-07-18 00:20:36+08:00</td>
   </tr>
 </table>
 
@@ -3936,7 +3936,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3944,16 +3944,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      2 x Condensed Aether
+      2 x Lost Gold Fragment
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-17 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-18 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -3972,7 +3972,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -3998,7 +3998,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>3181 (rate 147)</td>
+    <td>3226 (rate 151)</td>
   </tr>
   <tr>
     <td>
@@ -4019,8 +4019,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1840 (57%)<br />Daily Activity: 640 (20%)<br />Mail:
-      340 (10%)<br />Simulated Universe: 300 (9%)<br />Other: 61 (4%)<br />Event:
+      Adventure Rewards: 1840 (57%)<br />Daily Activity: 685 (21%)<br />Mail:
+      340 (10%)<br />Simulated Universe: 300 (9%)<br />Other: 61 (3%)<br />Event:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
@@ -4219,6 +4219,97 @@
           <tr>
             <td>Superimpose</td>
             <td align="center">2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Qingque </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Qingque</h3></th>
+      <th align="center"><h3>Passkey</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/d3d9f78f994f20d3d844848b3ef7f214.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/46dfff7ef4c8530196d1e63540c0c862.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/305985685859cd0e9cd03f1cf498a1f2.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/3429354cfe697f88f7d6cbdc130348e5.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/55805670eee16a4da5ecdcc504e74580.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Passkey</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -4493,97 +4584,6 @@
           <tr>
             <td>Level</td>
             <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Qingque </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Qingque</h3></th>
-      <th align="center"><h3>Passkey</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/d3d9f78f994f20d3d844848b3ef7f214.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/46dfff7ef4c8530196d1e63540c0c862.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                height="18"
-              />
-              quantum
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/305985685859cd0e9cd03f1cf498a1f2.png"
-                ,
-                height="18"
-              />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/3429354cfe697f88f7d6cbdc130348e5.png"
-                ,
-                height="18"
-              />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_7c51cn/55805670eee16a4da5ecdcc504e74580.png"
-                ,
-                height="18"
-              />
-              Musketeer's Wind-Hunting Shawl<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Passkey</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
