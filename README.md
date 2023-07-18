@@ -1,5 +1,11 @@
 <p align="center">
   <a href=""
+    ><img src="./images/banner/立绘_浊心斯卡蒂_skin1.png" alt="Goddess"
+  /></a>
+</p>
+
+<p align="center">
+  <a href=""
     ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Anime+Game+Stats"
       alt="Typing SVG"
@@ -56,7 +62,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 18, 2023 08:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 18, 2023 11:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
