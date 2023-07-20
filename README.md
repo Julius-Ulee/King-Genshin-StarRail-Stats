@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 19, 2023 19:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 20, 2023 08:04 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -600,6 +600,73 @@
   </tr>
 </table>
 <h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
+    <td align="center">74</td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
+    <td align="center">6</td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
+    <td align="center">6-2</td>
+  </tr>
+  <tr>
+    <td>🕐 Start Time</td>
+    <td align="center">2023-07-15 20:00:00+00:00</td>
+  </tr>
+  <tr>
+    <td>🕛 End Time</td>
+    <td align="center">2023-07-31 19:59:59+00:00</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
+<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -613,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>6099 (rate 4)</td>
+    <td>6374 (rate 9)</td>
   </tr>
   <tr>
     <td>
@@ -624,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>7315504 (rate 21)</td>
+    <td>7495728 (rate 24)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1590 (27%)<br />Adventure: 1585 (26%)<br />Daily Activity: 1140
-      (19%)<br />Events: 1046 (17%)<br />Mail: 720 (11%)<br />Other: 18 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Adventure: 1600 (26%)<br />Quests: 1590 (25%)<br />Daily Activity: 1200
+      (19%)<br />Events: 1046 (16%)<br />Mail: 720 (11%)<br />Spiral Abyss: 200
+      (3%)<br />Other: 18 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3945,7 +4012,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">19</td>
+    <td align="center">20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -3953,16 +4020,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Credit
+      20 x Stellar Jade
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-19 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-20 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -4007,7 +4074,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>3286 (rate 155)</td>
+    <td>3974 (rate 209)</td>
   </tr>
   <tr>
     <td>
@@ -4017,7 +4084,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>38 (rate -9)</td>
+    <td>39 (rate -7)</td>
   </tr>
   <tr>
     <td>
@@ -4028,9 +4095,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1840 (55%)<br />Daily Activity: 745 (22%)<br />Mail:
-      340 (10%)<br />Simulated Universe: 300 (9%)<br />Other: 61 (4%)<br />Event:
-      0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+      Adventure Rewards: 1840 (46%)<br />Mail: 940 (23%)<br />Daily Activity:
+      805 (20%)<br />Simulated Universe: 300 (7%)<br />Other: 69 (4%)<br />Event:
+      20 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
