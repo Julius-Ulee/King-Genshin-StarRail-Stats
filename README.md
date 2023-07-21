@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 21, 2023 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 21, 2023 19:22 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">20</td>
+    <td align="center">21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-20 09:27:33+08:00</td>
+    <td align="center">🕒 2023-07-21 09:08:25+08:00</td>
   </tr>
 </table>
 
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">220</td>
+    <td align="center">234</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7182 (rate 23)</td>
+    <td>7192 (rate 23)</td>
   </tr>
   <tr>
     <td>
@@ -691,12 +691,12 @@
       />
       Mora earned
     </td>
-    <td>7962262 (rate 32)</td>
+    <td>7980262 (rate 32)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1930 (27%)<br />Adventure: 1763 (25%)<br />Events: 1286 (18%)<br />Daily
+      Quests: 1930 (27%)<br />Adventure: 1773 (25%)<br />Events: 1286 (18%)<br />Daily
       Activity: 1260 (18%)<br />Mail: 720 (10%)<br />Spiral Abyss: 200 (2%)<br />Other:
       23 (0%)<br />
     </td>
@@ -4051,7 +4051,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4059,11 +4059,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>77</td>
+    <td>78</td>
   </tr>
   <tr></tr>
 </table>
@@ -4077,7 +4077,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>4104 (rate 219)</td>
+    <td>4249 (rate 230)</td>
   </tr>
   <tr>
     <td>
@@ -4087,7 +4087,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>40 (rate -4)</td>
+    <td>42 (rate 0)</td>
   </tr>
   <tr>
     <td>
@@ -4098,8 +4098,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1840 (44%)<br />Mail: 1010 (24%)<br />Daily Activity:
-      865 (21%)<br />Simulated Universe: 300 (7%)<br />Other: 69 (4%)<br />Event:
+      Adventure Rewards: 1925 (45%)<br />Mail: 1010 (23%)<br />Daily Activity:
+      925 (21%)<br />Simulated Universe: 300 (7%)<br />Other: 69 (4%)<br />Event:
       20 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
@@ -4298,6 +4298,97 @@
           <tr>
             <td>Superimpose</td>
             <td align="center">2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Yukong </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Yukong</h3></th>
+      <th align="center"><h3>Mediation</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/c64106d724127c92f0e66b31ac10a75f.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/aa76ddaedd0cb2515d55ce72c8bae8f5.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Mediation</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
@@ -4568,97 +4659,6 @@
           <tr>
             <td>Name</td>
             <td align="center">Amber</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Yukong </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Yukong</h3></th>
-      <th align="center"><h3>Mediation</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/c64106d724127c92f0e66b31ac10a75f.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/aa76ddaedd0cb2515d55ce72c8bae8f5.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                height="18"
-              />
-              imaginary
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
-                ,
-                height="18"
-              />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
-                ,
-                height="18"
-              />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
-                ,
-                height="18"
-              />
-              Musketeer's Wind-Hunting Shawl<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Mediation</td>
           </tr>
           <tr>
             <td>Level</td>
