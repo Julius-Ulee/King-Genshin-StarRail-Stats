@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 22, 2023 08:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 22, 2023 19:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">341</td>
+    <td align="center">344</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">149</td>
+    <td align="center">150</td>
   </tr>
   <tr>
     <td>
@@ -265,7 +265,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">680</td>
+    <td align="center">682</td>
   </tr>
   <tr>
     <td>
@@ -293,7 +293,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center">15</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7432 (rate 27)</td>
+    <td>7474 (rate 28)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8119791 (rate 35)</td>
+    <td>8191877 (rate 36)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1930 (26%)<br />Adventure: 1803 (25%)<br />Events: 1436 (20%)<br />Daily
-      Activity: 1320 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 1970 (27%)<br />Adventure: 1805 (25%)<br />Events: 1436 (20%)<br />Daily
+      Activity: 1320 (17%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
       23 (0%)<br />
     </td>
   </tr>
@@ -962,11 +962,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center">90</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1220,11 +1220,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">60</td>
+            <td align="center">70</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">3</td>
+            <td align="center">4</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1478,11 +1478,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center">80</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center">5</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4051,7 +4051,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4077,7 +4077,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>4249 (rate 230)</td>
+    <td>4309 (rate 235)</td>
   </tr>
   <tr>
     <td>
@@ -4087,7 +4087,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>42 (rate 0)</td>
+    <td>43 (rate 2)</td>
   </tr>
   <tr>
     <td>
@@ -4098,8 +4098,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1925 (45%)<br />Mail: 1010 (23%)<br />Daily Activity:
-      925 (21%)<br />Simulated Universe: 300 (7%)<br />Other: 69 (4%)<br />Event:
+      Adventure Rewards: 1925 (44%)<br />Mail: 1010 (23%)<br />Daily Activity:
+      985 (22%)<br />Simulated Universe: 300 (6%)<br />Other: 69 (5%)<br />Event:
       20 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
@@ -4492,6 +4492,80 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Serval </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Serval</h3></th>
+      <th align="center"><h3>Passkey</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/52fd25c05d812e091bceefb32e0cbefa.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/0b5024d331d6e236204c1b61b3ce5c1d.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                height="18"
+              />
+              lightning
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Passkey</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Dan Heng </b></summary>
   <br />
   <table align="center">
@@ -4668,80 +4742,6 @@
           <tr>
             <td>Level</td>
             <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Serval </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Serval</h3></th>
-      <th align="center"><h3>Passkey</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/52fd25c05d812e091bceefb32e0cbefa.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/0b5024d331d6e236204c1b61b3ce5c1d.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
-                height="18"
-              />
-              lightning
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Passkey</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
           </tr>
           <tr>
             <td>Superimpose</td>
