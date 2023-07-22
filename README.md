@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 21, 2023 19:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 22, 2023 08:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">21</td>
+    <td align="center">22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-21 09:08:25+08:00</td>
+    <td align="center">🕒 2023-07-22 05:20:24+08:00</td>
   </tr>
 </table>
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7192 (rate 23)</td>
+    <td>7432 (rate 27)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>7980262 (rate 32)</td>
+    <td>8119791 (rate 35)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1930 (27%)<br />Adventure: 1773 (25%)<br />Events: 1286 (18%)<br />Daily
-      Activity: 1260 (18%)<br />Mail: 720 (10%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 1930 (26%)<br />Adventure: 1803 (25%)<br />Events: 1436 (20%)<br />Daily
+      Activity: 1320 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
       23 (0%)<br />
     </td>
   </tr>
@@ -900,7 +900,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1220,11 +1220,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center">60</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4015,7 +4015,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">21</td>
+    <td align="center">22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4023,16 +4023,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-21 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-22 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -4371,7 +4371,12 @@
                 ,
                 height="18"
               />
-              Musketeer's Wind-Hunting Shawl<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/ae3c71d7126843d72dd37301f1e62b12.png"
+                ,
+                height="18"
+              />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
         </table>
