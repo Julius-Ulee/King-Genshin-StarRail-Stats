@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 22, 2023 19:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 23, 2023 08:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">22</td>
+    <td align="center">23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-22 05:20:24+08:00</td>
+    <td align="center">🕒 2023-07-23 02:09:48+08:00</td>
   </tr>
 </table>
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">344</td>
+    <td align="center">345</td>
   </tr>
   <tr>
     <td>
@@ -265,7 +265,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">682</td>
+    <td align="center">683</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7474 (rate 28)</td>
+    <td>7565 (rate 30)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>8191877 (rate 36)</td>
+    <td>8256513 (rate 37)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1970 (27%)<br />Adventure: 1805 (25%)<br />Events: 1436 (20%)<br />Daily
-      Activity: 1320 (17%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
-      23 (0%)<br />
+      Quests: 1970 (27%)<br />Adventure: 1835 (25%)<br />Events: 1436 (19%)<br />Daily
+      Activity: 1380 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      24 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4015,7 +4015,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">22</td>
+    <td align="center">23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4023,16 +4023,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      2 x Condensed Aether
+      2 x Lost Gold Fragment
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-22 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-23 01:06:21+08:00</td>
   </tr>
 </table>
 
