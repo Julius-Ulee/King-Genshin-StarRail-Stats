@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 23, 2023 08:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 23, 2023 19:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">345</td>
+    <td align="center">348</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">150</td>
+    <td align="center">151</td>
   </tr>
   <tr>
     <td>
@@ -265,28 +265,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">683</td>
+    <td align="center">685</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">463</td>
+    <td align="center">464</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">124</td>
+    <td align="center">125</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">49</td>
+    <td align="center">51</td>
   </tr>
   <tr>
     <td>
@@ -494,7 +494,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/44/" width="80" />
+            <img src="https://progress-bar.dev/47/" width="80" />
           </td>
         </tr>
         <tr>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">234</td>
+    <td align="center">237</td>
   </tr>
   <tr>
     <td>
@@ -585,7 +585,7 @@
       />
       Trust Rank
     </td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7565 (rate 30)</td>
+    <td>7659 (rate 31)</td>
   </tr>
   <tr>
     <td>
@@ -691,12 +691,12 @@
       />
       Mora earned
     </td>
-    <td>8256513 (rate 37)</td>
+    <td>8286776 (rate 37)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1970 (27%)<br />Adventure: 1835 (25%)<br />Events: 1436 (19%)<br />Daily
+      Quests: 1970 (26%)<br />Adventure: 1929 (26%)<br />Events: 1436 (19%)<br />Daily
       Activity: 1380 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
@@ -4051,7 +4051,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4077,7 +4077,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>4309 (rate 235)</td>
+    <td>4369 (rate 240)</td>
   </tr>
   <tr>
     <td>
@@ -4087,7 +4087,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>43 (rate 2)</td>
+    <td>44 (rate 4)</td>
   </tr>
   <tr>
     <td>
@@ -4098,8 +4098,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 1925 (44%)<br />Mail: 1010 (23%)<br />Daily Activity:
-      985 (22%)<br />Simulated Universe: 300 (6%)<br />Other: 69 (5%)<br />Event:
+      Adventure Rewards: 1925 (44%)<br />Daily Activity: 1045 (23%)<br />Mail:
+      1010 (23%)<br />Simulated Universe: 300 (6%)<br />Other: 69 (4%)<br />Event:
       20 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
