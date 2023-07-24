@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 24, 2023 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 24, 2023 19:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">151</td>
+    <td align="center">152</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7659 (rate 31)</td>
+    <td>7869 (rate 35)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8286776 (rate 37)</td>
+    <td>8465795 (rate 40)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1970 (26%)<br />Adventure: 1929 (26%)<br />Events: 1436 (19%)<br />Daily
-      Activity: 1380 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 1970 (26%)<br />Adventure: 1929 (25%)<br />Events: 1586 (20%)<br />Daily
+      Activity: 1440 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -4059,11 +4059,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>65</td>
+    <td>72</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>83</td>
+    <td>84</td>
   </tr>
   <tr></tr>
 </table>
@@ -4077,7 +4077,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>6497 (rate 405)</td>
+    <td>6762 (rate 426)</td>
   </tr>
   <tr>
     <td>
@@ -4098,8 +4098,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 2590 (39%)<br />Daily Activity: 1105 (17%)<br />Mail:
-      1010 (15%)<br />Event: 820 (12%)<br />Forgotten Hall: 600 (9%)<br />Simulated
+      Adventure Rewards: 2855 (42%)<br />Daily Activity: 1105 (16%)<br />Mail:
+      1010 (14%)<br />Event: 820 (12%)<br />Forgotten Hall: 600 (8%)<br />Simulated
       Universe: 300 (4%)<br />Other: 72 (4%)<br />
     </td>
   </tr>
