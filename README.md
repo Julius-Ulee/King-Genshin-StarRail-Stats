@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 25, 2023 08:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 25, 2023 19:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">348</td>
+    <td align="center">351</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">152</td>
+    <td align="center">153</td>
   </tr>
   <tr>
     <td>
@@ -213,7 +213,7 @@
       />
       Characters
     </td>
-    <td align="center">29</td>
+    <td align="center">31</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">237</td>
+    <td align="center">240</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7869 (rate 35)</td>
+    <td>7989 (rate 37)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8465795 (rate 40)</td>
+    <td>8709656 (rate 44)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 1970 (26%)<br />Adventure: 1929 (25%)<br />Events: 1586 (20%)<br />Daily
-      Activity: 1440 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 2010 (26%)<br />Adventure: 1949 (25%)<br />Events: 1586 (20%)<br />Daily
+      Activity: 1500 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -4051,15 +4051,15 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>72</td>
+    <td>77</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -4077,7 +4077,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>6762 (rate 426)</td>
+    <td>7337 (rate 471)</td>
   </tr>
   <tr>
     <td>
@@ -4087,7 +4087,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>59 (rate 40)</td>
+    <td>63 (rate 50)</td>
   </tr>
   <tr>
     <td>
@@ -4098,9 +4098,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 2855 (42%)<br />Daily Activity: 1105 (16%)<br />Mail:
-      1010 (14%)<br />Event: 820 (12%)<br />Forgotten Hall: 600 (8%)<br />Simulated
-      Universe: 300 (4%)<br />Other: 72 (4%)<br />
+      Adventure Rewards: 2930 (39%)<br />Daily Activity: 1165 (15%)<br />Mail:
+      1010 (13%)<br />Event: 820 (11%)<br />Simulated Universe: 740 (10%)<br />Forgotten
+      Hall: 600 (8%)<br />Other: 72 (4%)<br />
     </td>
   </tr>
 </table>
@@ -4826,7 +4826,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center">0</td>
+            <td align="center">1</td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -4991,11 +4991,23 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f372c2939970ff31c2bf959381b5cdf3.png"
+                ,
+                height="18"
+              />
+              Genius's Ultraremote Sensing Visor<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -5226,6 +5238,87 @@
           <tr>
             <td>Name</td>
             <td align="center">Perfect Timing</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Arlan </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Arlan</h3></th>
+      <th align="center"><h3>Shattered Home</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/309327774036647d30263101d14e0864.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/ea1c1738b3725a1600aea5ebc71062fb.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                height="18"
+              />
+              lightning
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/8b49454320a0103f45d4b63396259cc2.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wild Wheat Felt Hat<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Shattered Home</td>
           </tr>
           <tr>
             <td>Level</td>
