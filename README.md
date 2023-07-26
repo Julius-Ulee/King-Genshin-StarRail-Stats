@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 25, 2023 19:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 26, 2023 08:04 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">25</td>
+    <td align="center">26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-25 05:37:55+08:00</td>
+    <td align="center">🕒 2023-07-26 05:56:42+08:00</td>
   </tr>
 </table>
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>7989 (rate 37)</td>
+    <td>8029 (rate 38)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8709656 (rate 44)</td>
+    <td>8740014 (rate 45)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 2010 (26%)<br />Adventure: 1949 (25%)<br />Events: 1586 (20%)<br />Daily
-      Activity: 1500 (18%)<br />Mail: 720 (9%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 2010 (26%)<br />Adventure: 1949 (25%)<br />Events: 1626 (21%)<br />Daily
+      Activity: 1500 (18%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -2220,6 +2220,105 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Sangonomiya Kokomi</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Sangonomiya Kokomi</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/83f57b0e4481d7425e9ba5eef1966953.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                ,
+                height="18"
+              />
+              Hydro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Favonius Codex</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">20</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Collei</b></summary>
   <br />
   <table align="center">
@@ -2401,7 +2500,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2579,7 +2678,7 @@
   <table align="center">
     <tr>
       <th><h3 align="center">Lisa</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -2594,7 +2693,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/83f57b0e4481d7425e9ba5eef1966953.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9512ce33a4b1deabf659a6bade044f6a.png"
             ,
             height="256"
           />
@@ -2645,7 +2744,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Codex</td>
+            <td align="center">The Widsith</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -3959,6 +4058,105 @@
     </tr>
   </table>
 </details>
+<details open>
+  <summary align="center"><b>Yanfei</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Yanfei</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Feiyan_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/292e999951d07694ae986994c6bc561b.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Apprentice's Notes</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
@@ -4015,7 +4213,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">25</td>
+    <td align="center">26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4023,16 +4221,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      1 x Disposable Kinetic Arm
+      2 x Refined Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-25 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-26 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -4051,7 +4249,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4063,7 +4261,7 @@
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>84</td>
+    <td>87</td>
   </tr>
   <tr></tr>
 </table>
@@ -4077,7 +4275,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>7337 (rate 471)</td>
+    <td>7432 (rate 478)</td>
   </tr>
   <tr>
     <td>
@@ -4087,7 +4285,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>63 (rate 50)</td>
+    <td>64 (rate 52)</td>
   </tr>
   <tr>
     <td>
@@ -4098,8 +4296,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 2930 (39%)<br />Daily Activity: 1165 (15%)<br />Mail:
-      1010 (13%)<br />Event: 820 (11%)<br />Simulated Universe: 740 (10%)<br />Forgotten
+      Adventure Rewards: 2965 (39%)<br />Daily Activity: 1225 (16%)<br />Mail:
+      1010 (13%)<br />Event: 820 (11%)<br />Simulated Universe: 740 (9%)<br />Forgotten
       Hall: 600 (8%)<br />Other: 72 (4%)<br />
     </td>
   </tr>
@@ -5077,7 +5275,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Relics</td>
