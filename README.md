@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 27, 2023 07:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 27, 2023 08:13 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">26</td>
+    <td align="center">27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-26 05:56:42+08:00</td>
+    <td align="center">🕒 2023-07-27 09:00:59+08:00</td>
   </tr>
 </table>
 
@@ -4196,12 +4196,18 @@
   <tr>
     <td>Trailblaze Level</td>
     <td align="center">
+      <img src="./images/logo/hsr-level.webp" , height="20" /> 30
+    </td>
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td align="center">
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
         ,
         height="20"
       />
-      30
+      Secret
     </td>
   </tr>
 </table>
