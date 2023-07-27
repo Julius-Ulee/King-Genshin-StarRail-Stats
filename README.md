@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 27, 2023 08:13 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 27, 2023 08:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4188,15 +4188,15 @@
     </td>
   </tr>
   <tr>
-    <td>Server</td>
-    <td align="center">
-      <img src="./images/logo/star.png" height="20" /> Asia
-    </td>
-  </tr>
-  <tr>
     <td>Trailblaze Level</td>
     <td align="center">
       <img src="./images/logo/hsr-level.webp" , height="20" /> 30
+    </td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td align="center">
+      <img src="./images/logo/star.png" height="20" /> Asia
     </td>
   </tr>
   <tr>
