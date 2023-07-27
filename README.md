@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 26, 2023 19:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 27, 2023 07:57 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -135,7 +135,7 @@
         ,
         height="18"
       />
-      877493089
+      Secret
     </td>
   </tr>
 </table>
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">351</td>
+    <td align="center">353</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">153</td>
+    <td align="center">154</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">240</td>
+    <td align="center">244</td>
   </tr>
   <tr>
     <td>
@@ -4213,7 +4213,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">26</td>
+    <td align="center">27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4221,16 +4221,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
           ,
           height="80" /></a
       ><br />
-      2 x Refined Aether
+      2 x Lost Crystal
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-26 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-27 01:06:21+08:00</td>
   </tr>
 </table>
 
