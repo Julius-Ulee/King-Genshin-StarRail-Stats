@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 27, 2023 08:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 27, 2023 19:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>8214 (rate 41)</td>
+    <td>8374 (rate 43)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8884363 (rate 47)</td>
+    <td>8958108 (rate 49)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 2050 (25%)<br />Adventure: 1974 (25%)<br />Events: 1686 (21%)<br />Daily
-      Activity: 1560 (19%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Quests: 2050 (25%)<br />Adventure: 1974 (24%)<br />Events: 1786 (22%)<br />Daily
+      Activity: 1620 (19%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -1478,15 +1478,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center">90</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
           </tr>
         </table>
       </td>
@@ -4255,7 +4255,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4263,11 +4263,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>77</td>
+    <td>79</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
-    <td>87</td>
+    <td>103</td>
   </tr>
   <tr></tr>
 </table>
@@ -4281,7 +4281,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>7432 (rate 478)</td>
+    <td>7743 (rate 503)</td>
   </tr>
   <tr>
     <td>
@@ -4291,7 +4291,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>64 (rate 52)</td>
+    <td>65 (rate 54)</td>
   </tr>
   <tr>
     <td>
@@ -4302,9 +4302,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 2965 (39%)<br />Daily Activity: 1225 (16%)<br />Mail:
-      1010 (13%)<br />Event: 820 (11%)<br />Simulated Universe: 740 (9%)<br />Forgotten
-      Hall: 600 (8%)<br />Other: 72 (4%)<br />
+      Adventure Rewards: 3215 (41%)<br />Daily Activity: 1285 (16%)<br />Mail:
+      1010 (13%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
+      Hall: 600 (7%)<br />Other: 73 (4%)<br />
     </td>
   </tr>
 </table>
@@ -4497,11 +4497,107 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">30</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Superimpose</td>
             <td align="center">5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Yukong </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Yukong</h3></th>
+      <th align="center"><h3>Mediation</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/c64106d724127c92f0e66b31ac10a75f.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/aa76ddaedd0cb2515d55ce72c8bae8f5.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/7bca405261c40102d0409743e5d71dfe.png"
+                ,
+                height="18"
+              />
+              Thief's Meteor Boots<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Mediation</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">4</td>
           </tr>
         </table>
       </td>
@@ -4590,6 +4686,279 @@
           <tr>
             <td>Name</td>
             <td align="center">Passkey</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Serval </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Serval</h3></th>
+      <th align="center"><h3>Passkey</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/52fd25c05d812e091bceefb32e0cbefa.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/0b5024d331d6e236204c1b61b3ce5c1d.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                height="18"
+              />
+              lightning
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/8b49454320a0103f45d4b63396259cc2.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Passkey</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">30</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Herta </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Herta</h3></th>
+      <th align="center"><h3>Data Bank</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1ebd48adb70a6e62068dc05aae3583e7.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/6f55ec4da351e6053316482b4658b09c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+              ice
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
+                ,
+                height="18"
+              />
+              Thief's Steel Grappling Hook<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Data Bank</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Asta </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Asta</h3></th>
+      <th align="center"><h3>Chorus</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/b4d23a8e0dde343c505e73d1339ac4a7.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/18c2f08ea10fd6c49881e2e6d57126d3.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                height="18"
+              />
+              fire
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/951d4dce278ccd7883bd25fab118491b.png"
+                ,
+                height="18"
+              />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
+                ,
+                height="18"
+              />
+              Thief's Steel Grappling Hook<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Chorus</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4786,358 +5155,6 @@
           <tr>
             <td>Level</td>
             <td align="center">40</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Yukong </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Yukong</h3></th>
-      <th align="center"><h3>Mediation</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/c64106d724127c92f0e66b31ac10a75f.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/aa76ddaedd0cb2515d55ce72c8bae8f5.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                height="18"
-              />
-              imaginary
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
-                ,
-                height="18"
-              />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
-                ,
-                height="18"
-              />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
-                ,
-                height="18"
-              />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/7bca405261c40102d0409743e5d71dfe.png"
-                ,
-                height="18"
-              />
-              Thief's Meteor Boots<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Mediation</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">4</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Serval </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Serval</h3></th>
-      <th align="center"><h3>Passkey</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/52fd25c05d812e091bceefb32e0cbefa.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/0b5024d331d6e236204c1b61b3ce5c1d.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
-                height="18"
-              />
-              lightning
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">30</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/8b49454320a0103f45d4b63396259cc2.png"
-                ,
-                height="18"
-              />
-              Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
-                ,
-                height="18"
-              />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
-                ,
-                height="18"
-              />
-              Musketeer's Wind-Hunting Shawl<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Passkey</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Herta </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Herta</h3></th>
-      <th align="center"><h3>Data Bank</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1ebd48adb70a6e62068dc05aae3583e7.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/6f55ec4da351e6053316482b4658b09c.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                height="18"
-              />
-              ice
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
-                ,
-                height="18"
-              />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
-                ,
-                height="18"
-              />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
-                ,
-                height="18"
-              />
-              Thief's Steel Grappling Hook<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Data Bank</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Asta </b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center"><h3>Asta</h3></th>
-      <th align="center"><h3>Chorus</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/b4d23a8e0dde343c505e73d1339ac4a7.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/18c2f08ea10fd6c49881e2e6d57126d3.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                height="18"
-              />
-              fire
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">20</td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Chorus</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">1</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -5433,7 +5450,19 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/8b49454320a0103f45d4b63396259cc2.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                ,
+                height="18"
+              />
+              Musketeer's Wind-Hunting Shawl<br />
+            </td>
           </tr>
         </table>
       </td>
