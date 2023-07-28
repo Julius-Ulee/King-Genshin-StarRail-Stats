@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 27, 2023 19:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 28, 2023 07:58 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">27</td>
+    <td align="center">28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-27 09:00:59+08:00</td>
+    <td align="center">🕒 2023-07-28 06:47:15+08:00</td>
   </tr>
 </table>
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">154</td>
+    <td align="center">155</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">244</td>
+    <td align="center">247</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>8374 (rate 43)</td>
+    <td>8744 (rate 50)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>8958108 (rate 49)</td>
+    <td>9150399 (rate 52)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Quests: 2050 (25%)<br />Adventure: 1974 (24%)<br />Events: 1786 (22%)<br />Daily
-      Activity: 1620 (19%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Adventure: 2344 (27%)<br />Quests: 2050 (24%)<br />Events: 1786 (21%)<br />Daily
+      Activity: 1620 (18%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -4219,7 +4219,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">27</td>
+    <td align="center">28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4227,16 +4227,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           ,
           height="80" /></a
       ><br />
-      2 x Lost Crystal
+      3 x Traveler's Guide
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-27 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-28 01:06:21+08:00</td>
   </tr>
 </table>
 
