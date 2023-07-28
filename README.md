@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 28, 2023 07:58 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 29, 2023 06:21 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">155</td>
+    <td align="center">156</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>8744 (rate 50)</td>
+    <td>8804 (rate 51)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>9150399 (rate 52)</td>
+    <td>9233054 (rate 53)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 2344 (27%)<br />Quests: 2050 (24%)<br />Events: 1786 (21%)<br />Daily
-      Activity: 1620 (18%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Adventure: 2344 (27%)<br />Quests: 2050 (24%)<br />Events: 1786 (20%)<br />Daily
+      Activity: 1680 (19%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -4219,7 +4219,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">28</td>
+    <td align="center">29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4227,16 +4227,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      3 x Traveler's Guide
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-28 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-29 07:20:59+08:00</td>
   </tr>
 </table>
 
@@ -4255,15 +4255,15 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>79</td>
+    <td>82</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -4281,7 +4281,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>7743 (rate 503)</td>
+    <td>7823 (rate 509)</td>
   </tr>
   <tr>
     <td>
@@ -4291,7 +4291,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>65 (rate 54)</td>
+    <td>66 (rate 57)</td>
   </tr>
   <tr>
     <td>
@@ -4302,8 +4302,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 3215 (41%)<br />Daily Activity: 1285 (16%)<br />Mail:
-      1010 (13%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
+      Adventure Rewards: 3235 (41%)<br />Daily Activity: 1345 (17%)<br />Mail:
+      1010 (12%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
       Hall: 600 (7%)<br />Other: 73 (4%)<br />
     </td>
   </tr>
@@ -4406,6 +4406,102 @@
           <tr>
             <td>Superimpose</td>
             <td align="center">5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Yanqing </b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center"><h3>Yanqing</h3></th>
+      <th align="center"><h3>River Flows in Spring</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/4ca891ab11d6e840f4c7787e13674b68.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/d949c4b29d08d2d24bd4c90bd7892d24.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+              ice
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                ,
+                height="18"
+              />
+              Thief's Myriad-Faced Mask<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                ,
+                height="18"
+              />
+              Thief's Gloves With Prints<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
+                ,
+                height="18"
+              />
+              Thief's Steel Grappling Hook<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/7bca405261c40102d0409743e5d71dfe.png"
+                ,
+                height="18"
+              />
+              Thief's Meteor Boots<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">River Flows in Spring</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center">1</td>
           </tr>
         </table>
       </td>
