@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 29, 2023 14:41 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 29, 2023 19:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>8804 (rate 51)</td>
+    <td>9106 (rate 56)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>9233054 (rate 53)</td>
+    <td>9370382 (rate 55)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 2344 (27%)<br />Quests: 2050 (24%)<br />Events: 1786 (20%)<br />Daily
-      Activity: 1680 (19%)<br />Mail: 720 (8%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Adventure: 2426 (27%)<br />Quests: 2050 (23%)<br />Events: 1946 (22%)<br />Daily
+      Activity: 1740 (19%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -1107,6 +1107,135 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Bennett</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Bennett</h3></th>
+      <th><h3 align="center">Lion's Roar</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1d498cd515e7abd3f485dc8a7dbbfdf8.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">89</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Scholar<br />2 x The Exile<br />1 x Prayers for
+              Illumination<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/fdd8ec29140802523cf49cc1dcaf31b4.png"
+                ,
+                height="18"
+              />
+              Scholar's Bookmark<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
+                ,
+                height="18"
+              />
+              Scholar's Quill Pen<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
+                ,
+                height="18"
+              />
+              Exile's Pocket Watch<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
+                ,
+                height="18"
+              />
+              Exile's Goblet<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/215dd3bedb143b7ef028928fd6855f63.png"
+                ,
+                height="18"
+              />
+              Tiara of Flame<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Lion's Roar</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">70</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">4</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
   <table align="center">
@@ -1209,135 +1338,6 @@
           <tr>
             <td>Name</td>
             <td align="center">Sacrificial Sword</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">70</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">4</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Bennett</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Lion's Roar</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1d498cd515e7abd3f485dc8a7dbbfdf8.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">10</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />2 x Scholar<br />2 x The Exile<br />1 x Prayers for
-              Illumination<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/fdd8ec29140802523cf49cc1dcaf31b4.png"
-                ,
-                height="18"
-              />
-              Scholar's Bookmark<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
-                ,
-                height="18"
-              />
-              Scholar's Quill Pen<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
-                ,
-                height="18"
-              />
-              Exile's Pocket Watch<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
-                ,
-                height="18"
-              />
-              Exile's Goblet<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/215dd3bedb143b7ef028928fd6855f63.png"
-                ,
-                height="18"
-              />
-              Tiara of Flame<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Lion's Roar</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2278,8 +2278,38 @@
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>Artifacts<br /></td>
-            <td></td>
+            <td>
+              Artifacts<br />1 x Crimson Witch of Flames<br />4 x Ocean-Hued
+              Clam<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/73a9660011ceb40e891f434150135e2d.png"
+                ,
+                height="18"
+              />
+              Witch's Flower of Blaze<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
+                ,
+                height="18"
+              />
+              Deep Palace's Plume<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/65c1376c4d08f004127698602360c89d.png"
+                ,
+                height="18"
+              />
+              Cowry of Parting<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
+                ,
+                height="18"
+              />
+              Pearl Cage<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
+                ,
+                height="18"
+              />
+              Crown of Watatsumi<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
