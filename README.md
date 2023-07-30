@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 29, 2023 19:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 30, 2023 08:00 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">29</td>
+    <td align="center">30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-29 07:22:30+08:00</td>
+    <td align="center">🕒 2023-07-30 08:54:46+08:00</td>
   </tr>
 </table>
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">156</td>
+    <td align="center">157</td>
   </tr>
   <tr>
     <td>
@@ -272,7 +272,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">464</td>
+    <td align="center">465</td>
   </tr>
   <tr>
     <td>
@@ -299,7 +299,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center">35</td>
+    <td align="center">36</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">247</td>
+    <td align="center">272</td>
   </tr>
   <tr>
     <td>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">29</td>
+    <td align="center">30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4266,7 +4266,7 @@
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-29 07:20:59+08:00</td>
+    <td align="center">🕒 2023-07-30 01:06:21+08:00</td>
   </tr>
 </table>
 
