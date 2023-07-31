@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 31, 2023 08:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 31, 2023 19:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">157</td>
+    <td align="center">159</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>9146 (rate 57)</td>
+    <td>9367 (rate 61)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>9417220 (rate 56)</td>
+    <td>9476964 (rate 57)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 2426 (27%)<br />Quests: 2050 (23%)<br />Events: 1946 (22%)<br />Daily
-      Activity: 1780 (19%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
-      24 (0%)<br />
+      Adventure: 2426 (26%)<br />Events: 2106 (23%)<br />Quests: 2050 (22%)<br />Daily
+      Activity: 1840 (20%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      25 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4285,7 +4285,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>32</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4293,7 +4293,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>82</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -4311,7 +4311,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>7943 (rate 518)</td>
+    <td>8013 (rate 524)</td>
   </tr>
   <tr>
     <td>
@@ -4332,9 +4332,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 3235 (40%)<br />Daily Activity: 1465 (18%)<br />Mail:
+      Adventure Rewards: 3245 (40%)<br />Daily Activity: 1525 (19%)<br />Mail:
       1010 (12%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
-      Hall: 600 (7%)<br />Other: 73 (4%)<br />
+      Hall: 600 (7%)<br />Other: 73 (3%)<br />
     </td>
   </tr>
 </table>
