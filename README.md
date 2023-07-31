@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 30, 2023 19:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 31, 2023 08:00 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">30</td>
+    <td align="center">31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-30 08:54:46+08:00</td>
+    <td align="center">🕒 2023-07-31 07:17:41+08:00</td>
   </tr>
 </table>
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>9106 (rate 56)</td>
+    <td>9146 (rate 57)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>9370382 (rate 55)</td>
+    <td>9417220 (rate 56)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
       Adventure: 2426 (27%)<br />Quests: 2050 (23%)<br />Events: 1946 (22%)<br />Daily
-      Activity: 1740 (19%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
+      Activity: 1780 (19%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
       24 (0%)<br />
     </td>
   </tr>
@@ -2271,7 +2271,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">30</td>
+    <td align="center">31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4266,7 +4266,7 @@
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-30 01:06:21+08:00</td>
+    <td align="center">🕒 2023-07-31 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -4285,7 +4285,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>31</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4311,7 +4311,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>7883 (rate 513)</td>
+    <td>7943 (rate 518)</td>
   </tr>
   <tr>
     <td>
@@ -4332,7 +4332,7 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 3235 (41%)<br />Daily Activity: 1405 (17%)<br />Mail:
+      Adventure Rewards: 3235 (40%)<br />Daily Activity: 1465 (18%)<br />Mail:
       1010 (12%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
       Hall: 600 (7%)<br />Other: 73 (4%)<br />
     </td>
