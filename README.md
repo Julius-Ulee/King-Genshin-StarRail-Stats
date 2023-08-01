@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 31, 2023 19:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 01, 2023 08:05 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">31</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-31 07:17:41+08:00</td>
+    <td align="center">🕒 2023-08-01 01:04:12+08:00</td>
   </tr>
 </table>
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">353</td>
+    <td align="center">354</td>
   </tr>
   <tr>
     <td>
@@ -305,7 +305,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center">6-2</td>
+    <td align="center">-</td>
   </tr>
 </table>
 
@@ -513,7 +513,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">7</td>
+          <td align="center">8</td>
         </tr>
       </table>
     </td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>9367 (rate 61)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>9476964 (rate 57)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 2426 (26%)<br />Events: 2106 (23%)<br />Quests: 2050 (22%)<br />Daily
-      Activity: 1840 (20%)<br />Mail: 720 (7%)<br />Spiral Abyss: 200 (2%)<br />Other:
-      25 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">31</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      2 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-07-31 01:06:20+08:00</td>
+    <td align="center">🕒 2023-08-01 01:06:19+08:00</td>
   </tr>
 </table>
 
@@ -4293,7 +4293,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>84</td>
+    <td>85</td>
   </tr>
   <tr>
     <td>Chest Opened</td>
@@ -4311,7 +4311,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>8013 (rate 524)</td>
+    <td>5 (rate -99)</td>
   </tr>
   <tr>
     <td>
@@ -4321,7 +4321,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>66 (rate 57)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>
@@ -4332,9 +4332,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: 3245 (40%)<br />Daily Activity: 1525 (19%)<br />Mail:
-      1010 (12%)<br />Event: 820 (10%)<br />Simulated Universe: 740 (9%)<br />Forgotten
-      Hall: 600 (7%)<br />Other: 73 (3%)<br />
+      Adventure Rewards: 5 (100%)<br />Daily Activity: 0 (0%)<br />Event: 0
+      (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+      0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
