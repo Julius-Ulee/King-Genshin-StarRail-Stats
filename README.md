@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 03, 2023 07:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 03, 2023 14:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>120 (rate -98)</td>
+    <td>250 (rate -97)</td>
   </tr>
   <tr>
     <td>
@@ -691,12 +691,12 @@
       />
       Mora earned
     </td>
-    <td>109970 (rate -98)</td>
+    <td>231984 (rate -97)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 120 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      Daily Activity: 180 (72%)<br />Events: 70 (28%)<br />Adventure: 0 (0%)<br />Quests:
       0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -2098,6 +2098,135 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Sangonomiya Kokomi</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Sangonomiya Kokomi</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/83f57b0e4481d7425e9ba5eef1966953.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                ,
+                height="18"
+              />
+              Hydro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">3</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />1 x Crimson Witch of Flames<br />4 x Ocean-Hued
+              Clam<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/73a9660011ceb40e891f434150135e2d.png"
+                ,
+                height="18"
+              />
+              Witch's Flower of Blaze<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
+                ,
+                height="18"
+              />
+              Deep Palace's Plume<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/65c1376c4d08f004127698602360c89d.png"
+                ,
+                height="18"
+              />
+              Cowry of Parting<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
+                ,
+                height="18"
+              />
+              Pearl Cage<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
+                ,
+                height="18"
+              />
+              Crown of Watatsumi<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Favonius Codex</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">40</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Amber</b></summary>
   <br />
   <table align="center">
@@ -2208,135 +2337,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Sangonomiya Kokomi</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Sangonomiya Kokomi</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/83f57b0e4481d7425e9ba5eef1966953.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                ,
-                height="18"
-              />
-              Hydro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">40</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />1 x Crimson Witch of Flames<br />4 x Ocean-Hued
-              Clam<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/73a9660011ceb40e891f434150135e2d.png"
-                ,
-                height="18"
-              />
-              Witch's Flower of Blaze<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
-                ,
-                height="18"
-              />
-              Deep Palace's Plume<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/65c1376c4d08f004127698602360c89d.png"
-                ,
-                height="18"
-              />
-              Cowry of Parting<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
-                ,
-                height="18"
-              />
-              Pearl Cage<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
-                ,
-                height="18"
-              />
-              Crown of Watatsumi<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Favonius Codex</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Catalyst</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">40</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">1</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4284,7 +4284,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4310,7 +4310,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>110 (rate -98)</td>
+    <td>170 (rate -97)</td>
   </tr>
   <tr>
     <td>
@@ -4331,7 +4331,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: 105 (95%)<br />Adventure Rewards: 5 (4%)<br />Other: 0
+      Daily Activity: 165 (97%)<br />Adventure Rewards: 5 (2%)<br />Other: 0
       (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
       Hall: 0 (0%)<br />Mail: 0 (0%)<br />
     </td>
