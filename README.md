@@ -2,7 +2,7 @@
   <a href=""
     ><img
       src="./images/banner/立绘_浊心斯卡蒂_skin1.png"
-      width="450"
+      width="470"
       alt="Goddess"
   /></a>
 </p>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 04, 2023 20:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 04, 2023 20:47 +0700</u> (🤖Automated)
 </h3>
 <br />
 
