@@ -22,7 +22,6 @@ load_dotenv()
 DEFAULT_TEMPLATE_PATH = "src/template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
 
-
 class GenshinRes:
     user: genshin.models.FullGenshinUserStats
     abyss: genshin.models.SpiralAbyss
@@ -33,7 +32,6 @@ class GenshinRes:
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
             setattr(self, k, v)
-
 
 class HsrRes:
     user: genshin.models.StarRailUserStats
@@ -47,15 +45,12 @@ class HsrRes:
         for k, v in kwargs.items():
             setattr(self, k, v)
 
-
 def format_date(date: datetime) -> str:
     tz = pytz.timezone("Asia/Jakarta")
     now = date.now(tz=tz)
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
-
 class AnimeGame(genshin.Client):
-
     def __init__(self, args: argparse.Namespace, codes: GetCodes):
         self.args = args
         self.codes = codes
@@ -127,7 +122,6 @@ class AnimeGame(genshin.Client):
         )
         self.args.output.write_text(rendered)
 
-
 def parse_arguments() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser()
@@ -136,7 +130,6 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("-c", "--cookies", default=None)
     parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
     return parser.parse_args()
-
 
 if __name__ == "__main__":
     args = parse_arguments()
