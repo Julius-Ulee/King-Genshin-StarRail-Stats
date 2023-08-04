@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 04, 2023 14:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 04, 2023 20:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">354</td>
+    <td align="center">356</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>386 (rate -95)</td>
+    <td>491 (rate -94)</td>
   </tr>
   <tr>
     <td>
@@ -696,8 +696,9 @@
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 240 (63%)<br />Events: 140 (36%)<br />Adventure: 6 (1%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Daily Activity: 240 (49%)<br />Events: 200 (41%)<br />Adventure: 31
+      (6%)<br />Mail: 20 (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4284,7 +4285,7 @@
   <tr></tr>
   <tr>
     <td>Days Active</td>
-    <td>36</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4310,7 +4311,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>170 (rate -97)</td>
+    <td>230 (rate -97)</td>
   </tr>
   <tr>
     <td>
@@ -4331,7 +4332,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: 165 (97%)<br />Adventure Rewards: 5 (2%)<br />Other: 0
+      Daily Activity: 225 (97%)<br />Adventure Rewards: 5 (2%)<br />Other: 0
       (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
       Hall: 0 (0%)<br />Mail: 0 (0%)<br />
     </td>
@@ -4430,7 +4431,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">30</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -4814,7 +4815,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">30</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Superimpose</td>
