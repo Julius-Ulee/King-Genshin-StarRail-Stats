@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 04, 2023 07:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 04, 2023 12:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-03 00:07:13+08:00</td>
+    <td align="center">🕒 2023-08-04 11:50:23+08:00</td>
   </tr>
 </table>
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>256 (rate -97)</td>
+    <td>386 (rate -95)</td>
   </tr>
   <tr>
     <td>
@@ -691,12 +691,12 @@
       />
       Mora earned
     </td>
-    <td>630175 (rate -93)</td>
+    <td>715615 (rate -92)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 180 (71%)<br />Events: 70 (27%)<br />Adventure: 6 (2%)<br />Quests:
+      Daily Activity: 240 (63%)<br />Events: 140 (36%)<br />Adventure: 6 (1%)<br />Quests:
       0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
