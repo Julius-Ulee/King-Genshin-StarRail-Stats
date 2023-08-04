@@ -78,7 +78,7 @@ class AnimeGame(genshin.Client):
         reward, reward_info = await self._claim_daily(genshin.Game.GENSHIN)
         codes = self.codes.get_codes()
         for code in codes:
-            await self.codes.redeem_code(self, code)
+            await self.codes.redeem_codes(self, code)
             sleep(6)
         return GenshinRes(
             user=user,
