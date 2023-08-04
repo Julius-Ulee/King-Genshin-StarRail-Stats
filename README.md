@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 04, 2023 21:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 05, 2023 04:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">356</td>
+    <td align="center">358</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">276</td>
+    <td align="center">300</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>491 (rate -94)</td>
+    <td>876 (rate -90)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>715615 (rate -92)</td>
+    <td>802562 (rate -91)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Daily Activity: 240 (49%)<br />Events: 200 (41%)<br />Adventure: 31
-      (6%)<br />Mail: 20 (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Mail: 320 (37%)<br />Events: 260 (30%)<br />Daily Activity: 240 (27%)<br />Adventure:
+      56 (6%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">4</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      1 x Canned Soda
+      20 x Stellar Jade
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-04 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-05 01:06:20+08:00</td>
   </tr>
 </table>
 
