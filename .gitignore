@@ -24,7 +24,6 @@ venv/
 .dmypy.json
 dmypy.json
 
-
 # main content
 stats.html
 README_TEST.md
