@@ -96,7 +96,7 @@ class AnimeGame(genshin.Client):
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
         for code in codes:
-            await self.codes.redeem_code(self, code, genshin.Game.STARRAIL)
+            await self.codes.redeem_codes(self, code, genshin.Game.STARRAIL)
             sleep(6)
         return HsrRes(
             user=user,
