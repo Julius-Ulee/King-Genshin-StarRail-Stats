@@ -33,7 +33,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git config user.name "${{ github.repository_owner }}"
+          git config user.name "Julius-Ulee"
           git config user.email "fidzlieazriel@gmail.com"
           git add .
           git commit -m "King's Genshin & StarRail stats `date +"%D %T"`"
