@@ -1,4 +1,4 @@
-name: "Daily check and update"
+name: "Daily Check And Update"
 
 on:
   schedule:
