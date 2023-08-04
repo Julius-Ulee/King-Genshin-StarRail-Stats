@@ -60,3 +60,6 @@ You can customize the `src/template.html` file to modify the appearance and layo
 
 ## Acknowledgments
 - [genshin](https://github.com/thesadru/genshin.py) library by thesadru for Genshin Impact, HSR and Honkai Impact 3rd API integration.
+
+## Credits
+This repository is the clone of [genshin-stats](https://github.com/thesadru/genshin-stats)
