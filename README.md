@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 01:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 04:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -691,7 +691,7 @@
       />
       Mora earned
     </td>
-    <td>896301 (rate -90)</td>
+    <td>923852 (rate -90)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -1865,11 +1865,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center">50</td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
           </tr>
           <tr>
             <td>Refinement</td>
