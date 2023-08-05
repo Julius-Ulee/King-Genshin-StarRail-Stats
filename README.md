@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 05, 2023 23:42 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 00:05 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -1365,6 +1365,135 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Traveler</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th><h3 align="center">Traveler</h3></th>
+      <th><h3 align="center">Prototype Rancour</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_PlayerBoy_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/5a74568c0b6530a4a12679bb55bdc26b.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">82</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Instructor<br />2 x Adventurer<br />1 x Martial
+              Artist<br />
+            </td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/56e962d31b127b46b785dee9e21a8d96.png"
+                ,
+                height="18"
+              />
+              Instructor's Brooch<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/db8243f7ce2ec97881c501a620d4c183.png"
+                ,
+                height="18"
+              />
+              Adventurer's Tail Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/20a1a57b8bbbe7ea4650302622e13891.png"
+                ,
+                height="18"
+              />
+              Martial Artist's Water Hourglass<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
+                ,
+                height="18"
+              />
+              Adventurer's Golden Goblet<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
+                ,
+                height="18"
+              />
+              Instructor's Cap<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td align="center">Prototype Rancour</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center">50</td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center">2</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center">1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Xingqiu</b></summary>
   <br />
   <table align="center">
@@ -1483,135 +1612,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center">4</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center">1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Traveler</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th><h3 align="center">Traveler</h3></th>
-      <th><h3 align="center">Prototype Rancour</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_PlayerBoy_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/5a74568c0b6530a4a12679bb55bdc26b.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                ,
-                height="18"
-              />
-              Dendro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center">2</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />2 x Instructor<br />2 x Adventurer<br />1 x Martial
-              Artist<br />
-            </td>
-            <td>
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/56e962d31b127b46b785dee9e21a8d96.png"
-                ,
-                height="18"
-              />
-              Instructor's Brooch<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/db8243f7ce2ec97881c501a620d4c183.png"
-                ,
-                height="18"
-              />
-              Adventurer's Tail Feather<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/20a1a57b8bbbe7ea4650302622e13891.png"
-                ,
-                height="18"
-              />
-              Martial Artist's Water Hourglass<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
-                ,
-                height="18"
-              />
-              Adventurer's Golden Goblet<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
-                ,
-                height="18"
-              />
-              Instructor's Cap<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td align="center">Prototype Rancour</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center">50</td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center">2</td>
           </tr>
           <tr>
             <td>Refinement</td>
