@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 05, 2023 21:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 05, 2023 23:42 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">163</td>
+    <td align="center">164</td>
   </tr>
   <tr>
     <td>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">5</td>
+    <td align="center">6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      2 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-05 01:06:20+08:00</td>
+    <td align="center">🕒 2023-08-06 00:42:01+08:00</td>
   </tr>
 </table>
 
