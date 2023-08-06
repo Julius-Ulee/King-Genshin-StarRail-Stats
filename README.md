@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 04:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 07:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">300</td>
+    <td align="center">302</td>
   </tr>
   <tr>
     <td>
@@ -691,7 +691,7 @@
       />
       Mora earned
     </td>
-    <td>923852 (rate -90)</td>
+    <td>961196 (rate -89)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
