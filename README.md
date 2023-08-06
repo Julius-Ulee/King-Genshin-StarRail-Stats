@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 16:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 17:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4282,7 +4282,6 @@
   />
 </h2>
 <table align="center">
-  <tr></tr>
   <tr>
     <td>Days Active</td>
     <td>37</td>
@@ -4296,10 +4295,9 @@
     <td>85</td>
   </tr>
   <tr>
-    <td>Chest Opened</td>
+    <td>Chests Opened</td>
     <td>103</td>
   </tr>
-  <tr></tr>
 </table>
 
 <h2 align="center">
@@ -4311,7 +4309,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>230 (rate -97)</td>
+    <td>310 (rate -96)</td>
   </tr>
   <tr>
     <td>
@@ -4321,7 +4319,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>0 (rate -100)</td>
+    <td>6 (rate -90)</td>
   </tr>
   <tr>
     <td>
@@ -4332,9 +4330,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: 225 (97%)<br />Adventure Rewards: 5 (2%)<br />Other: 0
-      (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-      Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+      Daily Activity: 285 (91%)<br />Mail: 20 (6%)<br />Other: 0 (2%)<br />Adventure
+      Rewards: 5 (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
+      Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
