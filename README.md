@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 21:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 07, 2023 04:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>1138 (rate -87)</td>
+    <td>1216 (rate -87)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>1079800 (rate -88)</td>
+    <td>1108527 (rate -88)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 400 (36%)<br />Daily Activity: 360 (31%)<br />Mail: 320 (28%)<br />Adventure:
-      58 (5%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 400 (33%)<br />Daily Activity: 360 (30%)<br />Mail: 320 (26%)<br />Adventure:
+      136 (11%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -1158,7 +1158,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1228,7 +1228,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">4</td>
+            <td align="center">5</td>
           </tr>
         </table>
       </td>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">6</td>
+    <td align="center">7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      2 x Adventure Log
+      1 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-06 00:42:01+08:00</td>
+    <td align="center">🕒 2023-08-07 01:06:21+08:00</td>
   </tr>
 </table>
 
