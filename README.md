@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 17:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 21:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">358</td>
+    <td align="center">359</td>
   </tr>
   <tr>
     <td>
@@ -265,21 +265,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">688</td>
+    <td align="center">695</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">465</td>
+    <td align="center">468</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">125</td>
+    <td align="center">126</td>
   </tr>
   <tr>
     <td>
@@ -494,7 +494,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/47/" width="80" />
+            <img src="https://progress-bar.dev/50/" width="80" />
           </td>
         </tr>
         <tr>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>1136 (rate -87)</td>
+    <td>1138 (rate -87)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>1048693 (rate -89)</td>
+    <td>1079800 (rate -88)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 400 (36%)<br />Daily Activity: 360 (32%)<br />Mail: 320 (28%)<br />Adventure:
-      56 (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 400 (36%)<br />Daily Activity: 360 (31%)<br />Mail: 320 (28%)<br />Adventure:
+      58 (5%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -4284,7 +4284,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5086,7 +5086,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center">15</td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -5182,7 +5182,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">30</td>
+            <td align="center">40</td>
           </tr>
           <tr>
             <td>Superimpose</td>
