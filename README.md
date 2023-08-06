@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2023 14:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 06, 2023 16:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">164</td>
+    <td align="center">165</td>
   </tr>
   <tr>
     <td>
