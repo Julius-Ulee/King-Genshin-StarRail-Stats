@@ -415,16 +415,16 @@
     <h2 align="center"><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats <img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"></h2>
     <table align="center">
         {%- for field, value in hsr.user.stats.dict().items() -%}
-        <tr>
         {%- if field not in ["lang", "abyss_process"] -%}
+        <tr>
             {%- if "chest" in field -%}
-            <td>Chest Opened</td>
+            <td>Chests Opened</td>
             {%- else -%}
             <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
             {%- endif -%}
             <td>{{ value }}</td>
-        {%- endif -%}
         </tr>
+        {%- endif -%}
         {%- endfor -%}
     </table>
 
