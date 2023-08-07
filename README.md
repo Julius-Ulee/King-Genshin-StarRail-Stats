@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 07, 2023 04:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 07, 2023 07:32 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -265,14 +265,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">695</td>
+    <td align="center">698</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">468</td>
+    <td align="center">471</td>
   </tr>
   <tr>
     <td>
@@ -286,7 +286,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">51</td>
+    <td align="center">52</td>
   </tr>
   <tr>
     <td>
@@ -494,7 +494,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/50/" width="80" />
+            <img src="https://progress-bar.dev/52/" width="80" />
           </td>
         </tr>
         <tr>
