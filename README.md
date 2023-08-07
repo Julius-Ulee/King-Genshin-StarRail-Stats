@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 07, 2023 21:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 08, 2023 04:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">7</td>
+    <td align="center">8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      1 x Condensed Aether
+      1 x Lost Gold Fragment
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-07 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-08 01:06:21+08:00</td>
   </tr>
 </table>
 
