@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 07, 2023 07:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 07, 2023 14:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">6</td>
+    <td align="center">7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-06 01:27:43+08:00</td>
+    <td align="center">🕒 2023-08-07 13:07:09+08:00</td>
   </tr>
 </table>
 
@@ -4284,7 +4284,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>38</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4309,7 +4309,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>310 (rate -96)</td>
+    <td>470 (rate -94)</td>
   </tr>
   <tr>
     <td>
@@ -4330,9 +4330,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: 285 (91%)<br />Mail: 20 (6%)<br />Other: 0 (2%)<br />Adventure
-      Rewards: 5 (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-      Hall: 0 (0%)<br />
+      Daily Activity: 345 (73%)<br />Mail: 120 (25%)<br />Adventure Rewards: 5
+      (1%)<br />Other: 0 (1%)<br />Event: 0 (0%)<br />Simulated Universe: 0
+      (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
