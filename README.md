@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 08, 2023 21:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 09, 2023 04:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">359</td>
+    <td align="center">360</td>
   </tr>
   <tr>
     <td>
@@ -265,28 +265,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">708</td>
+    <td align="center">717</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">481</td>
+    <td align="center">491</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">127</td>
+    <td align="center">133</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">52</td>
+    <td align="center">53</td>
   </tr>
   <tr>
     <td>
@@ -494,12 +494,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/59/" width="80" />
+            <img src="https://progress-bar.dev/72/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">4</td>
+          <td align="center">5</td>
         </tr>
       </table>
     </td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>1556 (rate -83)</td>
+    <td>1694 (rate -81)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>1369137 (rate -85)</td>
+    <td>1455127 (rate -84)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 540 (35%)<br />Daily Activity: 480 (31%)<br />Mail: 320 (21%)<br />Adventure:
-      216 (13%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 540 (32%)<br />Daily Activity: 480 (29%)<br />Adventure: 354
+      (21%)<br />Mail: 320 (18%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1287,7 +1287,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">8</td>
+    <td align="center">9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      1 x Lost Gold Fragment
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-08 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-09 01:06:22+08:00</td>
   </tr>
 </table>
 
