@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 09, 2023 14:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 09, 2023 21:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">360</td>
+    <td align="center">362</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">167</td>
+    <td align="center">168</td>
   </tr>
   <tr>
     <td>
@@ -241,7 +241,7 @@
       />
       Geoculus
     </td>
-    <td align="center">67</td>
+    <td align="center">68</td>
   </tr>
   <tr>
     <td>
@@ -265,21 +265,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">717</td>
+    <td align="center">738</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">491</td>
+    <td align="center">511</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">133</td>
+    <td align="center">144</td>
   </tr>
   <tr>
     <td>
@@ -494,12 +494,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/72/" width="80" />
+            <img src="https://progress-bar.dev/90/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">5</td>
+          <td align="center">7</td>
         </tr>
       </table>
     </td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">302</td>
+    <td align="center">305</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>1774 (rate -81)</td>
+    <td>2074 (rate -77)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>1515247 (rate -84)</td>
+    <td>1688997 (rate -82)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Events: 540 (31%)<br />Daily Activity: 540 (30%)<br />Adventure: 374
-      (21%)<br />Mail: 320 (18%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Adventure: 624 (31%)<br />Events: 540 (26%)<br />Daily Activity: 540
+      (26%)<br />Mail: 370 (17%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
