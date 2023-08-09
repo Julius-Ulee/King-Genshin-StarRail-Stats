@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 09, 2023 21:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 10, 2023 04:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-09 07:17:25+08:00</td>
+    <td align="center">🕒 2023-08-10 02:21:56+08:00</td>
   </tr>
 </table>
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">362</td>
+    <td align="center">366</td>
   </tr>
   <tr>
     <td>
@@ -265,28 +265,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">738</td>
+    <td align="center">748</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">511</td>
+    <td align="center">524</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">144</td>
+    <td align="center">149</td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">53</td>
+    <td align="center">55</td>
   </tr>
   <tr>
     <td>
@@ -494,12 +494,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/90/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">7</td>
+          <td align="center">9</td>
         </tr>
       </table>
     </td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2074 (rate -77)</td>
+    <td>2333 (rate -75)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>1688997 (rate -82)</td>
+    <td>1898427 (rate -80)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 624 (31%)<br />Events: 540 (26%)<br />Daily Activity: 540
-      (26%)<br />Mail: 370 (17%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Adventure: 883 (38%)<br />Events: 540 (24%)<br />Daily Activity: 540
+      (23%)<br />Mail: 370 (15%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -4249,7 +4249,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4257,16 +4257,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      3 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-09 01:06:22+08:00</td>
+    <td align="center">🕒 2023-08-10 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -4292,11 +4292,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>85</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td>103</td>
+    <td>106</td>
   </tr>
 </table>
 
@@ -4309,7 +4309,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>590 (rate -92)</td>
+    <td>1266 (rate -84)</td>
   </tr>
   <tr>
     <td>
@@ -4330,9 +4330,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: 465 (78%)<br />Mail: 120 (20%)<br />Other: 0 (2%)<br />Event:
-      0 (0%)<br />Adventure Rewards: 5 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-      Hall: 0 (0%)<br />
+      Event: 520 (41%)<br />Daily Activity: 465 (36%)<br />Adventure Rewards:
+      160 (12%)<br />Mail: 120 (9%)<br />Other: 1 (2%)<br />Simulated Universe:
+      0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4685,26 +4685,26 @@
             <td>Relics</td>
             <td>
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
                 height="18"
               />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/bc01a2e9d5f10aef316bfe91617a5976.png"
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ced2451b4e8f87e243d24713b3bd786d.png"
                 ,
                 height="18"
               />
-              Thief's Gloves With Prints<br /><img
+              Musketeer's Coarse Leather Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0f0b7896551253ead64fc96ef0959e02.png"
                 ,
                 height="18"
               />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ed368a0835f44079cd3f108339daee2a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
                 ,
                 height="18"
               />
-              Thief's Meteor Boots<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
         </table>
