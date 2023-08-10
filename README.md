@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 10, 2023 21:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 11, 2023 04:03 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">366</td>
+    <td align="center">368</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2333 (rate -75)</td>
+    <td>2429 (rate -74)</td>
   </tr>
   <tr>
     <td>
@@ -691,14 +691,14 @@
       />
       Mora earned
     </td>
-    <td>1898427 (rate -80)</td>
+    <td>1962794 (rate -79)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 883 (38%)<br />Events: 540 (24%)<br />Daily Activity: 540
-      (23%)<br />Mail: 370 (15%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Adventure: 898 (37%)<br />Daily Activity: 600 (25%)<br />Events: 540
+      (22%)<br />Mail: 390 (16%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4276,7 +4276,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4284,16 +4284,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Lost Gold Fragment
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-10 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-11 01:06:45+08:00</td>
   </tr>
 </table>
 
@@ -4336,7 +4336,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>1266 (rate -84)</td>
+    <td>1326 (rate -83)</td>
   </tr>
   <tr>
     <td>
@@ -4357,8 +4357,8 @@
       Categories
     </td>
     <td>
-      Event: 520 (41%)<br />Daily Activity: 465 (36%)<br />Adventure Rewards:
-      160 (12%)<br />Mail: 120 (9%)<br />Other: 1 (2%)<br />Simulated Universe:
+      Daily Activity: 525 (39%)<br />Event: 520 (39%)<br />Adventure Rewards:
+      160 (12%)<br />Mail: 120 (9%)<br />Other: 1 (1%)<br />Simulated Universe:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
