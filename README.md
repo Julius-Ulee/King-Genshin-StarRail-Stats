@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 11, 2023 21:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 04:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-10 02:21:56+08:00</td>
+    <td align="center">🕒 2023-08-11 22:43:22+08:00</td>
   </tr>
 </table>
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">169</td>
+    <td align="center">170</td>
   </tr>
   <tr>
     <td>
@@ -574,7 +574,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">305</td>
+    <td align="center">306</td>
   </tr>
   <tr>
     <td>
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2489 (rate -73)</td>
+    <td>2559 (rate -72)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>2085688 (rate -78)</td>
+    <td>2141938 (rate -77)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 898 (37%)<br />Daily Activity: 660 (27%)<br />Events: 540
-      (21%)<br />Mail: 390 (15%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Adventure: 898 (36%)<br />Daily Activity: 660 (26%)<br />Events: 540
+      (21%)<br />Mail: 460 (17%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -4276,7 +4276,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">11</td>
+    <td align="center">12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4284,16 +4284,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      2 x Lost Gold Fragment
+      2 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-11 01:06:45+08:00</td>
+    <td align="center">🕒 2023-08-12 01:06:21+08:00</td>
   </tr>
 </table>
 
