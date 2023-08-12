@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 17:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 17:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -812,6 +812,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -939,6 +943,10 @@
               />
               Tiara of Flame<br />
             </td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1070,6 +1078,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -1197,6 +1209,10 @@
               />
               Gladiator's Triumphus<br />
             </td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1328,6 +1344,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -1455,6 +1475,10 @@
               />
               Instructor's Cap<br />
             </td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1586,6 +1610,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -1715,6 +1743,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -1842,6 +1874,10 @@
               />
               Shadow of the Sand King<br />
             </td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1979,6 +2015,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2098,6 +2138,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2194,6 +2238,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -2323,6 +2371,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2442,6 +2494,10 @@
               />
               Traveling Doctor's Handkerchief<br />
             </td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2576,6 +2632,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2675,6 +2735,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2771,6 +2835,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -2903,6 +2971,10 @@
             </td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -2999,6 +3071,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3101,6 +3177,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -3197,6 +3277,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3305,6 +3389,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -3401,6 +3489,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3503,6 +3595,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -3599,6 +3695,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3701,6 +3801,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -3797,6 +3901,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -3905,6 +4013,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -4001,6 +4113,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
@@ -4103,6 +4219,10 @@
             <td></td>
           </tr>
           <tr>
+            <td>Artefact Set Effect<br /></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>Outfits</td>
             <td align="center"></td>
           </tr>
@@ -4199,6 +4319,10 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Artefact Set Effect<br /></td>
             <td></td>
           </tr>
           <tr>
