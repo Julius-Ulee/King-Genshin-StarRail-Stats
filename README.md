@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 17:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 17:40 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -1849,7 +1849,7 @@
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_KaeyaCostumeDancer@2x.png"
                 height="80"
-              />
+              /><br />
               Sailwind Shadow
             </td>
           </tr>
@@ -2449,7 +2449,7 @@
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_AmborCostumeWic@2x.png"
                 height="80"
-              />
+              /><br />
               100% Outrider
             </td>
           </tr>
@@ -3205,7 +3205,7 @@
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_RosariaCostumeWic@2x.png"
                 height="80"
-              />
+              /><br />
               To the Church's Free Spirit
             </td>
           </tr>
@@ -3805,7 +3805,7 @@
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_QinCostumeWic@2x.png"
                 height="80"
-              />
+              /><br />
               Gunnhildr's Legacy
             </td>
           </tr>
