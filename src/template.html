@@ -312,11 +312,7 @@
                     </tr>
                     <tr>
                         <td>Constellation</td>
-                        <td align="center">
-                          {%- for constellation in character.constellations -%}
-                          <img src="constellation.icon"> {{ constellation.name }}
-                          {%- endfor -%}
-                        </td>
+                        <td align="center"><img src="{{ character.constellations|join(", ", attribute="icon") }}" height="25"></td>
                     </tr>
                     <tr>
                         <td>Artifacts<br>
@@ -335,7 +331,7 @@
                         <td>Outfits</td>
                         <td align="center">
                           {%- for outfit in character.outfits -%}
-                          <img src="{{ outfit.icon }}" height="80"><br> {{ character.outfits|join(", ", attribute="name") }}
+                          <img src="{{ outfit.icon }}" height="80"><br> {{ character.outfits|join(", ", attribute="name") }}<br>
                           {%- endfor -%}
                         </td>
                     </tr>
