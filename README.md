@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 19:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -720,7 +720,13 @@
   />
 </h2>
 <details open>
-  <summary align="center"><b>Cyno</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Cyno</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -859,7 +865,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Bennett</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Bennett</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -998,7 +1010,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Diluc</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Diluc</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1137,7 +1155,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Xiangling</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Xiangling</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1276,7 +1300,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Sucrose</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
+    /><b> Sucrose</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1415,7 +1445,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Traveler</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
+    /><b> Traveler</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1554,7 +1590,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Xingqiu</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+      ,
+      height="18"
+    /><b> Xingqiu</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1693,7 +1735,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Sangonomiya Kokomi</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+      ,
+      height="18"
+    /><b> Sangonomiya Kokomi</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1832,7 +1880,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Kaeya</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Kaeya</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -1977,7 +2031,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Yaoyao</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
+    /><b> Yaoyao</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2116,7 +2176,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Razor</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Razor</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2241,7 +2307,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Keqing</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Keqing</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2340,7 +2412,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Chongyun</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Chongyun</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2476,7 +2554,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Amber</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Amber</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2611,7 +2695,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Collei</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
+    /><b> Collei</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2747,7 +2837,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Layla</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Layla</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2846,7 +2942,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Faruzan</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
+    /><b> Faruzan</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -2945,7 +3047,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Barbara</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+      ,
+      height="18"
+    /><b> Barbara</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3084,7 +3192,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Lisa</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Lisa</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3183,7 +3297,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Xinyan</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Xinyan</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3282,7 +3402,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Rosaria</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Rosaria</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3387,7 +3513,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Gorou</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      ,
+      height="18"
+    /><b> Gorou</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3486,7 +3618,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Yun Jin</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      ,
+      height="18"
+    /><b> Yun Jin</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3585,7 +3723,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Kuki Shinobu</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Kuki Shinobu</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3684,7 +3828,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Dori</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Dori</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3783,7 +3933,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Mika</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Mika</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3882,7 +4038,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Jean</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
+    /><b> Jean</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -3987,7 +4149,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Ningguang</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      ,
+      height="18"
+    /><b> Ningguang</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4086,7 +4254,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Fischl</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Fischl</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4185,7 +4359,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Noelle</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      ,
+      height="18"
+    /><b> Noelle</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4284,7 +4464,13 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Yanfei</b></summary>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Yanfei</b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4540,7 +4726,12 @@
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
 <details open>
-  <summary align="center"><b>Trailblazer </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      height="18"
+    /><b> Trailblazer </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4636,7 +4827,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Yanqing </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Yanqing </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4732,7 +4928,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Bronya </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+      height="18"
+    /><b> Bronya </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4828,7 +5029,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Yukong </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+      height="18"
+    /><b> Yukong </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -4924,7 +5130,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Qingque </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Qingque </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5020,7 +5231,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Serval </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+      height="18"
+    /><b> Serval </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5111,7 +5327,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Herta </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Herta </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5202,7 +5423,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Asta </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+      height="18"
+    /><b> Asta </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5293,7 +5519,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Dan Heng </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+      height="18"
+    /><b> Dan Heng </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5389,7 +5620,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>March 7th </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> March 7th </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5485,7 +5721,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Sushang </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      height="18"
+    /><b> Sushang </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5571,7 +5812,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Hook </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+      height="18"
+    /><b> Hook </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5645,7 +5891,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Pela </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Pela </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5719,7 +5970,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Natasha </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      height="18"
+    /><b> Natasha </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
@@ -5805,7 +6061,12 @@
   </table>
 </details>
 <details>
-  <summary align="center"><b>Arlan </b></summary>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+      height="18"
+    /><b> Arlan </b>
+  </summary>
   <br />
   <table align="center">
     <tr>
