@@ -323,7 +323,7 @@
                         </td>
                         <td align="center">
                             {%- for artifact in character.artifacts -%}
-                            <img src="{{ artifact.icon }}", height="25"> <code>+{{ artifact.level }}</code><br> {{ artifact.rarity }}<br> {{ artifact.name }}<br>
+                            <img src="{{ artifact.icon }}", height="25"> <code>+{{ artifact.level }}</code><br> {{ "⭐" * artifact.rarity }}<br> {{ artifact.name }}<br>
                             {%- endfor -%}
                         </td>
                     </tr>
