@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 14:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 17:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">170</td>
+    <td align="center">171</td>
   </tr>
   <tr>
     <td>
@@ -1845,7 +1845,10 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">Sailwind Shadow</td>
+            <td align="center">
+              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_KaeyaCostumeDancer@2x.png
+              Sailwind Shadow
+            </td>
           </tr>
         </table>
       </td>
@@ -2439,7 +2442,10 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">100% Outrider</td>
+            <td align="center">
+              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_AmborCostumeWic@2x.png
+              100% Outrider
+            </td>
           </tr>
         </table>
       </td>
@@ -3189,7 +3195,10 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">To the Church's Free Spirit</td>
+            <td align="center">
+              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_RosariaCostumeWic@2x.png
+              To the Church's Free Spirit
+            </td>
           </tr>
         </table>
       </td>
@@ -3783,7 +3792,10 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">Gunnhildr's Legacy</td>
+            <td align="center">
+              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_QinCostumeWic@2x.png
+              Gunnhildr's Legacy
+            </td>
           </tr>
         </table>
       </td>
@@ -4311,7 +4323,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>43</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4336,7 +4348,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>1386 (rate -82)</td>
+    <td>1496 (rate -81)</td>
   </tr>
   <tr>
     <td>
@@ -4357,9 +4369,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: 585 (42%)<br />Event: 520 (37%)<br />Adventure Rewards:
-      160 (11%)<br />Mail: 120 (8%)<br />Other: 1 (2%)<br />Simulated Universe:
-      0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+      Daily Activity: 645 (43%)<br />Event: 520 (34%)<br />Mail: 170 (11%)<br />Adventure
+      Rewards: 160 (10%)<br />Other: 1 (2%)<br />Simulated Universe: 0 (0%)<br />Forgotten
+      Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
