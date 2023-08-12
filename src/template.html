@@ -312,7 +312,7 @@
                     </tr>
                     <tr>
                         <td>Constellation</td>
-                        <td align="center">{{ character.constellations|join(", ", attribute="name") }}</td>
+                        <td align="center">{{ character.constellations }}</td>
                     </tr>
                     <tr>
                         <td>Artifacts<br>
@@ -330,7 +330,7 @@
                     <tr>
                         <td>Outfits</td>
                         <td align="center">
-                          {%- for outfit in character.outfits -%}
+                          {%- for outfit in character.outfit -%}
                           <img src="{{ outfit.icon }}" height="80"><br> {{ character.outfits|join(", ", attribute="name") }}<br>
                           {%- endfor -%}
                         </td>
