@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -782,37 +782,42 @@
               Artifacts<br />3 x Gilded Dreams<br />1 x The Exile<br />1 x
               Instructor<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7cfbd81a3a27b9bc7068726280a07823.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Dreaming Steelbloom<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Feather of Judgment<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/717e00795c9b2b00e06155142fe55387.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               The Sunken Years<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
-                height="18"
+                height="25"
               />
-              16<br />
+              <code>+16</code><br />
+              4<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
-                height="18"
+                height="25"
               />
-              16<br />
+              <code>+16</code><br />
+              4<br />
               Instructor's Cap<br />
             </td>
           </tr>
@@ -916,37 +921,42 @@
               Artifacts<br />2 x Scholar<br />2 x The Exile<br />1 x Prayers for
               Illumination<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/fdd8ec29140802523cf49cc1dcaf31b4.png"
                 ,
-                height="18"
+                height="25"
               />
-              9<br />
+              <code>+9</code><br />
+              4<br />
               Scholar's Bookmark<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
                 ,
-                height="18"
+                height="25"
               />
-              13<br />
+              <code>+13</code><br />
+              4<br />
               Scholar's Quill Pen<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Exile's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
-                height="18"
+                height="25"
               />
-              9<br />
+              <code>+9</code><br />
+              3<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/215dd3bedb143b7ef028928fd6855f63.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Tiara of Flame<br />
             </td>
           </tr>
@@ -1050,37 +1060,42 @@
               Artifacts<br />3 x Berserker<br />1 x Crimson Witch of Flames<br />1
               x Instructor<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/4900618d1b882c470342b56b0276a5b6.png"
                 ,
-                height="18"
+                height="25"
               />
-              8<br />
+              <code>+8</code><br />
+              4<br />
               Berserker's Rose<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f3fb8ae804bd395df05b5727ab8c9bf7.png"
                 ,
-                height="18"
+                height="25"
               />
-              8<br />
+              <code>+8</code><br />
+              4<br />
               Berserker's Indigo Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7a2cfbce5c9a0ad4b88ba717eecde531.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Witch's End Time<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
                 ,
-                height="18"
+                height="25"
               />
-              8<br />
+              <code>+8</code><br />
+              4<br />
               Instructor's Tea Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/70a1c628b90dc6d458ea4f37e1263121.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Berserker's Battle Mask<br />
             </td>
           </tr>
@@ -1184,37 +1199,42 @@
               Artifacts<br />1 x Thundering Fury<br />3 x Gladiator's Finale<br />1
               x Instructor<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/e685288341efda0f842ed342c71410a7.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Thunderbird's Mercy<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d1336b6e89d9dee277c7b16a8eeb60.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Gladiator's Destiny<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/01ee5a3e1658fa9b4741b2a6570b2cd5.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Gladiator's Longing<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Instructor's Tea Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/497d37f8e91e0783f58f3389a9041c43.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Gladiator's Triumphus<br />
             </td>
           </tr>
@@ -1318,37 +1338,42 @@
               Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
               x Maiden Beloved<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/b4d5821ac4d53b1226028f357e71a83a.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Thundersoother's Heart<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/227de6d1625aef47a024ed131462b050.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Viridescent Arrow Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/41f08ab8d937544cdf289eca658de680.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Hour of Soothing Thunder<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/2dfe43a54da0545f6e44c5db81135bbb.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Maiden's Fleeting Leisure<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/cbfe3260f1d753382e171fc7744d022b.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Maiden's Fading Beauty<br />
             </td>
           </tr>
@@ -1452,36 +1477,41 @@
               Artifacts<br />2 x Instructor<br />2 x Adventurer<br />1 x Martial
               Artist<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/56e962d31b127b46b785dee9e21a8d96.png"
                 ,
-                height="18"
+                height="25"
               />
+              <code>+4</code><br />
               4<br />
               Instructor's Brooch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/db8243f7ce2ec97881c501a620d4c183.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Adventurer's Tail Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/20a1a57b8bbbe7ea4650302622e13891.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Martial Artist's Water Hourglass<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Adventurer's Golden Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
-                height="18"
+                height="25"
               />
+              <code>+4</code><br />
               4<br />
               Instructor's Cap<br />
             </td>
@@ -1586,37 +1616,42 @@
               Artifacts<br />2 x Heart of Depth<br />1 x Wanderer's Troupe<br />2
               x The Exile<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3356dce3edb9257a42405cedfdc5d054.png"
                 ,
-                height="18"
+                height="25"
               />
-              10<br />
+              <code>+10</code><br />
+              4<br />
               Gilded Corsage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bb111c5d0cdc8cf2ac44b3363f20ba20.png"
                 ,
-                height="18"
+                height="25"
               />
-              5<br />
+              <code>+5</code><br />
+              4<br />
               Gust of Nostalgia<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d07eef91a0d49cdb5197ccabdb8fc1d1.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Concert's Final Hour<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c4752423569980bbbd4c93de0e06a909.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Exile's Circlet<br />
             </td>
           </tr>
@@ -1720,37 +1755,42 @@
               Artifacts<br />1 x Crimson Witch of Flames<br />4 x Ocean-Hued
               Clam<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/73a9660011ceb40e891f434150135e2d.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Witch's Flower of Blaze<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Deep Palace's Plume<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/65c1376c4d08f004127698602360c89d.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Cowry of Parting<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Pearl Cage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Crown of Watatsumi<br />
             </td>
           </tr>
@@ -1854,37 +1894,42 @@
               Artifacts<br />2 x Thundering Fury<br />1 x The Exile<br />1 x
               Noblesse Oblige<br />1 x Gilded Dreams<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/e685288341efda0f842ed342c71410a7.png"
                 ,
-                height="18"
+                height="25"
               />
-              16<br />
+              <code>+16</code><br />
+              4<br />
               Thunderbird's Mercy<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/353e469bea906b9e959a3769203f41fd.png"
                 ,
-                height="18"
+                height="25"
               />
-              16<br />
+              <code>+16</code><br />
+              4<br />
               Survivor of Catastrophe<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
                 ,
-                height="18"
+                height="25"
               />
-              12<br />
+              <code>+12</code><br />
+              3<br />
               Exile's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/cd5077e34c4aae0b0d0a1672241be369.png"
                 ,
-                height="18"
+                height="25"
               />
-              4<br />
+              <code>+4</code><br />
+              5<br />
               Royal Silver Urn<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Shadow of the Sand King<br />
             </td>
           </tr>
@@ -1994,37 +2039,42 @@
               Artifacts<br />1 x Berserker<br />2 x Scholar<br />2 x
               Instructor<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/4900618d1b882c470342b56b0276a5b6.png"
                 ,
-                height="18"
+                height="25"
               />
+              <code>+4</code><br />
               4<br />
               Berserker's Rose<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Scholar's Quill Pen<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74e526ef612897a66a1458fc02e4fbe3.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Instructor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9701d617dce43195ecf2cbc3deb6d13a.png"
                 ,
-                height="18"
+                height="25"
               />
-              8<br />
+              <code>+8</code><br />
+              4<br />
               Scholar's Ink Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Instructor's Cap<br />
             </td>
           </tr>
@@ -2128,25 +2178,28 @@
               Artifacts<br />1 x Wanderer's Troupe<br />1 x Berserker<br />1 x
               Traveling Doctor<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/83a5ccf637718039b110a74099d23681.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Troupe's Dawnlight<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f3fb8ae804bd395df05b5727ab8c9bf7.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Berserker's Indigo Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Pocket Watch<br />
             </td>
           </tr>
@@ -2247,7 +2300,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2346,37 +2399,42 @@
           </tr>
           <tr>
             <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c32955813f6b1e2031174ec6b2745978.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Magnificent Tsuba<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d1c89bb06dece2c9b18a9db3bdbaaa7a.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Sundered Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d8d7455747e0a8f862930a29925cbc.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              5<br />
               Storm Cage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bfcf2caf7cb1c9323e10f63ac6be3acf.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Scarlet Vessel<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/403ba66f178e35897607d46544f18843.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              4<br />
               Ornate Kabuto<br />
             </td>
           </tr>
@@ -2477,31 +2535,35 @@
           </tr>
           <tr>
             <td>Artifacts<br />4 x Traveling Doctor<br /></td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a7da28e56e619a6f27e4ddbdf0b80967.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Silver Lotus<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/07397fc0422d96dceadc56feff891df5.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Medicine Pot<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3a02d42a2c5a5168120c06bc96e9f75e.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Handkerchief<br />
             </td>
           </tr>
@@ -2608,37 +2670,42 @@
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7cfbd81a3a27b9bc7068726280a07823.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Dreaming Steelbloom<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Feather of Judgment<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/717e00795c9b2b00e06155142fe55387.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               The Sunken Years<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/358d6d16b7c325c5b88e790069df7c94.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Honeyed Final Feast<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
                 ,
-                height="18"
+                height="25"
               />
-              20<br />
+              <code>+20</code><br />
+              5<br />
               Shadow of the Sand King<br />
             </td>
           </tr>
@@ -2739,7 +2806,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2838,7 +2905,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2940,37 +3007,42 @@
               Artifacts<br />2 x Adventurer<br />2 x Traveling Doctor<br />1 x
               Lucky Dog<br />
             </td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/cb0028cbffd3e9ab6e338488716a2ad8.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Adventurer's Flower<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/6fff9f272fc8d73540daf6dec4b5c91d.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Owl Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Traveling Doctor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              3<br />
               Adventurer's Golden Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/804d13f462d126a183e8bf0c30e69827.png"
                 ,
-                height="18"
+                height="25"
               />
-              0<br />
+              <code>+0</code><br />
+              2<br />
               Lucky Dog's Silver Circlet<br />
             </td>
           </tr>
@@ -3071,7 +3143,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3170,7 +3242,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3269,7 +3341,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3374,7 +3446,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3473,7 +3545,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3572,7 +3644,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3671,7 +3743,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3770,7 +3842,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3869,7 +3941,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3974,7 +4046,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4073,7 +4145,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4172,7 +4244,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4271,7 +4343,7 @@
           </tr>
           <tr>
             <td>Artifacts<br /></td>
-            <td></td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
