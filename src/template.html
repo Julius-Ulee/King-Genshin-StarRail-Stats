@@ -329,7 +329,11 @@
                     </tr>
                     <tr>
                         <td>Outfits</td>
-                        <td align="center"><img src="{{ character.outfits.icon }}" height="80"> {{ character.outfits|join(", ", attribute="name") }}</td>
+                        <td align="center">
+                          {% for outfit in character.outfits %}
+                          <img src="{{ outfit.icon }}" height="80">
+                          {% endfor %}
+                          {{ character.outfits|join(", ", attribute="name") }}</td>
                     </tr>
                 </table>
             </td>
