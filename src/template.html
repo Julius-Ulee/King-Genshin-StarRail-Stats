@@ -541,17 +541,17 @@
                         </tr>
                         <tr>
                             <td>Level</td>
-                            <td align="center">{{ character.level }}</td>
+                            <td align="center"><code>+{{ character.level }}</code></td>
                         </tr>
                         <tr>
                             <td>Eidolon</td>
-                            <td align="center">{{ character.rank }}</td>
+                            <td align="center"><code>{{ character.rank }}</code></td>
                         </tr>
                         <tr>
                             <td>Relics</td>
                             <td>
                                 {%- for relic in character.relics -%}
-                                <img src="{{ relic.icon }}", height="18"> {{ relic.name }}<br>
+                                <img src="{{ relic.icon }}", height="25"> <code>+{{ relic.level }}</code><br> {{ "⭐" * relic.rarity }}<br> {{ relic.name }}<br>
                                 {%- endfor -%}
                             </td>
                         </tr>
