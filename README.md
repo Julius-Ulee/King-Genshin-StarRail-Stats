@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -767,18 +767,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">10</td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Ordinance: Unceasing Vigil, Ceremony: Homecoming of Spirits, Precept: Lawful Enforcer, Austerity: Forbidding Guard, Funerary Rite: The Passing of Starlight, Raiment: Just Scales"
-              />
+              Ordinance: Unceasing Vigil, Ceremony: Homecoming of Spirits,
+              Precept: Lawful Enforcer, Austerity: Forbidding Guard, Funerary
+              Rite: The Passing of Starlight, Raiment: Just Scales
             </td>
           </tr>
           <tr>
@@ -847,15 +847,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">6</td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -910,18 +910,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">10</td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Grand Expectation, Impasse Conqueror, Unstoppable Fervor, Unexpected Odyssey, True Explorer, Fire Ventures With Me"
-              />
+              Grand Expectation, Impasse Conqueror, Unstoppable Fervor,
+              Unexpected Odyssey, True Explorer, Fire Ventures With Me
             </td>
           </tr>
           <tr>
@@ -990,15 +989,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">70</td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">4</td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1053,18 +1052,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">6</td>
+            <td align="center"><code>+6</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Conviction, Searing Ember, Fire and Steel, Flowing Flame, Phoenix, Harbinger of Dawn, Flaming Sword, Nemesis of the Dark"
-              />
+              Conviction, Searing Ember, Fire and Steel, Flowing Flame, Phoenix,
+              Harbinger of Dawn, Flaming Sword, Nemesis of the Dark
             </td>
           </tr>
           <tr>
@@ -1133,15 +1131,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">6</td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1196,18 +1194,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">4</td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Crispy Outside, Tender Inside, Oil Meets Fire, Deepfry, Slowbake, Guoba Mad, Condensed Pyronado"
-              />
+              Crispy Outside, Tender Inside, Oil Meets Fire, Deepfry, Slowbake,
+              Guoba Mad, Condensed Pyronado
             </td>
           </tr>
           <tr>
@@ -1276,15 +1273,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">6</td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -1339,18 +1336,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">3</td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Clustered Vacuum Field, Beth: Unbound Form, Flawless Alchemistress, Alchemania, Caution: Standard Flask, Chaotic Entropy"
-              />
+              Clustered Vacuum Field, Beth: Unbound Form, Flawless
+              Alchemistress, Alchemania, Caution: Standard Flask, Chaotic
+              Entropy
             </td>
           </tr>
           <tr>
@@ -1419,15 +1416,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">90</td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">6</td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1482,18 +1479,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">82</td>
+            <td align="center"><code>+82</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">0</td>
+            <td align="center"><code>+0</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Symbiotic Creeper, Green Resilience, Whirling Weeds, Treacle Grass, Viridian Transience, Withering Aggregation"
-              />
+              Symbiotic Creeper, Green Resilience, Whirling Weeds, Treacle
+              Grass, Viridian Transience, Withering Aggregation
             </td>
           </tr>
           <tr>
@@ -1562,15 +1558,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">2</td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1625,18 +1621,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">10</td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="The Scent Remained, Rainbow Upon the Azure Sky, Weaver of Verses, Evilsoother, Embrace of Rain, Hence, Call Them My Own Verses"
-              />
+              The Scent Remained, Rainbow Upon the Azure Sky, Weaver of Verses,
+              Evilsoother, Embrace of Rain, Hence, Call Them My Own Verses
             </td>
           </tr>
           <tr>
@@ -1705,15 +1700,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1768,18 +1763,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">70</td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">3</td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="At Water's Edge, The Clouds Like Waves Rippling, The Moon, A Ship O'er the Seas, The Moon Overlooks the Waters, All Streams Flow to the Sea, Sango Isshin"
-              />
+              At Water's Edge, The Clouds Like Waves Rippling, The Moon, A Ship
+              O'er the Seas, The Moon Overlooks the Waters, All Streams Flow to
+              the Sea, Sango Isshin
             </td>
           </tr>
           <tr>
@@ -1848,15 +1843,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">2</td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1911,18 +1906,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">60</td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">4</td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Excellent Blood, Never-Ending Performance, Dance of Frost, Frozen Kiss, Frostbiting Embrace, Glacial Whirlwind"
-              />
+              Excellent Blood, Never-Ending Performance, Dance of Frost, Frozen
+              Kiss, Frostbiting Embrace, Glacial Whirlwind
             </td>
           </tr>
           <tr>
@@ -1997,15 +1991,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">70</td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">4</td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2060,18 +2054,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">10</td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Adeptus' Tutelage, Innocent, Loyal and Kind, Winsome, Compassionate, Beneficent"
-              />
+              Adeptus' Tutelage, Innocent, Loyal and Kind, Winsome,
+              Compassionate, Beneficent
             </td>
           </tr>
           <tr>
@@ -2140,15 +2133,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">2</td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -2203,18 +2196,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">2</td>
+            <td align="center"><code>+2</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Wolf's Instinct, Suppression, Soul Companion, Bite, Sharpened Claws, Lupus Fulguris"
-              />
+              Wolf's Instinct, Suppression, Soul Companion, Bite, Sharpened
+              Claws, Lupus Fulguris
             </td>
           </tr>
           <tr>
@@ -2269,15 +2261,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">60</td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">3</td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2332,18 +2324,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Thundering Might, Keen Extraction, Foreseen Reformation, Attunement, Beckoning Stars, Tenacious Star"
-              />
+              Thundering Might, Keen Extraction, Foreseen Reformation,
+              Attunement, Beckoning Stars, Tenacious Star
             </td>
           </tr>
           <tr>
@@ -2372,15 +2363,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2435,18 +2426,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">50</td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Ice Unleashed, Atmospheric Revolution, Cloudburst, Frozen Skies, The True Path, Rally of Four Blades"
-              />
+              Ice Unleashed, Atmospheric Revolution, Cloudburst, Frozen Skies,
+              The True Path, Rally of Four Blades
             </td>
           </tr>
           <tr>
@@ -2512,15 +2502,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">80</td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">2</td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -2575,18 +2565,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">3</td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="One Arrow to Rule Them All, Bunny Triggered, It Burns!, It's Not Just Any Doll..., It's Baron Bunny!, Wildfire"
-              />
+              One Arrow to Rule Them All, Bunny Triggered, It Burns!, It's Not
+              Just Any Doll..., It's Baron Bunny!, Wildfire
             </td>
           </tr>
           <tr>
@@ -2651,15 +2640,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2714,18 +2703,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Deepwood Patrol, Through Hill and Copse, Scent of Summer, Gift of the Woods, All Embers, Forest of Falling Arrows"
-              />
+              Deepwood Patrol, Through Hill and Copse, Scent of Summer, Gift of
+              the Woods, All Embers, Forest of Falling Arrows
             </td>
           </tr>
           <tr>
@@ -2791,15 +2779,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2854,18 +2842,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Fortress of Fantasy, Light's Remit, Secrets of the Night, Starry Illumination, Stream of Consciousness, Radiant Soulfire"
-              />
+              Fortress of Fantasy, Light's Remit, Secrets of the Night, Starry
+              Illumination, Stream of Consciousness, Radiant Soulfire
             </td>
           </tr>
           <tr>
@@ -2894,15 +2881,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2957,18 +2944,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">24</td>
+            <td align="center"><code>+24</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Truth by Any Means, Overzealous Intellect, Spirit-Orchard Stroll, Divine Comprehension, Wonderland of Rumination, The Wondrous Path of Truth"
-              />
+              Truth by Any Means, Overzealous Intellect, Spirit-Orchard Stroll,
+              Divine Comprehension, Wonderland of Rumination, The Wondrous Path
+              of Truth
             </td>
           </tr>
           <tr>
@@ -2997,15 +2984,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3060,18 +3047,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">3</td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Gleeful Songs, Vitality Burst, Star of Tomorrow, Attentiveness Be My Power, The Purest Companionship, Dedicating Everything to You"
-              />
+              Gleeful Songs, Vitality Burst, Star of Tomorrow, Attentiveness Be
+              My Power, The Purest Companionship, Dedicating Everything to You
             </td>
           </tr>
           <tr>
@@ -3140,15 +3126,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3203,18 +3189,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Infinite Circuit, Electromagnetic Field, Resonant Thunder, Plasma Eruption, Electrocute, Pulsating Witch"
-              />
+              Infinite Circuit, Electromagnetic Field, Resonant Thunder, Plasma
+              Eruption, Electrocute, Pulsating Witch
             </td>
           </tr>
           <tr>
@@ -3243,15 +3228,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3306,18 +3291,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Fatal Acceleration, Impromptu Opening, Double-Stop, Wildfire Rhythm, Screamin' for an Encore, Rockin' in a Flaming World"
-              />
+              Fatal Acceleration, Impromptu Opening, Double-Stop, Wildfire
+              Rhythm, Screamin' for an Encore, Rockin' in a Flaming World
             </td>
           </tr>
           <tr>
@@ -3346,15 +3330,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3409,18 +3393,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Unholy Revelation, Land Without Promise, The Wages of Sin, Painful Grace, Last Rites, Divine Retribution"
-              />
+              Unholy Revelation, Land Without Promise, The Wages of Sin, Painful
+              Grace, Last Rites, Divine Retribution
             </td>
           </tr>
           <tr>
@@ -3455,15 +3438,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3518,18 +3501,19 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Rushing Hound: Swift as the Wind, Sitting Hound: Steady as a Clock, Mauling Hound: Fierce as Fire, Lapping Hound: Warm as Water, Striking Hound: Thunderous Force, Valiant Hound: Mountainous Fealty"
-              />
+              Rushing Hound: Swift as the Wind, Sitting Hound: Steady as a
+              Clock, Mauling Hound: Fierce as Fire, Lapping Hound: Warm as
+              Water, Striking Hound: Thunderous Force, Valiant Hound:
+              Mountainous Fealty
             </td>
           </tr>
           <tr>
@@ -3558,15 +3542,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">4</td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -3621,18 +3605,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Thespian Gallop, Myriad Mise-En-Scène, Seafaring General, Flower and a Fighter, Famed Throughout the Land, Decorous Harmony"
-              />
+              Thespian Gallop, Myriad Mise-En-Scène, Seafaring General, Flower
+              and a Fighter, Famed Throughout the Land, Decorous Harmony
             </td>
           </tr>
           <tr>
@@ -3661,15 +3644,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3724,18 +3707,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="To Cloister Compassion, To Forsake Fortune, To Sequester Sorrow, To Sever Sealing, To Cease Courtesies, To Ward Weakness"
-              />
+              To Cloister Compassion, To Forsake Fortune, To Sequester Sorrow,
+              To Sever Sealing, To Cease Courtesies, To Ward Weakness
             </td>
           </tr>
           <tr>
@@ -3764,15 +3746,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">60</td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">3</td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -3827,18 +3809,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Additional Investment, Special Franchise, Wonders Never Cease, Discretionary Supplement, Value for Mora, Sprinkling Weight"
-              />
+              Additional Investment, Special Franchise, Wonders Never Cease,
+              Discretionary Supplement, Value for Mora, Sprinkling Weight
             </td>
           </tr>
           <tr>
@@ -3867,15 +3848,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -3930,18 +3911,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">2</td>
+            <td align="center"><code>+2</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Factor Confluence, Companion's Ingress, Reconnaissance Experience, Sunfrost Encomium, Signal Arrow, Companion's Counsel"
-              />
+              Factor Confluence, Companion's Ingress, Reconnaissance Experience,
+              Sunfrost Encomium, Signal Arrow, Companion's Counsel
             </td>
           </tr>
           <tr>
@@ -3970,15 +3950,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4033,18 +4013,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Spiraling Tempest, People's Aegis, When the West Wind Arises, Lands of Dandelion, Outbursting Gust, Lion's Fang, Fair Protector of Mondstadt"
-              />
+              Spiraling Tempest, People's Aegis, When the West Wind Arises,
+              Lands of Dandelion, Outbursting Gust, Lion's Fang, Fair Protector
+              of Mondstadt
             </td>
           </tr>
           <tr>
@@ -4079,15 +4059,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">20</td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4142,18 +4122,18 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Piercing Fragments, Shock Effect, Majesty Be the Array of Stars, Exquisite be the Jade, Outshining All Beneath, Invincible Be the Jade Screen, Grandeur Be the Seven Stars"
-              />
+              Piercing Fragments, Shock Effect, Majesty Be the Array of Stars,
+              Exquisite be the Jade, Outshining All Beneath, Invincible Be the
+              Jade Screen, Grandeur Be the Seven Stars
             </td>
           </tr>
           <tr>
@@ -4182,15 +4162,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">2</td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -4245,18 +4225,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="Gaze of the Deep, Devourer of All Sins, Wings of Nightmare, Her Pilgrimage of Bleak, Against the Fleeing Light, Evernight Raven"
-              />
+              Gaze of the Deep, Devourer of All Sins, Wings of Nightmare, Her
+              Pilgrimage of Bleak, Against the Fleeing Light, Evernight Raven
             </td>
           </tr>
           <tr>
@@ -4285,15 +4264,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4348,18 +4327,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="I Got Your Back, Combat Maid, Invulnerable Maid, To Be Cleaned, Favonius Sweeper Master, Must Be Spotless"
-              />
+              I Got Your Back, Combat Maid, Invulnerable Maid, To Be Cleaned,
+              Favonius Sweeper Master, Must Be Spotless
             </td>
           </tr>
           <tr>
@@ -4388,15 +4366,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4451,18 +4429,17 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img
-                src="The Law Knows No Kindness, Right of Final Interpretation, Samadhi Fire-Forged, Supreme Amnesty, Abiding Affidavit, Extra Clause"
-              />
+              The Law Knows No Kindness, Right of Final Interpretation, Samadhi
+              Fire-Forged, Supreme Amnesty, Abiding Affidavit, Extra Clause
             </td>
           </tr>
           <tr>
@@ -4491,15 +4468,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center">0</td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
