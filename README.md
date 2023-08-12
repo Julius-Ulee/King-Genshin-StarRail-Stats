@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:13 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:21 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2559 (rate -72)</td>
+    <td>2619 (rate -72)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>2141938 (rate -77)</td>
+    <td>2210314 (rate -76)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 898 (36%)<br />Daily Activity: 660 (26%)<br />Events: 540
-      (21%)<br />Mail: 460 (17%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Adventure: 898 (35%)<br />Daily Activity: 720 (28%)<br />Events: 540
+      (20%)<br />Mail: 460 (17%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -775,7 +775,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -914,7 +914,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1053,7 +1053,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1192,7 +1192,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1331,7 +1331,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1470,7 +1470,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">2</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1609,7 +1609,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1748,7 +1748,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -1887,7 +1887,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">1</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -2032,7 +2032,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -2171,7 +2171,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -2296,7 +2296,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2395,7 +2395,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
@@ -2531,7 +2531,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br />4 x Traveling Doctor<br /></td>
@@ -2666,7 +2666,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
@@ -2802,7 +2802,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">1</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2901,7 +2901,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">2</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3000,7 +3000,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">2</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>
@@ -3139,7 +3139,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">1</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3238,7 +3238,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">1</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3337,7 +3337,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3442,7 +3442,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">1</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3541,7 +3541,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">2</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3640,7 +3640,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">2</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3739,7 +3739,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3838,7 +3838,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3937,7 +3937,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4042,7 +4042,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4141,7 +4141,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4240,7 +4240,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4339,7 +4339,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">0</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
