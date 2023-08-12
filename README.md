@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:57 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,59 +775,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=711,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5f30a716cde413ea963597f89c278723.png',
-              pos=1, name='Ordinance: Unceasing Vigil', effect='After using
-              <color ="#FFD780FF">Sacred Rite: Wolf\'s Swiftness</color>,
-              Cyno\'s Normal Attack SPD will be increased by 20% for 10s. If the
-              Judication effect of his Passive Talent Featherfall Judgment is
-              triggered during
-              <color ="#FFD780FF">Secret Rite: Chasmic Soulfarer</color>, the
-              duration of this increase will be refreshed.\\nYou need to unlock
-              the Passive Talent "Featherfall Judgment."', activated=False),
-              Constellation(lang='en-us', id=712,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8022112cdbb74f562a868a99821cce0b.png',
-              pos=2, name='Ceremony: Homecoming of Spirits', effect="When Cyno's
-              Normal Attacks hit opponents, his
-              <color ="#FFACFFFF">Electro DMG Bonus</color> will increase by 10%
-              for 4s. This effect can be triggered once every 0.1s. Max 5
-              stacks.", activated=False), Constellation(lang='en-us', id=713,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0d3b5598d3f8536cc580b4e7b61e2063.png',
-              pos=3, name='Precept: Lawful Enforcer', effect="Increases the
-              Level of
-              <color ="#FFD780FF">Sacred Rite: Wolf's Swiftness</color> by
-              3.\\nMaximum upgrade level is 15.", activated=False),
-              Constellation(lang='en-us', id=714,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d8f1439761094ea074a48a33f1885f6b.png',
-              pos=4, name='Austerity: Forbidding Guard', effect="When Cyno is in
-              the Pactsworn Pathclearer state triggered by
-              <color ="#FFD780FF">Sacred Rite: Wolf's Swiftness</color>, after
-              he triggers Electro-Charged, Superconduct, Overloaded, Quicken,
-              Aggravate, Hyperbloom, or an Electro Swirl reaction, he will
-              restore 3 Elemental Energy for all nearby party members (except
-              himself.)\\nThis effect can occur 5 times within one use of
-              <color ="#FFD780FF">Sacred Rite: Wolf's Swiftness</color>.",
-              activated=False), Constellation(lang='en-us', id=715,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df2d788dc368277307628d4de83b11ee.png',
-              pos=5, name='Funerary Rite: The Passing of Starlight',
-              effect='Increases the Level of
-              <color ="#FFD780FF">Secret Rite: Chasmic Soulfarer</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False),
-              Constellation(lang='en-us', id=716,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/cb5e61ca84339637679102ba175bb172.png',
-              pos=6, name='Raiment: Just Scales', effect='After using
-              <color ="#FFD780FF">Sacred Rite: Wolf\'s Swiftness</color> or
-              triggering the Judication effect of the Passive Talent
-              "Featherfall Judgment," Cyno will gain 4 stacks of the "Day of the
-              Jackal" effect. When he hits opponents with Normal Attacks, he
-              will consume 1 stack of "Day of the Jackal" to fire off one
-              Duststalker Bolt.\\n"Day of the Jackal" lasts for 8s. Max 8
-              stacks. It will be canceled once Pactsworn Pathclearer ends.\\nA
-              maximum of 1 Duststalker Bolt can be unleashed this way every
-              0.4s.\\nYou must first unlock the Passive Talent "Featherfall
-              Judgment."', activated=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -966,44 +914,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=321,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/27d5ac2f64882a1716a13b316426bf15.png',
-              pos=1, name='Grand Expectation', effect="<color ="#FFD780FF"
-                >Fantastic Voyage</color
-              >'s ATK increase no longer has an HP restriction, and gains an
-              additional 20% of Bennett's Base ATK.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=322,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/38db6b8da051d3d9c75097b9ccb8291e.png',
-              pos=2, name='Impasse Conqueror', effect="When Bennett's HP falls
-              below 70%, his Energy Recharge is increased by 30%.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=323,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c47eee9a0f905e5bf4f0de50fbd0d7d.png',
-              pos=3, name='Unstoppable Fervor', effect='Increases the Level of
-              <color ="#FFD780FF">Passion Overload</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=324,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/dead8c5af14613e8d0fb60dbdc1c6379.png',
-              pos=4, name='Unexpected Odyssey', effect="Using a Normal Attack as
-              the second attack of
-              <color ="#FFD780FF">Passion Overload</color>'s Charge Level 1 will
-              perform a follow-up attack.\\nThis additional attack does 135% of
-              the second attack's DMG.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=325,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9a7abbf3083a9adbaac2a07eb1a45e38.png',
-              pos=5, name='True Explorer', effect='Increases the Level of
-              <color ="#FFD780FF">Fantastic Voyage</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=326,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1e5c214ee2b0a0ffc108642bd3eaedef.png',
-              pos=6, name='Fire Ventures With Me', effect="Sword, Claymore, or
-              Polearm-wielding characters inside
-              <color ="#FFD780FF">Fantastic Voyage</color>'s radius gain a 15%
-              <color ="#FF9999FF">Pyro DMG Bonus</color> and their weapons are
-              infused with <color ="#FF9999FF">Pyro</color>.", activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -1142,44 +1053,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=161,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ff8485ca662f0c76b0f68d8e040db366.png',
-              pos=1, name='Conviction', effect='Diluc deals 15% more DMG to
-              opponents whose HP is above 50%.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=162,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07ecc60fbd8a922a89eadc1bc3e87a03.png',
-              pos=2, name='Searing Ember', effect='When Diluc takes DMG, his ATK
-              increases by 10% and his ATK SPD increases by 5%. Lasts for
-              10s.\\nThis effect can stack up to 3 times and can only occur once
-              every 1.5s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=163,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b5506560f808e9cd3ed8defb0503d0a9.png',
-              pos=3, name='Fire and Steel', effect='Increases the Level of
-              <color ="#FFD780FF">Searing Onslaught</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=164,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/208d30ffcfdd218aab1aa05c65888e58.png',
-              pos=4, name='Flowing Flame', effect='Casting
-              <color ="#FFD780FF">Searing Onslaught</color> in rhythm greatly
-              increases damage dealt.\\n2s after casting
-              <color ="#FFD780FF">Searing Onslaught</color>, casting the next
-              Searing Onslaught in the combo deals 40% additional DMG. This
-              effect lasts for 2s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=165,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5d03a5b2a1749ab48d78dc6bd7a47cc7.png',
-              pos=5, name='Phoenix, Harbinger of Dawn', effect='Increases the
-              Level of <color ="#FFD780FF">Dawn</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=166,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0da7b964ad0d4fdc0d06b235485a6b2f.png',
-              pos=6, name='Flaming Sword, Nemesis of the Dark', effect='After
-              casting <color ="#FFD780FF">Searing Onslaught</color>, the next 2
-              Normal Attacks within the next 6s will have their DMG and ATK SPD
-              increased by 30%.\\nAdditionally, Searing Onslaught will not
-              interrupt the Normal Attack combo.', activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -1318,42 +1192,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=231,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3b44ddeaa7b7365e04de0cee76dfcd78.png',
-              pos=1, name='Crispy Outside, Tender Inside', effect="Opponents hit
-              by Guoba's attacks have their
-              <color ="#FF9999FF">Pyro RES</color> reduced by 15% for 6s.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=232,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/04e206d204e4b37c04b9a3724a9e1800.png',
-              pos=2, name='Oil Meets Fire', effect="The last attack in a Normal
-              Attack sequence applies the Implode status onto the opponent for
-              2s. An explosion will occur once this duration ends, dealing 75%
-              of Xiangling's ATK as <color ="#FF9999FF">AoE Pyro DMG</color>.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=233,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b1115e3d2e11ae49fdfe776625bbec63.png',
-              pos=3, name='Deepfry', effect='Increases the Level of
-              <color ="#FFD780FF">Pyronado</color> by 3.\\nMaximum upgrade level
-              is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=234,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/76dbefe2feb65827121405d7670228de.png',
-              pos=4, name='Slowbake', effect="<color ="#FFD780FF"
-                >Pyronado</color
-              >'s duration is increased by 40%.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=235,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4d57c0f127d28f0b80f1c16ac9ff4f0f.png',
-              pos=5, name='Guoba Mad', effect='Increases the Level of
-              <color ="#FFD780FF">Guoba Attack</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=236,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f2075eec0b67b0cc14542c4bd297d0e.png',
-              pos=6, name='Condensed Pyronado', effect='For the duration of
-              <color ="#FFD780FF">Pyronado</color>, all party members receive a
-              15% <color ="#FF9999FF">Pyro DMG Bonus</color>.', activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -1492,55 +1331,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=431,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2022589edb26ea3b705971ab5b68d24c.png',
-              pos=1, name='Clustered Vacuum Field', effect='<color ="#FFD780FF"
-                >Astable Anemohypostasis Creation - 6308</color
-              >
-              gains 1 additional charge.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=432,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ac133a8e9e6182090ae814dc8a7295f6.png',
-              pos=2, name='Beth: Unbound Form', effect='The duration of
-              <color ="#FFD780FF"
-                >Forbidden Creation - Isomer 75 / Type II</color
-              >
-              is increased by 2s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=433,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f21f5c829f9c5c500bfdee024111c27f.png',
-              pos=3, name='Flawless Alchemistress', effect='Increases the Level
-              of
-              <color ="#FFD780FF"
-                >Astable Anemohypostasis Creation - 6308</color
-              >
-              by 3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=434,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/95bc5e71aea40d52e84736c6504e4b33.png',
-              pos=4, name='Alchemania', effect='Sucrose will reduce the CD of
-              <color ="#FFD780FF"
-                >Astable Anemohypostasis Creation - 6308</color
-              >
-              by 1-7s for every 7 Normal or Charged Attack hits she scores
-              against opponents.\\nOne hit may be counted every 0.1s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=435,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3fbf8eb24ce5ba970ba45fd5f093c6c3.png',
-              pos=5, name='Caution: Standard Flask', effect='Increases the Level
-              of
-              <color ="#FFD780FF"
-                >Forbidden Creation - Isomer 75 / Type II</color
-              >
-              by 3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=436,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0f7fee87b2337c7ff21341fd572006c1.png',
-              pos=6, name='Chaotic Entropy', effect='If
-              <color ="#FFD780FF"
-                >Forbidden Creation - Isomer 75 / Type II</color
-              >
-              triggers an Elemental Absorption, all party members gain a 20%
-              Elemental DMG Bonus for the corresponding absorbed element during
-              its duration.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -1679,45 +1470,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=111,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2d4d93bb0f6b563da4d72a9d05f6093e.png',
-              pos=1, name='Symbiotic Creeper', effect='After
-              <color ="#FFD780FF">Razorgrass Blade</color> hits an opponent, it
-              will regenerate 3.5 Energy for the Traveler.', activated=True,
-              scaling=False), Constellation(lang='en-us', id=112,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f02659efc4744bdf1186e516cb6cc1ac.png',
-              pos=2, name='Green Resilience', effect="<color ="#FFD780FF"
-                >Lea Lotus Lamp</color
-              >'s duration is increased by 3s.", activated=True, scaling=False),
-              Constellation(lang='en-us', id=113,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28b721d18047c88a134571947d016f6d.png',
-              pos=3, name='Whirling Weeds', effect='Increases the Level of
-              <color ="#FFD780FF">Razorgrass Blade</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=114,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/12906d7a3739b5164010716c92dba9d9.png',
-              pos=4, name='Treacle Grass', effect='After the
-              <color ="#FFD780FF">Lea Lotus Lamp</color> triggers a Lotuslight
-              Transfiguration, it will obtain 5 stacks of the Overflowing
-              Lotuslight effect from the Passive Talent "Verdant
-              Overgrowth."\\nYou must have unlocked this Passive Talent first.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=115,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4eddb243c97bb1c5ff2efdb9c3a5e99b.png',
-              pos=5, name='Viridian Transience', effect='Increases the Level of
-              <color ="#FFD780FF">Surgent Manifestation</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=116,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bfa3a45692d342993062c54f551f3421.png',
-              pos=6, name='Withering Aggregation', effect='The
-              <color ="#99FF88FF">Dendro DMG Bonus</color> of the character
-              under the effect of Overflowing Lotuslight as created by the
-              <color ="#FFD780FF">Lea Lotus Lamp</color> is increased by 12%. If
-              the Lamp has experienced a Lotuslight Transfiguration previously,
-              the character will also gain 12% DMG Bonus for the corresponding
-              element.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>
@@ -1856,42 +1609,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=251,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/01d97472cab65fd89acd679dd947d866.png',
-              pos=1, name='The Scent Remained', effect='Increases the maximum
-              number of Rain Swords by 1.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=252,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/12e987b2c7aa1fb89a64efa40942b700.png',
-              pos=2, name='Rainbow Upon the Azure Sky', effect='Extends the
-              duration of <color ="#FFD780FF">Guhua Sword: Raincutter</color> by
-              3s.\\nDecreases the <color ="#80C0FFFF">Hydro RES</color> of
-              opponents hit by sword rain attacks by 15% for 4s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=253,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/42691c76b3806ed9c1de29a7a8f67b57.png',
-              pos=3, name='Weaver of Verses', effect='Increases the Level of
-              <color ="#FFD780FF">Guhua Sword: Raincutter</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=254,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d8b5c9790cdb5a086d31e84ea631f1da.png',
-              pos=4, name='Evilsoother', effect='Throughout the duration of
-              <color ="#FFD780FF">Guhua Sword: Raincutter</color>, the DMG dealt
-              by <color ="#FFD780FF">Guhua Sword: Fatal Rainscreen</color> is
-              increased by 50%.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=255,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3df7e9b7c8e621d6a2300c5dc59e0ad7.png',
-              pos=5, name='Embrace of Rain', effect='Increases the Level of
-              <color ="#FFD780FF">Guhua Sword: Fatal Rainscreen</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=256,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/baff9837fb1a091272cf05583eab854c.png',
-              pos=6, name='Hence, Call Them My Own Verses', effect="Activating 2
-              of <color ="#FFD780FF">Guhua Sword: Raincutter</color>'s sword
-              rain attacks greatly enhances the third sword rain attack. On hit,
-              the third sword rain attack also regenerates 3 Energy for
-              Xingqiu.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -2030,54 +1748,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=541,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0b6acbc204b4cbc391105aee20f0c883.png',
-              pos=1, name="At Water's Edge", effect="While donning the
-              Ceremonial Garment created by
-              <color ="#FFD780FF">Nereid's Ascension</color>, the final Normal
-              Attack in Sangonomiya Kokomi's combo will unleash a swimming fish
-              to deal 30% of her Max HP as
-              <color ="#80C0FFFF">Hydro DMG</color>.\\nThis DMG is not
-              considered Normal Attack DMG.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=542,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2c23fcc209f9011f1b5ce4136cd37343.png',
-              pos=2, name='The Clouds Like Waves Rippling', effect="Sangonomiya
-              Kokomi gains the following Healing Bonuses with regard to
-              characters with 50% or less HP via the following
-              methods:\\n·<color ="#FFD780FF">Kurage's Oath</color> Bake-Kurage:
-              4.5% of Kokomi's Max HP.\\n·<color ="#FFD780FF"
-                >Nereid's Ascension</color
-              >
-              Normal and Charged Attacks: 0.6% of Kokomi's Max HP.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=543,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d0f275619a37cecdaf1c9a15f5bb2fe4.png',
-              pos=3, name="The Moon, A Ship O'er the Seas", effect="Increases
-              the Level of <color ="#FFD780FF">Nereid's Ascension</color> by
-              3.\\nMaximum upgrade level is 15.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=544,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc0aa5c7835a2617eaf97fdd8392842d.png',
-              pos=4, name='The Moon Overlooks the Waters', effect="While donning
-              the Ceremonial Garment created by
-              <color ="#FFD780FF">Nereid's Ascension</color>, Sangonomiya
-              Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks
-              that hit opponents will restore 0.8 Energy for her.\\nThis effect
-              can occur once every 0.2s.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=545,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/592a65b4c2190863aa51ba7d1aaf4f2a.png',
-              pos=5, name='All Streams Flow to the Sea', effect="Increases the
-              Level of <color ="#FFD780FF">Kurage's Oath</color> by 3.\\nMaximum
-              upgrade level is 15.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=546,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/cdf84f1c50ad9e680e3fa4c59c61f377.png',
-              pos=6, name='Sango Isshin', effect="While donning the Ceremonial
-              Garment created by <color ="#FFD780FF">Nereid's Ascension</color>,
-              Sangonomiya Kokomi gains a 40%
-              <color ="#80C0FFFF">Hydro DMG Bonus</color> for 4s when her Normal
-              and Charged Attacks heal, or would heal, any party member with 80%
-              or more HP.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -2216,44 +1887,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=151,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0037e7bba8338bb6322cf145ec53306f.png',
-              pos=1, name='Excellent Blood', effect="The CRIT Rate of Kaeya's
-              Normal and Charge Attacks against opponents affected by
-              <color ="#99FFFFFF">Cryo</color> is increased by 15%.",
-              activated=True, scaling=False), Constellation(lang='en-us',
-              id=152,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/274a7d66ebb1ded5b631b81272c59cb0.png',
-              pos=2, name='Never-Ending Performance', effect='While
-              <color ="#FFD780FF">Glacial Waltz</color> is in effect, for each
-              opponent defeated, its duration is increased by 2.5s, up to a
-              maximum of 15s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=153,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07b44d8b42d4ac8d65d21f318417aa7e.png',
-              pos=3, name='Dance of Frost', effect='Increases the Level of
-              <color ="#FFD780FF">Frostgnaw</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=154,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/04e26f5eaf3a9bac758a0432af24cc78.png',
-              pos=4, name='Frozen Kiss', effect="Triggers automatically when
-              Kaeya's HP falls below 20%:\\nCreates a shield that absorbs damage
-              equal to 30% of Kaeya's Max HP. Lasts for 20s.\\nThis shield
-              absorbs <color ="#99FFFFFF">Cryo DMG</color> with 250%
-              efficiency.\\nCan only occur once every 60s.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=155,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a541eb3671f9cfdba91f58b16bf733ee.png',
-              pos=5, name='Frostbiting Embrace', effect='Increases the Level of
-              <color ="#FFD780FF">Glacial Waltz</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=156,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5f5defa3b3a6f7fba1fbec17561d373f.png',
-              pos=6, name='Glacial Whirlwind', effect='<color ="#FFD780FF"
-                >Glacial Waltz</color
-              >
-              will generate 1 additional icicle, and will regenerate 15 Energy
-              when cast.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>
@@ -2301,7 +1935,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_KaeyaCostumeDancer@2x.png"
+                height="80"
+              /><br />
+              Sailwind Shadow<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -2392,54 +2032,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=771,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4dc1c69a0cc0e4fc99f74f80a2576cd8.png',
-              pos=1, name="Adeptus' Tutelage", effect='When
-              <color ="#FFD780FF">White Jade Radishes</color> explode, active
-              characters within their AoE will gain 15%
-              <color ="#99FF88FF">Dendro DMG Bonus</color> for 8s and have 15
-              Stamina restored to them. This form of Stamina Restoration can
-              only be triggered every 5s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=772,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1f20574df370837c6869cb5e9f5cb100.png',
-              pos=2, name='Innocent', effect='While affected by the Adeptal
-              Legacy state caused by
-              <color ="#FFD780FF">Moonjade Descent</color>, if White Jade Radish
-              explosions hit opponents, 3 Energy will be restored to Yaoyao.
-              This form of Energy regeneration can occur once every 0.8s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=773,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7ee1d6f3323a897c537db53c1081f113.png',
-              pos=3, name='Loyal and Kind', effect='Increases the Level of
-              <color ="#FFD780FF">Raphanus Sky Cluster</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=774,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/929661179b8ceb1a2eab4751970b28cb.png',
-              pos=4, name='Winsome', effect="After using
-              <color ="#FFD780FF">Raphanus Sky Cluster</color> or
-              <color ="#FFD780FF">Moonjade Descent</color>, Yaoyao's Elemental
-              Mastery will be increased based on 0.3% of her Max HP for 8s. The
-              maximum Elemental Mastery she can gain this way is 120.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=775,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e1781c2cbf6a351bdd94482ab03f4094.png',
-              pos=5, name='Compassionate', effect='Increases the Level of
-              <color ="#FFD780FF">Moonjade Descent</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=776,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7aeb2220d10725dc1a5ba6ddad665871.png',
-              pos=6, name='Beneficent', effect="For every 2 White Jade Radishes
-              <color ="#FFD780FF">Yuegui: Throwing Mode</color> throws out, the
-              next throw will also release a Mega Radish that will have a larger
-              AoE than the standard White Jade Radish and have the following
-              effects upon exploding:\\n·Deals
-              <color ="#99FF88FF">AoE Dendro DMG</color> based on 75% of
-              Yaoyao's ATK.\\n·Restores HP for the active character based on
-              7.5% of Yaoyao's Max HP.\\n\\nEvery Yuegui: Throwing Mode can
-              throw out a maximum of 2 Mega Radishes.", activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -2578,44 +2171,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=201,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a75481882598814067df00c0e65d7d50.png',
-              pos=1, name="Wolf's Instinct", effect="Picking up an Elemental Orb
-              or Particle increases Razor's DMG by 10% for 8s.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=202,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c9e19d05ec314f7b250b7c3d35aa65af.png',
-              pos=2, name='Suppression', effect='Increases CRIT Rate against
-              opponents with less than 30% HP by 10%.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=203,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/63f7749610437011450ac278d0f2eefc.png',
-              pos=3, name='Soul Companion', effect='Increases the Level of
-              <color ="#FFD780FF">Lightning Fang</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=204,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9b531b63f077e4220ae59a5b4cf69138.png',
-              pos=4, name='Bite', effect='#When casting
-              <color ="#FFD780FF">Claw and Thunder</color>
-              ({LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}), opponents
-              hit will have their DEF decreased by 15% for 7s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=205,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1bd29d2c045423c00ac7daac837fc8c2.png',
-              pos=5, name='Sharpened Claws', effect='Increases the Level of
-              <color ="#FFD780FF">Claw and Thunder</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=206,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/06d7341f06961ae427d263749475d8dd.png',
-              pos=6, name='Lupus Fulguris', effect="Every 10s, Razor's sword
-              charges up, causing the next Normal Attack to release lightning
-              that deals 100% of Razor's ATK as
-              <color ="#FFACFFFF">Electro DMG</color>.\\nWhen Razor is not using
-              <color ="#FFD780FF">Lightning Fang</color>, a lightning strike on
-              an opponent will grant Razor an Electro Sigil for
-              <color ="#FFD780FF">Claw and Thunder</color>.", activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>
@@ -2740,46 +2296,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=421,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8c237f986ea316ddc5638ffa54caaaff.png',
-              pos=1, name='Thundering Might', effect='Recasting
-              <color ="#FFD780FF">Stellar Restoration</color> while a Lightning
-              Stiletto is present causes Keqing to deal 50% of her ATK as
-              <color ="#FFACFFFF">AoE Electro DMG</color> at the start point and
-              terminus of her Blink.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=422,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8164f02e62f1084c01b0e1d5cee3f701.png',
-              pos=2, name='Keen Extraction', effect="When Keqing's Normal and
-              Charged Attacks hit opponents affected by
-              <color ="#FFACFFFF">Electro</color>, they have a 50% chance of
-              producing an Elemental Particle.\\nThis effect can only occur once
-              every 5s.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=423,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3aaf6a4e9f0008dc33b4658a3192e97f.png',
-              pos=3, name='Foreseen Reformation', effect='Increases the Level of
-              <color ="#FFD780FF">Starward Sword</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=424,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ac4ec63869f4e5c762e5db6d87c6734f.png',
-              pos=4, name='Attunement', effect='For 10s after Keqing triggers an
-              <color ="#FFACFFFF">Electro-related Elemental Reaction</color>,
-              her ATK is increased by 25%.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=425,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/72f7a9d92823d39ccf0428ff4a74f28a.png',
-              pos=5, name='Beckoning Stars', effect='Increases the Level of
-              <color ="#FFD780FF">Stellar Restoration</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=426,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d2942adc4ca502d5e7f8771f21aded94.png',
-              pos=6, name='Tenacious Star', effect='When initiating a Normal
-              Attack, a Charged Attack, Elemental Skill or Elemental Burst,
-              Keqing gains a 6%
-              <color ="#FFACFFFF">Electro DMG Bonus</color> for 8s.\\nEffects
-              triggered by Normal Attacks, Charged Attacks, Elemental Skills and
-              Elemental Bursts are considered independent entities.',
-              activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2878,44 +2395,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=361,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/363b576cb126c52432120b9d356e05c9.png',
-              pos=1, name='Ice Unleashed', effect="The last attack of Chongyun's
-              Normal Attack combo releases 3 ice blades. Each blade deals 50% of
-              Chongyun's ATK as <color ="#99FFFFFF">Cryo DMG</color> to all
-              opponents in its path.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=362,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/09778d0c721fd58459627db4033dc71a.png',
-              pos=2, name='Atmospheric Revolution', effect="Elemental Skills and
-              Elemental Bursts cast within the Frost Field created by
-              <color ="#FFD780FF">Spirit Blade: Chonghua's Layered Frost</color>
-              have their CD time decreased by 15%.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=363,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e2d08c8af064b8da524fef542fa84ff1.png',
-              pos=3, name='Cloudburst', effect='Increases the Level of
-              <color ="#FFD780FF">Spirit Blade: Cloud-Parting Star</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=364,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2f91d077a4c7cb1ec99981ba24653050.png',
-              pos=4, name='Frozen Skies', effect='Chongyun regenerates 1 Energy
-              every time he hits an opponent affected by
-              <color ="#99FFFFFF">Cryo</color>.\\nThis effect can only occur
-              once every 2s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=365,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b836f065c5ce6df79700f3973d07379d.png',
-              pos=5, name='The True Path', effect="Increases the Level of
-              <color ="#FFD780FF">Spirit Blade: Chonghua's Layered Frost</color>
-              by 3.\\nMaximum upgrade level is 15.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=366,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2a9b56f2450f956d8df43ed21965c8d4.png',
-              pos=6, name='Rally of Four Blades', effect='<color ="#FFD780FF"
-                >Spirit Blade: Cloud-Parting Star</color
-              >
-              deals 15% more DMG to opponents with a lower percentage of their
-              Max HP remaining than Chongyun.\\nThis skill will also summon 1
-              additional spirit blade.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
@@ -3051,41 +2531,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=211,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a588ff2978184e41166be748c8551a61.png',
-              pos=1, name='One Arrow to Rule Them All', effect="Fires 2 arrows
-              per <color ="#FFD780FF">Aimed Shot</color>. The second arrow deals
-              20% of the first arrow's DMG.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=212,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/637b81a4948c78386e9a9d5bb6fbce13.png',
-              pos=2, name='Bunny Triggered', effect="Baron Bunny, new and
-              improved! Hitting Baron Bunny's foot with a fully-charged Aimed
-              Shot manually detonates it.\\nExplosion via manual detonation
-              deals 200% additional DMG.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=213,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1649698a14ea39651f7717656e5b495c.png',
-              pos=3, name='It Burns!', effect='Increases the Level of
-              <color ="#FFD780FF">Fiery Rain</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=214,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0ba119d1a53094a71ee32195c7198ea4.png',
-              pos=4, name="It's Not Just Any Doll...", effect="Decreases
-              <color ="#FFD780FF">Explosive Puppet</color>'s CD by 20%. Adds 1
-              additional charge.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=215,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e37045f56e88a997d7289f0bd6c433a7.png',
-              pos=5, name="It's Baron Bunny!", effect='Increases the Level of
-              <color ="#FFD780FF">Explosive Puppet</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=216,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4c80259a8cb882ce5be575a9f1f7ade4.png',
-              pos=6, name='Wildfire', effect="<color ="#FFD780FF"
-                >Fiery Rain</color
-              >
-              increases all party members' Movement SPD by 15% and ATK by 15%
-              for 10s.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />4 x Traveling Doctor<br /></td>
@@ -3123,7 +2569,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_AmborCostumeWic@2x.png"
+                height="80"
+              /><br />
+              100% Outrider<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -3214,54 +2666,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=671,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/711c881fffa924b7657f83031e5c4ed1.png',
-              pos=1, name='Deepwood Patrol', effect="When in the party and not
-              on the field, Collei's Energy Recharge is increased by 20%.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=672,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2ff4628c93fb1b38bc1703a95c41f13b.png',
-              pos=2, name='Through Hill and Copse', effect="The Passive Talent
-              Floral Sidewinder is changed to this:\\nThe
-              <color ="#FFD780FF">Floral Ring</color> will grant the character
-              the Sprout effect from Floral Sidewinder upon return, dealing 40%
-              of Collei's ATK as <color ="#99FF88FF">Dendro DMG</color> to
-              nearby opponents for 3s.\\nFrom the moment of using
-              <color ="#FFD780FF">Floral Brush</color> to the moment when this
-              instance of Sprout effect ends, if any of your party members
-              triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom,
-              or Burgeon reactions, the Sprout effect will be extended by
-              3s.\\nThe Sprout effect can only be extended this way once. If
-              another Sprout effect is triggered during its initial duration,
-              the initial effect will be removed. DMG dealt by Sprout is
-              considered Elemental Skill DMG.\\nRequires you to have unlocked
-              the Floral Sidewinder Passive Talent.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=673,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df15ef178bb174a76a06c603de747f84.png',
-              pos=3, name='Scent of Summer', effect='Increases the Level of
-              <color ="#FFD780FF">Floral Brush</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=674,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f22e4f0ef94bf101f8128a22e175e389.png',
-              pos=4, name='Gift of the Woods', effect="Using
-              <color ="#FFD780FF">Trump-Card Kitty</color> will increase all
-              nearby characters' Elemental Mastery by 60 for 12s (not including
-              Collei herself).", activated=False, scaling=False),
-              Constellation(lang='en-us', id=675,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9c4c655bb26becdefd45165b6b8953f3.png',
-              pos=5, name='All Embers', effect='Increases the Level of
-              <color ="#FFD780FF">Trump-Card Kitty</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=676,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fb259791398acbe6625922d520f6a047.png',
-              pos=6, name='Forest of Falling Arrows', effect="When the
-              <color ="#FFD780FF">Floral Ring</color> hits, it will create a
-              miniature Cuilein-Anbar that will deal 200% of Collei's ATK as
-              <color ="#99FF88FF">Dendro DMG</color>.\\nEach
-              <color ="#FFD780FF">Floral Brush</color> can only create one such
-              miniature Cuilein-Anbar.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
@@ -3397,54 +2802,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=741,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/badf66fc17b37a8981d74c2a54860783.png',
-              pos=1, name='Fortress of Fantasy', effect='The Shield Absorption
-              of the Curtain of Slumber generated by
-              <color ="#FFD780FF">Nights of Formal Focus</color> is increased by
-              20%.\\nAdditionally, when unleashing Nights of Formal Focus, she
-              will generate a shield for any nearby party members who are not
-              being protected by a Curtain of Slumber. This shield will have 35%
-              of the absorption of a Curtain of Slumber, will last for 12s, and
-              will absorb <color ="#99FFFFFF">Cryo DMG</color> with 250%
-              effectiveness.', activated=True, scaling=False),
-              Constellation(lang='en-us', id=742,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d13b924d43e7203802dd215cd5882376.png',
-              pos=2, name="Light's Remit", effect='When Shooting Stars from
-              <color ="#FFD780FF">Nights of Formal Focus</color> strike
-              opponents, they will each restore 1 Energy to Layla. Each Shooting
-              Star can restore Energy to her in this manner once.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=743,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/48c2f58c9c3ca67a4142bd8c703d0f77.png',
-              pos=3, name='Secrets of the Night', effect='Increases the Level of
-              <color ="#FFD780FF">Nights of Formal Focus</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=744,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/49a376d3f611f7339a3127fb6a8ea04e.png',
-              pos=4, name='Starry Illumination', effect="When
-              <color ="#FFD780FF">Nights of Formal Focus</color> starts to fire
-              off Shooting Stars, it will grant all nearby party members the
-              Dawn Star effect, causing their Normal and Charged Attack DMG to
-              increase based on 5% of Layla's Max HP.\\nDawn Star can last up to
-              3s and will be removed 0.05s after dealing Normal or Charged
-              Attack DMG.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=745,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b694f9e2617fe2782ebc9fd7eaf6aad0.png',
-              pos=5, name='Stream of Consciousness', effect='Increases the Level
-              of <color ="#FFD780FF">Dream of the Star-Stream Shaker</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=746,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc0ca4e20398b3753f0f7fa3984c378a.png',
-              pos=6, name='Radiant Soulfire', effect='Shooting Stars from
-              <color ="#FFD780FF">Nights of Formal Focus</color> deal 40%
-              increased DMG, and Starlight Slugs from
-              <color ="#FFD780FF">Dream of the Star-Stream Shaker</color> deal
-              40% increased DMG.\\nAdditionally, the interval between the
-              creation of Night Stars via Nights of Formal Focus is decreased by
-              20%.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3543,49 +2901,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=761,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/650d0d647c5ae7b358eedc1bbfa18fd3.png',
-              pos=1, name='Truth by Any Means', effect='Faruzan can fire off a
-              maximum of 2 Hurricane Arrows using fully charged Aimed Shots
-              while under the effect of a single Manifest Gale created by
-              <color ="#FFD780FF">Wind Realm of Nasamjnin</color>.',
-              activated=True, scaling=False), Constellation(lang='en-us',
-              id=762,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df6337dc321cad38e189c293ef3d4719.png',
-              pos=2, name='Overzealous Intellect', effect="The duration of the
-              Dazzling Polyhedron created by
-              <color ="#FFD780FF">The Wind's Secret Ways</color> is increased by
-              6s.", activated=True, scaling=False), Constellation(lang='en-us',
-              id=763,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bd14dc5b82f98617cdbe79e2b4756eda.png',
-              pos=3, name='Spirit-Orchard Stroll', effect='Increases the Level
-              of <color ="#FFD780FF">Wind Realm of Nasamjnin</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=764,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fad47243c97d477e623d4e2576ab991b.png',
-              pos=4, name='Divine Comprehension', effect='The vortex created by
-              <color ="#FFD780FF">Pressurized Collapses</color> will restore
-              Energy to Faruzan based on the number of opponents hit: If it hits
-              1 opponent, it will restore 2 Energy for Faruzan. Each additional
-              opponent hit will restore 0.5 more Energy for Faruzan.\\nA maximum
-              of 4 Energy can be restored to her per vortex.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=765,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f8a3d2ae5bd5f8557fde2f767ca7fa20.png',
-              pos=5, name='Wonderland of Rumination', effect="Increases the
-              Level of <color ="#FFD780FF">The Wind's Secret Ways</color> by
-              3.\\nMaximum upgrade level is 15.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=766,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc405a6d950081f9f84efd0b97b50979.png',
-              pos=6, name='The Wondrous Path of Truth', effect="Characters
-              affected by <color ="#FFD780FF">The Wind's Secret Ways</color>'
-              Prayerful Wind's Benefit have 40% increased CRIT DMG when they
-              deal <color ="#80FFD7FF">Anemo DMG</color>. When the active
-              character deals DMG while affected by Prayerful Wind's Benefit,
-              they will apply Pressurized Collapse to the opponent damaged. This
-              effect can be triggered once every 3s. This CD is shared between
-              all party members.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3684,42 +3000,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=141,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c0b62d64e5511d44dbc64e74ad7620ad.png',
-              pos=1, name='Gleeful Songs', effect='Barbara regenerates 1 Energy
-              every 10s.', activated=True, scaling=False),
-              Constellation(lang='en-us', id=142,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b447c1503791b8efe90c04585cda5e89.png',
-              pos=2, name='Vitality Burst', effect="Decreases the CD of
-              <color ="#FFD780FF">Let the Show Begin♪</color> by 15%.\\nDuring
-              the ability's duration, your active character gains a 15%
-              <color ="#80C0FFFF">Hydro DMG Bonus</color>.", activated=True,
-              scaling=False), Constellation(lang='en-us', id=143,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ebf6abec5fbb0678d78ab023d9575aac.png',
-              pos=3, name='Star of Tomorrow', effect='Increases the Level of
-              <color ="#FFD780FF">Shining Miracle♪</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=144,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6704362bba651351cc745261be01739d.png',
-              pos=4, name='Attentiveness Be My Power', effect='Every opponent
-              Barbara hits with her Charged Attack regenerates 1 Energy for
-              her.\\nA maximum of 5 energy can be regenerated in this manner
-              with any one Charged Attack.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=145,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ebafbfd934cb3eb9fd213fd6c8044c7e.png',
-              pos=5, name='The Purest Companionship', effect='Increases the
-              Level of <color ="#FFD780FF">Let the Show Begin♪</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=146,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e21c4f13bb698b7961fc81dd9261eb33.png',
-              pos=6, name='Dedicating Everything to You', effect="When Barbara
-              is in the party but not on the field, and one of your own party
-              members falls:\\n·Automatically revives the fallen
-              character.\\n·Fully restores the revived character's HP to
-              100%.\\nThis effect can only occur once every 15 mins.",
-              activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>
@@ -3858,43 +3139,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=41,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d94fa76c62b115385eee1382875a5816.png',
-              pos=1, name='Infinite Circuit', effect='Lisa regenerates 2 Energy
-              for every opponent hit while holding
-              <color ="#FFD780FF">Violet Arc</color>.\\nA maximum of 10 Energy
-              can be regenerated in this manner at any one time.',
-              activated=True, scaling=False), Constellation(lang='en-us', id=42,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c994d6cf12fcdf916cdd7b042d85bb99.png',
-              pos=2, name='Electromagnetic Field', effect="Holding
-              <color ="#FFD780FF">Violet Arc</color> has the following
-              effects:\\n·Increases DEF by 25%.\\n·Increases Lisa's resistance
-              to interruption.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=43,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bb588279dec64fc6f1e72426be80a6ca.png',
-              pos=3, name='Resonant Thunder', effect='Increases the Level of
-              <color ="#FFD780FF">Lightning Rose</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=44,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/113b5b4c8f30f76282b52c445d47646c.png',
-              pos=4, name='Plasma Eruption', effect='<color ="#FFD780FF"
-                >Lightning Rose</color
-              >
-              now unleashes 1-3 lightning bolts when it attacks.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=45,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/baaf24b598f3728357cc7791f557010a.png',
-              pos=5, name='Electrocute', effect='Increases the Level of
-              <color ="#FFD780FF">Violet Arc</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=46,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d2c8cf489a44272d739390f533d56cbd.png',
-              pos=6, name='Pulsating Witch', effect="When Lisa takes the field,
-              she applies 3 stacks of <color ="#FFD780FF">Violet Arc</color>'s
-              Conductive status onto nearby opponents.\\nThis effect can only
-              occur once every 5s.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3993,42 +3238,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=441,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/43729d83c12365d3b2f2a4f2d0dbe6ec.png',
-              pos=1, name='Fatal Acceleration', effect="Upon scoring a CRIT Hit,
-              increases ATK SPD of Xinyan's Normal and Charged Attacks by 12%
-              for 5s.\\nCan only occur once every 5s.", activated=True,
-              scaling=False), Constellation(lang='en-us', id=442,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0f19c173cefe0cbdaca8ef5fa5eeeb81.png',
-              pos=2, name='Impromptu Opening', effect="<color ="#FFD780FF"
-                >Riff Revolution</color
-              >'s Physical DMG has its CRIT Rate increased by 100%, and will
-              form a shield at Shield Level 3: Rave when cast.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=443,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1769a0b64ef82a3eeb32530ce12948a5.png',
-              pos=3, name='Double-Stop', effect='Increases the Level of
-              <color ="#FFD780FF">Sweeping Fervor</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=444,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9f85b90483b9af05443353121b8adba2.png',
-              pos=4, name='Wildfire Rhythm', effect="<color ="#FFD780FF"
-                >Sweeping Fervor</color
-              >'s swing DMG decreases opponent's Physical RES by 15% for 12s.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=445,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5b6abc5f4ceb6e839f04f6a510d54a16.png',
-              pos=5, name="Screamin' for an Encore", effect='Increases the Level
-              of <color ="#FFD780FF">Riff Revolution</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=446,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b77641517eee971025f523a7f5d84d53.png',
-              pos=6, name="Rockin' in a Flaming World", effect="Decreases the
-              Stamina Consumption of Xinyan's Charged Attacks by 30%.
-              Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to
-              50% of her DEF.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4127,42 +3337,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=451,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28988512eb0cb16aec0a4e9a997a2122.png',
-              pos=1, name='Unholy Revelation', effect='When Rosaria deals a CRIT
-              Hit, her ATK SPD increases by 10% and her Normal Attack DMG
-              increases by 10% for 4s.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=452,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/efb1106e95f8ee820b04ea068fd2fc04.png',
-              pos=2, name='Land Without Promise', effect='The duration of the
-              Ice Lance created by
-              <color ="#FFD780FF">Rites of Termination</color> is increased by
-              4s.', activated=False, scaling=False), Constellation(lang='en-us',
-              id=453,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d602e243d54f061a6f22d4bed2f1bf4f.png',
-              pos=3, name='The Wages of Sin', effect='Increases the Level of
-              <color ="#FFD780FF">Ravaging Confession</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=454,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7d3b32c02789ffcaaa4ef068d04fcabd.png',
-              pos=4, name='Painful Grace', effect="<color ="#FFD780FF"
-                >Ravaging Confession</color
-              >'s CRIT Hits regenerate 5 Energy for Rosaria.\\nCan only be
-              triggered once each time Ravaging Confession is cast.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=455,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/66539e11915432b106fe32207d0655ed.png',
-              pos=5, name='Last Rites', effect='Increases the Level of
-              <color ="#FFD780FF">Rites of Termination</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=456,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/59d83ed0135b4c12aa8ead011a297765.png',
-              pos=6, name='Divine Retribution', effect="<color ="#FFD780FF"
-                >Rites of Termination</color
-              >'s attack decreases opponents' Physical RES by 20% for 10s.",
-              activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4170,7 +3345,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_RosariaCostumeWic@2x.png"
+                height="80"
+              /><br />
+              To the Church's Free Spirit<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -4261,54 +3442,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=551,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/379b66d5d2188099c044c6e484589314.png',
-              pos=1, name='Rushing Hound: Swift as the Wind', effect="When
-              characters (other than Gorou) within the AoE of Gorou's
-              <color ="#FFD780FF">General's War Banner</color> or
-              <color ="#FFD780FF">General's Glory</color> deal Geo DMG to
-              opponents, the CD of Gorou's
-              <color ="#FFD780FF">Inuzaka All-Round Defense</color> is decreased
-              by 2s.\\nThis effect can occur once every 10s.", activated=True,
-              scaling=False), Constellation(lang='en-us', id=552,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c116aee8c2f1e8940644cce37aecc61.png',
-              pos=2, name='Sitting Hound: Steady as a Clock', effect="While
-              <color ="#FFD780FF">General's Glory</color> is in effect, its
-              duration is extended by 1s when a nearby active character obtains
-              an Elemental Shard from a Crystallize reaction. \\nThis effect can
-              occur once every 0.1s. Max extension is 3s.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=553,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/11e2a303cf309745e1508de63ad3343d.png',
-              pos=3, name='Mauling Hound: Fierce as Fire', effect='Increases the
-              Level of <color ="#FFD780FF">Inuzaka All-Round Defense</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=554,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/787ccb7826c8a10612d1902262747aaf.png',
-              pos=4, name='Lapping Hound: Warm as Water', effect='When
-              <color ="#FFD780FF">General\'s Glory</color> is in the
-              "Impregnable" or "Crunch" states, it will also heal active
-              characters within its AoE by 50% of Gorou\'s own DEF every 1.5s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=555,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/60257ebe28506537c43e9b7ecc48e1bd.png',
-              pos=5, name='Striking Hound: Thunderous Force', effect='Increases
-              the Level of
-              <color ="#FFD780FF">Juuga: Forward Unto Victory</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=556,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/abfbea3ed461b53849aaa5ec527a8c14.png',
-              pos=6, name='Valiant Hound: Mountainous Fealty', effect='For 12s
-              after using
-              <color ="#FFD780FF">Inuzaka All-Round Defense</color> or
-              <color ="#FFD780FF">Juuga: Forward Unto Victory</color>, increases
-              the CRIT DMG of all nearby party members\'
-              <color ="#FFE699FF">Geo DMG</color> based on the buff level of the
-              skill\'s field at the time of use:\\n· "Standing Firm": +10%\\n·
-              "Impregnable": +20%\\n· "Crunch": +40%\\n\\nThis effect cannot
-              stack and will take reference from the last instance of the effect
-              that is triggered.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4407,42 +3541,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=641,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07fc13eafac40dd1d6238b4c5d20ee4d.png',
-              pos=1, name='Thespian Gallop', effect="<color ="#FFD780FF"
-                >Opening Flourish's</color
-              >
-              CD is decreased by 18%.", activated=True, scaling=False),
-              Constellation(lang='en-us', id=642,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/56f6fb70ff76816849d568c76bd6bc30.png',
-              pos=2, name='Myriad Mise-En-Scène', effect="After
-              <color ="#FFD780FF">Cliffbreaker's Banner</color> is unleashed,
-              all nearby party members' Normal Attack DMG is increased by 15%
-              for 12s.", activated=True, scaling=False),
-              Constellation(lang='en-us', id=643,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/271e817536c0d7fc9dca83bca781ee75.png',
-              pos=3, name='Seafaring General', effect="Increases the Level of
-              <color ="#FFD780FF">Cliffbreaker's Banner</color> by 3.\\nMaximum
-              upgrade level is 15.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=644,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c22e558fc4a6a846ef6ffade12b6a753.png',
-              pos=4, name='Flower and a Fighter', effect='When Yun Jin triggers
-              the Crystallize Reaction, her DEF is increased by 20% for 12s.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=645,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c9f6fb423fc4b2a7ee0aa8d13fae255.png',
-              pos=5, name='Famed Throughout the Land', effect='Increases the
-              Level of <color ="#FFD780FF">Opening Flourish</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=646,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4ed6515dcfb67d476be3e12a6586354f.png',
-              pos=6, name='Decorous Harmony', effect='Characters under the
-              effects of the
-              <color ="#FFD780FF">Flying Cloud Flag Formation</color> have their
-              Normal ATK SPD increased by 12%.', activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4541,46 +3640,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=651,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/20306a74b349ab3b1236602b92bae68c.png',
-              pos=1, name='To Cloister Compassion', effect="<color ="#FFD780FF"
-                >Gyoei Narukami Kariyama Rite</color
-              >'s AoE is increased by 50%.", activated=True, scaling=False),
-              Constellation(lang='en-us', id=652,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/faa954d5d90ce4a3e8e1921c70d3a8df.png',
-              pos=2, name='To Forsake Fortune', effect="<color ="#FFD780FF"
-                >Grass Ring of Sanctification</color
-              >'s duration is increased by 3s.", activated=True, scaling=False),
-              Constellation(lang='en-us', id=653,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6a8dd00a6c70de5382265a117b1fadd4.png',
-              pos=3, name='To Sequester Sorrow', effect='Increases the Level of
-              <color ="#FFD780FF">Sanctifying Ring</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=654,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bbc821e455674f1d8f099d895c44a991.png',
-              pos=4, name='To Sever Sealing', effect="When the Normal, Charged,
-              or Plunging Attacks of the character affected by Shinobu's
-              <color ="#FFD780FF">Grass Ring of Sanctification</color> hit
-              opponents, a Thundergrass Mark will land on the opponent's
-              position and deal
-              <color ="#FFACFFFF">AoE Electro DMG</color> based on 9.7% of
-              Shinobu's Max HP.\\nThis effect can occur once every 5s.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=655,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d73020ff204271ccfa65ad0d04062773.png',
-              pos=5, name='To Cease Courtesies', effect='Increases the Level of
-              <color ="#FFD780FF">Gyoei Narukami Kariyama Rite</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=656,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/eb3a084e9d1626a5380d68b309d41402.png',
-              pos=6, name='To Ward Weakness', effect="When Kuki Shinobu takes
-              lethal DMG, this instance of DMG will not take her down. This
-              effect will automatically trigger when her HP reaches 1 and will
-              trigger once every 60s.\\nWhen Shinobu's HP drops below 25%, she
-              will gain 150 Elemental Mastery for 15s. This effect will trigger
-              once every 60s.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4679,50 +3739,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=681,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4239e8e86a7393a3461907da93603605.png',
-              pos=1, name='Additional Investment', effect='The number of
-              After-Sales Service Rounds created by
-              <color ="#FFD780FF">Troubleshooter Shots</color> is increased by
-              1.', activated=False, scaling=False), Constellation(lang='en-us',
-              id=682,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a7a08b4888d9c1d1ced4e35c296742c7.png',
-              pos=2, name='Special Franchise', effect="When you are in combat
-              and the <color ="#FFD780FF">Jinni</color> heals the character it
-              is connected to, it will fire a Jinni Toop from that character's
-              position that deals 50% of Dori's ATK DMG.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=683,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/240c50b3b5fdc671213ee851f474f79f.png',
-              pos=3, name='Wonders Never Cease', effect="Increases the Level of
-              <color ="#FFD780FF">Alcazarzaray's Exactitude</color> by
-              3.\\nMaximum upgrade level is 15.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=684,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f7821660d729e5ae315e52cb24784a26.png',
-              pos=4, name='Discretionary Supplement', effect='The character
-              connected to the <color ="#FFD780FF">Jinni</color> will obtain the
-              following buffs based on their current HP and Energy:\\n·When
-              their HP is lower than 50%, they gain 50% Incoming Healing
-              Bonus.\\n·When their Energy is less than 50%, they gain 30% Energy
-              Recharge.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=685,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f351180a8afdc47fb7e0716b204f5bd4.png',
-              pos=5, name='Value for Mora', effect='Increases the Level of
-              <color ="#FFD780FF"
-                >Spirit-Warding Lamp: Troubleshooter Cannon</color
-              >
-              by 3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=686,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4fbf5dfe60f40cba9e1105f9fcde6bf3.png',
-              pos=6, name='Sprinkling Weight', effect="Dori gains the following
-              effects for 3s after using
-              <color ="#FFD780FF"
-                >Spirit-Warding Lamp: Troubleshooter Cannon</color
-              >:\\n·<color ="#FFACFFFF">Electro Infusion</color>.\\n·When Normal
-              Attacks hit opponents, all nearby party members will heal HP
-              equivalent to 4% of Dori's Max HP. This type of healing can occur
-              once every 0.1s.", activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4821,50 +3838,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=801,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/23942a1d882529668781a05d7ba689b0.png',
-              pos=1, name='Factor Confluence', effect="The Soulwind state of
-              <color ="#FFD780FF">Starfrost Swirl</color> can decrease the
-              healing interval between instances caused by
-              <color ="#FFD780FF">Skyfeather Song</color>'s Eagleplume state.
-              This decrease percentage is equal to the ATK SPD increase provided
-              by Soulwind.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=802,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6777a00fa857fcb70fe2ab426b90f2a7.png',
-              pos=2, name="Companion's Ingress", effect='When
-              <color ="#FFD780FF">Starfrost Swirl</color>\'s Flowfrost Arrow
-              first hits an opponent, or its Rimestar Flare hits an opponent, 1
-              Detector stack from Passive Talent "Suppressive Barrage" will be
-              generated.\\nYou must have unlocked the Passive Talent
-              "Suppressive Barrage" first.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=803,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7d02b608ad7821396f9d08739d641a5a.png',
-              pos=3, name='Reconnaissance Experience', effect='Increases the
-              Level of <color ="#FFD780FF">Skyfeather Song</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=804,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5a9edc9b1b19ffafe73ba7c12e1f113b.png',
-              pos=4, name='Sunfrost Encomium', effect="When Mika's own
-              <color ="#FFD780FF">Skyfeather Song</color>'s Eagleplume state
-              heals party members, this will restore 3 Energy to Mika. This form
-              of Energy restoration can occur 5 times during the Eagleplume
-              state created by 1 use of Skyfeather Song.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=805,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1d02b2c2335c2602b1422cd2f8dd8754.png',
-              pos=5, name='Signal Arrow', effect='Increases the Level of
-              <color ="#FFD780FF">Starfrost Swirl</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=806,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2ca11a02fb5b2a5a6c8db9d5e4fb2dff.png',
-              pos=6, name="Companion's Counsel", effect='The maximum number of
-              Detector stacks that
-              <color ="#FFD780FF">Starfrost Swirl</color>\'s Soulwind can gain
-              is increased by 1. You need to have unlocked the Passive Talent
-              "Suppressive Barrage" first.\\nAdditionally, active characters
-              affected by Soulwind will deal 60% more Physical CRIT DMG.',
-              activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4963,42 +3937,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=31,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ee2bd727e72e597c11ebfceade1e635e.png',
-              pos=1, name='Spiraling Tempest', effect='Increases the pulling
-              speed of <color ="#FFD780FF">Gale Blade</color> after holding for
-              more than 1s, and increases the DMG dealt by 40%.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=32,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/108c319102c0150f25cad970c460bdbf.png',
-              pos=2, name="People's Aegis", effect='When Jean picks up an
-              Elemental Orb/Particle, all party members have their Movement SPD
-              and ATK SPD increased by 15% for 15s.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=33,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4f4eec2bac1ede4fe630e32a4a8cd67c.png',
-              pos=3, name='When the West Wind Arises', effect='Increases the
-              Level of <color ="#FFD780FF">Dandelion Breeze</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=34,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c6f1105e1085386860c58d0d1112a5a5.png',
-              pos=4, name='Lands of Dandelion', effect='Within the Field created
-              by <color ="#FFD780FF">Dandelion Breeze</color>, all opponents
-              have their <color ="#80FFD7FF">Anemo RES</color> decreased by
-              40%.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=35,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e39081cffa284d549c4d3eaeae3dd7c6.png',
-              pos=5, name='Outbursting Gust', effect='Increases the Level of
-              <color ="#FFD780FF">Gale Blade</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=36,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2cd8280e68ce394b9e96ff5d54e53779.png',
-              pos=6, name="Lion's Fang, Fair Protector of Mondstadt",
-              effect='Incoming DMG is decreased by 35% within the Field created
-              by <color ="#FFD780FF">Dandelion Breeze</color>. Upon leaving the
-              Dandelion Field, this effect lasts for 3 attacks or 10s.',
-              activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5006,7 +3945,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_QinCostumeWic@2x.png"
+                height="80"
+              /><br />
+              Gunnhildr's Legacy<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -5097,37 +4042,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=271,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fcf6205681a90d38ef96c749463805b0.png',
-              pos=1, name='Piercing Fragments', effect='When a Normal Attack
-              hits, it deals AoE DMG.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=272,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/085ebcbc6a0e2fafbe872a888ff0afe9.png',
-              pos=2, name='Shock Effect', effect='When
-              <color ="#FFD780FF">Jade Screen</color> is shattered, its CD will
-              reset.\\nCan occur once every 6s.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=273,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f6205976c5cbf50866ae2522b940467.png',
-              pos=3, name='Majesty Be the Array of Stars', effect='Increases the
-              Level of <color ="#FFD780FF">Starshatter</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=274,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/33ad9e57bfac1f1c8ff708b87380dd2f.png',
-              pos=4, name='Exquisite be the Jade, Outshining All Beneath',
-              effect="<color ="#FFD780FF">Jade Screen</color> increases nearby
-              characters' Elemental RES by 10%.", activated=False,
-              scaling=False), Constellation(lang='en-us', id=275,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b8234d676ed9eb2a0ea344e8977ad8c6.png',
-              pos=5, name='Invincible Be the Jade Screen', effect='Increases the
-              Level of <color ="#FFD780FF">Jade Screen</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=276,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f2cce3dee97b931319ff4eaad56e3093.png',
-              pos=6, name='Grandeur Be the Seven Stars', effect='When
-              <color ="#FFD780FF">Starshatter</color> is used, Ningguang gains 7
-              Star Jades.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5226,46 +4141,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=311,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d5bbdd2785a044b5006a8e297670d2b3.png',
-              pos=1, name='Gaze of the Deep', effect="Even when Oz is not
-              present in combat, he can still watch over Fischl through his
-              raven eyes. When Fischl performs a Normal Attack against an
-              opponent, Oz fires a coordinated attack, dealing DMG equal to 22%
-              of Fischl's ATK.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=312,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/665745bdc4219d4f2d82437e32585cbf.png',
-              pos=2, name='Devourer of All Sins', effect='When
-              <color ="#FFD780FF">Nightrider</color> is used, it deals an
-              additional 200% ATK as DMG, and its AoE is increased by 50%.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=313,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3016cc34805077567ff245f618171132.png',
-              pos=3, name='Wings of Nightmare', effect='Increases the Level of
-              <color ="#FFD780FF">Nightrider</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=314,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/44b4f4bffb4a935dfc52f65589ac94c2.png',
-              pos=4, name='Her Pilgrimage of Bleak', effect='When
-              <color ="#FFD780FF">Midnight Phantasmagoria</color> is used, it
-              deals 222% of ATK as <color ="#FFACFFFF">Electro DMG</color> to
-              surrounding opponents.\\nWhen the skill duration ends, Fischl
-              regenerates 20% of her HP.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=315,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/089fb290ad164f16f52b1d0f9424df5c.png',
-              pos=5, name='Against the Fleeing Light', effect='Increases the
-              Level of <color ="#FFD780FF">Midnight Phantasmagoria</color> by
-              3.\\nMaximum upgrade level is 15.', activated=False,
-              scaling=False), Constellation(lang='en-us', id=316,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0a85ed2fafb6c13dac5370a253f622fc.png',
-              pos=6, name='Evernight Raven', effect="Extends the duration of
-              Oz's presence on the field by 2s. Additionally, Oz performs
-              coordinated attacks with your active character when present,
-              dealing 30% of Fischl's ATK as
-              <color ="#FFACFFFF">Electro DMG</color>.", activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5364,46 +4240,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=341,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f2e83b7dd5a58fbf6fa60685157a0a9.png',
-              pos=1, name='I Got Your Back', effect="While
-              <color ="#FFD780FF">Sweeping Time</color> and
-              <color ="#FFD780FF">Breastplate</color> are both in effect, the
-              chance of Breastplate's healing effects activating is increased to
-              100%.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=342,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7e324070f3da6ec134a016d1cbe39760.png',
-              pos=2, name='Combat Maid', effect="Decreases the Stamina
-              Consumption of Noelle's Charged Attacks by 20% and increases her
-              Charged Attack DMG by 15%.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=343,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28c64a4f261d76da9282efe34fe29d15.png',
-              pos=3, name='Invulnerable Maid', effect='Increases the Level of
-              <color ="#FFD780FF">Breastplate</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=344,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c2c35b4e7d4b0ab10c9307d9dbc4150f.png',
-              pos=4, name='To Be Cleaned', effect="When
-              <color ="#FFD780FF">Breastplate</color>'s duration expires or it
-              is destroyed by DMG, it will deal 400% of Noelle's ATK as
-              <color ="#FFE699FF">Geo DMG</color> to surrounding opponents.",
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=345,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f2180aecde182ef8364a44fd488b56a2.png',
-              pos=5, name='Favonius Sweeper Master', effect='Increases the Level
-              of <color ="#FFD780FF">Sweeping Time</color> by 3.\\nMaximum
-              upgrade level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=346,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ad56a27d2120746e5df01c01364a9116.png',
-              pos=6, name='Must Be Spotless', effect="<color ="#FFD780FF"
-                >Sweeping Time</color
-              >
-              increases Noelle's ATK by an additional 50% of her
-              DEF.\\nAdditionally, every opponent defeated during the skill's
-              duration adds 1s to the duration, up to 10s.", activated=False,
-              scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5502,41 +4339,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center">
-              [Constellation(lang='en-us', id=481,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9bd83ab543762886661f0826c2f8264b.png',
-              pos=1, name='The Law Knows No Kindness', effect='When Yanfei uses
-              her Charged Attack, each existing Scarlet Seal additionally
-              reduces the stamina cost of this Charged Attack by 10% and
-              increases resistance against interruption during its release.',
-              activated=False, scaling=False), Constellation(lang='en-us',
-              id=482,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c9b3e0b59d3293417f327d56b1eb5c49.png',
-              pos=2, name='Right of Final Interpretation', effect="Increases
-              Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50%
-              HP.", activated=False, scaling=False), Constellation(lang='en-us',
-              id=483,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/69cbc4aabaa9700b988a88a33a3ecfc6.png',
-              pos=3, name='Samadhi Fire-Forged', effect='Increases the Level of
-              <color ="#FFD780FF">Signed Edict</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=484,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b6f3467962518517791a8a622888db9d.png',
-              pos=4, name='Supreme Amnesty', effect="When
-              <color ="#FFD780FF">Done Deal</color> is used:\\nCreates a shield
-              that absorbs up to 45% of Yanfei's Max HP for 15s.\\nThis shield
-              absorbs <color ="#FF9999FF">Pyro DMG</color> 250% more
-              effectively.", activated=False, scaling=False),
-              Constellation(lang='en-us', id=485,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1e35883980195f2eccfdbe50671181f7.png',
-              pos=5, name='Abiding Affidavit', effect='Increases the Level of
-              <color ="#FFD780FF">Done Deal</color> by 3.\\nMaximum upgrade
-              level is 15.', activated=False, scaling=False),
-              Constellation(lang='en-us', id=486,
-              icon='https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/687c426804dea0d656ad4b183c9c3045.png',
-              pos=6, name='Extra Clause', effect='Increases the maximum number
-              of Scarlet Seals by 1.', activated=False, scaling=False)]
-            </td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
