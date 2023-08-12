@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 19:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 19:18 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4781,7 +4781,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/f5a8f6720fa48616588e569d122a4f67.png"
                 ,
@@ -4823,11 +4823,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -4890,7 +4890,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
                 ,
@@ -4932,11 +4932,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -4999,7 +4999,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
                 ,
@@ -5041,11 +5041,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -5108,7 +5108,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
@@ -5150,11 +5150,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">4</td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -5217,7 +5217,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/e0092cfbf309761cb47c514b450b8f1d.png"
                 ,
@@ -5259,11 +5259,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -5326,7 +5326,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
@@ -5361,11 +5361,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">30</td>
+            <td align="center"><code>+30</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5428,7 +5428,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
                 ,
@@ -5463,11 +5463,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5530,7 +5530,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
                 ,
@@ -5565,11 +5565,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">15</td>
+            <td align="center"><code>+15</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5632,7 +5632,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
                 ,
@@ -5674,11 +5674,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -5741,7 +5741,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
@@ -5783,11 +5783,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">40</td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5850,7 +5850,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/3a34d2a9703e1312e3911fbb644ebdcf.png"
                 ,
@@ -5878,11 +5878,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5945,7 +5945,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -5957,11 +5957,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">5</td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -6024,7 +6024,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td></td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -6036,11 +6036,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6103,7 +6103,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
@@ -6131,11 +6131,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6198,7 +6198,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
@@ -6219,11 +6219,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center">1</td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center">1</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
