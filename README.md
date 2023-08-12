@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,7 +775,18 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Ordinance: Unceasing Vigil<img
+                src="constellation.icon"
+              />
+              Ceremony: Homecoming of Spirits<img src="constellation.icon" />
+              Precept: Lawful Enforcer<img src="constellation.icon" />
+              Austerity: Forbidding Guard<img src="constellation.icon" />
+              Funerary Rite: The Passing of Starlight<img
+                src="constellation.icon"
+              />
+              Raiment: Just Scales
+            </td>
           </tr>
           <tr>
             <td>
@@ -914,7 +925,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Grand Expectation<img
+                src="constellation.icon"
+              />
+              Impasse Conqueror<img src="constellation.icon" /> Unstoppable
+              Fervor<img src="constellation.icon" /> Unexpected Odyssey<img
+                src="constellation.icon"
+              />
+              True Explorer<img src="constellation.icon" /> Fire Ventures With
+              Me
+            </td>
           </tr>
           <tr>
             <td>
@@ -1053,7 +1074,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Conviction<img
+                src="constellation.icon"
+              />
+              Searing Ember<img src="constellation.icon" /> Fire and Steel<img
+                src="constellation.icon"
+              />
+              Flowing Flame<img src="constellation.icon" /> Phoenix, Harbinger
+              of Dawn<img src="constellation.icon" /> Flaming Sword, Nemesis of
+              the Dark
+            </td>
           </tr>
           <tr>
             <td>
@@ -1192,7 +1223,18 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Crispy Outside, Tender Inside<img
+                src="constellation.icon"
+              />
+              Oil Meets Fire<img src="constellation.icon" /> Deepfry<img
+                src="constellation.icon"
+              />
+              Slowbake<img src="constellation.icon" /> Guoba Mad<img
+                src="constellation.icon"
+              />
+              Condensed Pyronado
+            </td>
           </tr>
           <tr>
             <td>
@@ -1331,7 +1373,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Clustered Vacuum Field<img
+                src="constellation.icon"
+              />
+              Beth: Unbound Form<img src="constellation.icon" /> Flawless
+              Alchemistress<img src="constellation.icon" /> Alchemania<img
+                src="constellation.icon"
+              />
+              Caution: Standard Flask<img src="constellation.icon" /> Chaotic
+              Entropy
+            </td>
           </tr>
           <tr>
             <td>
@@ -1470,7 +1522,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Symbiotic Creeper<img
+                src="constellation.icon"
+              />
+              Green Resilience<img src="constellation.icon" /> Whirling
+              Weeds<img src="constellation.icon" /> Treacle Grass<img
+                src="constellation.icon"
+              />
+              Viridian Transience<img src="constellation.icon" /> Withering
+              Aggregation
+            </td>
           </tr>
           <tr>
             <td>
@@ -1609,7 +1671,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> The Scent Remained<img
+                src="constellation.icon"
+              />
+              Rainbow Upon the Azure Sky<img src="constellation.icon" /> Weaver
+              of Verses<img src="constellation.icon" /> Evilsoother<img
+                src="constellation.icon"
+              />
+              Embrace of Rain<img src="constellation.icon" /> Hence, Call Them
+              My Own Verses
+            </td>
           </tr>
           <tr>
             <td>
@@ -1748,7 +1820,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> At Water's Edge<img
+                src="constellation.icon"
+              />
+              The Clouds Like Waves Rippling<img src="constellation.icon" /> The
+              Moon, A Ship O'er the Seas<img src="constellation.icon" /> The
+              Moon Overlooks the Waters<img src="constellation.icon" /> All
+              Streams Flow to the Sea<img src="constellation.icon" /> Sango
+              Isshin
+            </td>
           </tr>
           <tr>
             <td>
@@ -1887,7 +1968,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Excellent Blood<img
+                src="constellation.icon"
+              />
+              Never-Ending Performance<img src="constellation.icon" /> Dance of
+              Frost<img src="constellation.icon" /> Frozen Kiss<img
+                src="constellation.icon"
+              />
+              Frostbiting Embrace<img src="constellation.icon" /> Glacial
+              Whirlwind
+            </td>
           </tr>
           <tr>
             <td>
@@ -2032,7 +2123,18 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Adeptus' Tutelage<img
+                src="constellation.icon"
+              />
+              Innocent<img src="constellation.icon" /> Loyal and Kind<img
+                src="constellation.icon"
+              />
+              Winsome<img src="constellation.icon" /> Compassionate<img
+                src="constellation.icon"
+              />
+              Beneficent
+            </td>
           </tr>
           <tr>
             <td>
@@ -2171,7 +2273,18 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Wolf's Instinct<img
+                src="constellation.icon"
+              />
+              Suppression<img src="constellation.icon" /> Soul Companion<img
+                src="constellation.icon"
+              />
+              Bite<img src="constellation.icon" /> Sharpened Claws<img
+                src="constellation.icon"
+              />
+              Lupus Fulguris
+            </td>
           </tr>
           <tr>
             <td>
@@ -2296,7 +2409,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Thundering Might<img
+                src="constellation.icon"
+              />
+              Keen Extraction<img src="constellation.icon" /> Foreseen
+              Reformation<img src="constellation.icon" /> Attunement<img
+                src="constellation.icon"
+              />
+              Beckoning Stars<img src="constellation.icon" /> Tenacious Star
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2395,7 +2517,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Ice Unleashed<img
+                src="constellation.icon"
+              />
+              Atmospheric Revolution<img src="constellation.icon" />
+              Cloudburst<img src="constellation.icon" /> Frozen Skies<img
+                src="constellation.icon"
+              />
+              The True Path<img src="constellation.icon" /> Rally of Four Blades
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Emblem of Severed Fate<br /></td>
@@ -2531,7 +2662,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> One Arrow to Rule Them All<img
+                src="constellation.icon"
+              />
+              Bunny Triggered<img src="constellation.icon" /> It Burns!<img
+                src="constellation.icon"
+              />
+              It's Not Just Any Doll...<img src="constellation.icon" /> It's
+              Baron Bunny!<img src="constellation.icon" /> Wildfire
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br />4 x Traveling Doctor<br /></td>
@@ -2666,7 +2806,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Deepwood Patrol<img
+                src="constellation.icon"
+              />
+              Through Hill and Copse<img src="constellation.icon" /> Scent of
+              Summer<img src="constellation.icon" /> Gift of the Woods<img
+                src="constellation.icon"
+              />
+              All Embers<img src="constellation.icon" /> Forest of Falling
+              Arrows
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
@@ -2802,7 +2952,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Fortress of Fantasy<img
+                src="constellation.icon"
+              />
+              Light's Remit<img src="constellation.icon" /> Secrets of the
+              Night<img src="constellation.icon" /> Starry Illumination<img
+                src="constellation.icon"
+              />
+              Stream of Consciousness<img src="constellation.icon" /> Radiant
+              Soulfire
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2901,7 +3061,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Truth by Any Means<img
+                src="constellation.icon"
+              />
+              Overzealous Intellect<img src="constellation.icon" />
+              Spirit-Orchard Stroll<img src="constellation.icon" /> Divine
+              Comprehension<img src="constellation.icon" /> Wonderland of
+              Rumination<img src="constellation.icon" /> The Wondrous Path of
+              Truth
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3000,7 +3169,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Gleeful Songs<img
+                src="constellation.icon"
+              />
+              Vitality Burst<img src="constellation.icon" /> Star of
+              Tomorrow<img src="constellation.icon" /> Attentiveness Be My
+              Power<img src="constellation.icon" /> The Purest Companionship<img
+                src="constellation.icon"
+              />
+              Dedicating Everything to You
+            </td>
           </tr>
           <tr>
             <td>
@@ -3139,7 +3318,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Infinite Circuit<img
+                src="constellation.icon"
+              />
+              Electromagnetic Field<img src="constellation.icon" /> Resonant
+              Thunder<img src="constellation.icon" /> Plasma Eruption<img
+                src="constellation.icon"
+              />
+              Electrocute<img src="constellation.icon" /> Pulsating Witch
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3238,7 +3426,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Fatal Acceleration<img
+                src="constellation.icon"
+              />
+              Impromptu Opening<img src="constellation.icon" /> Double-Stop<img
+                src="constellation.icon"
+              />
+              Wildfire Rhythm<img src="constellation.icon" /> Screamin' for an
+              Encore<img src="constellation.icon" /> Rockin' in a Flaming World
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3337,7 +3534,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Unholy Revelation<img
+                src="constellation.icon"
+              />
+              Land Without Promise<img src="constellation.icon" /> The Wages of
+              Sin<img src="constellation.icon" /> Painful Grace<img
+                src="constellation.icon"
+              />
+              Last Rites<img src="constellation.icon" /> Divine Retribution
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3442,7 +3648,15 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Rushing Hound: Swift as the
+              Wind<img src="constellation.icon" /> Sitting Hound: Steady as a
+              Clock<img src="constellation.icon" /> Mauling Hound: Fierce as
+              Fire<img src="constellation.icon" /> Lapping Hound: Warm as
+              Water<img src="constellation.icon" /> Striking Hound: Thunderous
+              Force<img src="constellation.icon" /> Valiant Hound: Mountainous
+              Fealty
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3541,7 +3755,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Thespian Gallop<img
+                src="constellation.icon"
+              />
+              Myriad Mise-En-Scène<img src="constellation.icon" /> Seafaring
+              General<img src="constellation.icon" /> Flower and a Fighter<img
+                src="constellation.icon"
+              />
+              Famed Throughout the Land<img src="constellation.icon" /> Decorous
+              Harmony
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3640,7 +3864,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> To Cloister Compassion<img
+                src="constellation.icon"
+              />
+              To Forsake Fortune<img src="constellation.icon" /> To Sequester
+              Sorrow<img src="constellation.icon" /> To Sever Sealing<img
+                src="constellation.icon"
+              />
+              To Cease Courtesies<img src="constellation.icon" /> To Ward
+              Weakness
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3739,7 +3973,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Additional Investment<img
+                src="constellation.icon"
+              />
+              Special Franchise<img src="constellation.icon" /> Wonders Never
+              Cease<img src="constellation.icon" /> Discretionary Supplement<img
+                src="constellation.icon"
+              />
+              Value for Mora<img src="constellation.icon" /> Sprinkling Weight
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3838,7 +4081,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Factor Confluence<img
+                src="constellation.icon"
+              />
+              Companion's Ingress<img src="constellation.icon" /> Reconnaissance
+              Experience<img src="constellation.icon" /> Sunfrost Encomium<img
+                src="constellation.icon"
+              />
+              Signal Arrow<img src="constellation.icon" /> Companion's Counsel
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -3937,7 +4189,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Spiraling Tempest<img
+                src="constellation.icon"
+              />
+              People's Aegis<img src="constellation.icon" /> When the West Wind
+              Arises<img src="constellation.icon" /> Lands of Dandelion<img
+                src="constellation.icon"
+              />
+              Outbursting Gust<img src="constellation.icon" /> Lion's Fang, Fair
+              Protector of Mondstadt
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4042,7 +4304,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Piercing Fragments<img
+                src="constellation.icon"
+              />
+              Shock Effect<img src="constellation.icon" /> Majesty Be the Array
+              of Stars<img src="constellation.icon" /> Exquisite be the Jade,
+              Outshining All Beneath<img src="constellation.icon" /> Invincible
+              Be the Jade Screen<img src="constellation.icon" /> Grandeur Be the
+              Seven Stars
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4141,7 +4412,15 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> Gaze of the Deep<img
+                src="constellation.icon"
+              />
+              Devourer of All Sins<img src="constellation.icon" /> Wings of
+              Nightmare<img src="constellation.icon" /> Her Pilgrimage of
+              Bleak<img src="constellation.icon" /> Against the Fleeing
+              Light<img src="constellation.icon" /> Evernight Raven
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4240,7 +4519,16 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> I Got Your Back<img
+                src="constellation.icon"
+              />
+              Combat Maid<img src="constellation.icon" /> Invulnerable Maid<img
+                src="constellation.icon"
+              />
+              To Be Cleaned<img src="constellation.icon" /> Favonius Sweeper
+              Master<img src="constellation.icon" /> Must Be Spotless
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4339,7 +4627,17 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"></td>
+            <td align="center">
+              <img src="constellation.icon" /> The Law Knows No Kindness<img
+                src="constellation.icon"
+              />
+              Right of Final Interpretation<img src="constellation.icon" />
+              Samadhi Fire-Forged<img src="constellation.icon" /> Supreme
+              Amnesty<img src="constellation.icon" /> Abiding Affidavit<img
+                src="constellation.icon"
+              />
+              Extra Clause
+            </td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
