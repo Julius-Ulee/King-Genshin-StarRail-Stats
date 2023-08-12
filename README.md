@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -776,16 +776,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Ordinance: Unceasing Vigil<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5f30a716cde413ea963597f89c278723.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8022112cdbb74f562a868a99821cce0b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0d3b5598d3f8536cc580b4e7b61e2063.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d8f1439761094ea074a48a33f1885f6b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df2d788dc368277307628d4de83b11ee.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/cb5e61ca84339637679102ba175bb172.png"
+                height="25"
               />
-              Ceremony: Homecoming of Spirits<img src="constellation.icon" />
-              Precept: Lawful Enforcer<img src="constellation.icon" />
-              Austerity: Forbidding Guard<img src="constellation.icon" />
-              Funerary Rite: The Passing of Starlight<img
-                src="constellation.icon"
-              />
-              Raiment: Just Scales
             </td>
           </tr>
           <tr>
@@ -926,15 +920,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Grand Expectation<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/27d5ac2f64882a1716a13b316426bf15.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/38db6b8da051d3d9c75097b9ccb8291e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c47eee9a0f905e5bf4f0de50fbd0d7d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/dead8c5af14613e8d0fb60dbdc1c6379.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9a7abbf3083a9adbaac2a07eb1a45e38.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1e5c214ee2b0a0ffc108642bd3eaedef.png"
+                height="25"
               />
-              Impasse Conqueror<img src="constellation.icon" /> Unstoppable
-              Fervor<img src="constellation.icon" /> Unexpected Odyssey<img
-                src="constellation.icon"
-              />
-              True Explorer<img src="constellation.icon" /> Fire Ventures With
-              Me
             </td>
           </tr>
           <tr>
@@ -1075,15 +1064,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Conviction<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ff8485ca662f0c76b0f68d8e040db366.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07ecc60fbd8a922a89eadc1bc3e87a03.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b5506560f808e9cd3ed8defb0503d0a9.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/208d30ffcfdd218aab1aa05c65888e58.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5d03a5b2a1749ab48d78dc6bd7a47cc7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0da7b964ad0d4fdc0d06b235485a6b2f.png"
+                height="25"
               />
-              Searing Ember<img src="constellation.icon" /> Fire and Steel<img
-                src="constellation.icon"
-              />
-              Flowing Flame<img src="constellation.icon" /> Phoenix, Harbinger
-              of Dawn<img src="constellation.icon" /> Flaming Sword, Nemesis of
-              the Dark
             </td>
           </tr>
           <tr>
@@ -1224,16 +1208,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Crispy Outside, Tender Inside<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3b44ddeaa7b7365e04de0cee76dfcd78.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/04e206d204e4b37c04b9a3724a9e1800.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b1115e3d2e11ae49fdfe776625bbec63.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/76dbefe2feb65827121405d7670228de.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4d57c0f127d28f0b80f1c16ac9ff4f0f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f2075eec0b67b0cc14542c4bd297d0e.png"
+                height="25"
               />
-              Oil Meets Fire<img src="constellation.icon" /> Deepfry<img
-                src="constellation.icon"
-              />
-              Slowbake<img src="constellation.icon" /> Guoba Mad<img
-                src="constellation.icon"
-              />
-              Condensed Pyronado
             </td>
           </tr>
           <tr>
@@ -1374,15 +1352,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Clustered Vacuum Field<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2022589edb26ea3b705971ab5b68d24c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ac133a8e9e6182090ae814dc8a7295f6.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f21f5c829f9c5c500bfdee024111c27f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/95bc5e71aea40d52e84736c6504e4b33.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3fbf8eb24ce5ba970ba45fd5f093c6c3.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0f7fee87b2337c7ff21341fd572006c1.png"
+                height="25"
               />
-              Beth: Unbound Form<img src="constellation.icon" /> Flawless
-              Alchemistress<img src="constellation.icon" /> Alchemania<img
-                src="constellation.icon"
-              />
-              Caution: Standard Flask<img src="constellation.icon" /> Chaotic
-              Entropy
             </td>
           </tr>
           <tr>
@@ -1523,15 +1496,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Symbiotic Creeper<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2d4d93bb0f6b563da4d72a9d05f6093e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f02659efc4744bdf1186e516cb6cc1ac.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28b721d18047c88a134571947d016f6d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/12906d7a3739b5164010716c92dba9d9.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4eddb243c97bb1c5ff2efdb9c3a5e99b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bfa3a45692d342993062c54f551f3421.png"
+                height="25"
               />
-              Green Resilience<img src="constellation.icon" /> Whirling
-              Weeds<img src="constellation.icon" /> Treacle Grass<img
-                src="constellation.icon"
-              />
-              Viridian Transience<img src="constellation.icon" /> Withering
-              Aggregation
             </td>
           </tr>
           <tr>
@@ -1672,15 +1640,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> The Scent Remained<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/01d97472cab65fd89acd679dd947d866.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/12e987b2c7aa1fb89a64efa40942b700.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/42691c76b3806ed9c1de29a7a8f67b57.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d8b5c9790cdb5a086d31e84ea631f1da.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3df7e9b7c8e621d6a2300c5dc59e0ad7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/baff9837fb1a091272cf05583eab854c.png"
+                height="25"
               />
-              Rainbow Upon the Azure Sky<img src="constellation.icon" /> Weaver
-              of Verses<img src="constellation.icon" /> Evilsoother<img
-                src="constellation.icon"
-              />
-              Embrace of Rain<img src="constellation.icon" /> Hence, Call Them
-              My Own Verses
             </td>
           </tr>
           <tr>
@@ -1821,14 +1784,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> At Water's Edge<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0b6acbc204b4cbc391105aee20f0c883.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2c23fcc209f9011f1b5ce4136cd37343.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d0f275619a37cecdaf1c9a15f5bb2fe4.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc0aa5c7835a2617eaf97fdd8392842d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/592a65b4c2190863aa51ba7d1aaf4f2a.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/cdf84f1c50ad9e680e3fa4c59c61f377.png"
+                height="25"
               />
-              The Clouds Like Waves Rippling<img src="constellation.icon" /> The
-              Moon, A Ship O'er the Seas<img src="constellation.icon" /> The
-              Moon Overlooks the Waters<img src="constellation.icon" /> All
-              Streams Flow to the Sea<img src="constellation.icon" /> Sango
-              Isshin
             </td>
           </tr>
           <tr>
@@ -1969,15 +1928,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Excellent Blood<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0037e7bba8338bb6322cf145ec53306f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/274a7d66ebb1ded5b631b81272c59cb0.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07b44d8b42d4ac8d65d21f318417aa7e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/04e26f5eaf3a9bac758a0432af24cc78.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a541eb3671f9cfdba91f58b16bf733ee.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5f5defa3b3a6f7fba1fbec17561d373f.png"
+                height="25"
               />
-              Never-Ending Performance<img src="constellation.icon" /> Dance of
-              Frost<img src="constellation.icon" /> Frozen Kiss<img
-                src="constellation.icon"
-              />
-              Frostbiting Embrace<img src="constellation.icon" /> Glacial
-              Whirlwind
             </td>
           </tr>
           <tr>
@@ -2031,7 +1985,7 @@
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_KaeyaCostumeDancer@2x.png"
                 height="80"
               /><br />
-              Sailwind Shadow
+              Sailwind Shadow<br />
             </td>
           </tr>
         </table>
@@ -2124,16 +2078,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Adeptus' Tutelage<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4dc1c69a0cc0e4fc99f74f80a2576cd8.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1f20574df370837c6869cb5e9f5cb100.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7ee1d6f3323a897c537db53c1081f113.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/929661179b8ceb1a2eab4751970b28cb.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e1781c2cbf6a351bdd94482ab03f4094.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7aeb2220d10725dc1a5ba6ddad665871.png"
+                height="25"
               />
-              Innocent<img src="constellation.icon" /> Loyal and Kind<img
-                src="constellation.icon"
-              />
-              Winsome<img src="constellation.icon" /> Compassionate<img
-                src="constellation.icon"
-              />
-              Beneficent
             </td>
           </tr>
           <tr>
@@ -2274,16 +2222,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Wolf's Instinct<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a75481882598814067df00c0e65d7d50.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c9e19d05ec314f7b250b7c3d35aa65af.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/63f7749610437011450ac278d0f2eefc.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9b531b63f077e4220ae59a5b4cf69138.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1bd29d2c045423c00ac7daac837fc8c2.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/06d7341f06961ae427d263749475d8dd.png"
+                height="25"
               />
-              Suppression<img src="constellation.icon" /> Soul Companion<img
-                src="constellation.icon"
-              />
-              Bite<img src="constellation.icon" /> Sharpened Claws<img
-                src="constellation.icon"
-              />
-              Lupus Fulguris
             </td>
           </tr>
           <tr>
@@ -2410,14 +2352,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Thundering Might<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8c237f986ea316ddc5638ffa54caaaff.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/8164f02e62f1084c01b0e1d5cee3f701.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3aaf6a4e9f0008dc33b4658a3192e97f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ac4ec63869f4e5c762e5db6d87c6734f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/72f7a9d92823d39ccf0428ff4a74f28a.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d2942adc4ca502d5e7f8771f21aded94.png"
+                height="25"
               />
-              Keen Extraction<img src="constellation.icon" /> Foreseen
-              Reformation<img src="constellation.icon" /> Attunement<img
-                src="constellation.icon"
-              />
-              Beckoning Stars<img src="constellation.icon" /> Tenacious Star
             </td>
           </tr>
           <tr>
@@ -2518,14 +2456,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Ice Unleashed<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/363b576cb126c52432120b9d356e05c9.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/09778d0c721fd58459627db4033dc71a.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e2d08c8af064b8da524fef542fa84ff1.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2f91d077a4c7cb1ec99981ba24653050.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b836f065c5ce6df79700f3973d07379d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2a9b56f2450f956d8df43ed21965c8d4.png"
+                height="25"
               />
-              Atmospheric Revolution<img src="constellation.icon" />
-              Cloudburst<img src="constellation.icon" /> Frozen Skies<img
-                src="constellation.icon"
-              />
-              The True Path<img src="constellation.icon" /> Rally of Four Blades
             </td>
           </tr>
           <tr>
@@ -2663,14 +2597,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> One Arrow to Rule Them All<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a588ff2978184e41166be748c8551a61.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/637b81a4948c78386e9a9d5bb6fbce13.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1649698a14ea39651f7717656e5b495c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0ba119d1a53094a71ee32195c7198ea4.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e37045f56e88a997d7289f0bd6c433a7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4c80259a8cb882ce5be575a9f1f7ade4.png"
+                height="25"
               />
-              Bunny Triggered<img src="constellation.icon" /> It Burns!<img
-                src="constellation.icon"
-              />
-              It's Not Just Any Doll...<img src="constellation.icon" /> It's
-              Baron Bunny!<img src="constellation.icon" /> Wildfire
             </td>
           </tr>
           <tr>
@@ -2714,7 +2644,7 @@
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_AmborCostumeWic@2x.png"
                 height="80"
               /><br />
-              100% Outrider
+              100% Outrider<br />
             </td>
           </tr>
         </table>
@@ -2807,15 +2737,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Deepwood Patrol<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/711c881fffa924b7657f83031e5c4ed1.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2ff4628c93fb1b38bc1703a95c41f13b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df15ef178bb174a76a06c603de747f84.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f22e4f0ef94bf101f8128a22e175e389.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9c4c655bb26becdefd45165b6b8953f3.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fb259791398acbe6625922d520f6a047.png"
+                height="25"
               />
-              Through Hill and Copse<img src="constellation.icon" /> Scent of
-              Summer<img src="constellation.icon" /> Gift of the Woods<img
-                src="constellation.icon"
-              />
-              All Embers<img src="constellation.icon" /> Forest of Falling
-              Arrows
             </td>
           </tr>
           <tr>
@@ -2953,15 +2878,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Fortress of Fantasy<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/badf66fc17b37a8981d74c2a54860783.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d13b924d43e7203802dd215cd5882376.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/48c2f58c9c3ca67a4142bd8c703d0f77.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/49a376d3f611f7339a3127fb6a8ea04e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b694f9e2617fe2782ebc9fd7eaf6aad0.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc0ca4e20398b3753f0f7fa3984c378a.png"
+                height="25"
               />
-              Light's Remit<img src="constellation.icon" /> Secrets of the
-              Night<img src="constellation.icon" /> Starry Illumination<img
-                src="constellation.icon"
-              />
-              Stream of Consciousness<img src="constellation.icon" /> Radiant
-              Soulfire
             </td>
           </tr>
           <tr>
@@ -3062,14 +2982,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Truth by Any Means<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/650d0d647c5ae7b358eedc1bbfa18fd3.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/df6337dc321cad38e189c293ef3d4719.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bd14dc5b82f98617cdbe79e2b4756eda.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fad47243c97d477e623d4e2576ab991b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f8a3d2ae5bd5f8557fde2f767ca7fa20.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fc405a6d950081f9f84efd0b97b50979.png"
+                height="25"
               />
-              Overzealous Intellect<img src="constellation.icon" />
-              Spirit-Orchard Stroll<img src="constellation.icon" /> Divine
-              Comprehension<img src="constellation.icon" /> Wonderland of
-              Rumination<img src="constellation.icon" /> The Wondrous Path of
-              Truth
             </td>
           </tr>
           <tr>
@@ -3170,15 +3086,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Gleeful Songs<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c0b62d64e5511d44dbc64e74ad7620ad.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b447c1503791b8efe90c04585cda5e89.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ebf6abec5fbb0678d78ab023d9575aac.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6704362bba651351cc745261be01739d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ebafbfd934cb3eb9fd213fd6c8044c7e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e21c4f13bb698b7961fc81dd9261eb33.png"
+                height="25"
               />
-              Vitality Burst<img src="constellation.icon" /> Star of
-              Tomorrow<img src="constellation.icon" /> Attentiveness Be My
-              Power<img src="constellation.icon" /> The Purest Companionship<img
-                src="constellation.icon"
-              />
-              Dedicating Everything to You
             </td>
           </tr>
           <tr>
@@ -3319,14 +3230,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Infinite Circuit<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d94fa76c62b115385eee1382875a5816.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c994d6cf12fcdf916cdd7b042d85bb99.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bb588279dec64fc6f1e72426be80a6ca.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/113b5b4c8f30f76282b52c445d47646c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/baaf24b598f3728357cc7791f557010a.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d2c8cf489a44272d739390f533d56cbd.png"
+                height="25"
               />
-              Electromagnetic Field<img src="constellation.icon" /> Resonant
-              Thunder<img src="constellation.icon" /> Plasma Eruption<img
-                src="constellation.icon"
-              />
-              Electrocute<img src="constellation.icon" /> Pulsating Witch
             </td>
           </tr>
           <tr>
@@ -3427,14 +3334,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Fatal Acceleration<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/43729d83c12365d3b2f2a4f2d0dbe6ec.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0f19c173cefe0cbdaca8ef5fa5eeeb81.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1769a0b64ef82a3eeb32530ce12948a5.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9f85b90483b9af05443353121b8adba2.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5b6abc5f4ceb6e839f04f6a510d54a16.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b77641517eee971025f523a7f5d84d53.png"
+                height="25"
               />
-              Impromptu Opening<img src="constellation.icon" /> Double-Stop<img
-                src="constellation.icon"
-              />
-              Wildfire Rhythm<img src="constellation.icon" /> Screamin' for an
-              Encore<img src="constellation.icon" /> Rockin' in a Flaming World
             </td>
           </tr>
           <tr>
@@ -3535,14 +3438,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Unholy Revelation<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28988512eb0cb16aec0a4e9a997a2122.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/efb1106e95f8ee820b04ea068fd2fc04.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d602e243d54f061a6f22d4bed2f1bf4f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7d3b32c02789ffcaaa4ef068d04fcabd.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/66539e11915432b106fe32207d0655ed.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/59d83ed0135b4c12aa8ead011a297765.png"
+                height="25"
               />
-              Land Without Promise<img src="constellation.icon" /> The Wages of
-              Sin<img src="constellation.icon" /> Painful Grace<img
-                src="constellation.icon"
-              />
-              Last Rites<img src="constellation.icon" /> Divine Retribution
             </td>
           </tr>
           <tr>
@@ -3556,7 +3455,7 @@
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_RosariaCostumeWic@2x.png"
                 height="80"
               /><br />
-              To the Church's Free Spirit
+              To the Church's Free Spirit<br />
             </td>
           </tr>
         </table>
@@ -3649,13 +3548,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Rushing Hound: Swift as the
-              Wind<img src="constellation.icon" /> Sitting Hound: Steady as a
-              Clock<img src="constellation.icon" /> Mauling Hound: Fierce as
-              Fire<img src="constellation.icon" /> Lapping Hound: Warm as
-              Water<img src="constellation.icon" /> Striking Hound: Thunderous
-              Force<img src="constellation.icon" /> Valiant Hound: Mountainous
-              Fealty
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/379b66d5d2188099c044c6e484589314.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c116aee8c2f1e8940644cce37aecc61.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/11e2a303cf309745e1508de63ad3343d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/787ccb7826c8a10612d1902262747aaf.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/60257ebe28506537c43e9b7ecc48e1bd.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/abfbea3ed461b53849aaa5ec527a8c14.png"
+                height="25"
+              />
             </td>
           </tr>
           <tr>
@@ -3756,15 +3652,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Thespian Gallop<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/07fc13eafac40dd1d6238b4c5d20ee4d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/56f6fb70ff76816849d568c76bd6bc30.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/271e817536c0d7fc9dca83bca781ee75.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c22e558fc4a6a846ef6ffade12b6a753.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7c9f6fb423fc4b2a7ee0aa8d13fae255.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4ed6515dcfb67d476be3e12a6586354f.png"
+                height="25"
               />
-              Myriad Mise-En-Scène<img src="constellation.icon" /> Seafaring
-              General<img src="constellation.icon" /> Flower and a Fighter<img
-                src="constellation.icon"
-              />
-              Famed Throughout the Land<img src="constellation.icon" /> Decorous
-              Harmony
             </td>
           </tr>
           <tr>
@@ -3865,15 +3756,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> To Cloister Compassion<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/20306a74b349ab3b1236602b92bae68c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/faa954d5d90ce4a3e8e1921c70d3a8df.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6a8dd00a6c70de5382265a117b1fadd4.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/bbc821e455674f1d8f099d895c44a991.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d73020ff204271ccfa65ad0d04062773.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/eb3a084e9d1626a5380d68b309d41402.png"
+                height="25"
               />
-              To Forsake Fortune<img src="constellation.icon" /> To Sequester
-              Sorrow<img src="constellation.icon" /> To Sever Sealing<img
-                src="constellation.icon"
-              />
-              To Cease Courtesies<img src="constellation.icon" /> To Ward
-              Weakness
             </td>
           </tr>
           <tr>
@@ -3974,14 +3860,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Additional Investment<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4239e8e86a7393a3461907da93603605.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/a7a08b4888d9c1d1ced4e35c296742c7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/240c50b3b5fdc671213ee851f474f79f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f7821660d729e5ae315e52cb24784a26.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f351180a8afdc47fb7e0716b204f5bd4.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4fbf5dfe60f40cba9e1105f9fcde6bf3.png"
+                height="25"
               />
-              Special Franchise<img src="constellation.icon" /> Wonders Never
-              Cease<img src="constellation.icon" /> Discretionary Supplement<img
-                src="constellation.icon"
-              />
-              Value for Mora<img src="constellation.icon" /> Sprinkling Weight
             </td>
           </tr>
           <tr>
@@ -4082,14 +3964,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Factor Confluence<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/23942a1d882529668781a05d7ba689b0.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/6777a00fa857fcb70fe2ab426b90f2a7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7d02b608ad7821396f9d08739d641a5a.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/5a9edc9b1b19ffafe73ba7c12e1f113b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1d02b2c2335c2602b1422cd2f8dd8754.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2ca11a02fb5b2a5a6c8db9d5e4fb2dff.png"
+                height="25"
               />
-              Companion's Ingress<img src="constellation.icon" /> Reconnaissance
-              Experience<img src="constellation.icon" /> Sunfrost Encomium<img
-                src="constellation.icon"
-              />
-              Signal Arrow<img src="constellation.icon" /> Companion's Counsel
             </td>
           </tr>
           <tr>
@@ -4190,15 +4068,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Spiraling Tempest<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ee2bd727e72e597c11ebfceade1e635e.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/108c319102c0150f25cad970c460bdbf.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/4f4eec2bac1ede4fe630e32a4a8cd67c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c6f1105e1085386860c58d0d1112a5a5.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/e39081cffa284d549c4d3eaeae3dd7c6.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/2cd8280e68ce394b9e96ff5d54e53779.png"
+                height="25"
               />
-              People's Aegis<img src="constellation.icon" /> When the West Wind
-              Arises<img src="constellation.icon" /> Lands of Dandelion<img
-                src="constellation.icon"
-              />
-              Outbursting Gust<img src="constellation.icon" /> Lion's Fang, Fair
-              Protector of Mondstadt
             </td>
           </tr>
           <tr>
@@ -4212,7 +4085,7 @@
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_QinCostumeWic@2x.png"
                 height="80"
               /><br />
-              Gunnhildr's Legacy
+              Gunnhildr's Legacy<br />
             </td>
           </tr>
         </table>
@@ -4305,14 +4178,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Piercing Fragments<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/fcf6205681a90d38ef96c749463805b0.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/085ebcbc6a0e2fafbe872a888ff0afe9.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f6205976c5cbf50866ae2522b940467.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/33ad9e57bfac1f1c8ff708b87380dd2f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b8234d676ed9eb2a0ea344e8977ad8c6.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f2cce3dee97b931319ff4eaad56e3093.png"
+                height="25"
               />
-              Shock Effect<img src="constellation.icon" /> Majesty Be the Array
-              of Stars<img src="constellation.icon" /> Exquisite be the Jade,
-              Outshining All Beneath<img src="constellation.icon" /> Invincible
-              Be the Jade Screen<img src="constellation.icon" /> Grandeur Be the
-              Seven Stars
             </td>
           </tr>
           <tr>
@@ -4413,13 +4282,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> Gaze of the Deep<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/d5bbdd2785a044b5006a8e297670d2b3.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/665745bdc4219d4f2d82437e32585cbf.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3016cc34805077567ff245f618171132.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/44b4f4bffb4a935dfc52f65589ac94c2.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/089fb290ad164f16f52b1d0f9424df5c.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/0a85ed2fafb6c13dac5370a253f622fc.png"
+                height="25"
               />
-              Devourer of All Sins<img src="constellation.icon" /> Wings of
-              Nightmare<img src="constellation.icon" /> Her Pilgrimage of
-              Bleak<img src="constellation.icon" /> Against the Fleeing
-              Light<img src="constellation.icon" /> Evernight Raven
             </td>
           </tr>
           <tr>
@@ -4520,14 +4386,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> I Got Your Back<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/3f2e83b7dd5a58fbf6fa60685157a0a9.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/7e324070f3da6ec134a016d1cbe39760.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/28c64a4f261d76da9282efe34fe29d15.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c2c35b4e7d4b0ab10c9307d9dbc4150f.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/f2180aecde182ef8364a44fd488b56a2.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/ad56a27d2120746e5df01c01364a9116.png"
+                height="25"
               />
-              Combat Maid<img src="constellation.icon" /> Invulnerable Maid<img
-                src="constellation.icon"
-              />
-              To Be Cleaned<img src="constellation.icon" /> Favonius Sweeper
-              Master<img src="constellation.icon" /> Must Be Spotless
             </td>
           </tr>
           <tr>
@@ -4628,15 +4490,10 @@
           <tr>
             <td>Constellation</td>
             <td align="center">
-              <img src="constellation.icon" /> The Law Knows No Kindness<img
-                src="constellation.icon"
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/9bd83ab543762886661f0826c2f8264b.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/c9b3e0b59d3293417f327d56b1eb5c49.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/69cbc4aabaa9700b988a88a33a3ecfc6.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/b6f3467962518517791a8a622888db9d.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/1e35883980195f2eccfdbe50671181f7.png, https://act.hoyoverse.com/hk4e/e20200928calculate/item_talent_icon_u587xe/687c426804dea0d656ad4b183c9c3045.png"
+                height="25"
               />
-              Right of Final Interpretation<img src="constellation.icon" />
-              Samadhi Fire-Forged<img src="constellation.icon" /> Supreme
-              Amnesty<img src="constellation.icon" /> Abiding Affidavit<img
-                src="constellation.icon"
-              />
-              Extra Clause
             </td>
           </tr>
           <tr>
