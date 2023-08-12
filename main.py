@@ -75,7 +75,7 @@ class AnimeGame(genshin.Client):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
-        reward, reward_info = await self._claim_daily(genshin.Game.GENSHIN)
+        reward, reward_info = await self._claim_daily()
         codes = self.codes.get_codes()
         await self.codes.redeem_codes(self, codes)
         return GenshinRes(
