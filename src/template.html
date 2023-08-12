@@ -328,6 +328,19 @@
                         </td>
                     </tr>
                     <tr>
+                      <td>Artefact Set Effect<br>
+                      {%- set sets = character.artifactset|map(attribute="set")|map(attribute="effect")|list -%}
+                      {%- for effect in sets|unique -%}
+                      {{ sets.count(effect) }} x {{ effect }}<br>
+                      {%- endfor -%}
+                      </td>
+                      <td>
+                          {%- for artifact in character.artifactset -%}
+                          {{ artifactset.effect }}<br>
+                          {%- endfor -%}
+                      </td>
+                    </tr>
+                    <tr>
                         <td>Outfits</td>
                         <td align="center">
                           {%- for outfit in character.outfits -%}
