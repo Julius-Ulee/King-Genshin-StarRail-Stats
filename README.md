@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 17:53 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:00 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -812,8 +812,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -945,8 +945,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1078,8 +1078,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1211,8 +1211,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1344,8 +1344,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1477,8 +1477,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1610,8 +1610,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1743,8 +1743,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1876,8 +1876,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2015,8 +2015,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2138,8 +2138,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2241,8 +2241,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2371,8 +2371,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2496,8 +2496,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2632,8 +2632,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2735,8 +2735,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2838,8 +2838,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2971,8 +2971,8 @@
             </td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3074,8 +3074,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3177,8 +3177,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3280,8 +3280,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3389,8 +3389,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3492,8 +3492,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3595,8 +3595,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3698,8 +3698,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3801,8 +3801,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3904,8 +3904,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4013,8 +4013,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4116,8 +4116,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4219,8 +4219,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4322,8 +4322,8 @@
             <td></td>
           </tr>
           <tr>
-            <td>Artefact Set Effect<br /></td>
-            <td></td>
+            <td>Artefact Set Effect</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Outfits</td>
