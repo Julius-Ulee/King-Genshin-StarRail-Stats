@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 17:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 17:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -813,7 +813,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -942,7 +942,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1071,7 +1071,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1200,7 +1200,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1329,7 +1329,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1458,7 +1458,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1587,7 +1587,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1716,7 +1716,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -1845,10 +1845,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">
-              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_KaeyaCostumeDancer@2x.png
-              Sailwind Shadow
-            </td>
+            <td align="center"><img src="" height="80" /> Sailwind Shadow</td>
           </tr>
         </table>
       </td>
@@ -1977,7 +1974,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2096,7 +2093,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2195,7 +2192,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2321,7 +2318,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2442,10 +2439,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center">
-              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_AmborCostumeWic@2x.png
-              100% Outrider
-            </td>
+            <td align="center"><img src="" height="80" /> 100% Outrider</td>
           </tr>
         </table>
       </td>
@@ -2571,7 +2565,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2670,7 +2664,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2769,7 +2763,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2898,7 +2892,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -2997,7 +2991,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3096,7 +3090,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3196,8 +3190,7 @@
           <tr>
             <td>Outfits</td>
             <td align="center">
-              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_RosariaCostumeWic@2x.png
-              To the Church's Free Spirit
+              <img src="" height="80" /> To the Church's Free Spirit
             </td>
           </tr>
         </table>
@@ -3297,7 +3290,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3396,7 +3389,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3495,7 +3488,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3594,7 +3587,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3693,7 +3686,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3793,8 +3786,7 @@
           <tr>
             <td>Outfits</td>
             <td align="center">
-              https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_QinCostumeWic@2x.png
-              Gunnhildr's Legacy
+              <img src="" height="80" /> Gunnhildr's Legacy
             </td>
           </tr>
         </table>
@@ -3894,7 +3886,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -3993,7 +3985,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -4092,7 +4084,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
@@ -4191,7 +4183,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center"><img src="" height="80" /></td>
           </tr>
         </table>
       </td>
