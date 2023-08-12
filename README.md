@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 18:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 12, 2023 18:13 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -789,35 +789,35 @@
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Dreaming Steelbloom<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Feather of Judgment<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/717e00795c9b2b00e06155142fe55387.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               The Sunken Years<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
                 height="25"
               />
               <code>+16</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
                 height="25"
               />
               <code>+16</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Instructor's Cap<br />
             </td>
           </tr>
@@ -928,35 +928,35 @@
                 height="25"
               />
               <code>+9</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Scholar's Bookmark<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
                 ,
                 height="25"
               />
               <code>+13</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Scholar's Quill Pen<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Exile's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
                 height="25"
               />
               <code>+9</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/215dd3bedb143b7ef028928fd6855f63.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Tiara of Flame<br />
             </td>
           </tr>
@@ -1067,35 +1067,35 @@
                 height="25"
               />
               <code>+8</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Berserker's Rose<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f3fb8ae804bd395df05b5727ab8c9bf7.png"
                 ,
                 height="25"
               />
               <code>+8</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Berserker's Indigo Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7a2cfbce5c9a0ad4b88ba717eecde531.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Witch's End Time<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
                 ,
                 height="25"
               />
               <code>+8</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Instructor's Tea Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/70a1c628b90dc6d458ea4f37e1263121.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Berserker's Battle Mask<br />
             </td>
           </tr>
@@ -1206,35 +1206,35 @@
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Thunderbird's Mercy<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d1336b6e89d9dee277c7b16a8eeb60.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Gladiator's Destiny<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/01ee5a3e1658fa9b4741b2a6570b2cd5.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Gladiator's Longing<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Instructor's Tea Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/497d37f8e91e0783f58f3389a9041c43.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Gladiator's Triumphus<br />
             </td>
           </tr>
@@ -1345,35 +1345,35 @@
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Thundersoother's Heart<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/227de6d1625aef47a024ed131462b050.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Viridescent Arrow Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/41f08ab8d937544cdf289eca658de680.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Hour of Soothing Thunder<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/2dfe43a54da0545f6e44c5db81135bbb.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Maiden's Fleeting Leisure<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/cbfe3260f1d753382e171fc7744d022b.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Maiden's Fading Beauty<br />
             </td>
           </tr>
@@ -1484,35 +1484,35 @@
                 height="25"
               />
               <code>+4</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Instructor's Brooch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/db8243f7ce2ec97881c501a620d4c183.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Adventurer's Tail Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/20a1a57b8bbbe7ea4650302622e13891.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Martial Artist's Water Hourglass<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Adventurer's Golden Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
                 height="25"
               />
               <code>+4</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Instructor's Cap<br />
             </td>
           </tr>
@@ -1623,35 +1623,35 @@
                 height="25"
               />
               <code>+10</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Gilded Corsage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bb111c5d0cdc8cf2ac44b3363f20ba20.png"
                 ,
                 height="25"
               />
               <code>+5</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Gust of Nostalgia<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d07eef91a0d49cdb5197ccabdb8fc1d1.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Concert's Final Hour<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/90d94457c55e2a7c247e17cdd6e82283.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Exile's Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c4752423569980bbbd4c93de0e06a909.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Exile's Circlet<br />
             </td>
           </tr>
@@ -1762,35 +1762,35 @@
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Witch's Flower of Blaze<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Deep Palace's Plume<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/65c1376c4d08f004127698602360c89d.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Cowry of Parting<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Pearl Cage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Crown of Watatsumi<br />
             </td>
           </tr>
@@ -1901,35 +1901,35 @@
                 height="25"
               />
               <code>+16</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Thunderbird's Mercy<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/353e469bea906b9e959a3769203f41fd.png"
                 ,
                 height="25"
               />
               <code>+16</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Survivor of Catastrophe<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e7db17f1fbd62d2629d4bc8078aa587.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Exile's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/cd5077e34c4aae0b0d0a1672241be369.png"
                 ,
                 height="25"
               />
               <code>+4</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Royal Silver Urn<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Shadow of the Sand King<br />
             </td>
           </tr>
@@ -2046,35 +2046,35 @@
                 height="25"
               />
               <code>+4</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Berserker's Rose<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/983d075b903a20ff194f77caf0ecdd61.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Scholar's Quill Pen<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74e526ef612897a66a1458fc02e4fbe3.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Instructor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9701d617dce43195ecf2cbc3deb6d13a.png"
                 ,
                 height="25"
               />
               <code>+8</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Scholar's Ink Cup<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Instructor's Cap<br />
             </td>
           </tr>
@@ -2185,21 +2185,21 @@
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Troupe's Dawnlight<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f3fb8ae804bd395df05b5727ab8c9bf7.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Berserker's Indigo Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Pocket Watch<br />
             </td>
           </tr>
@@ -2406,35 +2406,35 @@
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Magnificent Tsuba<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d1c89bb06dece2c9b18a9db3bdbaaa7a.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Sundered Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d8d7455747e0a8f862930a29925cbc.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Storm Cage<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bfcf2caf7cb1c9323e10f63ac6be3acf.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Scarlet Vessel<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/403ba66f178e35897607d46544f18843.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              4<br />
+              ⭐⭐⭐⭐<br />
               Ornate Kabuto<br />
             </td>
           </tr>
@@ -2542,28 +2542,28 @@
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Silver Lotus<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/07397fc0422d96dceadc56feff891df5.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Medicine Pot<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3a02d42a2c5a5168120c06bc96e9f75e.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Handkerchief<br />
             </td>
           </tr>
@@ -2677,35 +2677,35 @@
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Dreaming Steelbloom<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Feather of Judgment<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/717e00795c9b2b00e06155142fe55387.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               The Sunken Years<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/358d6d16b7c325c5b88e790069df7c94.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Honeyed Final Feast<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
-              5<br />
+              ⭐⭐⭐⭐⭐<br />
               Shadow of the Sand King<br />
             </td>
           </tr>
@@ -3014,35 +3014,35 @@
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Adventurer's Flower<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/6fff9f272fc8d73540daf6dec4b5c91d.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Owl Feather<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f5a80c131c1afb404fc5c8d92e1ebf2a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Traveling Doctor's Pocket Watch<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/de83986c3ecc86b3151ded32377c4eae.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              3<br />
+              ⭐⭐⭐<br />
               Adventurer's Golden Goblet<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/804d13f462d126a183e8bf0c30e69827.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              2<br />
+              ⭐⭐<br />
               Lucky Dog's Silver Circlet<br />
             </td>
           </tr>
