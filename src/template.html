@@ -331,7 +331,7 @@
                         <td>Outfits</td>
                         <td align="center">
                           {%- for outfit in character.outfits -%}
-                          <img src="{{ outfit.icon }}" height="80"> {{ character.outfits|join(", ", attribute="name") }}
+                          <img src="{{ outfit.icon }}" height="80"><br> {{ character.outfits|join(", ", attribute="name") }}
                           {%- endfor -%}
                         </td>
                     </tr>
