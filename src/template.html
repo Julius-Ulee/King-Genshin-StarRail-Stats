@@ -323,15 +323,9 @@
                         </td>
                         <td>
                             {%- for artifact in character.artifacts -%}
-                            <img src="{{ artifact.icon }}", height="18"> {{ artifact.name }}<br>
+                            <img src="{{ artifact.icon }}", height="18"> {{ artifact.level }}<br> {{ artifact.name }}<br>
                             {%- endfor -%}
                         </td>
-                    </tr>
-                    <tr>
-                      <td>Artefact Set Effect</td>
-                      <td align="center">
-                         {{ character.artifactset|join(", ", attribute="effects") }}
-                      </td>
                     </tr>
                     <tr>
                         <td>Outfits</td>
