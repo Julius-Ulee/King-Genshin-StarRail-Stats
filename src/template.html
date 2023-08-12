@@ -329,7 +329,7 @@
                     </tr>
                     <tr>
                         <td>Outfits</td>
-                        <td align="center">{{ character.outfits|join(", ", attribute="icon") }} {{ character.outfits|join(", ", attribute="name") }}</td>
+                        <td align="center"><img src="{{ character.outfits.icon }}" height="80"> {{ character.outfits|join(", ", attribute="name") }}</td>
                     </tr>
                 </table>
             </td>
