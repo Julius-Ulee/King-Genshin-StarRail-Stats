@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 12, 2023 21:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 13, 2023 04:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -691,7 +691,7 @@
       />
       Mora earned
     </td>
-    <td>2210314 (rate -76)</td>
+    <td>2571617 (rate -73)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -4630,7 +4630,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">12</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4638,16 +4638,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      2 x Condensed Aether
+      20 x Stellar Jade
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-12 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-13 01:06:21+08:00</td>
   </tr>
 </table>
 
