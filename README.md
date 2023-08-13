@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 13, 2023 21:01 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 14, 2023 04:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-13 06:49:46+08:00</td>
+    <td align="center">🕒 2023-08-14 02:46:46+08:00</td>
   </tr>
 </table>
 
@@ -219,7 +219,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">251</td>
+    <td align="center">252</td>
   </tr>
   <tr>
     <td>
@@ -443,7 +443,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">2</td>
+          <td align="center">3</td>
         </tr>
       </table>
     </td>
@@ -691,7 +691,7 @@
       />
       Mora earned
     </td>
-    <td>2789039 (rate -70)</td>
+    <td>2798817 (rate -70)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -4630,7 +4630,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">13</td>
+    <td align="center">14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4638,16 +4638,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      20 x Stellar Jade
+      5000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-13 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-14 01:06:21+08:00</td>
   </tr>
 </table>
 
@@ -4690,7 +4690,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2833 (rate -64)</td>
+    <td>2834 (rate -64)</td>
   </tr>
   <tr>
     <td>
@@ -4712,7 +4712,7 @@
     </td>
     <td>
       Event: 1320 (46%)<br />Daily Activity: 705 (24%)<br />Adventure Rewards:
-      615 (21%)<br />Mail: 190 (6%)<br />Other: 3 (3%)<br />Simulated Universe:
+      615 (21%)<br />Mail: 190 (6%)<br />Other: 4 (3%)<br />Simulated Universe:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
@@ -4811,6 +4811,22 @@
               <code>+9</code><br />
               ⭐⭐⭐⭐<br />
               Champion's Fleetfoot Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td>
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
+                ,
+                height="18"
+              />
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
+                ,
+                height="18"
+              />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
