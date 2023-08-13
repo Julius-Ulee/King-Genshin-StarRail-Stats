@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 13, 2023 07:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 13, 2023 14:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">171</td>
+    <td align="center">172</td>
   </tr>
   <tr>
     <td>
@@ -4665,7 +4665,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4673,11 +4673,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>86</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td>106</td>
+    <td>109</td>
   </tr>
 </table>
 
@@ -4690,7 +4690,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>1496 (rate -81)</td>
+    <td>1711 (rate -78)</td>
   </tr>
   <tr>
     <td>
@@ -4711,9 +4711,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: 645 (43%)<br />Event: 520 (34%)<br />Mail: 170 (11%)<br />Adventure
-      Rewards: 160 (10%)<br />Other: 1 (2%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-      Hall: 0 (0%)<br />
+      Daily Activity: 705 (41%)<br />Event: 520 (30%)<br />Adventure Rewards:
+      295 (17%)<br />Mail: 190 (11%)<br />Other: 1 (1%)<br />Simulated Universe:
+      0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4787,14 +4787,14 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Champion's Headgear<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b8d4973961cadb1856afcbe596b9522e.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Champion's Heavy Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/90e1cc9e4880b84f882f700bff380f65.png"
@@ -5001,34 +5001,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9c51a879bd407786e46489eebab895bc.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/223e7d28d7cc9adcd28a01b6e2c633bb.png"
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Artaius Hood<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0fdba7546d32c4ab2b3ff20272e8fccb.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/8a054fe2740845036eceec33909d217c.png"
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Lizard Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/79dc95bfb877589d76a4d6205c784c87.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Passerby's Ragged Embroided Coat<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/d3d94f916547070c86679744cf70efe4.png"
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Ice Dragon Cloak<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/82b3657f0b5b23cecdabe60593ec0221.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Passerby's Stygian Hiking Boots<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Soft Elkskin Boots<br />
             </td>
           </tr>
         </table>
@@ -5634,34 +5634,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/cea4da09d833420cf20305ea5d4ad577.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/bc01a2e9d5f10aef316bfe91617a5976.png"
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Eagle's Beaked Helmet<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/82ceb0711582ee60756ab6ec833d88c1.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0f0b7896551253ead64fc96ef0959e02.png"
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Eagle's Soaring Ring<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/04b1880a39dfde3492be4deabb3156a9.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
+              <code>+3</code><br />
+              ⭐⭐⭐⭐<br />
+              Eagle's Winged Suit Harness<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/00d0d6785fc5a0409c96cb056312ec53.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Eagle's Quilted Puttees<br />
             </td>
           </tr>
         </table>
@@ -5747,8 +5747,8 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ced2451b4e8f87e243d24713b3bd786d.png"
                 ,
@@ -5761,8 +5761,8 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
                 ,
