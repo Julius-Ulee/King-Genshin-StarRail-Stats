@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 13, 2023 04:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 13, 2023 07:26 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">12</td>
+    <td align="center">13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      3 x Fried Radish Ball
+      2 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-12 05:24:49+08:00</td>
+    <td align="center">🕒 2023-08-13 06:49:46+08:00</td>
   </tr>
 </table>
 
