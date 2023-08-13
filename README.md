@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 13, 2023 14:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 13, 2023 21:01 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2619 (rate -72)</td>
+    <td>2684 (rate -71)</td>
   </tr>
   <tr>
     <td>
@@ -691,12 +691,12 @@
       />
       Mora earned
     </td>
-    <td>2571617 (rate -73)</td>
+    <td>2789039 (rate -70)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 898 (35%)<br />Daily Activity: 720 (28%)<br />Events: 540
+      Adventure: 903 (34%)<br />Daily Activity: 780 (29%)<br />Events: 540
       (20%)<br />Mail: 460 (17%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
@@ -4601,7 +4601,7 @@
   <tr>
     <td>Trailblaze Level</td>
     <td align="center">
-      <img src="./images/logo/hsr-level.webp" , height="20" /> 30
+      <img src="./images/logo/hsr-level.webp" , height="20" /> 40
     </td>
   </tr>
   <tr>
@@ -4673,7 +4673,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -4690,7 +4690,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>1711 (rate -78)</td>
+    <td>2833 (rate -64)</td>
   </tr>
   <tr>
     <td>
@@ -4700,7 +4700,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td>6 (rate -90)</td>
+    <td>24 (rate -63)</td>
   </tr>
   <tr>
     <td>
@@ -4711,8 +4711,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: 705 (41%)<br />Event: 520 (30%)<br />Adventure Rewards:
-      295 (17%)<br />Mail: 190 (11%)<br />Other: 1 (1%)<br />Simulated Universe:
+      Event: 1320 (46%)<br />Daily Activity: 705 (24%)<br />Adventure Rewards:
+      615 (21%)<br />Mail: 190 (6%)<br />Other: 3 (3%)<br />Simulated Universe:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
