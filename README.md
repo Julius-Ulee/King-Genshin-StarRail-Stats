@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 14, 2023 21:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 15, 2023 04:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -191,7 +191,7 @@
       />
       Achievements
     </td>
-    <td align="center">368</td>
+    <td align="center">371</td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@
       />
       Days Active
     </td>
-    <td align="center">172</td>
+    <td align="center">174</td>
   </tr>
   <tr>
     <td>
@@ -265,7 +265,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">748</td>
+    <td align="center">749</td>
   </tr>
   <tr>
     <td>
@@ -499,7 +499,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">9</td>
+          <td align="center">10</td>
         </tr>
       </table>
     </td>
@@ -4630,7 +4630,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4638,16 +4638,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      5000 x Credit
+      1 x Energy Drink (sugar-free)
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-14 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-15 01:06:21+08:00</td>
   </tr>
 </table>
 
