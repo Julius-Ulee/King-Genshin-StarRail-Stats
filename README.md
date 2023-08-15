@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 15, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 16, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">15</td>
+    <td align="center">16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
           ,
           height="80" /></a
       ><br />
-      5 x Adventurer's Experience
+      3 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-15 07:21:00+08:00</td>
+    <td align="center">🕒 2023-08-16 03:01:09+08:00</td>
   </tr>
 </table>
 
@@ -305,7 +305,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center">6-2</td>
+    <td align="center">-</td>
   </tr>
 </table>
 
@@ -597,73 +597,6 @@
       Visitor History
     </td>
     <td align="center">0</td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-  Spiral Abyss
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center">74</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center">2</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center">6</td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center">6-2</td>
-  </tr>
-  <tr>
-    <td>🕐 Start Time</td>
-    <td align="center">2023-07-15 20:00:00+00:00</td>
-  </tr>
-  <tr>
-    <td>🕛 End Time</td>
-    <td align="center">2023-07-31 19:59:59+00:00</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td></td>
   </tr>
 </table>
 <h2 align="center">
@@ -4630,7 +4563,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">15</td>
+    <td align="center">16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4638,16 +4571,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      1 x Energy Drink (sugar-free)
+      3 x Adventure Log
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-15 01:06:21+08:00</td>
+    <td align="center">🕒 2023-08-16 01:06:20+08:00</td>
   </tr>
 </table>
 
@@ -4690,7 +4623,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2979 (rate -62)</td>
+    <td>2984 (rate -62)</td>
   </tr>
   <tr>
     <td>
@@ -4712,7 +4645,7 @@
     </td>
     <td>
       Event: 1320 (44%)<br />Daily Activity: 825 (27%)<br />Adventure Rewards:
-      640 (21%)<br />Mail: 190 (6%)<br />Other: 4 (2%)<br />Simulated Universe:
+      645 (21%)<br />Mail: 190 (6%)<br />Other: 4 (2%)<br />Simulated Universe:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
   </tr>
