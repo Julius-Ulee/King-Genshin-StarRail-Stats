@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 15, 2023 14:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 15, 2023 19:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -299,7 +299,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center">36</td>
+    <td align="center">37</td>
   </tr>
   <tr>
     <td>
@@ -691,7 +691,7 @@
       />
       Mora earned
     </td>
-    <td>3119199 (rate -67)</td>
+    <td>3119276 (rate -67)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -4690,7 +4690,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td>2964 (rate -63)</td>
+    <td>2979 (rate -62)</td>
   </tr>
   <tr>
     <td>
@@ -4711,7 +4711,7 @@
       Categories
     </td>
     <td>
-      Event: 1320 (44%)<br />Daily Activity: 810 (27%)<br />Adventure Rewards:
+      Event: 1320 (44%)<br />Daily Activity: 825 (27%)<br />Adventure Rewards:
       640 (21%)<br />Mail: 190 (6%)<br />Other: 4 (2%)<br />Simulated Universe:
       0 (0%)<br />Forgotten Hall: 0 (0%)<br />
     </td>
@@ -4811,26 +4811,6 @@
               <code>+9</code><br />
               ⭐⭐⭐⭐<br />
               Champion's Fleetfoot Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
-                ,
-                height="25"
-              />
-              <code>+7</code><br />
-              ⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
@@ -5450,27 +5430,54 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9c51a879bd407786e46489eebab895bc.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/bc01a2e9d5f10aef316bfe91617a5976.png"
+              ⭐⭐⭐⭐<br />
+              Hunter's Artaius Hood<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0fdba7546d32c4ab2b3ff20272e8fccb.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/f61af11cb3b317c3ad770c7c7c912354.png"
+              ⭐⭐⭐⭐<br />
+              Hunter's Lizard Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/79dc95bfb877589d76a4d6205c784c87.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐<br />
-              Thief's Steel Grappling Hook<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Ice Dragon Cloak<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/82b3657f0b5b23cecdabe60593ec0221.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Soft Elkskin Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
+                ,
+                height="25"
+              />
+              <code>+7</code><br />
+              ⭐⭐⭐<br />
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
+                ,
+                height="25"
+              />
+              <code>+7</code><br />
+              ⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
