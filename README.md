@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 15, 2023 07:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 15, 2023 08:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4665,7 +4665,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -4815,17 +4815,21 @@
           </tr>
           <tr>
             <td>Planar</td>
-            <td>
+            <td align="center">
               <img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
                 ,
-                height="18"
+                height="25"
               />
+              <code>+0</code><br />
+              ⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
                 ,
-                height="18"
+                height="25"
               />
+              <code>+7</code><br />
+              ⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
           </tr>
