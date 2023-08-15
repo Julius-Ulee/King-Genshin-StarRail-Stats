@@ -560,7 +560,7 @@
                             <td>Planar</td>
                             <td align="center">
                                 {%- for planar in character.ornaments -%}
-                                <img src="{{ planar.icon }}", height="25"> <code>+{{ planar.level }}</code><br> {{ "⭐" * relic.rarity }}<br> {{ planar.name }}<br>
+                                <img src="{{ planar.icon }}", height="25"> <code>+{{ planar.level }}</code><br> {{ "⭐" * planar.rarity }}<br> {{ planar.name }}<br>
                                 {%- endfor -%}
                             </td>
                         </tr>
