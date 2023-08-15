@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 15, 2023 04:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 15, 2023 07:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -147,7 +147,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -155,16 +155,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-14 02:46:46+08:00</td>
+    <td align="center">🕒 2023-08-15 07:21:00+08:00</td>
   </tr>
 </table>
 
@@ -680,7 +680,7 @@
       />
       Primogems earned
     </td>
-    <td>2684 (rate -71)</td>
+    <td>2894 (rate -69)</td>
   </tr>
   <tr>
     <td>
@@ -691,13 +691,13 @@
       />
       Mora earned
     </td>
-    <td>2824447 (rate -70)</td>
+    <td>3111099 (rate -67)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Adventure: 903 (34%)<br />Daily Activity: 780 (29%)<br />Events: 540
-      (20%)<br />Mail: 460 (17%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Adventure: 933 (33%)<br />Daily Activity: 900 (32%)<br />Events: 600
+      (20%)<br />Mail: 460 (15%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -1357,7 +1357,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
