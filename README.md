@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 15, 2023 19:49 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 15, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -1212,7 +1212,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -4677,7 +4677,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td>109</td>
+    <td>110</td>
   </tr>
 </table>
 
