@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 17, 2023 06:13 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 17, 2023 06:18 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -127,17 +127,6 @@
   </tr>
   <tr>
     <td>UID</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
-        ,
-        height="18"
-      />
-      Secret
-    </td>
-  </tr>
-  <tr>
-    <td>ava</td>
     <td align="center">
       <img
         src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
@@ -4706,6 +4695,10 @@
       />
       Secret
     </td>
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td align="center"><img src="" , height="20" /></td>
   </tr>
 </table>
 
