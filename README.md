@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 16, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 17, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -189,7 +189,7 @@
       />
       Achievements
     </td>
-    <td align="center">372</td>
+    <td align="center">374</td>
   </tr>
   <tr>
     <td>
@@ -200,7 +200,7 @@
       />
       Days Active
     </td>
-    <td align="center">175</td>
+    <td align="center">176</td>
   </tr>
   <tr>
     <td>
@@ -217,7 +217,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">255</td>
+    <td align="center">266</td>
   </tr>
   <tr>
     <td>
@@ -267,7 +267,7 @@
       />
       Hydroculus
     </td>
-    <td align="center">2</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>
@@ -335,6 +335,13 @@
   <tr>
     <th>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
+        width="20"
+      />
+      Fontaine
+    </th>
+    <th>
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
         width="20"
       />
@@ -382,15 +389,16 @@
       />
       Mondstadt
     </th>
-    <th>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
-        width="20"
-      />
-      Fontaine
-    </th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Fengdan.png"
+          width="250"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -447,16 +455,22 @@
         />
       </p>
     </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Fengdan.png"
-          width="250"
-        />
-      </p>
-    </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/1/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td align="center">1</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -555,20 +569,6 @@
         </tr>
       </table>
     </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>
-            <img src="https://progress-bar.dev/0/" width="80" />
-          </td>
-        </tr>
-        <tr>
-          <td>Reputation</td>
-          <td align="center">1</td>
-        </tr>
-      </table>
-    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -651,7 +651,7 @@
       />
       Primogems earned
     </td>
-    <td>3625 (rate -61)</td>
+    <td>3685 (rate -60)</td>
   </tr>
   <tr>
     <td>
@@ -662,13 +662,13 @@
       />
       Mora earned
     </td>
-    <td>3198928 (rate -66)</td>
+    <td>3216178 (rate -66)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 1110 (31%)<br />Daily Activity: 960 (27%)<br />Adventure: 953
-      (26%)<br />Events: 600 (16%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Mail: 1170 (32%)<br />Daily Activity: 960 (27%)<br />Adventure: 953
+      (25%)<br />Events: 600 (16%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -4706,7 +4706,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -4714,16 +4714,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventure Log
+      2 x Condensed Aether
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-16 01:06:20+08:00</td>
+    <td align="center">🕒 2023-08-17 01:06:20+08:00</td>
   </tr>
 </table>
 
