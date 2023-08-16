@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 16, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 16, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -624,7 +624,7 @@
       />
       Mora earned
     </td>
-    <td>3119276 (rate -67)</td>
+    <td>3159724 (rate -66)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
