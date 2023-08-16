@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 16, 2023 17:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 16, 2023 18:28 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -243,6 +243,12 @@
   </tr>
   <tr>
     <td>
+      <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
+    </td>
+    <td align="center">28</td>
+  </tr>
+  <tr>
+    <td>
       <img
         src="https://genshin.honeyhunterworld.com/img/i_n107017.webp"
         ,
@@ -254,9 +260,14 @@
   </tr>
   <tr>
     <td>
-      <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_n107023.webp"
+        ,
+        height="18"
+      />
+      Hydroculus
     </td>
-    <td align="center">28</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td>
@@ -640,7 +651,7 @@
       />
       Primogems earned
     </td>
-    <td>3570 (rate -61)</td>
+    <td>3625 (rate -61)</td>
   </tr>
   <tr>
     <td>
@@ -656,8 +667,8 @@
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 1060 (30%)<br />Daily Activity: 960 (27%)<br />Adventure: 948
-      (27%)<br />Events: 600 (16%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Mail: 1110 (31%)<br />Daily Activity: 960 (27%)<br />Adventure: 953
+      (26%)<br />Events: 600 (16%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -4738,7 +4749,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>97</td>
+    <td>98</td>
   </tr>
   <tr>
     <td>Chests Opened</td>
