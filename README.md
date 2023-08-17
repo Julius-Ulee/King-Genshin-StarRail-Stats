@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 05:16 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 05:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -100,7 +100,7 @@
 </h2>
 <table align="center">
   <tr>
-    <th rowspan="2">
+    <th rowspan="2" align="center">
       <img
         src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp"
         ,
@@ -109,10 +109,11 @@
         alt="Goddess"
       />
     </th>
-    <td>King <code> Lv. 40</code></td>
+    <td align="center"><b>King</b> <code> Lv. 55</code></td>
   </tr>
   <tr>
-    <td>UID 877493089</td>
+    <td align="center">Asia Server</td>
+    <td align="center">UID 877493089</td>
   </tr>
 </table>
 
