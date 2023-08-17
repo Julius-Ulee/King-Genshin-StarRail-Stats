@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 05:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 05:42 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -104,12 +104,19 @@
       <img
         src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp"
         ,
-        width="50"
+        width="80"
         ,
         alt="Goddess"
       />
     </th>
-    <td colspan="2" align="center"><b>King</b> <code> Lv. 55</code></td>
+    <td colspan="2" align="center">
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
+        ,
+        height="18"
+      />
+      <b>King</b> <code>Lv. 55</code>
+    </td>
   </tr>
   <tr>
     <td align="center">Asia Server</td>
@@ -4675,6 +4682,27 @@
       />
       Secret
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <th rowspan="2" align="center">
+      <img
+        src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
+        ,
+        width="80"
+        ,
+        alt="Goddess"
+      />
+    </th>
+    <td colspan="2" align="center">
+      <img src="./images/logo/hsr-level.webp" , height="18" /> <b>King</b>
+      <code>Lv. 40</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Asia Server</td>
+    <td align="center">UID Secret</td>
   </tr>
 </table>
 
