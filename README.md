@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 05:16 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -100,41 +100,19 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Nickname</td>
-    <td align="center">
+    <th rowspan="2">
       <img
-        src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
+        src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp"
         ,
-        height="18"
+        width="50"
+        ,
+        alt="Goddess"
       />
-      King
-    </td>
+    </th>
+    <td>King <code> Lv. 40</code></td>
   </tr>
   <tr>
-    <td>Adventure Rank</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/i_2002.webp"
-        ,
-        height="18"
-      />
-      55
-    </td>
-  </tr>
-  <tr>
-    <td>Server</td>
-    <td align="center"><img src="./images/logo/star.png" , height="18" /></td>
-  </tr>
-  <tr>
-    <td>UID</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
-        ,
-        height="18"
-      />
-      Secret
-    </td>
+    <td>UID 877493089</td>
   </tr>
 </table>
 
