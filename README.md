@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 05:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 05:28 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -109,7 +109,7 @@
         alt="Goddess"
       />
     </th>
-    <td align="center"><b>King</b> <code> Lv. 55</code></td>
+    <td colspan="2" align="center"><b>King</b> <code> Lv. 55</code></td>
   </tr>
   <tr>
     <td align="center">Asia Server</td>
