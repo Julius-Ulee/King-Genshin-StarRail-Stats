@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 05:42 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 05:45 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -4649,41 +4649,6 @@
   Profile Information
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
-<table align="center">
-  <tr>
-    <td>Nickname</td>
-    <td align="center">
-      <img
-        src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-        height="20"
-      />
-      King
-    </td>
-  </tr>
-  <tr>
-    <td>Trailblaze Level</td>
-    <td align="center">
-      <img src="./images/logo/hsr-level.webp" , height="20" /> 40
-    </td>
-  </tr>
-  <tr>
-    <td>Server</td>
-    <td align="center">
-      <img src="./images/logo/star.png" height="20" /> Asia
-    </td>
-  </tr>
-  <tr>
-    <td>UID</td>
-    <td align="center">
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/wish_35.webp"
-        ,
-        height="20"
-      />
-      Secret
-    </td>
-  </tr>
-</table>
 <table align="center">
   <tr>
     <th rowspan="2" align="center">
