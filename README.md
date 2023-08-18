@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 05:45 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 07:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">16</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -139,16 +139,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      3 x Adventurer's Experience
+      20 x Primogem
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-16 03:01:09+08:00</td>
+    <td align="center">🕒 2023-08-18 06:48:01+08:00</td>
   </tr>
 </table>
 
@@ -4713,7 +4713,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>49</td>
+    <td>50</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
