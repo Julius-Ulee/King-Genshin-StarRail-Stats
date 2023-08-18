@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 16:44 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5359,8 +5359,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Trailblazer</h3></th>
-      <th align="center"><h3>Collapsing Sky</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            height="20"
+          />
+          Trailblazer
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/470cca2f3d4897cfee8d4eedf23df60d.png"
+            height="20"
+          />
+          Collapsing Sky
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -5468,8 +5484,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Yanqing</h3></th>
-      <th align="center"><h3>River Flows in Spring</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Yanqing
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/c5a57386ee90327bdfeb37f074bfd230.png"
+            height="20"
+          />
+          River Flows in Spring
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -5577,8 +5609,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Bronya</h3></th>
-      <th align="center"><h3>Meshing Cogs</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+            height="20"
+          />
+          Bronya
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0a2fb7cb40607efe54bcd1e29dee61a.png"
+            height="20"
+          />
+          Meshing Cogs
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -5686,8 +5734,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Yukong</h3></th>
-      <th align="center"><h3>Mediation</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+            height="20"
+          />
+          Yukong
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/070cf03919a9893749a21d95466b3e7d.png"
+            height="20"
+          />
+          Mediation
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -5795,8 +5859,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Qingque</h3></th>
-      <th align="center"><h3>Passkey</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Qingque
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9b43382f04ea5d65de3ae547cef5c269.png"
+            height="20"
+          />
+          Passkey
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -5904,8 +5984,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Serval</h3></th>
-      <th align="center"><h3>Passkey</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+            height="20"
+          />
+          Serval
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9b43382f04ea5d65de3ae547cef5c269.png"
+            height="20"
+          />
+          Passkey
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6006,8 +6102,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Herta</h3></th>
-      <th align="center"><h3>Data Bank</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Herta
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/785435cf6d92ddd4c308e3f30391cec1.png"
+            height="20"
+          />
+          Data Bank
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6135,8 +6247,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Asta</h3></th>
-      <th align="center"><h3>Chorus</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+            height="20"
+          />
+          Asta
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b142f712dccef2f958408e261e50939b.png"
+            height="20"
+          />
+          Chorus
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6237,8 +6365,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Dan Heng</h3></th>
-      <th align="center"><h3>Arrows</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+            height="20"
+          />
+          Dan Heng
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/74131c2561d2ab06d3d1df12a63befaf.png"
+            height="20"
+          />
+          Arrows
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6346,8 +6490,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>March 7th</h3></th>
-      <th align="center"><h3>We Are Wildfire</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          March 7th
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ad0d0e3c19c230cc1cc754f2a50b4141.png"
+            height="20"
+          />
+          We Are Wildfire
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6455,8 +6615,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Sushang</h3></th>
-      <th align="center"><h3>Adversarial</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            height="20"
+          />
+          Sushang
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/5d4704e2e1ae12d5e58929aadc916f3c.png"
+            height="20"
+          />
+          Adversarial
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6550,8 +6726,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Hook</h3></th>
-      <th align="center"><h3>Mutual Demise</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+            height="20"
+          />
+          Hook
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/142836168412af1f438b7811c6cc9b51.png"
+            height="20"
+          />
+          Mutual Demise
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6629,8 +6821,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Pela</h3></th>
-      <th align="center"><h3>Good Night and Sleep Well</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Pela
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1d52400af8b07c78dd4e8418018044ce.png"
+            height="20"
+          />
+          Good Night and Sleep Well
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6708,8 +6916,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Natasha</h3></th>
-      <th align="center"><h3>Perfect Timing</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            height="20"
+          />
+          Natasha
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/f452e3200f5facaa2816e5d75db28eff.png"
+            height="20"
+          />
+          Perfect Timing
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
@@ -6803,8 +7027,24 @@
   <br />
   <table align="center">
     <tr>
-      <th align="center"><h3>Arlan</h3></th>
-      <th align="center"><h3>Shattered Home</h3></th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+            height="20"
+          />
+          Arlan
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/16f86f624fb6ec67f70f9ba2dd3c0239.png"
+            height="20"
+          />
+          Shattered Home
+        </h3>
+      </th>
     </tr>
     <tr>
       <td>
