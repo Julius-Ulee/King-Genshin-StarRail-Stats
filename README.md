@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 08:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 09:05 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -692,7 +692,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Cyno
         </h3>
@@ -702,7 +702,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e98b9fa8547265d177634948cf516078.png"
             ,
-            height="18"
+            height="20"
           />
           White Tassel
         </h3>
@@ -855,7 +855,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Bennett
         </h3>
@@ -865,7 +865,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/270c4df09d276c3d0934e0cb43cbb991.png"
             ,
-            height="18"
+            height="20"
           />
           Lion's Roar
         </h3>
@@ -1018,7 +1018,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Diluc
         </h3>
@@ -1028,7 +1028,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/eeffc6282de07c3d40f66400e4c5d6a2.png"
             ,
-            height="18"
+            height="20"
           />
           Beacon of the Reed Sea
         </h3>
@@ -1181,7 +1181,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Xiangling
         </h3>
@@ -1191,7 +1191,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
             ,
-            height="18"
+            height="20"
           />
           "The Catch"
         </h3>
@@ -1344,7 +1344,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Sucrose
         </h3>
@@ -1354,7 +1354,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a247dccecb71ef3e5aa563bce1615ef6.png"
             ,
-            height="18"
+            height="20"
           />
           Sacrificial Fragments
         </h3>
@@ -1507,7 +1507,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Traveler
         </h3>
@@ -1517,7 +1517,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f076a9b58d9522f486bb597741901b15.png"
             ,
-            height="18"
+            height="20"
           />
           Prototype Rancour
         </h3>
@@ -1670,7 +1670,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Xingqiu
         </h3>
@@ -1680,7 +1680,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/625b99fc0d20cbbb078a6c472684f7a3.png"
             ,
-            height="18"
+            height="20"
           />
           Sacrificial Sword
         </h3>
@@ -1833,7 +1833,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Sangonomiya Kokomi
         </h3>
@@ -1843,7 +1843,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1b7018e2807bb057e7192d4e36820e23.png"
             ,
-            height="18"
+            height="20"
           />
           Favonius Codex
         </h3>
@@ -1996,7 +1996,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Kaeya
         </h3>
@@ -2006,7 +2006,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/2acd3d227b4a02107f5a4c42e077269b.png"
             ,
-            height="18"
+            height="20"
           />
           Favonius Sword
         </h3>
@@ -2165,7 +2165,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Yaoyao
         </h3>
@@ -2175,7 +2175,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8013d6fe509dc550dbef8e432de3738b.png"
             ,
-            height="18"
+            height="20"
           />
           Black Tassel
         </h3>
@@ -2328,7 +2328,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Razor
         </h3>
@@ -2338,7 +2338,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/c1e14c5fb7951baab618b54af2d2a1eb.png"
             ,
-            height="18"
+            height="20"
           />
           Rainslasher
         </h3>
@@ -2477,7 +2477,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Keqing
         </h3>
@@ -2487,7 +2487,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6e4004ed8156eaca75d9e074eec77fde.png"
             ,
-            height="18"
+            height="20"
           />
           The Alley Flash
         </h3>
@@ -2600,7 +2600,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Chongyun
         </h3>
@@ -2610,7 +2610,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/c804f3d44765bf3b3efec2271333d847.png"
             ,
-            height="18"
+            height="20"
           />
           Snow-Tombed Starsilver
         </h3>
@@ -2760,7 +2760,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Amber
         </h3>
@@ -2770,7 +2770,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/faea709dbd658240441545a333235f07.png"
             ,
-            height="18"
+            height="20"
           />
           Favonius Warbow
         </h3>
@@ -2919,7 +2919,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Collei
         </h3>
@@ -2929,7 +2929,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/362ed42b1d0b66ef1cc459603d760519.png"
             ,
-            height="18"
+            height="20"
           />
           Messenger
         </h3>
@@ -3079,7 +3079,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Layla
         </h3>
@@ -3089,7 +3089,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/be6bd8a0b5971f2962d7be4a40aed7cc.png"
             ,
-            height="18"
+            height="20"
           />
           Dark Iron Sword
         </h3>
@@ -3202,7 +3202,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Faruzan
         </h3>
@@ -3212,7 +3212,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/362ed42b1d0b66ef1cc459603d760519.png"
             ,
-            height="18"
+            height="20"
           />
           Messenger
         </h3>
@@ -3325,7 +3325,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Barbara
         </h3>
@@ -3335,7 +3335,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6540b195e02d4f7df7cc73bc4ba564b9.png"
             ,
-            height="18"
+            height="20"
           />
           Emerald Orb
         </h3>
@@ -3488,7 +3488,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Lisa
         </h3>
@@ -3498,7 +3498,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/82d8479533a1733c0a9cfe011407f443.png"
             ,
-            height="18"
+            height="20"
           />
           The Widsith
         </h3>
@@ -3611,7 +3611,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Xinyan
         </h3>
@@ -3621,7 +3621,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0871c7d8f63bf22d79a1f49e83d13a85.png"
             ,
-            height="18"
+            height="20"
           />
           Bloodtainted Greatsword
         </h3>
@@ -3734,7 +3734,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Rosaria
         </h3>
@@ -3744,7 +3744,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8013d6fe509dc550dbef8e432de3738b.png"
             ,
-            height="18"
+            height="20"
           />
           Black Tassel
         </h3>
@@ -3863,7 +3863,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Gorou
         </h3>
@@ -3873,7 +3873,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/6eca6376da0152da4e7c7f5a03e4c750.png"
             ,
-            height="18"
+            height="20"
           />
           Slingshot
         </h3>
@@ -3986,7 +3986,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Yun Jin
         </h3>
@@ -3996,7 +3996,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d8e0a7cd0f6e62a636c4ef8e43fdb8f4.png"
             ,
-            height="18"
+            height="20"
           />
           Halberd
         </h3>
@@ -4109,7 +4109,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Kuki Shinobu
         </h3>
@@ -4119,7 +4119,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1031363662d029112442914af10c9976.png"
             ,
-            height="18"
+            height="20"
           />
           Skyrider Sword
         </h3>
@@ -4232,7 +4232,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Dori
         </h3>
@@ -4242,7 +4242,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/02113b89295585bee1a7f926be98b6f3.png"
             ,
-            height="18"
+            height="20"
           />
           The Bell
         </h3>
@@ -4355,7 +4355,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Mika
         </h3>
@@ -4365,7 +4365,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1acd412d8fca15bfbcafe762c3c3924d.png"
             ,
-            height="18"
+            height="20"
           />
           Iron Point
         </h3>
@@ -4478,7 +4478,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Jean
         </h3>
@@ -4488,7 +4488,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3029d5a07cd51e677a9d48945cee65b2.png"
             ,
-            height="18"
+            height="20"
           />
           Iron Sting
         </h3>
@@ -4607,7 +4607,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Ningguang
         </h3>
@@ -4617,7 +4617,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/82d8479533a1733c0a9cfe011407f443.png"
             ,
-            height="18"
+            height="20"
           />
           The Widsith
         </h3>
@@ -4730,7 +4730,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Fischl
         </h3>
@@ -4740,7 +4740,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/810c221b8b209e4ccffeab01449b8bc0.png"
             ,
-            height="18"
+            height="20"
           />
           The Stringless
         </h3>
@@ -4853,7 +4853,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Noelle
         </h3>
@@ -4863,7 +4863,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/cc000377d2ec9fefa766090a811ac910.png"
             ,
-            height="18"
+            height="20"
           />
           Whiteblind
         </h3>
@@ -4976,7 +4976,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Yanfei
         </h3>
@@ -4986,7 +4986,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/5c098f795c55f3606dcfea47ae2f32bc.png"
             ,
-            height="18"
+            height="20"
           />
           Apprentice's Notes
         </h3>
@@ -5099,7 +5099,7 @@
           <img
             src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
             ,
-            height="18"
+            height="20"
           />
           Lynette
         </h3>
@@ -5109,7 +5109,7 @@
           <img
             src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/38fa2a4096066e0779390dcbdfaf3beb.png"
             ,
-            height="18"
+            height="20"
           />
           Dull Blade
         </h3>
