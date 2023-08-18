@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 06:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">18</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -139,16 +139,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
           ,
           height="80" /></a
       ><br />
-      20 x Primogem
+      10000 x Mora
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-18 06:48:01+08:00</td>
+    <td align="center">🕒 2023-08-19 06:52:57+08:00</td>
   </tr>
 </table>
 
@@ -5240,7 +5240,7 @@
   </tr>
   <tr>
     <td align="center">Asia Server</td>
-    <td align="center">UID Secret</td>
+    <td align="center">UID 825098452</td>
   </tr>
 </table>
 
