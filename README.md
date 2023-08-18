@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5251,7 +5251,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">18</td>
+    <td align="center">19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -5259,16 +5259,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      2 x Lost Gold Fragment
+      8000 x Credit
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-18 01:06:20+08:00</td>
+    <td align="center">🕒 2023-08-19 01:06:20+08:00</td>
   </tr>
 </table>
 
