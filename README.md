@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 18, 2023 16:44 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 18, 2023 18:30 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -175,7 +175,7 @@
       />
       Achievements
     </td>
-    <td align="center">374</td>
+    <td align="center">376</td>
   </tr>
   <tr>
     <td>
@@ -203,7 +203,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">266</td>
+    <td align="center">268</td>
   </tr>
   <tr>
     <td>
@@ -253,7 +253,7 @@
       />
       Hydroculus
     </td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>
@@ -448,7 +448,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/1/" width="80" />
+            <img src="https://progress-bar.dev/2/" width="80" />
           </td>
         </tr>
         <tr>
@@ -648,7 +648,7 @@
       />
       Mora earned
     </td>
-    <td>3399174 (rate -64)</td>
+    <td>3449042 (rate -63)</td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -759,10 +759,7 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />3 x Gilded Dreams<br />1 x The Exile<br />1 x
-              Instructor<br />
-            </td>
+            <td>Artifacts<br />4 x Gilded Dreams<br />1 x The Exile<br /></td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0f9b505d448d0bad21be303a814e485b.png"
@@ -793,13 +790,13 @@
               <code>+16</code><br />
               ⭐⭐⭐⭐<br />
               Exile's Goblet<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a1767cb7d6a36fcbb132ace1990698a6.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8414fe5540d8a6d12ca5e59fb654b042.png"
                 ,
                 height="25"
               />
-              <code>+16</code><br />
-              ⭐⭐⭐⭐<br />
-              Instructor's Cap<br />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Shadow of the Sand King<br />
             </td>
           </tr>
           <tr>
@@ -1643,7 +1640,7 @@
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
