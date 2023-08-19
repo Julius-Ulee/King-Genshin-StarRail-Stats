@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -643,19 +643,19 @@
   </tr>
   <tr>
     <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>12</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>12</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>27</b></td>
+    <td align="center"><b>36</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>9-3</b></td>
   </tr>
   <tr>
     <td>🕐 Start Time</td>
@@ -667,27 +667,84 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(35)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(17518)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(31328)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(11)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(18)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -704,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5182</b> <code>(rate -44)</code></td>
+    <td align="center"><b>5346</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td>
@@ -715,15 +772,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3975370</b> <code>(rate -58)</code></td>
+    <td align="center"><b>4100133</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: <b>1210</b> <code>(24%)</code><br />Adventure: <b>1103</b>
-      <code>(22%)</code><br />Daily Activity: <b>1080</b> <code>(21%)</code
+      Mail: <b>1210</b> <code>(23%)</code><br />Adventure: <b>1117</b>
+      <code>(21%)</code><br />Daily Activity: <b>1080</b> <code>(21%)</code
       ><br />Events: <b>1060</b> <code>(20%)</code><br />Spiral Abyss:
-      <b>700</b> <code>(13%)</code><br />Other: <b>29</b> <code>(0%)</code
+      <b>850</b> <code>(15%)</code><br />Other: <b>29</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5320,7 +5377,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center"><b>19</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -5328,16 +5385,16 @@
       <a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 <b>2023-08-19 01:06:20+08:00</b></td>
+    <td align="center">🕒 <b>2023-08-20 01:06:21+08:00</b></td>
   </tr>
 </table>
 
