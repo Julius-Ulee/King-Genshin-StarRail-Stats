@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 07:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 07:43 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5397,7 +5397,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -5457,7 +5457,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Collapsing Sky</td>
@@ -5522,7 +5522,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -5582,7 +5582,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">River Flows in Spring</td>
@@ -5647,7 +5647,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -5707,7 +5707,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Meshing Cogs</td>
@@ -5772,7 +5772,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -5832,7 +5832,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Mediation</td>
@@ -5897,7 +5897,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -5957,7 +5957,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Passkey</td>
@@ -6022,7 +6022,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6075,7 +6075,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Passkey</td>
@@ -6140,7 +6140,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6220,7 +6220,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Data Bank</td>
@@ -6285,7 +6285,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6338,7 +6338,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Chorus</td>
@@ -6403,7 +6403,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6463,7 +6463,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Arrows</td>
@@ -6528,7 +6528,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6588,7 +6588,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">We Are Wildfire</td>
@@ -6653,7 +6653,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6699,7 +6699,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Adversarial</td>
@@ -6764,7 +6764,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6794,7 +6794,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Mutual Demise</td>
@@ -6859,7 +6859,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -6889,7 +6889,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Good Night and Sleep Well</td>
@@ -6954,7 +6954,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -7000,7 +7000,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Perfect Timing</td>
@@ -7065,7 +7065,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -7104,7 +7104,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Shattered Home</td>
