@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 22:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -253,21 +253,21 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><b>7</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>749</b></td>
+    <td align="center"><b>751</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>524</b></td>
+    <td align="center"><b>528</b></td>
   </tr>
   <tr>
     <td>
@@ -281,7 +281,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>55</b></td>
+    <td align="center"><b>56</b></td>
   </tr>
   <tr>
     <td>
@@ -294,13 +294,13 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>37</b></td>
+    <td align="center"><b>38</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>9-3</b></td>
   </tr>
 </table>
 
@@ -448,7 +448,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/2/" width="80" />
+            <img src="https://progress-bar.dev/4/" width="80" />
           </td>
         </tr>
         <tr>
