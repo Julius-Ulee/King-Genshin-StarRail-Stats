@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 12:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -643,19 +643,19 @@
   </tr>
   <tr>
     <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>8</b></td>
+    <td align="center"><b>9</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>7</b></td>
+    <td align="center"><b>9</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>21</b></td>
+    <td align="center"><b>27</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>8-1</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
   <tr>
     <td>🕐 Start Time</td>
@@ -704,7 +704,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4365</b> <code>(rate -53)</code></td>
+    <td align="center"><b>5182</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td>
@@ -715,16 +715,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3555042</b> <code>(rate -62)</code></td>
+    <td align="center"><b>3975370</b> <code>(rate -58)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: <b>1210</b> <code>(28%)</code><br />Events: <b>1060</b>
-      <code>(25%)</code><br />Adventure: <b>1048</b> <code>(24%)</code
-      ><br />Daily Activity: <b>1020</b> <code>(23%)</code><br />Other:
-      <b>27</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>1210</b> <code>(24%)</code><br />Adventure: <b>1103</b>
+      <code>(22%)</code><br />Daily Activity: <b>1080</b> <code>(21%)</code
+      ><br />Events: <b>1060</b> <code>(20%)</code><br />Spiral Abyss:
+      <b>700</b> <code>(13%)</code><br />Other: <b>29</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
