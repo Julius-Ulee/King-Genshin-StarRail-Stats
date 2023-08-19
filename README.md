@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 05:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 05:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -577,7 +577,7 @@
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_4.png"
         ,
         height="100"
-      />
+      /><br />
       <b>Queen-Size</b>
     </td>
   </tr>
@@ -672,6 +672,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -681,17 +691,7 @@
         ,
         height="18"
       />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br />
+      <b>Yaoyao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -742,11 +742,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
