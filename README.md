@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 11:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 11:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -621,6 +621,73 @@
       Visitor History
     </td>
     <td align="center"><b>0</b></td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
+    <td align="center"><b>76</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
+    <td align="center"><b>8</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
+    <td align="center"><b>21</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
+    <td align="center"><b>8-1</b></td>
+  </tr>
+  <tr>
+    <td>🕐 Start Time</td>
+    <td align="center"><b>2023-08-15 20:00:00+00:00</b></td>
+  </tr>
+  <tr>
+    <td>🕛 End Time</td>
+    <td align="center"><b>2023-08-31 19:59:59+00:00</b></td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
   </tr>
 </table>
 <h2 align="center">
