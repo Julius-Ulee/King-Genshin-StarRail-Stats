@@ -426,17 +426,17 @@
     <table align="center">
         <tr>
             <td><img src="images/logo/stellar_jade.png" height="18"> Stellar Jade earned</td>
-            <td>{{ hsr.diary.data.current_hcoin }} (rate {{ hsr.diary.data.hcoin_rate }})</td>
+            <td><b>{{ hsr.diary.data.current_hcoin }}</b> <code>(rate {{ hsr.diary.data.hcoin_rate }})</code></td>
         </tr>
         <tr>
             <td><img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png" height="18"> Pass & Special Pass earned</td>
-            <td>{{ hsr.diary.data.current_rails_pass }} (rate {{ hsr.diary.data.rails_rate }})</td>
+            <td><b>{{ hsr.diary.data.current_rails_pass }}</b> <code>(rate {{ hsr.diary.data.rails_rate }})</code></td>
         </tr>
         <tr>
             <td><img src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp" height="18"> Categories</td>
             <td>
                 {%- for category in hsr.diary.data.categories -%}
-                {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+                {{ category.name }}: <b>{{ category.amount }}</b> <code>({{ category.percentage }}%)</code><br>
                 {%- endfor -%}
             </td>
         </tr>
@@ -447,19 +447,19 @@
     <table align="center">
         <tr>
             <td>Season</td>
-            <td align="center">{{ hsr.forgotten_hall.season }}</td>
+            <td align="center"><b>{{ hsr.forgotten_hall.season }}</b></td>
         </tr>
         <tr>
             <td>Max Floor</td>
-            <td align="center">{{ hsr.forgotten_hall.max_floor }}</td>
+            <td align="center"><b>{{ hsr.forgotten_hall.max_floor }}</b></td>
         </tr>
         <tr>
             <td>Total Battles</td>
-            <td align="center">{{ hsr.forgotten_hall.total_battles }}</td>
+            <td align="center"><b>{{ hsr.forgotten_hall.total_battles }}</b></td>
         </tr>
         <tr>
             <td>Total Stars</td>
-            <td align="center">{{ hsr.forgotten_hall.total_stars }}</td>
+            <td align="center"><b>{{ hsr.forgotten_hall.total_stars }}</b></td>
         </tr>
         {%- for floor in hsr.forgotten_hall.floors -%}
         <tr>
