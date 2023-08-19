@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 06:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 07:02 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">19</td>
+    <td align="center"><b>19</b></td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -143,12 +143,12 @@
           ,
           height="80" /></a
       ><br />
-      10000 x Mora
+      <b>10000 x Mora</b>
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-19 06:52:57+08:00</td>
+    <td align="center">🕒 <b>2023-08-19 06:52:57+08:00</b></td>
   </tr>
 </table>
 
@@ -5286,7 +5286,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Total Avatar</td>
