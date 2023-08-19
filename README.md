@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 05:18 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center"><b>19</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -139,16 +139,16 @@
       <a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
           ,
           height="80" /></a
       ><br />
-      <b>10000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 <b>2023-08-19 06:52:57+08:00</b></td>
+    <td align="center">🕒 <b>2023-08-20 05:19:48+08:00</b></td>
   </tr>
 </table>
 
@@ -572,6 +572,16 @@
 </h2>
 <table align="center">
   <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_4.png"
+        ,
+        height="100"
+      />
+      <b>Queen-Size</b>
+    </td>
+  </tr>
+  <tr>
     <td>
       <img
         src="https://genshin.honeyhunterworld.com/img/rep_6969_2.webp"
@@ -580,14 +590,7 @@
       />
       Highest Adeptal Energy
     </td>
-    <td align="center">
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_4.png"
-        ,
-        height="18"
-      />
-      <b>Queen-Size</b> <code>(4760)</code>
-    </td>
+    <td align="center"><code>(4760)</code></td>
   </tr>
   <tr>
     <td>
