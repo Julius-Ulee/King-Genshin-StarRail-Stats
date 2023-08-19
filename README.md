@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 07:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 07:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -119,8 +119,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Asia Server</td>
-    <td align="center">UID 877493089</td>
+    <td align="center"><b>Asia Server</b></td>
+    <td align="center"><b>UID 877493089</b></td>
   </tr>
 </table>
 
@@ -175,7 +175,7 @@
       />
       Achievements
     </td>
-    <td align="center">376</td>
+    <td align="center"><b>376</b></td>
   </tr>
   <tr>
     <td>
@@ -186,7 +186,7 @@
       />
       Days Active
     </td>
-    <td align="center">177</td>
+    <td align="center"><b>177</b></td>
   </tr>
   <tr>
     <td>
@@ -197,13 +197,13 @@
       />
       Characters
     </td>
-    <td align="center">32</td>
+    <td align="center"><b>32</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center">268</td>
+    <td align="center"><b>268</b></td>
   </tr>
   <tr>
     <td>
@@ -214,7 +214,7 @@
       />
       Anemoculus
     </td>
-    <td align="center">66</td>
+    <td align="center"><b>66</b></td>
   </tr>
   <tr>
     <td>
@@ -225,13 +225,13 @@
       />
       Geoculus
     </td>
-    <td align="center">68</td>
+    <td align="center"><b>68</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center">28</td>
+    <td align="center"><b>28</b></td>
   </tr>
   <tr>
     <td>
@@ -242,7 +242,7 @@
       />
       Dendroculus
     </td>
-    <td align="center">58</td>
+    <td align="center"><b>58</b></td>
   </tr>
   <tr>
     <td>
@@ -253,54 +253,54 @@
       />
       Hydroculus
     </td>
-    <td align="center">4</td>
+    <td align="center"><b>4</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center">749</td>
+    <td align="center"><b>749</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center">524</td>
+    <td align="center"><b>524</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center">149</td>
+    <td align="center"><b>149</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center">55</td>
+    <td align="center"><b>55</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center">19</td>
+    <td align="center"><b>19</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center">37</td>
+    <td align="center"><b>37</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center">6-2</td>
+    <td align="center"><b>6-2</b></td>
   </tr>
 </table>
 
@@ -586,7 +586,7 @@
         ,
         height="18"
       />
-      Queen-Size (4760)
+      <b>Queen-Size</b> <code>(4760)</code>
     </td>
   </tr>
   <tr>
@@ -598,7 +598,7 @@
       />
       Total Furnishings Obtained
     </td>
-    <td align="center">306</td>
+    <td align="center"><b>306</b></td>
   </tr>
   <tr>
     <td>
@@ -609,7 +609,7 @@
       />
       Trust Rank
     </td>
-    <td align="center">4</td>
+    <td align="center"><b>4</b></td>
   </tr>
   <tr>
     <td>
@@ -620,7 +620,7 @@
       />
       Visitor History
     </td>
-    <td align="center">0</td>
+    <td align="center"><b>0</b></td>
   </tr>
 </table>
 <h2 align="center">
