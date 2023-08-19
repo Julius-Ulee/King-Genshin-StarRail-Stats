@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 07:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 07:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -637,7 +637,7 @@
       />
       Primogems earned
     </td>
-    <td>4365 (rate -53)</td>
+    <td><b>4365</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td>
@@ -648,14 +648,16 @@
       />
       Mora earned
     </td>
-    <td>3555042 (rate -62)</td>
+    <td><b>3555042</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: 1210 (28%)<br />Events: 1060 (25%)<br />Adventure: 1048 (24%)<br />Daily
-      Activity: 1020 (23%)<br />Other: 27 (0%)<br />Quests: 0 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Mail: <b>1210</b> <code>(28%)</code><br />Events: <b>1060</b>
+      <code>(25%)</code><br />Adventure: <b>1048</b> <code>(24%)</code
+      ><br />Daily Activity: <b>1020</b> <code>(23%)</code><br />Other:
+      <b>27</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5239,8 +5241,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Asia Server</td>
-    <td align="center">UID 825098452</td>
+    <td align="center"><b>Asia Server</b></td>
+    <td align="center"><b>UID 825098452</b></td>
   </tr>
 </table>
 
@@ -5251,7 +5253,7 @@
 <table align="center">
   <tr>
     <td>Total Rewards Claimed</td>
-    <td align="center">19</td>
+    <td align="center"><b>19</b></td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -5263,12 +5265,12 @@
           ,
           height="80" /></a
       ><br />
-      8000 x Credit
+      <b>8000 x Credit</b>
     </td>
   </tr>
   <tr>
     <td>Last Checked</td>
-    <td align="center">🕒 2023-08-19 01:06:20+08:00</td>
+    <td align="center">🕒 <b>2023-08-19 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -5286,19 +5288,19 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td>51</td>
+    <td><b>51</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td>15</td>
+    <td><b>15</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td>98</td>
+    <td><b>98</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td>110</td>
+    <td><b>110</b></td>
   </tr>
 </table>
 
