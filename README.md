@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 07:43 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 11:27 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -175,7 +175,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>376</b></td>
+    <td align="center"><b>378</b></td>
   </tr>
   <tr>
     <td>
@@ -186,7 +186,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>177</b></td>
+    <td align="center"><b>178</b></td>
   </tr>
   <tr>
     <td>
@@ -300,7 +300,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>6-2</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -5296,7 +5296,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>98</b></td>
+    <td><b>99</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5313,7 +5313,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td><b>3319</b> <code>(rate -58)</code></td>
+    <td><b>3889</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td>
@@ -5323,7 +5323,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td><b>27</b> <code>(rate -59)</code></td>
+    <td><b>28</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td>
@@ -5334,11 +5334,11 @@
       Categories
     </td>
     <td>
-      Event: <b>1320</b> <code>(39%)</code><br />Daily Activity: <b>945</b>
-      <code>(28%)</code><br />Adventure Rewards: <b>860</b> <code>(25%)</code
-      ><br />Mail: <b>190</b> <code>(5%)</code><br />Other: <b>4</b>
-      <code>(3%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Event: <b>1320</b> <code>(33%)</code><br />Daily Activity: <b>1005</b>
+      <code>(25%)</code><br />Adventure Rewards: <b>870</b> <code>(22%)</code
+      ><br />Mail: <b>490</b> <code>(12%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(5%)</code><br />Other: <b>4</b> <code>(3%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5414,7 +5414,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -5464,7 +5464,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -5549,34 +5549,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/4de407856740ff0a1e42b68bda89f500.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9c51a879bd407786e46489eebab895bc.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/bc01a2e9d5f10aef316bfe91617a5976.png"
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Artaius Hood<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0fdba7546d32c4ab2b3ff20272e8fccb.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/f61af11cb3b317c3ad770c7c7c912354.png"
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Lizard Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/79dc95bfb877589d76a4d6205c784c87.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Thief's Steel Grappling Hook<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ed368a0835f44079cd3f108339daee2a.png"
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Ice Dragon Cloak<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/82b3657f0b5b23cecdabe60593ec0221.png"
                 ,
                 height="25"
               />
-              <code>+9</code><br />
-              ⭐⭐⭐<br />
-              Thief's Meteor Boots<br />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐<br />
+              Hunter's Soft Elkskin Boots<br />
             </td>
           </tr>
         </table>
@@ -5589,7 +5589,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -5714,7 +5714,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -6470,7 +6470,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
