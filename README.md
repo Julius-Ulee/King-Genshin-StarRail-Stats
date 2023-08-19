@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 07:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 07:39 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -732,7 +732,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -808,7 +808,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">White Tassel</td>
@@ -892,7 +892,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -971,7 +971,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Lion's Roar</td>
@@ -1055,7 +1055,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -1134,7 +1134,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Beacon of the Reed Sea</td>
@@ -1218,7 +1218,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -1297,7 +1297,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">"The Catch"</td>
@@ -1381,7 +1381,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -1460,7 +1460,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Sacrificial Fragments</td>
@@ -1544,7 +1544,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -1623,7 +1623,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Prototype Rancour</td>
@@ -1707,7 +1707,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -1786,7 +1786,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Sacrificial Sword</td>
@@ -1870,7 +1870,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -1949,7 +1949,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Favonius Codex</td>
@@ -2033,7 +2033,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -2118,7 +2118,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Favonius Sword</td>
@@ -2202,7 +2202,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -2281,7 +2281,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Black Tassel</td>
@@ -2365,7 +2365,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -2430,7 +2430,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Rainslasher</td>
@@ -2514,7 +2514,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -2553,7 +2553,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">The Alley Flash</td>
@@ -2637,7 +2637,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -2713,7 +2713,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Snow-Tombed Starsilver</td>
@@ -2797,7 +2797,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -2872,7 +2872,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Favonius Warbow</td>
@@ -2956,7 +2956,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3032,7 +3032,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Messenger</td>
@@ -3116,7 +3116,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3155,7 +3155,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Dark Iron Sword</td>
@@ -3239,7 +3239,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3278,7 +3278,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Messenger</td>
@@ -3362,7 +3362,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3441,7 +3441,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Emerald Orb</td>
@@ -3525,7 +3525,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3564,7 +3564,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">The Widsith</td>
@@ -3648,7 +3648,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3687,7 +3687,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Bloodtainted Greatsword</td>
@@ -3771,7 +3771,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3816,7 +3816,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Black Tassel</td>
@@ -3900,7 +3900,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -3939,7 +3939,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Slingshot</td>
@@ -4023,7 +4023,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4062,7 +4062,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Halberd</td>
@@ -4146,7 +4146,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4185,7 +4185,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Skyrider Sword</td>
@@ -4269,7 +4269,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4308,7 +4308,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">The Bell</td>
@@ -4392,7 +4392,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4431,7 +4431,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Iron Point</td>
@@ -4515,7 +4515,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
@@ -4560,7 +4560,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Iron Sting</td>
@@ -4644,7 +4644,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4683,7 +4683,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">The Widsith</td>
@@ -4767,7 +4767,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4806,7 +4806,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">The Stringless</td>
@@ -4890,7 +4890,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -4929,7 +4929,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Whiteblind</td>
@@ -5013,7 +5013,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -5052,7 +5052,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Apprentice's Notes</td>
@@ -5136,7 +5136,7 @@
     </tr>
     <tr>
       <td>
-        <table>
+        <table align="center">
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
@@ -5175,7 +5175,7 @@
         </table>
       </td>
       <td valign="top">
-        <table>
+        <table align="center">
           <tr>
             <td>Name</td>
             <td align="center">Dull Blade</td>
