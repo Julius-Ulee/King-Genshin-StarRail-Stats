@@ -246,17 +246,17 @@
 <table align="center">
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
-        <td>{{ genshin.diary.data.current_primogems }} (rate {{ genshin.diary.data.primogems_rate }})</td>
+        <td><b>{{ genshin.diary.data.current_primogems }}</b> <code>(rate {{ genshin.diary.data.primogems_rate }})</code></td>
     </tr>
     <tr>
         <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
-        <td>{{ genshin.diary.data.current_mora }} (rate {{ genshin.diary.data.mora_rate }})</td>
+        <td><b>{{ genshin.diary.data.current_mora }}</b> <code>(rate {{ genshin.diary.data.mora_rate }})</code></td>
     </tr>
     <tr>
         <td><img src="./images/logo/quest.webp", height="18"> Categories</td>
         <td>
             {%- for category in genshin.diary.data.categories -%}
-            {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+            {{ category.name }}: <b>{{ category.amount }}</b> <code>({{ category.percentage }}%)</code><br>
             {%- endfor -%}
         </td>
     </tr>
@@ -385,8 +385,8 @@
         <td colspan="2" align="center"><img src="./images/logo/hsr-level.webp", height="18"> <b>{{ hsr.user.info.nickname }}</b> <code>Lv. {{ hsr.user.info.level }}</code></td>
       </tr>
       <tr>
-        <td align="center">{{ hsr.user.info.server.replace("prod_official_", "").title() }} Server</td>
-        <td align="center">UID 825098452</td>
+        <td align="center"><b>{{ hsr.user.info.server.replace("prod_official_", "").title() }} Server</b></td>
+        <td align="center"><b>UID 825098452</b></td>
       </tr>
     </table>
 
@@ -394,15 +394,15 @@
     <table align="center">
         <tr>
             <td>Total Rewards Claimed</td>
-            <td align="center">{{ hsr.reward_info.claimed_rewards }}</td>
+            <td align="center"><b>{{ hsr.reward_info.claimed_rewards }}</b></td>
         </tr>
         <tr>
             <td>Last Claimed Reward</td>
-            <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ hsr.reward.icon }}", height="80"></a><br> {{ hsr.reward.amount }} x {{ hsr.reward.name }}</td>
+            <td align="center"><a href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"><img src="{{ hsr.reward.icon }}", height="80"></a><br> <b>{{ hsr.reward.amount }} x {{ hsr.reward.name }}</b></td>
         </tr>
         <tr>
             <td>Last Checked</td>
-            <td align="center">🕒 {{ hsr.reward.time }}</td>
+            <td align="center">🕒 <b>{{ hsr.reward.time }}</b></td>
         </tr>
     </table>
 
@@ -416,7 +416,7 @@
             {%- else -%}
             <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
             {%- endif -%}
-            <td>{{ value }}</td>
+            <td><b>{{ value }}</b></td>
         </tr>
         {%- endif -%}
         {%- endfor -%}
