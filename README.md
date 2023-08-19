@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 19, 2023 11:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 19, 2023 11:43 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -563,7 +563,7 @@
     ,
     height="20"
   />
-  Teapot
+  Serenitea Pot
   <img
     src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
     ,
@@ -704,7 +704,7 @@
       />
       Primogems earned
     </td>
-    <td><b>4365</b> <code>(rate -53)</code></td>
+    <td align="center"><b>4365</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td>
@@ -715,7 +715,7 @@
       />
       Mora earned
     </td>
-    <td><b>3555042</b> <code>(rate -62)</code></td>
+    <td align="center"><b>3555042</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -5380,7 +5380,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td><b>3889</b> <code>(rate -51)</code></td>
+    <td align="center"><b>3889</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td>
@@ -5390,7 +5390,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td><b>28</b> <code>(rate -57)</code></td>
+    <td align="center"><b>28</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td>
