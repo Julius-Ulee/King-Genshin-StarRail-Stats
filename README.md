@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:41 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:45 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,12 +775,14 @@
     <td align="center"><b>4316121</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
-    <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
-    <table>
-      <tr>
-        <td><img src="./images/logo/genshin-logo.png" , height="50" /></td>
-      </tr>
-    </table>
+    <td>
+      <img src="./images/logo/quest.webp" , height="18" /> Categories
+      <table>
+        <tr>
+          <td><img src="./images/logo/genshin-logo.png" , height="50" /></td>
+        </tr>
+      </table>
+    </td>
     <td>
       Mail: <b>1230</b> <code>(23%)</code><br />Daily Activity: <b>1140</b>
       <code>(22%)</code><br />Adventure: <b>1117</b> <code>(21%)</code
