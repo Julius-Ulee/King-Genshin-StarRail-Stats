@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:45 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:52 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -777,9 +777,15 @@
   <tr>
     <td>
       <img src="./images/logo/quest.webp" , height="18" /> Categories
-      <table>
+      <table align="center">
         <tr>
-          <td><img src="./images/logo/genshin-logo.png" , height="50" /></td>
+          <td>
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp"
+              ,
+              height="80"
+            />
+          </td>
         </tr>
       </table>
     </td>
@@ -5460,6 +5466,11 @@
         height="18"
       />
       Categories
+      <table align="center">
+        <tr>
+          <td><img src="./images/logo/hsr-logo.png" , height="80" /></td>
+        </tr>
+      </table>
     </td>
     <td>
       Event: <b>1320</b> <code>(32%)</code><br />Daily Activity: <b>1065</b>
