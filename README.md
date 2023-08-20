@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:23 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-20 05:19:48+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-21 00:17:59+08:00</b></td>
   </tr>
 </table>
 
@@ -5376,13 +5376,11 @@
 </h2>
 <table align="center">
   <tr>
-    <td>Total Rewards Claimed</td>
-    <td align="center"><b>21</b></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
-    <td>Last Claimed Reward</td>
     <td align="center">
-      <a
+      <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
           src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
@@ -5393,8 +5391,7 @@
     </td>
   </tr>
   <tr>
-    <td>Last Checked</td>
-    <td align="center">🕒 <b>2023-08-21 00:14:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-21 00:14:29+08:00</b></td>
   </tr>
 </table>
 
