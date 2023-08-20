@@ -253,12 +253,13 @@
         <td align="center"><b>{{ genshin.diary.data.current_mora }}</b> <code>(rate {{ genshin.diary.data.mora_rate }})</code></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/quest.webp", height="18"> Categories</td>
-        <table>
-          <tr>
-            <td><img src="./images/logo/genshin-logo.png", height="50"></td>
-          </tr>
-        </table>
+        <td><img src="./images/logo/quest.webp", height="18"> Categories
+          <table>
+            <tr>
+              <td><img src="./images/logo/genshin-logo.png", height="50"></td>
+            </tr>
+          </table>
+        </td>
         <td>
             {%- for category in genshin.diary.data.categories -%}
             {{ category.name }}: <b>{{ category.amount }}</b> <code>({{ category.percentage }}%)</code><br>
