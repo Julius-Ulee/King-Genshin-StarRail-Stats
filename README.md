@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -134,9 +134,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a
+      <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
-        ><b>Last Claimed Reward:</b><br /><img
+        ><img
           src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
           ,
           height="80" /></a
