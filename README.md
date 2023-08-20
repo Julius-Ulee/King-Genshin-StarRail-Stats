@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 05:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5415,7 +5415,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>51</b></td>
+    <td><b>52</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5440,7 +5440,7 @@
     <td>
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3889</b> <code>(rate -51)</code></td>
+    <td align="center"><b>4029</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td>
@@ -5461,10 +5461,10 @@
       Categories
     </td>
     <td>
-      Event: <b>1320</b> <code>(33%)</code><br />Daily Activity: <b>1005</b>
-      <code>(25%)</code><br />Adventure Rewards: <b>870</b> <code>(22%)</code
-      ><br />Mail: <b>490</b> <code>(12%)</code><br />Forgotten Hall:
-      <b>200</b> <code>(5%)</code><br />Other: <b>4</b> <code>(3%)</code
+      Event: <b>1320</b> <code>(32%)</code><br />Daily Activity: <b>1065</b>
+      <code>(26%)</code><br />Adventure Rewards: <b>930</b> <code>(23%)</code
+      ><br />Mail: <b>510</b> <code>(12%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(4%)</code><br />Other: <b>4</b> <code>(3%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5687,7 +5687,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Hunter's Lizard Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/79dc95bfb877589d76a4d6205c784c87.png"
@@ -5999,10 +5999,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9b43382f04ea5d65de3ae547cef5c269.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
             height="20"
           />
-          Passkey
+          The Seriousness of Breakfast
         </h3>
       </th>
     </tr>
@@ -6017,7 +6017,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/9b43382f04ea5d65de3ae547cef5c269.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6bb2d757ef0e0e164f44123df30a79b3.png"
           />
         </p>
       </td>
@@ -6051,32 +6051,32 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/e0092cfbf309761cb47c514b450b8f1d.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/297d7c2b0070683de82b560969f847e2.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐<br />
-              Passerby's Rejuvenated Wooden Hairstick<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/bc01a2e9d5f10aef316bfe91617a5976.png"
+              ⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ced2451b4e8f87e243d24713b3bd786d.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/f61af11cb3b317c3ad770c7c7c912354.png"
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/0f0b7896551253ead64fc96ef0959e02.png"
                 ,
                 height="25"
               />
-              <code>+6</code><br />
-              ⭐⭐⭐<br />
-              Thief's Steel Grappling Hook<br /><img
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/a0671ef7ecfe81b1da0a557784597b27.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -6087,15 +6087,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Passkey</td>
+            <td align="center">The Seriousness of Breakfast</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6339,7 +6339,7 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
