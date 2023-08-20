@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 21, 2023 00:14 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,7 +775,7 @@
     <td align="center"><b>4316121</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
       <table align="center">
         <tr>
@@ -5454,7 +5454,7 @@
     <td align="center"><b>28</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img
         src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp"
         height="18"
