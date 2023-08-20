@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -186,7 +186,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>178</b></td>
+    <td align="center"><b>179</b></td>
   </tr>
   <tr>
     <td>
@@ -742,11 +742,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -764,7 +764,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5346</b> <code>(rate -43)</code></td>
+    <td align="center"><b>5426</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td>
@@ -775,14 +775,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4100133</b> <code>(rate -57)</code></td>
+    <td align="center"><b>4152525</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
     <td>
-      Mail: <b>1210</b> <code>(23%)</code><br />Adventure: <b>1117</b>
-      <code>(21%)</code><br />Daily Activity: <b>1080</b> <code>(21%)</code
-      ><br />Events: <b>1060</b> <code>(20%)</code><br />Spiral Abyss:
+      Mail: <b>1230</b> <code>(23%)</code><br />Daily Activity: <b>1140</b>
+      <code>(22%)</code><br />Adventure: <b>1117</b> <code>(21%)</code
+      ><br />Events: <b>1060</b> <code>(19%)</code><br />Spiral Abyss:
       <b>850</b> <code>(15%)</code><br />Other: <b>29</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
     </td>
