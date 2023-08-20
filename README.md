@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:57 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5364,13 +5364,7 @@
 <table align="center">
   <tr>
     <th rowspan="2" align="center">
-      <img
-        src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
-        ,
-        width="80"
-        ,
-        alt="Goddess"
-      />
+      <img src="./images/logo/hsr-logo.png" , width="80" , alt="Goddess" />
     </th>
     <td colspan="2" align="center">
       <img src="./images/logo/hsr-level.webp" , height="18" /> <b>King</b>
