@@ -254,9 +254,9 @@
     </tr>
     <tr>
         <td><img src="./images/logo/quest.webp", height="18"> Categories
-          <table>
+          <table align="center">
             <tr>
-              <td><img src="./images/logo/genshin-logo.png", height="50"></td>
+              <td><img src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp", height="80"></td>
             </tr>
           </table>
         </td>
@@ -436,7 +436,13 @@
             <td align="center"><b>{{ hsr.diary.data.current_rails_pass }}</b> <code>(rate {{ hsr.diary.data.rails_rate }})</code></td>
         </tr>
         <tr>
-            <td><img src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp" height="18"> Categories</td>
+            <td><img src="https://hsr.honeyhunterworld.com/img/monster_faction/other-monster_faction_icon.webp" height="18"> Categories
+              <table align="center">
+                <tr>
+                  <td><img src="./images/logo/hsr-logo.png", height="80"></td>
+                </tr>
+              </table>
+            </td>
             <td>
                 {%- for category in hsr.diary.data.categories -%}
                 {{ category.name }}: <b>{{ category.amount }}</b> <code>({{ category.percentage }}%)</code><br>
