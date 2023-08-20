@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 23:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 23:30 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -585,7 +585,7 @@
         ,
         height="18"
       />
-      Highest Adeptal Energy
+      <b>Highest Adeptal Energy</b>
     </td>
     <td align="center"><code>(4760)</code></td>
   </tr>
@@ -596,9 +596,9 @@
         ,
         height="18"
       />
-      Total Furnishings Obtained
+      <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><b>324</b></td>
+    <td align="center"><code>324</code></td>
   </tr>
   <tr>
     <td>
@@ -607,9 +607,9 @@
         ,
         height="18"
       />
-      Trust Rank
+      <b>Trust Rank</b>
     </td>
-    <td align="center"><b>4</b></td>
+    <td align="center"><code>4</code></td>
   </tr>
   <tr>
     <td>
@@ -618,9 +618,9 @@
         ,
         height="18"
       />
-      Visitor History
+      <b>Visitor History</b>
     </td>
-    <td align="center"><b>0</b></td>
+    <td align="center"><code>0</code></td>
   </tr>
 </table>
 <h2 align="center">
