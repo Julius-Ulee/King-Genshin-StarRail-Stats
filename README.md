@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 20, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 20, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -775,7 +775,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4152525</b> <code>(rate -56)</code></td>
+    <td align="center"><b>4316121</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td><img src="./images/logo/quest.webp" , height="18" /> Categories</td>
@@ -2015,11 +2015,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
