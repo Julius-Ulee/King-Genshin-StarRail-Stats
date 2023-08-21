@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 21, 2023 17:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 21, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -2200,18 +2200,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Thundering Fury<br />1 x The Exile<br />1 x
-              Noblesse Oblige<br />1 x Gilded Dreams<br />
+              Artifacts<br />1 x Thundersoother<br />1 x Thundering Fury<br />1
+              x The Exile<br />1 x Noblesse Oblige<br />1 x Gilded Dreams<br />
             </td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1d7ea1530ab055017f0ce5fee53670a2.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/15ec67cf8c4b3574fed85cd9cda9fda9.png"
                 ,
                 height="25"
               />
-              <code>+16</code><br />
-              ⭐⭐⭐⭐<br />
-              Thunderbird's Mercy<br /><img
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Thundersoother's Heart<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/76293d9c0baf34c8d3c5d9eef9639553.png"
                 ,
                 height="25"
@@ -2680,8 +2680,47 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
+            <td>
+              Artifacts<br />2 x Thundering Fury<br />3 x Thundersoother<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1d7ea1530ab055017f0ce5fee53670a2.png"
+                ,
+                height="25"
+              />
+              <code>+16</code><br />
+              ⭐⭐⭐⭐<br />
+              Thunderbird's Mercy<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/76293d9c0baf34c8d3c5d9eef9639553.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Survivor of Catastrophe<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/60573313fe5ab51e56346836382e333e.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Hour of Soothing Thunder<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e6fbd39d3024398d1406b0158b762fba.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Thundersoother's Goblet<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/b195d228134b351f1f0b4e06fb699357.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Thundersoother's Diadem<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
