@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 21, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 21, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,6 +669,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
@@ -683,12 +688,7 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Cyno</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -5416,7 +5416,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>52</b></td>
+    <td><b>53</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5441,7 +5441,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4029</b> <code>(rate -49)</code></td>
+    <td align="center"><b>4089</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5467,8 +5467,8 @@
       </table>
     </td>
     <td>
-      Event: <b>1320</b> <code>(32%)</code><br />Daily Activity: <b>1065</b>
-      <code>(26%)</code><br />Adventure Rewards: <b>930</b> <code>(23%)</code
+      Event: <b>1320</b> <code>(32%)</code><br />Daily Activity: <b>1125</b>
+      <code>(27%)</code><br />Adventure Rewards: <b>930</b> <code>(22%)</code
       ><br />Mail: <b>510</b> <code>(12%)</code><br />Forgotten Hall:
       <b>200</b> <code>(4%)</code><br />Other: <b>4</b> <code>(3%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
@@ -5551,7 +5551,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -5672,7 +5672,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Eidolon</td>
@@ -5700,14 +5700,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Hunter's Ice Dragon Cloak<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/82b3657f0b5b23cecdabe60593ec0221.png"
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
