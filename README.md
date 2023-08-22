@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 22, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 22, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>180</b></td>
+    <td align="center"><b>181</b></td>
   </tr>
   <tr>
     <td>
@@ -669,6 +669,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -678,17 +688,7 @@
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(3)</code><br />
+      <b>Traveler</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5486</b> <code>(rate -41)</code></td>
+    <td align="center"><b>5566</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4603046</b> <code>(rate -51)</code></td>
+    <td align="center"><b>4680862</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,8 +790,8 @@
       </table>
     </td>
     <td>
-      Mail: <b>1230</b> <code>(23%)</code><br />Daily Activity: <b>1200</b>
-      <code>(22%)</code><br />Adventure: <b>1117</b> <code>(21%)</code
+      Daily Activity: <b>1260</b> <code>(23%)</code><br />Mail: <b>1250</b>
+      <code>(23%)</code><br />Adventure: <b>1117</b> <code>(20%)</code
       ><br />Events: <b>1060</b> <code>(19%)</code><br />Spiral Abyss:
       <b>850</b> <code>(15%)</code><br />Other: <b>29</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
@@ -5578,7 +5578,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>53</b></td>
+    <td><b>54</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5586,7 +5586,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>103</b></td>
+    <td><b>104</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5603,7 +5603,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5631</b> <code>(rate -29)</code></td>
+    <td align="center"><b>5701</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5629,10 +5629,10 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>1430</b> <code>(25%)</code><br />Event: <b>1320</b>
-      <code>(23%)</code><br />Daily Activity: <b>1125</b> <code>(19%)</code
+      Adventure Rewards: <b>1440</b> <code>(25%)</code><br />Event: <b>1320</b>
+      <code>(23%)</code><br />Daily Activity: <b>1185</b> <code>(20%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(17%)</code><br />Mail:
-      <b>510</b> <code>(9%)</code><br />Simulated Universe: <b>240</b>
+      <b>510</b> <code>(8%)</code><br />Simulated Universe: <b>240</b>
       <code>(4%)</code><br />Other: <b>6</b> <code>(3%)</code><br />
     </td>
   </tr>
