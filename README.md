@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 23, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 24, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>378</b></td>
+    <td align="center"><b>379</b></td>
   </tr>
   <tr>
     <td>
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5671</b> <code>(rate -39)</code></td>
+    <td align="center"><b>5679</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4738125</b> <code>(rate -50)</code></td>
+    <td align="center"><b>4750255</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -791,9 +791,9 @@
     </td>
     <td>
       Daily Activity: <b>1320</b> <code>(24%)</code><br />Mail: <b>1250</b>
-      <code>(23%)</code><br />Adventure: <b>1162</b> <code>(21%)</code
+      <code>(23%)</code><br />Adventure: <b>1167</b> <code>(21%)</code
       ><br />Events: <b>1060</b> <code>(18%)</code><br />Spiral Abyss:
-      <b>850</b> <code>(14%)</code><br />Other: <b>29</b> <code>(0%)</code
+      <b>850</b> <code>(14%)</code><br />Other: <b>32</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5545,22 +5545,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>8000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-23 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-24 01:06:22+08:00</b></td>
   </tr>
 </table>
 
