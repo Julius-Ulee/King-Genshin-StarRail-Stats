@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 23, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 23, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Traveler</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -1540,7 +1540,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5586,7 +5586,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>105</b></td>
+    <td><b>109</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5603,7 +5603,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5941</b> <code>(rate -25)</code></td>
+    <td align="center"><b>6326</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5629,11 +5629,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>1620</b> <code>(27%)</code><br />Event: <b>1320</b>
-      <code>(22%)</code><br />Daily Activity: <b>1245</b> <code>(20%)</code
-      ><br />Forgotten Hall: <b>1000</b> <code>(16%)</code><br />Mail:
+      Event: <b>1680</b> <code>(26%)</code><br />Adventure Rewards: <b>1645</b>
+      <code>(26%)</code><br />Daily Activity: <b>1245</b> <code>(19%)</code
+      ><br />Forgotten Hall: <b>1000</b> <code>(15%)</code><br />Mail:
       <b>510</b> <code>(8%)</code><br />Simulated Universe: <b>240</b>
-      <code>(4%)</code><br />Other: <b>6</b> <code>(3%)</code><br />
+      <code>(3%)</code><br />Other: <b>6</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
