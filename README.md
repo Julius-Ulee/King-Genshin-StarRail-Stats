@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 23, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 23, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>181</b></td>
+    <td align="center"><b>182</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>39</b></td>
+    <td align="center"><b>40</b></td>
   </tr>
   <tr>
     <td>
@@ -571,11 +571,11 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_4.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_5.png"
         ,
         height="100"
       /><br />
-      <b>Queen-Size</b>
+      <b>Elegant</b>
     </td>
   </tr>
   <tr>
@@ -587,7 +587,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>(4760)</code></td>
+    <td align="center"><code>(7370)</code></td>
   </tr>
   <tr>
     <td>
@@ -598,7 +598,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>327</code></td>
+    <td align="center"><code>328</code></td>
   </tr>
   <tr>
     <td>
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5606</b> <code>(rate -40)</code></td>
+    <td align="center"><b>5671</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4680862</b> <code>(rate -50)</code></td>
+    <td align="center"><b>4738125</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,10 +790,10 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>1260</b> <code>(23%)</code><br />Mail: <b>1250</b>
-      <code>(23%)</code><br />Adventure: <b>1157</b> <code>(21%)</code
+      Daily Activity: <b>1320</b> <code>(24%)</code><br />Mail: <b>1250</b>
+      <code>(23%)</code><br />Adventure: <b>1162</b> <code>(21%)</code
       ><br />Events: <b>1060</b> <code>(18%)</code><br />Spiral Abyss:
-      <b>850</b> <code>(15%)</code><br />Other: <b>29</b> <code>(0%)</code
+      <b>850</b> <code>(14%)</code><br />Other: <b>29</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
