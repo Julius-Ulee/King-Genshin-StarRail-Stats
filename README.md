@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 24, 2023 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 24, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/22542ef6122f5ad4ac1c3834d11cdfb4_5589935104269762612.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-23 00:48:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-24 09:07:51+08:00</b></td>
   </tr>
 </table>
 
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>182</b></td>
+    <td align="center"><b>183</b></td>
   </tr>
   <tr>
     <td>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4754130</b> <code>(rate -50)</code></td>
+    <td align="center"><b>4766380</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
