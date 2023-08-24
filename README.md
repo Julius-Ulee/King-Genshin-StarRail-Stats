@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 24, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 25, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -200,7 +200,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>275</b></td>
+    <td align="center"><b>280</b></td>
   </tr>
   <tr>
     <td>
@@ -445,7 +445,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/5/" width="80" />
+            <img src="https://progress-bar.dev/6/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5779</b> <code>(rate -38)</code></td>
+    <td align="center"><b>5804</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4823677</b> <code>(rate -49)</code></td>
+    <td align="center"><b>4833677</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -791,7 +791,7 @@
     </td>
     <td>
       Daily Activity: <b>1380</b> <code>(24%)</code><br />Mail: <b>1250</b>
-      <code>(22%)</code><br />Adventure: <b>1167</b> <code>(21%)</code
+      <code>(22%)</code><br />Adventure: <b>1192</b> <code>(21%)</code
       ><br />Events: <b>1100</b> <code>(19%)</code><br />Spiral Abyss:
       <b>850</b> <code>(14%)</code><br />Other: <b>32</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />
@@ -5545,22 +5545,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>1 x Disposable Kinetic Arm</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-24 01:06:22+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-25 01:06:20+08:00</b></td>
   </tr>
 </table>
 
