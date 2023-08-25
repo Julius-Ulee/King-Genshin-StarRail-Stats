@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 25, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,11 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
@@ -688,7 +683,12 @@
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -5545,22 +5545,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>2 x Refined Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-25 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-26 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -5603,7 +5603,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6391</b> <code>(rate -20)</code></td>
+    <td align="center"><b>6456</b> <code>(rate -19)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5629,11 +5629,11 @@
       </table>
     </td>
     <td>
-      Event: <b>1680</b> <code>(26%)</code><br />Adventure Rewards: <b>1650</b>
-      <code>(25%)</code><br />Daily Activity: <b>1305</b> <code>(20%)</code
+      Event: <b>1680</b> <code>(26%)</code><br />Adventure Rewards: <b>1655</b>
+      <code>(25%)</code><br />Daily Activity: <b>1365</b> <code>(21%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(15%)</code><br />Mail:
-      <b>510</b> <code>(7%)</code><br />Other: <b>6</b> <code>(4%)</code
-      ><br />Simulated Universe: <b>240</b> <code>(3%)</code><br />
+      <b>510</b> <code>(7%)</code><br />Simulated Universe: <b>240</b>
+      <code>(3%)</code><br />Other: <b>6</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
