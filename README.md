@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 22:06 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>380</b></td>
+    <td align="center"><b>383</b></td>
   </tr>
   <tr>
     <td>
@@ -200,7 +200,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>289</b></td>
+    <td align="center"><b>290</b></td>
   </tr>
   <tr>
     <td>
@@ -250,35 +250,35 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>8</b></td>
+    <td align="center"><b>10</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>751</b></td>
+    <td align="center"><b>752</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>528</b></td>
+    <td align="center"><b>532</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>149</b></td>
+    <td align="center"><b>152</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>56</b></td>
+    <td align="center"><b>59</b></td>
   </tr>
   <tr>
     <td>
@@ -445,7 +445,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/7/" width="80" />
+            <img src="https://progress-bar.dev/8/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,6 +669,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
@@ -678,17 +688,7 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6753</b> <code>(rate -28)</code></td>
+    <td align="center"><b>6873</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5823016</b> <code>(rate -38)</code></td>
+    <td align="center"><b>5897057</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -791,9 +791,9 @@
     </td>
     <td>
       Events: <b>1660</b> <code>(25%)</code><br />Daily Activity: <b>1500</b>
-      <code>(23%)</code><br />Adventure: <b>1309</b> <code>(20%)</code
+      <code>(22%)</code><br />Adventure: <b>1349</b> <code>(20%)</code
       ><br />Mail: <b>1250</b> <code>(18%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(12%)</code><br />Quests: <b>140</b> <code>(2%)</code><br />Other:
+      <code>(12%)</code><br />Quests: <b>220</b> <code>(3%)</code><br />Other:
       <b>44</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5603,7 +5603,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6456</b> <code>(rate -19)</code></td>
+    <td align="center"><b>6521</b> <code>(rate -18)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5629,11 +5629,11 @@
       </table>
     </td>
     <td>
-      Event: <b>1680</b> <code>(26%)</code><br />Adventure Rewards: <b>1655</b>
-      <code>(25%)</code><br />Daily Activity: <b>1365</b> <code>(21%)</code
+      Event: <b>1680</b> <code>(25%)</code><br />Adventure Rewards: <b>1660</b>
+      <code>(25%)</code><br />Daily Activity: <b>1425</b> <code>(21%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(15%)</code><br />Mail:
-      <b>510</b> <code>(7%)</code><br />Simulated Universe: <b>240</b>
-      <code>(3%)</code><br />Other: <b>6</b> <code>(3%)</code><br />
+      <b>510</b> <code>(7%)</code><br />Other: <b>6</b> <code>(4%)</code
+      ><br />Simulated Universe: <b>240</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
