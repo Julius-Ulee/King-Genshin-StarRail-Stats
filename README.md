@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
+      <b>Diluc</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -5545,22 +5545,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Refined Aether</b>
+      <b>2 x Lost Crystal</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-26 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-27 01:06:20+08:00</b></td>
   </tr>
 </table>
 
