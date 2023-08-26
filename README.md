@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>379</b></td>
+    <td align="center"><b>380</b></td>
   </tr>
   <tr>
     <td>
@@ -200,7 +200,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>286</b></td>
+    <td align="center"><b>289</b></td>
   </tr>
   <tr>
     <td>
@@ -250,7 +250,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>7</b></td>
+    <td align="center"><b>8</b></td>
   </tr>
   <tr>
     <td>
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6418</b> <code>(rate -31)</code></td>
+    <td align="center"><b>6753</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5479964</b> <code>(rate -42)</code></td>
+    <td align="center"><b>5823016</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,11 +790,11 @@
       </table>
     </td>
     <td>
-      Events: <b>1500</b> <code>(24%)</code><br />Daily Activity: <b>1500</b>
-      <code>(24%)</code><br />Mail: <b>1250</b> <code>(20%)</code
-      ><br />Adventure: <b>1237</b> <code>(19%)</code><br />Spiral Abyss:
-      <b>850</b> <code>(13%)</code><br />Other: <b>41</b> <code>(0%)</code
-      ><br />Quests: <b>40</b> <code>(0%)</code><br />
+      Events: <b>1660</b> <code>(25%)</code><br />Daily Activity: <b>1500</b>
+      <code>(23%)</code><br />Adventure: <b>1309</b> <code>(20%)</code
+      ><br />Mail: <b>1250</b> <code>(18%)</code><br />Spiral Abyss: <b>850</b>
+      <code>(12%)</code><br />Quests: <b>140</b> <code>(2%)</code><br />Other:
+      <b>44</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5578,7 +5578,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>57</b></td>
+    <td><b>58</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5909,7 +5909,7 @@
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -6411,7 +6411,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -7282,7 +7282,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
