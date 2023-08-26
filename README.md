@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 07:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>184</b></td>
+    <td align="center"><b>185</b></td>
   </tr>
   <tr>
     <td>
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
+      <b>Yaoyao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4885550</b> <code>(rate -48)</code></td>
+    <td align="center"><b>4895550</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
