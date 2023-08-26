@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 26, 2023 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 26, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-25 07:26:41+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-26 09:37:54+08:00</b></td>
   </tr>
 </table>
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+      <b>Bennett</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Yaoyao</b> <code>(3)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5897</b> <code>(rate -37)</code></td>
+    <td align="center"><b>6418</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4895550</b> <code>(rate -48)</code></td>
+    <td align="center"><b>5479964</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,11 +790,11 @@
       </table>
     </td>
     <td>
-      Daily Activity: <b>1440</b> <code>(25%)</code><br />Mail: <b>1250</b>
-      <code>(22%)</code><br />Adventure: <b>1222</b> <code>(21%)</code
-      ><br />Events: <b>1100</b> <code>(18%)</code><br />Spiral Abyss:
-      <b>850</b> <code>(14%)</code><br />Other: <b>35</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />
+      Events: <b>1500</b> <code>(24%)</code><br />Daily Activity: <b>1500</b>
+      <code>(24%)</code><br />Mail: <b>1250</b> <code>(20%)</code
+      ><br />Adventure: <b>1237</b> <code>(19%)</code><br />Spiral Abyss:
+      <b>850</b> <code>(13%)</code><br />Other: <b>41</b> <code>(0%)</code
+      ><br />Quests: <b>40</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
