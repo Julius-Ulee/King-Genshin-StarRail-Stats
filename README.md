@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 07:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Almond Tofu</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-26 09:37:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-27 06:06:05+08:00</b></td>
   </tr>
 </table>
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6873</b> <code>(rate -26)</code></td>
+    <td align="center"><b>6933</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5897057</b> <code>(rate -38)</code></td>
+    <td align="center"><b>5942890</b> <code>(rate -37)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,8 +790,8 @@
       </table>
     </td>
     <td>
-      Events: <b>1660</b> <code>(25%)</code><br />Daily Activity: <b>1500</b>
-      <code>(22%)</code><br />Adventure: <b>1349</b> <code>(20%)</code
+      Events: <b>1660</b> <code>(24%)</code><br />Daily Activity: <b>1560</b>
+      <code>(23%)</code><br />Adventure: <b>1349</b> <code>(20%)</code
       ><br />Mail: <b>1250</b> <code>(18%)</code><br />Spiral Abyss: <b>850</b>
       <code>(12%)</code><br />Quests: <b>220</b> <code>(3%)</code><br />Other:
       <b>44</b> <code>(0%)</code><br />
@@ -1710,31 +1710,28 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Crimson Witch of Flames<br />4 x Ocean-Hued
-              Clam<br />
-            </td>
+            <td>Artifacts<br />5 x Ocean-Hued Clam<br /></td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/c1044cce25ac7a0cc9b51d6c20ea4630.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/618cce4e0b25e094910a1aa9d3e5119a.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Witch's Flower of Blaze<br /><img
+              Sea-Dyed Blossom<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ee123bfbce0ade513ab4f326da940f5a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Deep Palace's Plume<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ccd7930f484888b309f053c96aa8893f.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+10</code><br />
               ⭐⭐⭐⭐⭐<br />
               Cowry of Parting<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/fbafb4dd039a64d6527728b038341675.png"
