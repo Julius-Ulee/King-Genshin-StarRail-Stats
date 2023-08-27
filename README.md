@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 27, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>386</b></td>
+    <td align="center"><b>388</b></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>68</b></td>
+    <td align="center"><b>71</b></td>
   </tr>
   <tr>
     <td>
@@ -257,28 +257,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>752</b></td>
+    <td align="center"><b>775</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>532</b></td>
+    <td align="center"><b>553</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>152</b></td>
+    <td align="center"><b>158</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>59</b></td>
+    <td align="center"><b>63</b></td>
   </tr>
   <tr>
     <td>
@@ -529,7 +529,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/38/" width="80" />
+            <img src="https://progress-bar.dev/43/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(3)</code><br />
+      <b>Bennett</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7003</b> <code>(rate -25)</code></td>
+    <td align="center"><b>7246</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5951265</b> <code>(rate -37)</code></td>
+    <td align="center"><b>6043298</b> <code>(rate -36)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,10 +790,10 @@
       </table>
     </td>
     <td>
-      Events: <b>1720</b> <code>(25%)</code><br />Daily Activity: <b>1560</b>
-      <code>(23%)</code><br />Adventure: <b>1359</b> <code>(20%)</code
+      Events: <b>1720</b> <code>(24%)</code><br />Adventure: <b>1602</b>
+      <code>(23%)</code><br />Daily Activity: <b>1560</b> <code>(22%)</code
       ><br />Mail: <b>1250</b> <code>(17%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(12%)</code><br />Quests: <b>220</b> <code>(3%)</code><br />Other:
+      <code>(11%)</code><br />Quests: <b>220</b> <code>(3%)</code><br />Other:
       <b>44</b> <code>(0%)</code><br />
     </td>
   </tr>
