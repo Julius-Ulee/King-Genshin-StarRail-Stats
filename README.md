@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 27, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -257,14 +257,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>775</b></td>
+    <td align="center"><b>781</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>553</b></td>
+    <td align="center"><b>556</b></td>
   </tr>
   <tr>
     <td>
@@ -529,7 +529,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/43/" width="80" />
+            <img src="https://progress-bar.dev/44/" width="80" />
           </td>
         </tr>
         <tr>
@@ -598,7 +598,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>328</code></td>
+    <td align="center"><code>348</code></td>
   </tr>
   <tr>
     <td>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -5542,22 +5542,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Crystal</b>
+      <b>3 x Traveler's Guide</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-27 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-28 01:06:20+08:00</b></td>
   </tr>
 </table>
 
