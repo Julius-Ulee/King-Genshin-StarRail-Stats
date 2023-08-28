@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(3)</code><br />
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6515053</b> <code>(rate -31)</code></td>
+    <td align="center"><b>6549033</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5626,11 +5626,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>1800</b> <code>(25%)</code><br />Event: <b>1710</b>
-      <code>(24%)</code><br />Daily Activity: <b>1485</b> <code>(21%)</code
-      ><br />Forgotten Hall: <b>1000</b> <code>(14%)</code><br />Mail:
+      Adventure Rewards: <b>2660</b> <code>(38%)</code><br />Daily Activity:
+      <b>1485</b> <code>(21%)</code><br />Forgotten Hall: <b>1000</b>
+      <code>(14%)</code><br />Event: <b>850</b> <code>(12%)</code><br />Mail:
       <b>510</b> <code>(7%)</code><br />Simulated Universe: <b>420</b>
-      <code>(6%)</code><br />Other: <b>8</b> <code>(3%)</code><br />
+      <code>(6%)</code><br />Other: <b>8</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
