@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-27 06:06:05+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-28 05:23:36+08:00</b></td>
   </tr>
 </table>
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>388</b></td>
+    <td align="center"><b>389</b></td>
   </tr>
   <tr>
     <td>
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>186</b></td>
+    <td align="center"><b>187</b></td>
   </tr>
   <tr>
     <td>
@@ -520,7 +520,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">11</td>
+          <td align="center">12</td>
         </tr>
       </table>
     </td>
@@ -598,7 +598,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>348</code></td>
+    <td align="center"><code>349</code></td>
   </tr>
   <tr>
     <td>
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      <b>Traveler</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7252</b> <code>(rate -22)</code></td>
+    <td align="center"><b>7713</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6081758</b> <code>(rate -36)</code></td>
+    <td align="center"><b>6430853</b> <code>(rate -32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,11 +790,11 @@
       </table>
     </td>
     <td>
-      Events: <b>1720</b> <code>(24%)</code><br />Adventure: <b>1608</b>
-      <code>(23%)</code><br />Daily Activity: <b>1560</b> <code>(22%)</code
-      ><br />Mail: <b>1250</b> <code>(17%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(11%)</code><br />Quests: <b>220</b> <code>(3%)</code><br />Other:
-      <b>44</b> <code>(0%)</code><br />
+      Events: <b>2020</b> <code>(27%)</code><br />Daily Activity: <b>1620</b>
+      <code>(22%)</code><br />Adventure: <b>1608</b> <code>(21%)</code
+      ><br />Mail: <b>1250</b> <code>(16%)</code><br />Spiral Abyss: <b>850</b>
+      <code>(11%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
+      <b>145</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -5575,7 +5575,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>58</b></td>
+    <td><b>59</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5583,11 +5583,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>109</b></td>
+    <td><b>113</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>120</b></td>
+    <td><b>121</b></td>
   </tr>
 </table>
 
@@ -5600,7 +5600,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6521</b> <code>(rate -18)</code></td>
+    <td align="center"><b>6672</b> <code>(rate -16)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5626,10 +5626,10 @@
       </table>
     </td>
     <td>
-      Event: <b>1680</b> <code>(25%)</code><br />Adventure Rewards: <b>1660</b>
-      <code>(25%)</code><br />Daily Activity: <b>1425</b> <code>(21%)</code
-      ><br />Forgotten Hall: <b>1000</b> <code>(15%)</code><br />Mail:
-      <b>510</b> <code>(7%)</code><br />Other: <b>6</b> <code>(4%)</code
+      Event: <b>1710</b> <code>(25%)</code><br />Adventure Rewards: <b>1720</b>
+      <code>(25%)</code><br />Daily Activity: <b>1485</b> <code>(22%)</code
+      ><br />Forgotten Hall: <b>1000</b> <code>(14%)</code><br />Mail:
+      <b>510</b> <code>(7%)</code><br />Other: <b>7</b> <code>(4%)</code
       ><br />Simulated Universe: <b>240</b> <code>(3%)</code><br />
     </td>
   </tr>
