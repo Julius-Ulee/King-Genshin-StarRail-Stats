@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,6 +669,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -678,17 +688,7 @@
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Sucrose</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7776</b> <code>(rate -17)</code></td>
+    <td align="center"><b>7801</b> <code>(rate -16)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6549033</b> <code>(rate -31)</code></td>
+    <td align="center"><b>6582783</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,7 +790,7 @@
       </table>
     </td>
     <td>
-      Events: <b>2020</b> <code>(26%)</code><br />Adventure: <b>1671</b>
+      Events: <b>2020</b> <code>(26%)</code><br />Adventure: <b>1696</b>
       <code>(22%)</code><br />Daily Activity: <b>1620</b> <code>(21%)</code
       ><br />Mail: <b>1250</b> <code>(17%)</code><br />Spiral Abyss: <b>850</b>
       <code>(11%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
@@ -5542,22 +5542,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Traveler's Guide</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-28 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-29 01:06:21+08:00</b></td>
   </tr>
 </table>
 
