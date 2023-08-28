@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 28, 2023 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 28, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -222,7 +222,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>71</b></td>
+    <td align="center"><b>72</b></td>
   </tr>
   <tr>
     <td>
@@ -257,21 +257,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>781</b></td>
+    <td align="center"><b>805</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>556</b></td>
+    <td align="center"><b>581</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>158</b></td>
+    <td align="center"><b>160</b></td>
   </tr>
   <tr>
     <td>
@@ -529,7 +529,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/44/" width="80" />
+            <img src="https://progress-bar.dev/47/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7713</b> <code>(rate -17)</code></td>
+    <td align="center"><b>7776</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6430853</b> <code>(rate -32)</code></td>
+    <td align="center"><b>6515053</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,9 +790,9 @@
       </table>
     </td>
     <td>
-      Events: <b>2020</b> <code>(27%)</code><br />Daily Activity: <b>1620</b>
-      <code>(22%)</code><br />Adventure: <b>1608</b> <code>(21%)</code
-      ><br />Mail: <b>1250</b> <code>(16%)</code><br />Spiral Abyss: <b>850</b>
+      Events: <b>2020</b> <code>(26%)</code><br />Adventure: <b>1671</b>
+      <code>(22%)</code><br />Daily Activity: <b>1620</b> <code>(21%)</code
+      ><br />Mail: <b>1250</b> <code>(17%)</code><br />Spiral Abyss: <b>850</b>
       <code>(11%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
     </td>
@@ -1055,7 +1055,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>
@@ -5583,7 +5583,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>113</b></td>
+    <td><b>115</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5600,7 +5600,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6672</b> <code>(rate -16)</code></td>
+    <td align="center"><b>6933</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5626,11 +5626,11 @@
       </table>
     </td>
     <td>
-      Event: <b>1710</b> <code>(25%)</code><br />Adventure Rewards: <b>1720</b>
-      <code>(25%)</code><br />Daily Activity: <b>1485</b> <code>(22%)</code
+      Adventure Rewards: <b>1800</b> <code>(25%)</code><br />Event: <b>1710</b>
+      <code>(24%)</code><br />Daily Activity: <b>1485</b> <code>(21%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(14%)</code><br />Mail:
-      <b>510</b> <code>(7%)</code><br />Other: <b>7</b> <code>(4%)</code
-      ><br />Simulated Universe: <b>240</b> <code>(3%)</code><br />
+      <b>510</b> <code>(7%)</code><br />Simulated Universe: <b>420</b>
+      <code>(6%)</code><br />Other: <b>8</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -6185,6 +6185,13 @@
             <td>Planar</td>
             <td align="center">
               <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐<br />
+              Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
                 ,
                 height="25"
@@ -6319,6 +6326,26 @@
               Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ab7802a535e213c72b332c8891e410df.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Herta's Space Station<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/379fa74719b165292685a398715e3b4c.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
+            </td>
+          </tr>
         </table>
       </td>
       <td valign="top">
@@ -6444,6 +6471,26 @@
               Thief's Meteor Boots<br />
             </td>
           </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/e32bd5e7a02a0a08ae6b2743f9f52fc3.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6a7b71a42b65408e3b236c03eff65505.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+            </td>
+          </tr>
         </table>
       </td>
       <td valign="top">
@@ -6567,6 +6614,26 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Thief's Meteor Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/e32bd5e7a02a0a08ae6b2743f9f52fc3.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6a7b71a42b65408e3b236c03eff65505.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
         </table>
