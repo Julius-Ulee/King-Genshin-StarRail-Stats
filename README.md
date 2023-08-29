@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -172,7 +172,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>394</b></td>
+    <td align="center"><b>396</b></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>72</b></td>
+    <td align="center"><b>78</b></td>
   </tr>
   <tr>
     <td>
@@ -257,28 +257,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>805</b></td>
+    <td align="center"><b>851</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>581</b></td>
+    <td align="center"><b>622</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>160</b></td>
+    <td align="center"><b>163</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>63</b></td>
+    <td align="center"><b>65</b></td>
   </tr>
   <tr>
     <td>
@@ -529,7 +529,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/47/" width="80" />
+            <img src="https://progress-bar.dev/54/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7946</b> <code>(rate -15)</code></td>
+    <td align="center"><b>8058</b> <code>(rate -14)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6631960</b> <code>(rate -30)</code></td>
+    <td align="center"><b>6696849</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,8 +790,8 @@
       </table>
     </td>
     <td>
-      Events: <b>2080</b> <code>(27%)</code><br />Adventure: <b>1721</b>
-      <code>(22%)</code><br />Daily Activity: <b>1680</b> <code>(22%)</code
+      Events: <b>2140</b> <code>(27%)</code><br />Adventure: <b>1773</b>
+      <code>(23%)</code><br />Daily Activity: <b>1680</b> <code>(21%)</code
       ><br />Mail: <b>1250</b> <code>(16%)</code><br />Spiral Abyss: <b>850</b>
       <code>(10%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
