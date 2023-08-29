@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 29, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -257,21 +257,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>851</b></td>
+    <td align="center"><b>859</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>622</b></td>
+    <td align="center"><b>627</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>163</b></td>
+    <td align="center"><b>165</b></td>
   </tr>
   <tr>
     <td>
@@ -529,7 +529,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/54/" width="80" />
+            <img src="https://progress-bar.dev/55/" width="80" />
           </td>
         </tr>
         <tr>
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8058</b> <code>(rate -14)</code></td>
+    <td align="center"><b>8158</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6696849</b> <code>(rate -29)</code></td>
+    <td align="center"><b>6762405</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,7 +790,7 @@
       </table>
     </td>
     <td>
-      Events: <b>2140</b> <code>(27%)</code><br />Adventure: <b>1773</b>
+      Events: <b>2140</b> <code>(27%)</code><br />Adventure: <b>1873</b>
       <code>(23%)</code><br />Daily Activity: <b>1680</b> <code>(21%)</code
       ><br />Mail: <b>1250</b> <code>(16%)</code><br />Spiral Abyss: <b>850</b>
       <code>(10%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
@@ -1790,7 +1790,7 @@
 <details>
   <summary align="center">
     <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
       ,
       height="18"
     /><b> Traveler</b>
@@ -1801,7 +1801,7 @@
       <th>
         <h3 align="center">
           <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
             height="20"
           />
@@ -1850,11 +1850,11 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
                 ,
                 height="18"
               />
-              Dendro
+              Geo
             </td>
           </tr>
           <tr>
@@ -1867,7 +1867,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>
@@ -5575,7 +5575,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>59</b></td>
+    <td><b>60</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5587,7 +5587,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>121</b></td>
+    <td><b>122</b></td>
   </tr>
 </table>
 
@@ -5600,7 +5600,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6933</b> <code>(rate -13)</code></td>
+    <td align="center"><b>7018</b> <code>(rate -12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5626,11 +5626,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2660</b> <code>(38%)</code><br />Daily Activity:
-      <b>1485</b> <code>(21%)</code><br />Forgotten Hall: <b>1000</b>
+      Adventure Rewards: <b>2685</b> <code>(38%)</code><br />Daily Activity:
+      <b>1545</b> <code>(22%)</code><br />Forgotten Hall: <b>1000</b>
       <code>(14%)</code><br />Event: <b>850</b> <code>(12%)</code><br />Mail:
       <b>510</b> <code>(7%)</code><br />Simulated Universe: <b>420</b>
-      <code>(6%)</code><br />Other: <b>8</b> <code>(2%)</code><br />
+      <code>(5%)</code><br />Other: <b>8</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
