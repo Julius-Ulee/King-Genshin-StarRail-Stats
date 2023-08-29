@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 29, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 30, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,16 +669,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -688,7 +678,17 @@
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8158</b> <code>(rate -13)</code></td>
+    <td align="center"><b>8176</b> <code>(rate -12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6762405</b> <code>(rate -29)</code></td>
+    <td align="center"><b>6771369</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,9 +790,9 @@
       </table>
     </td>
     <td>
-      Events: <b>2140</b> <code>(27%)</code><br />Adventure: <b>1873</b>
-      <code>(23%)</code><br />Daily Activity: <b>1680</b> <code>(21%)</code
-      ><br />Mail: <b>1250</b> <code>(16%)</code><br />Spiral Abyss: <b>850</b>
+      Events: <b>2140</b> <code>(27%)</code><br />Adventure: <b>1891</b>
+      <code>(24%)</code><br />Daily Activity: <b>1680</b> <code>(21%)</code
+      ><br />Mail: <b>1250</b> <code>(15%)</code><br />Spiral Abyss: <b>850</b>
       <code>(10%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
     </td>
@@ -5542,7 +5542,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5557,7 +5557,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-29 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-30 01:06:21+08:00</b></td>
   </tr>
 </table>
 
