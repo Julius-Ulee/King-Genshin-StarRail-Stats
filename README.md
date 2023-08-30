@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 30, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 30, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,6 +669,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -683,12 +688,7 @@
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      <b>Yaoyao</b> <code>(3)</code><br />
+      <b>Sucrose</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8380</b> <code>(rate -10)</code></td>
+    <td align="center"><b>8577</b> <code>(rate -8)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6903181</b> <code>(rate -27)</code></td>
+    <td align="center"><b>7055646</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,10 +790,10 @@
       </table>
     </td>
     <td>
-      Events: <b>2140</b> <code>(26%)</code><br />Adventure: <b>2015</b>
-      <code>(25%)</code><br />Daily Activity: <b>1740</b> <code>(21%)</code
+      Events: <b>2200</b> <code>(26%)</code><br />Adventure: <b>2152</b>
+      <code>(26%)</code><br />Daily Activity: <b>1740</b> <code>(21%)</code
       ><br />Mail: <b>1250</b> <code>(15%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(10%)</code><br />Quests: <b>240</b> <code>(2%)</code><br />Other:
+      <code>(9%)</code><br />Quests: <b>240</b> <code>(2%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -5583,11 +5583,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>116</b></td>
+    <td><b>117</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>122</b></td>
+    <td><b>131</b></td>
   </tr>
 </table>
 
