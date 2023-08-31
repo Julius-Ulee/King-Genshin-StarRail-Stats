@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 08:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,6 +669,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -683,12 +688,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br />
+      <b>Diluc</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -1384,46 +1384,43 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Thundering Fury<br />3 x Gladiator's Finale<br />1
-              x Instructor<br />
-            </td>
+            <td>Artifacts<br />5 x Gladiator's Finale<br /></td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1d7ea1530ab055017f0ce5fee53670a2.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Thunderbird's Mercy<br /><img
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Nostalgia<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/201efeeac7a7ece7123ec2ea4bc5b930.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Gladiator's Destiny<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Gladiator's Longing<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/459cae1464f465a414afc23586a5125a.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Instructor's Tea Cup<br /><img
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Intoxication<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Gladiator's Triumphus<br />
             </td>
           </tr>
@@ -1859,7 +1856,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+82</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -2022,7 +2019,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+87</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
