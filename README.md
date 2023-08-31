@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 07:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,7 +130,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -145,7 +145,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-30 05:18:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-08-31 07:01:48+08:00</b></td>
   </tr>
 </table>
 
@@ -183,7 +183,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>189</b></td>
+    <td align="center"><b>190</b></td>
   </tr>
   <tr>
     <td>
@@ -669,6 +669,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      <b>Yaoyao</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
@@ -678,17 +688,7 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(3)</code><br />
+      <b>Bennett</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8637</b> <code>(rate -7)</code></td>
+    <td align="center"><b>8747</b> <code>(rate -6)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>7055646</b> <code>(rate -26)</code></td>
+    <td align="center"><b>7151852</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,8 +790,8 @@
       </table>
     </td>
     <td>
-      Events: <b>2260</b> <code>(27%)</code><br />Adventure: <b>2152</b>
-      <code>(25%)</code><br />Daily Activity: <b>1740</b> <code>(21%)</code
+      Events: <b>2260</b> <code>(26%)</code><br />Adventure: <b>2202</b>
+      <code>(26%)</code><br />Daily Activity: <b>1800</b> <code>(21%)</code
       ><br />Mail: <b>1250</b> <code>(15%)</code><br />Spiral Abyss: <b>850</b>
       <code>(9%)</code><br />Quests: <b>240</b> <code>(2%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
@@ -5575,7 +5575,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>61</b></td>
+    <td><b>62</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5600,7 +5600,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7870</b> <code>(rate -1)</code></td>
+    <td align="center"><b>7985</b> <code>(rate 0)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5626,8 +5626,8 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2875</b> <code>(36%)</code><br />Daily Activity:
-      <b>1605</b> <code>(20%)</code><br />Mail: <b>1110</b> <code>(14%)</code
+      Adventure Rewards: <b>2880</b> <code>(36%)</code><br />Daily Activity:
+      <b>1665</b> <code>(20%)</code><br />Mail: <b>1160</b> <code>(14%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(12%)</code><br />Event:
       <b>850</b> <code>(10%)</code><br />Simulated Universe: <b>420</b>
       <code>(5%)</code><br />Other: <b>10</b> <code>(3%)</code><br />
@@ -6051,8 +6051,8 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
               The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
