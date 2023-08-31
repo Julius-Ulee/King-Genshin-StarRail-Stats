@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 01, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -130,22 +130,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-31 07:01:48+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-01 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -297,7 +297,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Cyno</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>9053</b> <code>(rate -3)</code></td>
+    <td align="center"><b>9073</b> <code>(rate -3)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,7 +790,7 @@
       </table>
     </td>
     <td>
-      Adventure: <b>2378</b> <code>(27%)</code><br />Events: <b>2260</b>
+      Adventure: <b>2398</b> <code>(27%)</code><br />Events: <b>2260</b>
       <code>(25%)</code><br />Daily Activity: <b>1800</b> <code>(20%)</code
       ><br />Mail: <b>1250</b> <code>(14%)</code><br />Spiral Abyss: <b>850</b>
       <code>(9%)</code><br />Quests: <b>370</b> <code>(4%)</code><br />Other:
@@ -5544,22 +5544,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-08-31 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-01 01:06:21+08:00</b></td>
   </tr>
 </table>
 
@@ -5602,7 +5602,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8440</b> <code>(rate 5)</code></td>
+    <td align="center"><b>8535</b> <code>(rate 6)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5628,11 +5628,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>2960</b> <code>(35%)</code><br />Daily Activity:
+      Adventure Rewards: <b>3055</b> <code>(35%)</code><br />Daily Activity:
       <b>1665</b> <code>(19%)</code><br />Mail: <b>1160</b> <code>(13%)</code
       ><br />Forgotten Hall: <b>1000</b> <code>(11%)</code><br />Event:
-      <b>850</b> <code>(10%)</code><br />Simulated Universe: <b>795</b>
-      <code>(9%)</code><br />Other: <b>10</b> <code>(3%)</code><br />
+      <b>850</b> <code>(9%)</code><br />Simulated Universe: <b>795</b>
+      <code>(9%)</code><br />Other: <b>10</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
