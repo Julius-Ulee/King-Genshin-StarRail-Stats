@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Aug 31, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Aug 31, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -669,26 +669,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+      <b>Bennett</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+      <b>Traveler</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+      <b>Sangonomiya Kokomi</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br />
+      <b>Cyno</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8762</b> <code>(rate -6)</code></td>
+    <td align="center"><b>8997</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>7168908</b> <code>(rate -24)</code></td>
+    <td align="center"><b>7252681</b> <code>(rate -23)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,10 +790,10 @@
       </table>
     </td>
     <td>
-      Events: <b>2260</b> <code>(26%)</code><br />Adventure: <b>2217</b>
+      Adventure: <b>2322</b> <code>(26%)</code><br />Events: <b>2260</b>
       <code>(26%)</code><br />Daily Activity: <b>1800</b> <code>(21%)</code
-      ><br />Mail: <b>1250</b> <code>(15%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(9%)</code><br />Quests: <b>240</b> <code>(2%)</code><br />Other:
+      ><br />Mail: <b>1250</b> <code>(13%)</code><br />Spiral Abyss: <b>850</b>
+      <code>(9%)</code><br />Quests: <b>370</b> <code>(4%)</code><br />Other:
       <b>145</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -898,7 +898,9 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />4 x Gilded Dreams<br />1 x The Exile<br /></td>
+            <td>
+              Artifacts<br />4 x Gilded Dreams<br />1 x Deepwood Memories<br />
+            </td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/0f9b505d448d0bad21be303a814e485b.png"
@@ -922,13 +924,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Sunken Years<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/337a99e03e5ca502bfd170594471247d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/9f3d09aeacfa02bb52e7be7c7e211189.png"
                 ,
                 height="25"
               />
-              <code>+16</code><br />
-              ⭐⭐⭐⭐<br />
-              Exile's Goblet<br /><img
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Lamp of the Lost<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/8414fe5540d8a6d12ca5e59fb654b042.png"
                 ,
                 height="25"
@@ -1384,7 +1386,10 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br />5 x Gladiator's Finale<br /></td>
+            <td>
+              Artifacts<br />3 x Gladiator's Finale<br />2 x Crimson Witch of
+              Flames<br />
+            </td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
@@ -1401,25 +1406,25 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Destiny<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1ac635f6c8cec0ce7db52b504aeba702.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/23dd412478100d82c18664f868bc7cd5.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Longing<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/e9306060a0541a745080198abbfec23e.png"
+              Witch's End Time<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/117da888a6f7bc96567f49d185d815bf.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Intoxication<br /><img
+              Witch's Heart Flames<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+11</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Triumphus<br />
             </td>
@@ -5642,7 +5647,7 @@
 <details open>
   <summary align="center">
     <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
       height="18"
     /><b> Trailblazer </b>
   </summary>
@@ -5652,7 +5657,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
             height="20"
           />
           Trailblazer
@@ -5661,10 +5666,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c3a62e635399b5b1491132e50ff570d7.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7b12b74fffc964c6b4fc1a8541b80c90.png"
             height="20"
           />
-          We Are Wildfire
+          Woof! Walk Time!
         </h3>
       </th>
     </tr>
@@ -5672,14 +5677,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/451aa124fa7af2186d75d9d699b01152.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/03ea77ee74c81948a83747b765eaac9e.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c3a62e635399b5b1491132e50ff570d7.png"
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7b12b74fffc964c6b4fc1a8541b80c90.png"
           />
         </p>
       </td>
@@ -5695,10 +5700,10 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              fire
+              physical
             </td>
           </tr>
           <tr>
@@ -5707,40 +5712,40 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/93d217c6ac9e67e47973d48b0dd23acc.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/fb4669d8e2bdca631648f2518d5ee610.png"
                 ,
                 height="25"
               />
               <code>+12</code><br />
               ⭐⭐⭐⭐<br />
-              Guard's Cast Iron Helmet<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c887e9ea97476e0c35954ad6294a0a52.png"
+              Champion's Headgear<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ebd3ed56b565ae2e12aa90bb046be582.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
-              Guard's Shining Gauntlets<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/23400a0e2a86d4a0492f3dacbec0b7ce.png"
+              Champion's Heavy Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4d5066e87159d6ea754e855c657d3f91.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐<br />
-              Guard's Uniform of Old<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f2f8e8c71859d5b1214ea206e901667d.png"
+              Champion's Chest Guard<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/579ef7fe1ddf66cb582b1080bc838108.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐<br />
-              Guard's Silver Greaves<br />
+              Champion's Fleetfoot Boots<br />
             </td>
           </tr>
           <tr>
@@ -5752,7 +5757,7 @@
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
+              ⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
                 ,
@@ -5769,7 +5774,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">We Are Wildfire</td>
+            <td align="center">Woof! Walk Time!</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5777,7 +5782,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
