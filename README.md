@@ -10,7 +10,7 @@
 <p align="center">
   <a href=""
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Anime+Game+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=JuliusKing's+Anime+Game+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 01, 2023 08:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 01, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -76,7 +76,7 @@
 <p align="center">
   <a href=""
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Genshin+Impact+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=JuliusKing's+Genshin+Impact+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -109,7 +109,7 @@
         ,
         height="18"
       />
-      <b>King</b> <code>Lv. 55</code>
+      <b>JuliusKing</b> <code>Lv. 55</code>
     </td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>190</b></td>
+    <td align="center"><b>191</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -581,7 +581,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>7370</code></td>
+    <td align="center"><code>7680</code></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>349</code></td>
+    <td align="center"><code>369</code></td>
   </tr>
   <tr>
     <td>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
         ,
         height="18"
       />
-      <b>Yaoyao</b> <code>(3)</code><br /><img
+      <b>Traveler</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
       <b>Diluc</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      <b>Traveler</b> <code>(3)</code><br />
+      <b>Bennett</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -733,11 +733,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>60</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>54165</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -778,11 +778,11 @@
       </table>
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Daily
-      Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>60</b> <code>(100%)</code><br />Events: <b>0</b>
+      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Quests:
+      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -1134,6 +1134,169 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
       ,
       height="18"
+    /><b> Xiangling</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Xiangling
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
+            ,
+            height="20"
+          />
+          "The Catch"
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+7</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />3 x Gladiator's Finale<br />2 x Crimson Witch of
+              Flames<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Nostalgia<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/201efeeac7a7ece7123ec2ea4bc5b930.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Destiny<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/23dd412478100d82c18664f868bc7cd5.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's End Time<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/117da888a6f7bc96567f49d185d815bf.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's Heart Flames<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
+                ,
+                height="25"
+              />
+              <code>+11</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Triumphus<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">"The Catch"</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Polearm</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>5</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
     /><b> Diluc</b>
   </summary>
   <br />
@@ -1294,10 +1457,10 @@
 <details>
   <summary align="center">
     <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
       ,
       height="18"
-    /><b> Xiangling</b>
+    /><b> Sangonomiya Kokomi</b>
   </summary>
   <br />
   <table align="center">
@@ -1305,21 +1468,21 @@
       <th>
         <h3 align="center">
           <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
             ,
             height="20"
           />
-          Xiangling
+          Sangonomiya Kokomi
         </h3>
       </th>
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1b7018e2807bb057e7192d4e36820e23.png"
             ,
             height="20"
           />
-          "The Catch"
+          Favonius Codex
         </h3>
       </th>
     </tr>
@@ -1327,7 +1490,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
             ,
             height="256"
           />
@@ -1336,7 +1499,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/3b8e9cfe6f81b068466dee0ab10794b1.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1b7018e2807bb057e7192d4e36820e23.png"
             ,
             height="256"
           />
@@ -1348,17 +1511,17 @@
         <table align="center">
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
                 ,
                 height="18"
               />
-              Pyro
+              Hydro
             </td>
           </tr>
           <tr>
@@ -1367,54 +1530,51 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+6</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />3 x Gladiator's Finale<br />2 x Crimson Witch of
-              Flames<br />
-            </td>
+            <td>Artifacts<br />5 x Ocean-Hued Clam<br /></td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ec5e3608654ab82f7fab2d2295914a23.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/618cce4e0b25e094910a1aa9d3e5119a.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Sea-Dyed Blossom<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ee123bfbce0ade513ab4f326da940f5a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Nostalgia<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/201efeeac7a7ece7123ec2ea4bc5b930.png"
+              Deep Palace's Plume<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ccd7930f484888b309f053c96aa8893f.png"
+                ,
+                height="25"
+              />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Cowry of Parting<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/fbafb4dd039a64d6527728b038341675.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Destiny<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/23dd412478100d82c18664f868bc7cd5.png"
+              Pearl Cage<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1f7c03f6503c002564c6fdb4974e4e74.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Witch's End Time<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/117da888a6f7bc96567f49d185d815bf.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Witch's Heart Flames<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/f6ab9ef8479f2cb6a584d36728323004.png"
-                ,
-                height="25"
-              />
-              <code>+11</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Gladiator's Triumphus<br />
+              Crown of Watatsumi<br />
             </td>
           </tr>
           <tr>
@@ -1427,11 +1587,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">"The Catch"</td>
+            <td align="center">Favonius Codex</td>
           </tr>
           <tr>
             <td>Type</td>
-            <td align="center">Polearm</td>
+            <td align="center">Catalyst</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1439,15 +1599,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -1607,166 +1767,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-      ,
-      height="18"
-    /><b> Sangonomiya Kokomi</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-            ,
-            height="20"
-          />
-          Sangonomiya Kokomi
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1b7018e2807bb057e7192d4e36820e23.png"
-            ,
-            height="20"
-          />
-          Favonius Codex
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1b7018e2807bb057e7192d4e36820e23.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                ,
-                height="18"
-              />
-              Hydro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />5 x Ocean-Hued Clam<br /></td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/618cce4e0b25e094910a1aa9d3e5119a.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Sea-Dyed Blossom<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ee123bfbce0ade513ab4f326da940f5a.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Deep Palace's Plume<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ccd7930f484888b309f053c96aa8893f.png"
-                ,
-                height="25"
-              />
-              <code>+10</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Cowry of Parting<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/fbafb4dd039a64d6527728b038341675.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Pearl Cage<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/1f7c03f6503c002564c6fdb4974e4e74.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Crown of Watatsumi<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Favonius Codex</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Catalyst</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+50</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5573,7 +5573,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>122</b></td>
+    <td><b>123</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5590,7 +5590,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>465</b> <code>(rate -94)</code></td>
+    <td align="center"><b>590</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5616,9 +5616,9 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>205</b> <code>(44%)</code><br />Forgotten Hall:
-      <b>200</b> <code>(43%)</code><br />Daily Activity: <b>60</b>
-      <code>(12%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
+      Adventure Rewards: <b>330</b> <code>(55%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(33%)</code><br />Daily Activity: <b>60</b>
+      <code>(10%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Event:
       <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
       <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
