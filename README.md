@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 01, 2023 08:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 01, 2023 08:28 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -101,7 +101,7 @@
 <table align="center">
   <tr>
     <th rowspan="2" align="center">
-      <img src="./images/logo/genshin-logo.png" , width="80" , alt="Goddess" />
+      <img src="./images/logo/Zhongli_Icon.webp" , width="80" , alt="Goddess" />
     </th>
     <td colspan="2" align="center">
       <img
@@ -773,13 +773,7 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
       <table align="center">
         <tr>
-          <td>
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a8bb1b0dac568acd2cee9e5f53d6c73f.png?x-oss-process=image%2Fformat%2Cwebp"
-              ,
-              height="80"
-            />
-          </td>
+          <td><img src="./images/logo/Zhongli_Icon.webp" , height="80" /></td>
         </tr>
       </table>
     </td>
