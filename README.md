@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 01, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 01, 2023 07:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -739,11 +739,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(18)</code><br />
     </td>
   </tr>
 </table>
@@ -761,7 +761,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>9073</b> <code>(rate -3)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -772,7 +772,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>7293435</b> <code>(rate -23)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -790,11 +790,11 @@
       </table>
     </td>
     <td>
-      Adventure: <b>2398</b> <code>(27%)</code><br />Events: <b>2260</b>
-      <code>(25%)</code><br />Daily Activity: <b>1800</b> <code>(20%)</code
-      ><br />Mail: <b>1250</b> <code>(14%)</code><br />Spiral Abyss: <b>850</b>
-      <code>(9%)</code><br />Quests: <b>370</b> <code>(4%)</code><br />Other:
-      <b>145</b> <code>(1%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Daily
+      Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5577,7 +5577,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>62</b></td>
+    <td><b>63</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5602,7 +5602,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8535</b> <code>(rate 6)</code></td>
+    <td align="center"><b>465</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5612,7 +5612,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>52</b> <code>(rate -21)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5628,11 +5628,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>3055</b> <code>(35%)</code><br />Daily Activity:
-      <b>1665</b> <code>(19%)</code><br />Mail: <b>1160</b> <code>(13%)</code
-      ><br />Forgotten Hall: <b>1000</b> <code>(11%)</code><br />Event:
-      <b>850</b> <code>(9%)</code><br />Simulated Universe: <b>795</b>
-      <code>(9%)</code><br />Other: <b>10</b> <code>(4%)</code><br />
+      Adventure Rewards: <b>205</b> <code>(44%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(43%)</code><br />Daily Activity: <b>60</b>
+      <code>(12%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
+      <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5927,7 +5927,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -6147,7 +6147,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -6503,7 +6503,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+58</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -6727,7 +6727,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -6872,7 +6872,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -7757,7 +7757,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
