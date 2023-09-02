@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 02, 2023 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 02, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>191</b></td>
+    <td align="center"><b>192</b></td>
   </tr>
   <tr>
     <td>
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>96</b></td>
+    <td align="center"><b>99</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>964</b></td>
+    <td align="center"><b>980</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>716</b></td>
+    <td align="center"><b>732</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>198</b></td>
+    <td align="center"><b>199</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>70</b></td>
+    <td align="center"><b>73</b></td>
   </tr>
   <tr>
     <td>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/73/" width="80" />
+            <img src="https://progress-bar.dev/76/" width="80" />
           </td>
         </tr>
         <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>400</b> <code>(rate -95)</code></td>
+    <td align="center"><b>624</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>148307</b> <code>(rate -97)</code></td>
+    <td align="center"><b>296468</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -778,8 +778,8 @@
       </table>
     </td>
     <td>
-      Adventure: <b>340</b> <code>(85%)</code><br />Daily Activity: <b>60</b>
-      <code>(15%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Quests:
+      Adventure: <b>474</b> <code>(76%)</code><br />Daily Activity: <b>120</b>
+      <code>(20%)</code><br />Quests: <b>30</b> <code>(4%)</code><br />Events:
       <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
