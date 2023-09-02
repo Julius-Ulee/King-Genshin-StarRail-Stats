@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 02, 2023 22:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>587075</b> <code>(rate -91)</code></td>
+    <td align="center"><b>887075</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5532,22 +5532,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-02 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-03 01:06:21+08:00</b></td>
   </tr>
 </table>
 
