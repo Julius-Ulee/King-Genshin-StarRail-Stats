@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 02, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 02, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>404</b></td>
+    <td align="center"><b>405</b></td>
   </tr>
   <tr>
     <td>
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>99</b></td>
+    <td align="center"><b>101</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>980</b></td>
+    <td align="center"><b>995</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>732</b></td>
+    <td align="center"><b>750</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>199</b></td>
+    <td align="center"><b>203</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>73</b></td>
+    <td align="center"><b>76</b></td>
   </tr>
   <tr>
     <td>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/76/" width="80" />
+            <img src="https://progress-bar.dev/79/" width="80" />
           </td>
         </tr>
         <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>624</b> <code>(rate -93)</code></td>
+    <td align="center"><b>902</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>296468</b> <code>(rate -95)</code></td>
+    <td align="center"><b>452038</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -778,11 +778,11 @@
       </table>
     </td>
     <td>
-      Adventure: <b>474</b> <code>(76%)</code><br />Daily Activity: <b>120</b>
-      <code>(20%)</code><br />Quests: <b>30</b> <code>(4%)</code><br />Events:
-      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Adventure: <b>651</b> <code>(73%)</code><br />Quests: <b>130</b>
+      <code>(14%)</code><br />Daily Activity: <b>120</b> <code>(13%)</code
+      ><br />Other: <b>1</b> <code>(0%)</code><br />Events: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Mail:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -1228,7 +1228,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+16</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Destiny<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5e23bcb327418e280b7034e087ab0fb3.png"
@@ -1249,7 +1249,7 @@
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Gladiator's Triumphus<br />
             </td>
@@ -5565,7 +5565,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>63</b></td>
+    <td><b>64</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5573,7 +5573,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>123</b></td>
+    <td><b>125</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5590,7 +5590,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>590</b> <code>(rate -93)</code></td>
+    <td align="center"><b>670</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5600,7 +5600,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>1</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5616,9 +5616,9 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>330</b> <code>(55%)</code><br />Forgotten Hall:
-      <b>200</b> <code>(33%)</code><br />Daily Activity: <b>60</b>
-      <code>(10%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Event:
+      Adventure Rewards: <b>350</b> <code>(52%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(29%)</code><br />Daily Activity: <b>120</b>
+      <code>(17%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Event:
       <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
       <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
