@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 03, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>101</b></td>
+    <td align="center"><b>102</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>999</b></td>
+    <td align="center"><b>1008</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>765</b></td>
+    <td align="center"><b>783</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>207</b></td>
+    <td align="center"><b>214</b></td>
   </tr>
   <tr>
     <td>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/81/" width="80" />
+            <img src="https://progress-bar.dev/83/" width="80" />
           </td>
         </tr>
         <tr>
