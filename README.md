@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 03, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 03, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>406</b></td>
+    <td align="center"><b>407</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>995</b></td>
+    <td align="center"><b>999</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>750</b></td>
+    <td align="center"><b>765</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>203</b></td>
+    <td align="center"><b>207</b></td>
   </tr>
   <tr>
     <td>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/79/" width="80" />
+            <img src="https://progress-bar.dev/81/" width="80" />
           </td>
         </tr>
         <tr>
@@ -581,7 +581,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>7680</code></td>
+    <td align="center"><code>7780</code></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>369</code></td>
+    <td align="center"><code>372</code></td>
   </tr>
   <tr>
     <td>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1443</b> <code>(rate -84)</code></td>
+    <td align="center"><b>1569</b> <code>(rate -82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1181097</b> <code>(rate -83)</code></td>
+    <td align="center"><b>1639882</b> <code>(rate -77)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -778,8 +778,8 @@
       </table>
     </td>
     <td>
-      Adventure: <b>1101</b> <code>(77%)</code><br />Daily Activity: <b>180</b>
-      <code>(12%)</code><br />Quests: <b>160</b> <code>(11%)</code><br />Other:
+      Adventure: <b>1227</b> <code>(79%)</code><br />Daily Activity: <b>180</b>
+      <code>(11%)</code><br />Quests: <b>160</b> <code>(10%)</code><br />Other:
       <b>2</b> <code>(0%)</code><br />Events: <b>0</b> <code>(0%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Mail: <b>0</b>
       <code>(0%)</code><br />
@@ -5565,7 +5565,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>64</b></td>
+    <td><b>65</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5590,7 +5590,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>670</b> <code>(rate -92)</code></td>
+    <td align="center"><b>735</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5600,7 +5600,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>1</b> <code>(rate -98)</code></td>
+    <td align="center"><b>2</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5616,9 +5616,9 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>350</b> <code>(52%)</code><br />Forgotten Hall:
-      <b>200</b> <code>(29%)</code><br />Daily Activity: <b>120</b>
-      <code>(17%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Event:
+      Adventure Rewards: <b>355</b> <code>(48%)</code><br />Forgotten Hall:
+      <b>200</b> <code>(27%)</code><br />Daily Activity: <b>180</b>
+      <code>(24%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
       <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
       <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
