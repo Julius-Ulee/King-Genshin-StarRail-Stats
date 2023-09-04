@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 04, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 04, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1609</b> <code>(rate -82)</code></td>
+    <td align="center"><b>1669</b> <code>(rate -81)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1645897</b> <code>(rate -77)</code></td>
+    <td align="center"><b>2287667</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -778,8 +778,8 @@
       </table>
     </td>
     <td>
-      Adventure: <b>1247</b> <code>(78%)</code><br />Daily Activity: <b>180</b>
-      <code>(12%)</code><br />Quests: <b>160</b> <code>(9%)</code><br />Mail:
+      Adventure: <b>1247</b> <code>(75%)</code><br />Daily Activity: <b>240</b>
+      <code>(15%)</code><br />Quests: <b>160</b> <code>(9%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Other: <b>2</b> <code>(0%)</code
       ><br />Events: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />
@@ -5565,7 +5565,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>65</b></td>
+    <td><b>66</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5590,7 +5590,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>735</b> <code>(rate -91)</code></td>
+    <td align="center"><b>800</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5600,7 +5600,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>2</b> <code>(rate -96)</code></td>
+    <td align="center"><b>3</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5616,11 +5616,11 @@
       </table>
     </td>
     <td>
-      Adventure Rewards: <b>355</b> <code>(48%)</code><br />Forgotten Hall:
-      <b>200</b> <code>(27%)</code><br />Daily Activity: <b>180</b>
-      <code>(24%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
-      <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />
+      Adventure Rewards: <b>360</b> <code>(45%)</code><br />Daily Activity:
+      <b>240</b> <code>(30%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(25%)</code><br />Event: <b>0</b> <code>(0%)</code><br />Simulated
+      Universe: <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
