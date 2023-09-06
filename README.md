@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 06, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 06, 2023 22:09 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>407</b></td>
+    <td align="center"><b>411</b></td>
   </tr>
   <tr>
     <td>
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>102</b></td>
+    <td align="center"><b>106</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1008</b></td>
+    <td align="center"><b>1027</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>783</b></td>
+    <td align="center"><b>808</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>214</b></td>
+    <td align="center"><b>219</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>76</b></td>
+    <td align="center"><b>79</b></td>
   </tr>
   <tr>
     <td>
@@ -285,7 +285,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>40</b></td>
+    <td align="center"><b>41</b></td>
   </tr>
   <tr>
     <td>
@@ -481,7 +481,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/35/" width="80" />
+            <img src="https://progress-bar.dev/36/" width="80" />
           </td>
         </tr>
         <tr>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/83/" width="80" />
+            <img src="https://progress-bar.dev/88/" width="80" />
           </td>
         </tr>
         <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2102</b> <code>(rate -76)</code></td>
+    <td align="center"><b>2317</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2472111</b> <code>(rate -66)</code></td>
+    <td align="center"><b>2556667</b> <code>(rate -64)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1310</b> <code>(63%)</code><br />Daily Activity: <b>360</b>
-      <code>(18%)</code><br />Events: <b>250</b> <code>(12%)</code><br />Quests:
-      <b>160</b> <code>(7%)</code><br />Mail: <b>20</b> <code>(0%)</code
+      Adventure: <b>1495</b> <code>(65%)</code><br />Daily Activity: <b>360</b>
+      <code>(16%)</code><br />Events: <b>250</b> <code>(11%)</code><br />Quests:
+      <b>190</b> <code>(8%)</code><br />Mail: <b>20</b> <code>(0%)</code
       ><br />Other: <b>2</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />
     </td>
