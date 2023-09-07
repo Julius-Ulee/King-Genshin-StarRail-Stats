@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 07, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 07, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -265,7 +265,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>225</b></td>
+    <td align="center"><b>226</b></td>
   </tr>
   <tr>
     <td>
@@ -633,56 +633,56 @@
 <table align="center">
   <tr>
     <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center"><b>76</b></td>
+    <td align="center"><b>77</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>6</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>6</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>36</b></td>
+    <td align="center"><b>16</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>9-3</b></td>
+    <td align="center"><b>10-3</b></td>
   </tr>
   <tr>
     <td>🕐 Start Time</td>
-    <td align="center"><b>2023-08-15 20:00:00+00:00</b></td>
+    <td align="center"><b>2023-08-31 20:00:00+00:00</b></td>
   </tr>
   <tr>
     <td>🕛 End Time</td>
-    <td align="center"><b>2023-08-31 19:59:59+00:00</b></td>
+    <td align="center"><b>2023-09-15 19:59:59+00:00</b></td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Traveler</b> <code>(3)</code><br /><img
+      <b>Zhongli</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(3)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(3)</code><br />
+      <b>Cyno</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -693,7 +693,7 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(35)</code><br />
+      <b>Cyno</b> <code>(36)</code><br />
     </td>
   </tr>
   <tr>
@@ -704,18 +704,18 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(17518)</code><br />
+      <b>Cyno</b> <code>(22308)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(31328)</code><br />
+      <b>Diluc</b> <code>(90885)</code><br />
     </td>
   </tr>
   <tr>
@@ -726,7 +726,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(11)</code><br />
+      <b>Diluc</b> <code>(28)</code><br />
     </td>
   </tr>
   <tr>
@@ -737,7 +737,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(18)</code><br />
+      <b>Diluc</b> <code>(43)</code><br />
     </td>
   </tr>
 </table>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2387</b> <code>(rate -73)</code></td>
+    <td align="center"><b>2766</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,18 +766,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2580917</b> <code>(rate -64)</code></td>
+    <td align="center"><b>2879539</b> <code>(rate -60)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1495</b> <code>(63%)</code><br />Daily Activity: <b>360</b>
-      <code>(16%)</code><br />Events: <b>320</b> <code>(14%)</code><br />Quests:
-      <b>190</b> <code>(7%)</code><br />Mail: <b>20</b> <code>(0%)</code
-      ><br />Other: <b>2</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />
+      Adventure: <b>1560</b> <code>(57%)</code><br />Daily Activity: <b>420</b>
+      <code>(16%)</code><br />Events: <b>320</b> <code>(12%)</code><br />Spiral
+      Abyss: <b>250</b> <code>(9%)</code><br />Quests: <b>190</b>
+      <code>(6%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
+      <b>6</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5846,7 +5846,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>68</b></td>
+    <td><b>69</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5854,7 +5854,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>126</b></td>
+    <td><b>127</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5871,7 +5871,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>955</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1025</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5881,7 +5881,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>22</b> <code>(rate -46)</code></td>
+    <td align="center"><b>22</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5892,10 +5892,10 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>375</b> <code>(39%)</code><br />Daily Activity:
-      <b>360</b> <code>(37%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(20%)</code><br />Mail: <b>20</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>420</b> <code>(40%)</code><br />Adventure Rewards:
+      <b>385</b> <code>(37%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(19%)</code><br />Other: <b>0</b> <code>(3%)</code><br />Mail:
+      <b>20</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
