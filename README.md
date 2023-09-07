@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 07, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 07, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -673,11 +673,11 @@
         height="18"
       />
       <b>Diluc</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -5881,7 +5881,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>22</b> <code>(rate -47)</code></td>
+    <td align="center"><b>22</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td align="center">
