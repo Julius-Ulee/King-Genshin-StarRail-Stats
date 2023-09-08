@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>411</b></td>
+    <td align="center"><b>415</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>197</b></td>
+    <td align="center"><b>198</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>290</b></td>
+    <td align="center"><b>291</b></td>
   </tr>
   <tr>
     <td>
@@ -663,16 +663,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(6)</code><br /><img
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -682,7 +677,12 @@
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(6)</code><br />
+      <b>Xingqiu</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -5994,7 +5994,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1025</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1090</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6015,9 +6015,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>420</b> <code>(40%)</code><br />Adventure Rewards:
-      <b>385</b> <code>(37%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(19%)</code><br />Other: <b>0</b> <code>(3%)</code><br />Mail:
+      Daily Activity: <b>480</b> <code>(44%)</code><br />Adventure Rewards:
+      <b>390</b> <code>(35%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(18%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
