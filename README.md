@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(6)</code><br />
+      <b>Cyno</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2766</b> <code>(rate -69)</code></td>
+    <td align="center"><b>3021</b> <code>(rate -66)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2889539</b> <code>(rate -60)</code></td>
+    <td align="center"><b>2972115</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1560</b> <code>(57%)</code><br />Daily Activity: <b>420</b>
-      <code>(16%)</code><br />Events: <b>320</b> <code>(12%)</code><br />Spiral
-      Abyss: <b>250</b> <code>(9%)</code><br />Quests: <b>190</b>
+      Adventure: <b>1565</b> <code>(52%)</code><br />Events: <b>510</b>
+      <code>(17%)</code><br />Daily Activity: <b>480</b> <code>(16%)</code
+      ><br />Spiral Abyss: <b>250</b> <code>(9%)</code><br />Quests: <b>190</b>
       <code>(6%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
@@ -5969,7 +5969,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>69</b></td>
+    <td><b>70</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
