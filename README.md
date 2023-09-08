@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(6)</code><br /><img
+      <b>Sucrose</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
