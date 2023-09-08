@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 08, 2023 03:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 08, 2023 07:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -188,7 +188,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>35</b></td>
+    <td align="center"><b>36</b></td>
   </tr>
   <tr>
     <td>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(6)</code><br /><img
+      <b>Cyno</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br />
+      <b>Zhongli</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2879539</b> <code>(rate -60)</code></td>
+    <td align="center"><b>2889539</b> <code>(rate -60)</code></td>
   </tr>
   <tr>
     <td align="center">
