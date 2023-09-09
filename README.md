@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 10, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-09 01:06:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-10 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>114</b></td>
+    <td align="center"><b>120</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1050</b></td>
+    <td align="center"><b>1086</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>826</b></td>
+    <td align="center"><b>876</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>227</b></td>
+    <td align="center"><b>232</b></td>
   </tr>
   <tr>
     <td>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/92/" width="80" />
+            <img src="https://progress-bar.dev/99/" width="80" />
           </td>
         </tr>
         <tr>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       <b>Xingqiu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(6)</code><br />
+      <b>Zhongli</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3289</b> <code>(rate -63)</code></td>
+    <td align="center"><b>3339</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3229085</b> <code>(rate -55)</code></td>
+    <td align="center"><b>3278350</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1703</b> <code>(52%)</code><br />Events: <b>580</b>
+      Adventure: <b>1753</b> <code>(53%)</code><br />Events: <b>580</b>
       <code>(18%)</code><br />Daily Activity: <b>540</b> <code>(17%)</code
-      ><br />Spiral Abyss: <b>250</b> <code>(8%)</code><br />Quests: <b>190</b>
+      ><br />Spiral Abyss: <b>250</b> <code>(7%)</code><br />Quests: <b>190</b>
       <code>(5%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
@@ -5936,22 +5936,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-09 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-10 01:06:21+08:00</b></td>
   </tr>
 </table>
 
