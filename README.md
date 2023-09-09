@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 09, 2023 17:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 09, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(6)</code><br />
+      <b>Bennett</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3091</b> <code>(rate -65)</code></td>
+    <td align="center"><b>3289</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3018115</b> <code>(rate -58)</code></td>
+    <td align="center"><b>3229085</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1565</b> <code>(51%)</code><br />Events: <b>580</b>
-      <code>(19%)</code><br />Daily Activity: <b>480</b> <code>(16%)</code
+      Adventure: <b>1703</b> <code>(52%)</code><br />Events: <b>580</b>
+      <code>(18%)</code><br />Daily Activity: <b>540</b> <code>(17%)</code
       ><br />Spiral Abyss: <b>250</b> <code>(8%)</code><br />Quests: <b>190</b>
-      <code>(6%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
+      <code>(5%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -2616,11 +2616,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/702bd01dbb8490026809af40965fed64.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/69b7b21bb1b32e5534bf6cf08bb8190d.png"
             ,
             height="20"
           />
-          The Stringless
+          Polar Star
         </h3>
       </th>
     </tr>
@@ -2637,7 +2637,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/702bd01dbb8490026809af40965fed64.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/69b7b21bb1b32e5534bf6cf08bb8190d.png"
             ,
             height="256"
           />
@@ -2688,7 +2688,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Stringless</td>
+            <td align="center">Polar Star</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2696,7 +2696,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
