@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 10, 2023 17:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>415</b></td>
+    <td align="center"><b>417</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>199</b></td>
+    <td align="center"><b>200</b></td>
   </tr>
   <tr>
     <td>
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>120</b></td>
+    <td align="center"><b>126</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1086</b></td>
+    <td align="center"><b>1109</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>876</b></td>
+    <td align="center"><b>902</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>232</b></td>
+    <td align="center"><b>236</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>79</b></td>
+    <td align="center"><b>84</b></td>
   </tr>
   <tr>
     <td>
@@ -481,7 +481,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/36/" width="80" />
+            <img src="https://progress-bar.dev/42/" width="80" />
           </td>
         </tr>
         <tr>
@@ -523,7 +523,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/99/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>374</code></td>
+    <td align="center"><code>376</code></td>
   </tr>
   <tr>
     <td>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       <b>Bennett</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(6)</code><br />
+      <b>Cyno</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3339</b> <code>(rate -63)</code></td>
+    <td align="center"><b>3403</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3278350</b> <code>(rate -55)</code></td>
+    <td align="center"><b>3368063</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1753</b> <code>(53%)</code><br />Events: <b>580</b>
-      <code>(18%)</code><br />Daily Activity: <b>540</b> <code>(17%)</code
-      ><br />Spiral Abyss: <b>250</b> <code>(7%)</code><br />Quests: <b>190</b>
+      Adventure: <b>1757</b> <code>(52%)</code><br />Daily Activity: <b>600</b>
+      <code>(18%)</code><br />Events: <b>580</b> <code>(18%)</code><br />Spiral
+      Abyss: <b>250</b> <code>(7%)</code><br />Quests: <b>190</b>
       <code>(5%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
