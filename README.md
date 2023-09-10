@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 11, 2023 03:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-10 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-11 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>417</b></td>
+    <td align="center"><b>420</b></td>
   </tr>
   <tr>
     <td>
@@ -216,7 +216,7 @@
       />
       Geoculus
     </td>
-    <td align="center"><b>126</b></td>
+    <td align="center"><b>131</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1109</b></td>
+    <td align="center"><b>1129</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>902</b></td>
+    <td align="center"><b>914</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>236</b></td>
+    <td align="center"><b>242</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>84</b></td>
+    <td align="center"><b>85</b></td>
   </tr>
   <tr>
     <td>
@@ -481,7 +481,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/42/" width="80" />
+            <img src="https://progress-bar.dev/82/" width="80" />
           </td>
         </tr>
         <tr>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(6)</code><br /><img
+      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(6)</code><br />
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3630</b> <code>(rate -59)</code></td>
+    <td align="center"><b>3924</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3506151</b> <code>(rate -51)</code></td>
+    <td align="center"><b>3884391</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1984</b> <code>(55%)</code><br />Daily Activity: <b>600</b>
-      <code>(17%)</code><br />Events: <b>580</b> <code>(16%)</code><br />Spiral
-      Abyss: <b>250</b> <code>(7%)</code><br />Quests: <b>190</b>
-      <code>(5%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
+      Adventure: <b>2198</b> <code>(57%)</code><br />Daily Activity: <b>600</b>
+      <code>(16%)</code><br />Events: <b>580</b> <code>(15%)</code><br />Quests:
+      <b>270</b> <code>(6%)</code><br />Spiral Abyss: <b>250</b>
+      <code>(6%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5936,22 +5936,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-10 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-11 01:06:22+08:00</b></td>
   </tr>
 </table>
 
