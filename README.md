@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 10, 2023 17:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 10, 2023 22:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3403</b> <code>(rate -62)</code></td>
+    <td align="center"><b>3630</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,15 +766,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3368063</b> <code>(rate -53)</code></td>
+    <td align="center"><b>3506151</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1757</b> <code>(52%)</code><br />Daily Activity: <b>600</b>
-      <code>(18%)</code><br />Events: <b>580</b> <code>(18%)</code><br />Spiral
+      Adventure: <b>1984</b> <code>(55%)</code><br />Daily Activity: <b>600</b>
+      <code>(17%)</code><br />Events: <b>580</b> <code>(16%)</code><br />Spiral
       Abyss: <b>250</b> <code>(7%)</code><br />Quests: <b>190</b>
       <code>(5%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
@@ -5969,7 +5969,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>71</b></td>
+    <td><b>72</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5994,7 +5994,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1155</b> <code>(rate -86)</code></td>
+    <td align="center"><b>1220</b> <code>(rate -85)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6015,9 +6015,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>540</b> <code>(46%)</code><br />Adventure Rewards:
-      <b>395</b> <code>(34%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(17%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
+      Daily Activity: <b>600</b> <code>(49%)</code><br />Adventure Rewards:
+      <b>400</b> <code>(32%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(16%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -6116,7 +6116,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Heavy Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4d5066e87159d6ea754e855c657d3f91.png"
