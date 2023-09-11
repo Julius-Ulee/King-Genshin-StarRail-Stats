@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 11, 2023 12:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 11, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br /><img
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       <b>Bennett</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3924</b> <code>(rate -56)</code></td>
+    <td align="center"><b>4146</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3884391</b> <code>(rate -46)</code></td>
+    <td align="center"><b>4077853</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2198</b> <code>(57%)</code><br />Daily Activity: <b>600</b>
-      <code>(16%)</code><br />Events: <b>580</b> <code>(15%)</code><br />Quests:
-      <b>270</b> <code>(6%)</code><br />Spiral Abyss: <b>250</b>
-      <code>(6%)</code><br />Mail: <b>20</b> <code>(0%)</code><br />Other:
+      Adventure: <b>2330</b> <code>(57%)</code><br />Daily Activity: <b>640</b>
+      <code>(16%)</code><br />Events: <b>580</b> <code>(14%)</code><br />Quests:
+      <b>300</b> <code>(7%)</code><br />Spiral Abyss: <b>250</b>
+      <code>(6%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -2174,7 +2174,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+2</code></td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5969,7 +5969,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>72</b></td>
+    <td><b>73</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5977,7 +5977,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>127</b></td>
+    <td><b>128</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -6711,7 +6711,7 @@
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
@@ -6719,20 +6719,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d0f63457b2b9576d92129df2b80c887c.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5695129dfa98949e7cf21435fcce6ff9.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐<br />
-              Herta's Space Station<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7c43316db39f3f2404c4d3ec48da3895.png"
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/8b0c14d906edec8c233f914d10ff4f06.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
         </table>
