@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 11, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 11, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>420</b></td>
+    <td align="center"><b>424</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>200</b></td>
+    <td align="center"><b>201</b></td>
   </tr>
   <tr>
     <td>
@@ -251,28 +251,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1129</b></td>
+    <td align="center"><b>1145</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>914</b></td>
+    <td align="center"><b>919</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>242</b></td>
+    <td align="center"><b>246</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>85</b></td>
+    <td align="center"><b>86</b></td>
   </tr>
   <tr>
     <td>
@@ -481,7 +481,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/82/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
       <b>Diluc</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4146</b> <code>(rate -54)</code></td>
+    <td align="center"><b>4236</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4077853</b> <code>(rate -44)</code></td>
+    <td align="center"><b>4154535</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2330</b> <code>(57%)</code><br />Daily Activity: <b>640</b>
+      Adventure: <b>2330</b> <code>(56%)</code><br />Daily Activity: <b>660</b>
       <code>(16%)</code><br />Events: <b>580</b> <code>(14%)</code><br />Quests:
-      <b>300</b> <code>(7%)</code><br />Spiral Abyss: <b>250</b>
-      <code>(6%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
+      <b>370</b> <code>(9%)</code><br />Spiral Abyss: <b>250</b>
+      <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>6</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5994,7 +5994,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1220</b> <code>(rate -85)</code></td>
+    <td align="center"><b>1290</b> <code>(rate -84)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6015,9 +6015,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>600</b> <code>(49%)</code><br />Adventure Rewards:
-      <b>400</b> <code>(32%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(16%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
+      Daily Activity: <b>660</b> <code>(51%)</code><br />Adventure Rewards:
+      <b>410</b> <code>(31%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(15%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
