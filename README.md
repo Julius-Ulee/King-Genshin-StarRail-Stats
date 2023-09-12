@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 12, 2023 03:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 12, 2023 07:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -668,6 +668,11 @@
         height="18"
       />
       <b>Cyno</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -677,12 +682,7 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(6)</code><br />
+      <b>Zhongli</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4321</b> <code>(rate -52)</code></td>
+    <td align="center"><b>4325</b> <code>(rate -52)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,14 +766,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4154835</b> <code>(rate -43)</code></td>
+    <td align="center"><b>4157100</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2355</b> <code>(55%)</code><br />Daily Activity: <b>660</b>
+      Adventure: <b>2359</b> <code>(55%)</code><br />Daily Activity: <b>660</b>
       <code>(16%)</code><br />Events: <b>640</b> <code>(15%)</code><br />Quests:
       <b>370</b> <code>(9%)</code><br />Spiral Abyss: <b>250</b>
       <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
