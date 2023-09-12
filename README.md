@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 12, 2023 07:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 12, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>425</b></td>
+    <td align="center"><b>426</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>201</b></td>
+    <td align="center"><b>202</b></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>28</b></td>
+    <td align="center"><b>37</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1145</b></td>
+    <td align="center"><b>1153</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>919</b></td>
+    <td align="center"><b>925</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>246</b></td>
+    <td align="center"><b>247</b></td>
   </tr>
   <tr>
     <td>
@@ -495,12 +495,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/19/" width="80" />
+            <img src="https://progress-bar.dev/22/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">1</td>
+          <td align="center">3</td>
         </tr>
       </table>
     </td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>377</code></td>
+    <td align="center"><code>381</code></td>
   </tr>
   <tr>
     <td>
@@ -663,6 +663,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
@@ -673,11 +678,6 @@
         height="18"
       />
       <b>Xingqiu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4325</b> <code>(rate -52)</code></td>
+    <td align="center"><b>4595</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,18 +766,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4157100</b> <code>(rate -43)</code></td>
+    <td align="center"><b>4570196</b> <code>(rate -37)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2359</b> <code>(55%)</code><br />Daily Activity: <b>660</b>
-      <code>(16%)</code><br />Events: <b>640</b> <code>(15%)</code><br />Quests:
-      <b>370</b> <code>(9%)</code><br />Spiral Abyss: <b>250</b>
+      Adventure: <b>2416</b> <code>(53%)</code><br />Daily Activity: <b>720</b>
+      <code>(16%)</code><br />Events: <b>640</b> <code>(14%)</code><br />Quests:
+      <b>520</b> <code>(12%)</code><br />Spiral Abyss: <b>250</b>
       <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
-      <b>6</b> <code>(0%)</code><br />
+      <b>9</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
