@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 13, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 13, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(6)</code><br />
+      <b>Bennett</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4595</b> <code>(rate -49)</code></td>
+    <td align="center"><b>4655</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,15 +766,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4619696</b> <code>(rate -36)</code></td>
+    <td align="center"><b>4666965</b> <code>(rate -36)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2416</b> <code>(53%)</code><br />Daily Activity: <b>720</b>
-      <code>(16%)</code><br />Events: <b>640</b> <code>(14%)</code><br />Quests:
+      Adventure: <b>2416</b> <code>(52%)</code><br />Daily Activity: <b>780</b>
+      <code>(17%)</code><br />Events: <b>640</b> <code>(14%)</code><br />Quests:
       <b>520</b> <code>(12%)</code><br />Spiral Abyss: <b>250</b>
       <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>9</b> <code>(0%)</code><br />
