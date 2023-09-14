@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 14, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 14, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>203</b></td>
+    <td align="center"><b>204</b></td>
   </tr>
   <tr>
     <td>
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
       <b>Sucrose</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(6)</code><br />
+      <b>Xingqiu</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4655</b> <code>(rate -48)</code></td>
+    <td align="center"><b>4785</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4666965</b> <code>(rate -36)</code></td>
+    <td align="center"><b>4825962</b> <code>(rate -33)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2416</b> <code>(52%)</code><br />Daily Activity: <b>780</b>
-      <code>(17%)</code><br />Events: <b>640</b> <code>(14%)</code><br />Quests:
-      <b>520</b> <code>(12%)</code><br />Spiral Abyss: <b>250</b>
+      Adventure: <b>2416</b> <code>(51%)</code><br />Daily Activity: <b>840</b>
+      <code>(18%)</code><br />Events: <b>710</b> <code>(15%)</code><br />Quests:
+      <b>520</b> <code>(11%)</code><br />Spiral Abyss: <b>250</b>
       <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>9</b> <code>(0%)</code><br />
     </td>
@@ -5976,7 +5976,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>128</b></td>
+    <td><b>129</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5993,7 +5993,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1290</b> <code>(rate -84)</code></td>
+    <td align="center"><b>1375</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6014,10 +6014,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>660</b> <code>(51%)</code><br />Adventure Rewards:
-      <b>410</b> <code>(31%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(15%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Mail:
-      <b>20</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>720</b> <code>(52%)</code><br />Adventure Rewards:
+      <b>415</b> <code>(30%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(14%)</code><br />Mail: <b>40</b> <code>(2%)</code><br />Other:
+      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -6254,14 +6254,14 @@
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/3d2cf92ba4272b53a09b815f2fbfb8a8.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9b0b809926337ac9076b0fd42a1b2559.png"
                 ,
@@ -6275,7 +6275,7 @@
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
@@ -6709,7 +6709,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+8</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
