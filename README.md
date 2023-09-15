@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 15, 2023 12:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 15, 2023 17:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -668,11 +668,6 @@
         height="18"
       />
       <b>Diluc</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
@@ -682,7 +677,12 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(6)</code><br />
+      <b>Cyno</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
