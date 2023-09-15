@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 15, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 15, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -663,26 +663,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
+      <b>Bennett</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
       <b>Cyno</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(6)</code><br />
+      <b>Xingqiu</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4785</b> <code>(rate -47)</code></td>
+    <td align="center"><b>4939</b> <code>(rate -45)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4825962</b> <code>(rate -33)</code></td>
+    <td align="center"><b>4976024</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2416</b> <code>(51%)</code><br />Daily Activity: <b>840</b>
-      <code>(18%)</code><br />Events: <b>710</b> <code>(15%)</code><br />Quests:
-      <b>520</b> <code>(11%)</code><br />Spiral Abyss: <b>250</b>
+      Adventure: <b>2440</b> <code>(50%)</code><br />Daily Activity: <b>900</b>
+      <code>(19%)</code><br />Events: <b>780</b> <code>(16%)</code><br />Quests:
+      <b>520</b> <code>(10%)</code><br />Spiral Abyss: <b>250</b>
       <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>9</b> <code>(0%)</code><br />
     </td>
@@ -2174,7 +2174,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5968,7 +5968,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>74</b></td>
+    <td><b>75</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5976,7 +5976,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>129</b></td>
+    <td><b>130</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5993,7 +5993,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1375</b> <code>(rate -83)</code></td>
+    <td align="center"><b>1445</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6014,10 +6014,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>720</b> <code>(52%)</code><br />Adventure Rewards:
-      <b>415</b> <code>(30%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(14%)</code><br />Mail: <b>40</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>780</b> <code>(53%)</code><br />Adventure Rewards:
+      <b>425</b> <code>(29%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(13%)</code><br />Other: <b>0</b> <code>(3%)</code><br />Mail:
+      <b>40</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
