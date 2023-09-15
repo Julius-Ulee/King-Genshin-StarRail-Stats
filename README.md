@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 15, 2023 22:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 16, 2023 03:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-15 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-16 01:06:20+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>426</b></td>
+    <td align="center"><b>428</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>204</b></td>
+    <td align="center"><b>205</b></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>37</b></td>
+    <td align="center"><b>39</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1153</b></td>
+    <td align="center"><b>1155</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>925</b></td>
+    <td align="center"><b>927</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>247</b></td>
+    <td align="center"><b>248</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>10-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -495,7 +495,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/22/" width="80" />
+            <img src="https://progress-bar.dev/23/" width="80" />
           </td>
         </tr>
         <tr>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>381</code></td>
+    <td align="center"><code>386</code></td>
   </tr>
   <tr>
     <td>
@@ -663,16 +663,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(6)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+      <b>Diluc</b> <code>(6)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(6)</code><br /><img
+      <b>Sangonomiya Kokomi</b> <code>(6)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4939</b> <code>(rate -45)</code></td>
+    <td align="center"><b>5049</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4976024</b> <code>(rate -31)</code></td>
+    <td align="center"><b>5026824</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2440</b> <code>(50%)</code><br />Daily Activity: <b>900</b>
-      <code>(19%)</code><br />Events: <b>780</b> <code>(16%)</code><br />Quests:
-      <b>520</b> <code>(10%)</code><br />Spiral Abyss: <b>250</b>
-      <code>(5%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
+      Adventure: <b>2440</b> <code>(49%)</code><br />Daily Activity: <b>900</b>
+      <code>(18%)</code><br />Events: <b>780</b> <code>(16%)</code><br />Quests:
+      <b>630</b> <code>(13%)</code><br />Spiral Abyss: <b>250</b>
+      <code>(4%)</code><br />Mail: <b>40</b> <code>(0%)</code><br />Other:
       <b>9</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -5935,22 +5935,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-15 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-16 01:06:21+08:00</b></td>
   </tr>
 </table>
 
