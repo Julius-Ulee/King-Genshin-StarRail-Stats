@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 17, 2023 07:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 17, 2023 12:07 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>429</b></td>
+    <td align="center"><b>432</b></td>
   </tr>
   <tr>
     <td>
@@ -251,21 +251,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1155</b></td>
+    <td align="center"><b>1158</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>927</b></td>
+    <td align="center"><b>930</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>248</b></td>
+    <td align="center"><b>249</b></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>386</code></td>
+    <td align="center"><code>388</code></td>
   </tr>
   <tr>
     <td>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5703</b> <code>(rate -37)</code></td>
+    <td align="center"><b>5770</b> <code>(rate -36)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,16 +766,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5422345</b> <code>(rate -25)</code></td>
+    <td align="center"><b>5587258</b> <code>(rate -23)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2504</b> <code>(44%)</code><br />Daily Activity:
-      <b>1020</b> <code>(18%)</code><br />Events: <b>920</b> <code>(17%)</code
-      ><br />Quests: <b>660</b> <code>(12%)</code><br />Mail: <b>340</b>
+      Adventure: <b>2511</b> <code>(44%)</code><br />Daily Activity:
+      <b>1020</b> <code>(18%)</code><br />Events: <b>920</b> <code>(16%)</code
+      ><br />Quests: <b>720</b> <code>(13%)</code><br />Mail: <b>340</b>
       <code>(5%)</code><br />Spiral Abyss: <b>250</b> <code>(4%)</code
       ><br />Other: <b>9</b> <code>(0%)</code><br />
     </td>
