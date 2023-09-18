@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 18, 2023 17:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 18, 2023 22:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>207</b></td>
+    <td align="center"><b>208</b></td>
   </tr>
   <tr>
     <td>
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5705358</b> <code>(rate -21)</code></td>
+    <td align="center"><b>5721608</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5968,7 +5968,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>77</b></td>
+    <td><b>78</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5993,7 +5993,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1565</b> <code>(rate -81)</code></td>
+    <td align="center"><b>1625</b> <code>(rate -80)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6014,10 +6014,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>900</b> <code>(57%)</code><br />Adventure Rewards:
-      <b>425</b> <code>(27%)</code><br />Forgotten Hall: <b>200</b>
+      Daily Activity: <b>960</b> <code>(59%)</code><br />Adventure Rewards:
+      <b>425</b> <code>(26%)</code><br />Forgotten Hall: <b>200</b>
       <code>(12%)</code><br />Mail: <b>40</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
+      <b>0</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
