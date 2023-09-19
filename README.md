@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 19, 2023 09:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 20, 2023 00:41 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fisherman's Toast</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-19 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-20 01:06:19+08:00</b></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>433</b></td>
+    <td align="center"><b>434</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>291</b></td>
+    <td align="center"><b>299</b></td>
   </tr>
   <tr>
     <td>
@@ -285,7 +285,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>41</b></td>
+    <td align="center"><b>42</b></td>
   </tr>
   <tr>
     <td>
@@ -453,7 +453,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/19/" width="80" />
+            <img src="https://progress-bar.dev/20/" width="80" />
           </td>
         </tr>
         <tr>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6056</b> <code>(rate -33)</code></td>
+    <td align="center"><b>6101</b> <code>(rate -32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -773,7 +773,7 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2516</b> <code>(42%)</code><br />Daily Activity:
+      Adventure: <b>2561</b> <code>(42%)</code><br />Daily Activity:
       <b>1140</b> <code>(19%)</code><br />Events: <b>1060</b> <code>(18%)</code
       ><br />Quests: <b>720</b> <code>(12%)</code><br />Mail: <b>360</b>
       <code>(5%)</code><br />Spiral Abyss: <b>250</b> <code>(4%)</code
@@ -5935,22 +5935,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-09-19 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-09-20 01:06:20+08:00</b></td>
   </tr>
 </table>
 
