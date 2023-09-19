@@ -2,7 +2,7 @@ name: "Daily Check And Update"
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0/5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,15 +25,8 @@ jobs:
       - name: Run main.py
         env:
           COOKIES: ${{ secrets.COOKIES }}
-        if: ${{ github.event_name != 'push' }}
         run: |
           python main.py -o README.md
-      - name: Run main.py - verbose
-        env:
-          COOKIES: ${{ secrets.COOKIES }}
-        if: ${{ github.event_name == 'push' }}
-        run: |
-          python main.py -V -o README.md
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
