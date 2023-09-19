@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 19, 2023 09:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 19, 2023 09:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -2082,7 +2082,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -2707,7 +2707,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
