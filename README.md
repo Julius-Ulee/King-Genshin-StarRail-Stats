@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 21, 2023 07:52 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 21, 2023 12:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6101</b> <code>(rate -32)</code></td>
+    <td align="center"><b>6171</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,15 +766,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6043003</b> <code>(rate -17)</code></td>
+    <td align="center"><b>6194131</b> <code>(rate -15)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2561</b> <code>(42%)</code><br />Daily Activity:
-      <b>1140</b> <code>(19%)</code><br />Events: <b>1060</b> <code>(18%)</code
+      Adventure: <b>2571</b> <code>(42%)</code><br />Daily Activity:
+      <b>1200</b> <code>(20%)</code><br />Events: <b>1060</b> <code>(17%)</code
       ><br />Quests: <b>720</b> <code>(11%)</code><br />Mail: <b>360</b>
       <code>(5%)</code><br />Spiral Abyss: <b>250</b> <code>(4%)</code
       ><br />Other: <b>10</b> <code>(1%)</code><br />
@@ -1289,6 +1289,169 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
+    /><b> Sucrose</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+            ,
+            height="20"
+          />
+          Sucrose
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/040b4bd0d04f25f49d54456b75df57a4.png"
+            ,
+            height="20"
+          />
+          Sacrificial Fragments
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/040b4bd0d04f25f49d54456b75df57a4.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+8</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
+              x Maiden Beloved<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd6d5d03fb95cd5a6e999c447600bb5d.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Thundersoother's Heart<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/765c4ed7101ec327f701e375dd45a80a.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Viridescent Arrow Feather<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/4f77e8667d3890e09eeb07f259a61466.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Hour of Soothing Thunder<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/35e43e921a72bc3c61e264bcc1b600db.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Maiden's Fleeting Leisure<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/05190477e47aa16cea10420bbcc9dc1f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Maiden's Fading Beauty<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
       ,
       height="18"
@@ -1615,10 +1778,10 @@
 <details>
   <summary align="center">
     <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
       ,
       height="18"
-    /><b> Sucrose</b>
+    /><b> Zhongli</b>
   </summary>
   <br />
   <table align="center">
@@ -1626,21 +1789,21 @@
       <th>
         <h3 align="center">
           <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
             ,
             height="20"
           />
-          Sucrose
+          Zhongli
         </h3>
       </th>
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/040b4bd0d04f25f49d54456b75df57a4.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd7a0fb07cd65cdf84ffd683a3ade3e6.png"
             ,
             height="20"
           />
-          Sacrificial Fragments
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -1648,7 +1811,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
             ,
             height="256"
           />
@@ -1657,7 +1820,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/040b4bd0d04f25f49d54456b75df57a4.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd7a0fb07cd65cdf84ffd683a3ade3e6.png"
             ,
             height="256"
           />
@@ -1669,17 +1832,17 @@
         <table align="center">
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
                 ,
                 height="18"
               />
-              Anemo
+              Geo
             </td>
           </tr>
           <tr>
@@ -1688,7 +1851,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+7</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1696,46 +1859,45 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Thundersoother<br />1 x Viridescent Venerer<br />2
-              x Maiden Beloved<br />
+              Artifacts<br />4 x Archaic Petra<br />1 x Retracing Bolide<br />
             </td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd6d5d03fb95cd5a6e999c447600bb5d.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Thundersoother's Heart<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/765c4ed7101ec327f701e375dd45a80a.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Viridescent Arrow Feather<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/4f77e8667d3890e09eeb07f259a61466.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Hour of Soothing Thunder<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/35e43e921a72bc3c61e264bcc1b600db.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/e4aa1b70e3100ebe0d663a4ee97b4cd3.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Maiden's Fleeting Leisure<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/05190477e47aa16cea10420bbcc9dc1f.png"
+              Flower of Creviced Cliff<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/8718610e6d9c2a0009971a060e1d1382.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Feather of Jagged Peaks<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/0a6dabf854bcee846a94164d21c3cb7a.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Sundial of Enduring Jade<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/f5cbb5a06c7632ca7640a346b00bbd72.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Maiden's Fading Beauty<br />
+              Summer Night's Waterballoon<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/44d54c3ea34fe276b74cc2a6c6dc4833.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Mask of Solitude Basalt<br />
             </td>
           </tr>
           <tr>
@@ -1748,11 +1910,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Sacrificial Fragments</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
-            <td align="center">Catalyst</td>
+            <td align="center">Polearm</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1760,11 +1922,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1925,168 +2087,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center"><code>2</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-      ,
-      height="18"
-    /><b> Zhongli</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-            ,
-            height="20"
-          />
-          Zhongli
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd7a0fb07cd65cdf84ffd683a3ade3e6.png"
-            ,
-            height="20"
-          />
-          Favonius Lance
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/dd7a0fb07cd65cdf84ffd683a3ade3e6.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                ,
-                height="18"
-              />
-              Geo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />4 x Archaic Petra<br />1 x Retracing Bolide<br />
-            </td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/e4aa1b70e3100ebe0d663a4ee97b4cd3.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Flower of Creviced Cliff<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/8718610e6d9c2a0009971a060e1d1382.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Feather of Jagged Peaks<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/0a6dabf854bcee846a94164d21c3cb7a.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Sundial of Enduring Jade<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/f5cbb5a06c7632ca7640a346b00bbd72.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Summer Night's Waterballoon<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uf7e3e/44d54c3ea34fe276b74cc2a6c6dc4833.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Mask of Solitude Basalt<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Favonius Lance</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Polearm</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5968,7 +5968,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>79</b></td>
+    <td><b>80</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5993,7 +5993,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1690</b> <code>(rate -80)</code></td>
+    <td align="center"><b>1840</b> <code>(rate -78)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6014,10 +6014,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1020</b> <code>(60%)</code><br />Adventure Rewards:
-      <b>430</b> <code>(25%)</code><br />Forgotten Hall: <b>200</b>
-      <code>(11%)</code><br />Mail: <b>40</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>1080</b> <code>(58%)</code><br />Adventure Rewards:
+      <b>430</b> <code>(23%)</code><br />Forgotten Hall: <b>200</b>
+      <code>(10%)</code><br />Mail: <b>110</b> <code>(5%)</code><br />Other:
+      <b>0</b> <code>(3%)</code><br />Event: <b>20</b> <code>(1%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
