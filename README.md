@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 23, 2023 07:50 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 23, 2023 12:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -766,7 +766,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6194131</b> <code>(rate -15)</code></td>
+    <td align="center"><b>6194431</b> <code>(rate -15)</code></td>
   </tr>
   <tr>
     <td align="center">
