@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 27, 2023 12:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 27, 2023 17:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>435</b></td>
+    <td align="center"><b>436</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>212</b></td>
+    <td align="center"><b>213</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>299</b></td>
+    <td align="center"><b>302</b></td>
   </tr>
   <tr>
     <td>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6171</b> <code>(rate -31)</code></td>
+    <td align="center"><b>6953</b> <code>(rate -23)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,18 +766,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6194431</b> <code>(rate -15)</code></td>
+    <td align="center"><b>6255940</b> <code>(rate -14)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2571</b> <code>(42%)</code><br />Daily Activity:
-      <b>1200</b> <code>(20%)</code><br />Events: <b>1060</b> <code>(17%)</code
-      ><br />Quests: <b>720</b> <code>(11%)</code><br />Mail: <b>360</b>
-      <code>(5%)</code><br />Spiral Abyss: <b>250</b> <code>(4%)</code
-      ><br />Other: <b>10</b> <code>(1%)</code><br />
+      Adventure: <b>2591</b> <code>(38%)</code><br />Daily Activity:
+      <b>1260</b> <code>(19%)</code><br />Events: <b>1100</b> <code>(15%)</code
+      ><br />Mail: <b>1020</b> <code>(14%)</code><br />Quests: <b>720</b>
+      <code>(10%)</code><br />Spiral Abyss: <b>250</b> <code>(3%)</code
+      ><br />Other: <b>12</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
