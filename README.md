@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 28, 2023 12:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 28, 2023 17:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>213</b></td>
+    <td align="center"><b>214</b></td>
   </tr>
   <tr>
     <td>
@@ -188,7 +188,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>36</b></td>
+    <td align="center"><b>37</b></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>391</code></td>
+    <td align="center"><code>393</code></td>
   </tr>
   <tr>
     <td>
@@ -603,7 +603,7 @@
       />
       <b>Trust Rank</b>
     </td>
-    <td align="center"><code>4</code></td>
+    <td align="center"><code>5</code></td>
   </tr>
   <tr>
     <td>
