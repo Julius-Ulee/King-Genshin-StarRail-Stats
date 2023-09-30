@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Sep 30, 2023 07:51 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Sep 30, 2023 12:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>215</b></td>
+    <td align="center"><b>216</b></td>
   </tr>
   <tr>
     <td>
@@ -755,7 +755,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8023</b> <code>(rate -11)</code></td>
+    <td align="center"><b>8683</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -766,17 +766,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6358746</b> <code>(rate -12)</code></td>
+    <td align="center"><b>6754594</b> <code>(rate -7)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>2651</b> <code>(34%)</code><br />Mail: <b>2020</b>
-      <code>(26%)</code><br />Daily Activity: <b>1270</b> <code>(15%)</code
-      ><br />Events: <b>1100</b> <code>(13%)</code><br />Quests: <b>720</b>
-      <code>(8%)</code><br />Spiral Abyss: <b>250</b> <code>(3%)</code
+      Adventure: <b>2651</b> <code>(31%)</code><br />Mail: <b>2440</b>
+      <code>(29%)</code><br />Daily Activity: <b>1330</b> <code>(15%)</code
+      ><br />Events: <b>1280</b> <code>(14%)</code><br />Quests: <b>720</b>
+      <code>(8%)</code><br />Spiral Abyss: <b>250</b> <code>(2%)</code
       ><br />Other: <b>12</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -6091,7 +6091,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>81</b></td>
+    <td><b>82</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6383,7 +6383,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+7</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_71ff1y/1ce0622d73688948b5c70d1fef96ab4d.png"
