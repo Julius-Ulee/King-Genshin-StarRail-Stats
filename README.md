@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 01, 2023 12:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 01, 2023 17:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>520</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,17 +642,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>256582</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      Mail: <b>400</b> <code>(77%)</code><br />Events: <b>60</b>
+      <code>(12%)</code><br />Daily Activity: <b>60</b> <code>(11%)</code
+      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b>
+      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -916,7 +916,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>
@@ -1798,11 +1798,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+20</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2311,6 +2311,129 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
       ,
       height="18"
+    /><b> Fischl</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+            ,
+            height="20"
+          />
+          Fischl
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/1468e63a3d3a475b04e30515ecc7708e.png"
+            ,
+            height="20"
+          />
+          Polar Star
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/1468e63a3d3a475b04e30515ecc7708e.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                ,
+                height="18"
+              />
+              Electro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+2</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Polar Star</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>2</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
     /><b> Keqing</b>
   </summary>
   <br />
@@ -2461,129 +2584,6 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-      ,
-      height="18"
-    /><b> Fischl</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-            ,
-            height="20"
-          />
-          Fischl
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/1468e63a3d3a475b04e30515ecc7708e.png"
-            ,
-            height="20"
-          />
-          Polar Star
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/1468e63a3d3a475b04e30515ecc7708e.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                ,
-                height="18"
-              />
-              Electro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+60</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Polar Star</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Bow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -3989,7 +3989,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+2</code></td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5967,7 +5967,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>82</b></td>
+    <td><b>83</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5992,7 +5992,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>230</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6002,7 +6002,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>10</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6013,11 +6013,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>0</b> <code>(0%)</code><br />
+      Event: <b>170</b> <code>(73%)</code><br />Daily Activity: <b>60</b>
+      <code>(26%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Adventure
+      Rewards: <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
+      <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
