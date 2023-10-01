@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 01, 2023 17:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 01, 2023 22:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>436</b></td>
+    <td align="center"><b>440</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>216</b></td>
+    <td align="center"><b>217</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -500,7 +500,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">3</td>
+          <td align="center">4</td>
         </tr>
       </table>
     </td>
@@ -565,11 +565,11 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_5.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_7.png"
         ,
         height="100"
       /><br />
-      <b>Elegant</b>
+      <b>Extraordinary</b>
     </td>
   </tr>
   <tr>
@@ -581,7 +581,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>7780</code></td>
+    <td align="center"><code>11280</code></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>393</code></td>
+    <td align="center"><code>435</code></td>
   </tr>
   <tr>
     <td>
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>520</b> <code>(rate -94)</code></td>
+    <td align="center"><b>525</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,7 +642,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>256582</b> <code>(rate -96)</code></td>
+    <td align="center"><b>294724</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -650,9 +650,9 @@
     </td>
     <td>
       Mail: <b>400</b> <code>(77%)</code><br />Events: <b>60</b>
-      <code>(12%)</code><br />Daily Activity: <b>60</b> <code>(11%)</code
-      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b>
-      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
+      <code>(11%)</code><br />Daily Activity: <b>60</b> <code>(11%)</code
+      ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
