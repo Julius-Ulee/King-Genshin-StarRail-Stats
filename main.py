@@ -77,7 +77,8 @@ class AnimeGame(genshin.Client):
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         codes = self.codes.get_codes()
-        await self.codes.redeem_codes(self, codes)
+        if codes:
+            await self.codes.redeem_codes(self, codes)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -93,7 +94,8 @@ class AnimeGame(genshin.Client):
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
-        await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
+        if codes:
+            await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
