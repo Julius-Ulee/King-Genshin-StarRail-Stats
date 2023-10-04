@@ -13,9 +13,9 @@ class GetCodes:
         "hkrpg": "honkai-star-rail"
     }
 
-    def get_codes(self, game: str = "genshin") -> List[str]:
+    def get_codes(self, game: str = "genshin") -> List[str] | None:
         url = self._build_url(game)
-         response = None
+        response = None
         try:
             response = self._send_request(url)
         except:
