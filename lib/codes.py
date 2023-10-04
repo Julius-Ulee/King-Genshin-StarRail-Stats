@@ -15,7 +15,11 @@ class GetCodes:
 
     def get_codes(self, game: str = "genshin") -> List[str]:
         url = self._build_url(game)
-        response = self._send_request(url)
+         response = None
+        try:
+            response = self._send_request(url)
+        except:
+            return response
         soup = self._parse_html(response)
         parsed_codes = self._extract_codes(soup, game)
 
@@ -50,7 +54,8 @@ class GetCodes:
 
     def _send_request(self, url: str) -> str:
         response = requests.get(url)
-        response.raise_for_status()
+        if response.status_code != 200:
+            raise Exception("Access blocked")
         return response.text
 
     def _parse_html(self, html: str) -> bs4.BeautifulSoup:
