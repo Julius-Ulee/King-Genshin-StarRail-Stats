@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 05, 2023 17:13 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 05, 2023 22:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -5604,7 +5604,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
