@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 07, 2023 17:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 07, 2023 22:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -642,7 +642,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>565725</b> <code>(rate -91)</code></td>
+    <td align="center"><b>578989</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5967,7 +5967,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>85</b></td>
+    <td><b>86</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5975,7 +5975,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>132</b></td>
+    <td><b>133</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5992,7 +5992,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>710</b> <code>(rate -70)</code></td>
+    <td align="center"><b>920</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6013,9 +6013,9 @@
       Categories
     </td>
     <td>
-      Event: <b>500</b> <code>(70%)</code><br />Daily Activity: <b>180</b>
-      <code>(25%)</code><br />Mail: <b>20</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
+      Event: <b>640</b> <code>(69%)</code><br />Daily Activity: <b>240</b>
+      <code>(26%)</code><br />Adventure Rewards: <b>20</b> <code>(2%)</code
+      ><br />Mail: <b>20</b> <code>(2%)</code><br />Other: <b>0</b>
       <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -6708,7 +6708,7 @@
                 ,
                 height="25"
               />
-              <code>+8</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
