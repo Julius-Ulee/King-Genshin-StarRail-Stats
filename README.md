@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 22, 2023 12:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 22, 2023 17:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>444</code></td>
+    <td align="center"><code>447</code></td>
   </tr>
   <tr>
     <td>
@@ -642,7 +642,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2987572</b> <code>(rate -55)</code></td>
+    <td align="center"><b>3019137</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5967,7 +5967,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>89</b></td>
+    <td><b>90</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5992,7 +5992,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1680</b> <code>(rate -30)</code></td>
+    <td align="center"><b>1745</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6002,7 +6002,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>14</b> <code>(rate -36)</code></td>
+    <td align="center"><b>15</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6013,10 +6013,10 @@
       Categories
     </td>
     <td>
-      Mail: <b>710</b> <code>(42%)</code><br />Event: <b>640</b>
-      <code>(38%)</code><br />Daily Activity: <b>300</b> <code>(17%)</code
-      ><br />Other: <b>0</b> <code>(2%)</code><br />Adventure Rewards:
-      <b>30</b> <code>(1%)</code><br />Simulated Universe: <b>0</b>
+      Mail: <b>710</b> <code>(40%)</code><br />Event: <b>640</b>
+      <code>(36%)</code><br />Daily Activity: <b>360</b> <code>(20%)</code
+      ><br />Adventure Rewards: <b>35</b> <code>(2%)</code><br />Other:
+      <b>0</b> <code>(2%)</code><br />Simulated Universe: <b>0</b>
       <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
