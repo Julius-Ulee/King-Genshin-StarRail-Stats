@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 22, 2023 17:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 22, 2023 22:10 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -642,7 +642,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3019137</b> <code>(rate -55)</code></td>
+    <td align="center"><b>3048887</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1734,9 +1734,7 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />4 x Archaic Petra<br />1 x Retracing Bolide<br />
-            </td>
+            <td>Artifacts<br />5 x Archaic Petra<br /></td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/bd6397255a128377bdbf1fa41511a853.png"
@@ -1760,13 +1758,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Sundial of Enduring Jade<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/06a078276b24439066cede1ca8b6e6ce.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7f03a66ee0c02cd22d33d5b8dc615823.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Summer Night's Waterballoon<br /><img
+              Goblet of Chiseled Crag<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/501ee442ae8da6941cfefafd0253591e.png"
                 ,
                 height="25"
