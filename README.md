@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 25, 2023 03:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 25, 2023 07:52 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>233</b></td>
+    <td align="center"><b>234</b></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>447</code></td>
+    <td align="center"><code>450</code></td>
   </tr>
   <tr>
     <td>
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3161</b> <code>(rate -63)</code></td>
+    <td align="center"><b>3323</b> <code>(rate -61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,18 +642,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3048887</b> <code>(rate -54)</code></td>
+    <td align="center"><b>3310016</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1570</b> <code>(50%)</code><br />Daily Activity: <b>800</b>
-      <code>(26%)</code><br />Mail: <b>610</b> <code>(20%)</code
+      Events: <b>1670</b> <code>(51%)</code><br />Daily Activity: <b>860</b>
+      <code>(26%)</code><br />Mail: <b>610</b> <code>(19%)</code
       ><br />Adventure: <b>60</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>121</b> <code>(3%)</code><br />
+      <b>123</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -5965,7 +5965,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>90</b></td>
+    <td><b>91</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5977,7 +5977,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>132</b></td>
+    <td><b>133</b></td>
   </tr>
 </table>
 
@@ -5990,7 +5990,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1745</b> <code>(rate -28)</code></td>
+    <td align="center"><b>1815</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6000,7 +6000,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>15</b> <code>(rate -31)</code></td>
+    <td align="center"><b>16</b> <code>(rate -27)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6011,10 +6011,10 @@
       Categories
     </td>
     <td>
-      Mail: <b>710</b> <code>(40%)</code><br />Event: <b>640</b>
-      <code>(36%)</code><br />Daily Activity: <b>360</b> <code>(20%)</code
-      ><br />Adventure Rewards: <b>35</b> <code>(2%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Simulated Universe: <b>0</b>
+      Mail: <b>710</b> <code>(39%)</code><br />Event: <b>640</b>
+      <code>(35%)</code><br />Daily Activity: <b>420</b> <code>(23%)</code
+      ><br />Adventure Rewards: <b>45</b> <code>(2%)</code><br />Other:
+      <b>0</b> <code>(1%)</code><br />Simulated Universe: <b>0</b>
       <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -8362,7 +8362,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ecd22fc538fdd2a48a3370fa62973f82.png"
+            height="20"
+          />
+          We Are Wildfire
+        </h3>
       </th>
     </tr>
     <tr>
@@ -8374,7 +8380,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ecd22fc538fdd2a48a3370fa62973f82.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -8404,7 +8414,50 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5e6713084c378f6f9d622ef08309909.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Knight's Forgiving Casque<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d70e2157486cda37c93fa53bc696c6b.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Knight's Silent Oath Ring<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f29e53fcddf70cec20b3808a946fe13.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Knight's Solemn Breastplate<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bed9e7435755032e24ff929d2e619054.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Knight's Iron Boots of Order<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -8412,15 +8465,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">We Are Wildfire</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -8485,7 +8538,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
