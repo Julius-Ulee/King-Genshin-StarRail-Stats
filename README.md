@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 25, 2023 22:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 26, 2023 03:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-25 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-26 01:06:19+08:00</b></td>
   </tr>
 </table>
 
@@ -5932,22 +5932,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>2 x Refined Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-25 01:06:22+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-26 01:06:21+08:00</b></td>
   </tr>
 </table>
 
