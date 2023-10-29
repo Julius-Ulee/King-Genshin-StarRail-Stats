@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Oct 29, 2023 22:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Oct 30, 2023 03:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,7 +124,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -139,7 +139,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-29 01:06:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-30 01:06:19+08:00</b></td>
   </tr>
 </table>
 
@@ -5932,7 +5932,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5947,7 +5947,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-10-29 01:06:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-10-30 01:06:20+08:00</b></td>
   </tr>
 </table>
 
