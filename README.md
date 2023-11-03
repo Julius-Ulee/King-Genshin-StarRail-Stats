@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 03, 2023 17:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 03, 2023 22:18 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>238</b></td>
+    <td align="center"><b>239</b></td>
   </tr>
   <tr>
     <td>
@@ -642,7 +642,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5000</b> <code>(rate -99)</code></td>
+    <td align="center"><b>11300</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
