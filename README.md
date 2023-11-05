@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 05, 2023 12:16 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 05, 2023 17:17 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>440</b></td>
+    <td align="center"><b>441</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>239</b></td>
+    <td align="center"><b>240</b></td>
   </tr>
   <tr>
     <td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>450</code></td>
+    <td align="center"><code>453</code></td>
   </tr>
   <tr>
     <td>
