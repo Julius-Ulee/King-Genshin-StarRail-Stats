@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 07, 2023 12:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 07, 2023 17:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>410</b> <code>(rate -88)</code></td>
+    <td align="center"><b>410</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
