@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2023 17:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 08, 2023 22:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>441</b></td>
+    <td align="center"><b>442</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>240</b></td>
+    <td align="center"><b>241</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>305</b></td>
+    <td align="center"><b>308</b></td>
   </tr>
   <tr>
     <td>
@@ -500,7 +500,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">5</td>
+          <td align="center">6</td>
         </tr>
       </table>
     </td>
@@ -592,7 +592,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>453</code></td>
+    <td align="center"><code>456</code></td>
   </tr>
   <tr>
     <td>
