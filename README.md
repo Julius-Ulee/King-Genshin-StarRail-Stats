@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2023 12:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 08, 2023 17:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>410</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1271</b> <code>(rate -61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,18 +642,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>163900</b> <code>(rate -95)</code></td>
+    <td align="center"><b>396235</b> <code>(rate -88)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>350</b> <code>(86%)</code><br />Daily Activity: <b>60</b>
-      <code>(14%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Mail: <b>1090</b> <code>(86%)</code><br />Daily Activity: <b>120</b>
+      <code>(9%)</code><br />Events: <b>40</b> <code>(3%)</code><br />Adventure:
+      <b>20</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
+      <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -3585,7 +3585,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
