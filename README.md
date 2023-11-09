@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 09, 2023 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 09, 2023 09:29 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>241</b></td>
+    <td align="center"><b>242</b></td>
   </tr>
   <tr>
     <td>
@@ -188,13 +188,13 @@
       />
       Characters
     </td>
-    <td align="center"><b>37</b></td>
+    <td align="center"><b>38</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>308</b></td>
+    <td align="center"><b>341</b></td>
   </tr>
   <tr>
     <td>
@@ -244,7 +244,7 @@
       />
       Hydroculus
     </td>
-    <td align="center"><b>10</b></td>
+    <td align="center"><b>11</b></td>
   </tr>
   <tr>
     <td>
@@ -439,7 +439,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/8/" width="80" />
+            <img src="https://progress-bar.dev/12/" width="80" />
           </td>
         </tr>
         <tr>
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1271</b> <code>(rate -61)</code></td>
+    <td align="center"><b>1437</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,18 +642,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>396235</b> <code>(rate -88)</code></td>
+    <td align="center"><b>416323</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1090</b> <code>(86%)</code><br />Daily Activity: <b>120</b>
-      <code>(9%)</code><br />Events: <b>40</b> <code>(3%)</code><br />Adventure:
-      <b>20</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
-      <code>(1%)</code><br />
+      Mail: <b>1150</b> <code>(81%)</code><br />Daily Activity: <b>120</b>
+      <code>(8%)</code><br />Adventure: <b>125</b> <code>(8%)</code
+      ><br />Events: <b>40</b> <code>(2%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      <b>2</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -5965,7 +5965,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>93</b></td>
+    <td><b>94</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6257,7 +6257,7 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
