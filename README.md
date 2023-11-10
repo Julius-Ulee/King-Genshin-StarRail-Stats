@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 10, 2023 08:05 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 10, 2023 15:57 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -1401,7 +1401,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+7</code></td>
+            <td align="center"><code>+8</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6094,7 +6094,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>94</b></td>
+    <td><b>95</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
