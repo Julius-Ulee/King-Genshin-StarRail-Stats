@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 10, 2023 15:57 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 10, 2023 19:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>442</b></td>
+    <td align="center"><b>443</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>242</b></td>
+    <td align="center"><b>243</b></td>
   </tr>
   <tr>
     <td>
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1567</b> <code>(rate -52)</code></td>
+    <td align="center"><b>1632</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,15 +642,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>470907</b> <code>(rate -85)</code></td>
+    <td align="center"><b>533288</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1150</b> <code>(74%)</code><br />Adventure: <b>190</b>
-      <code>(12%)</code><br />Daily Activity: <b>180</b> <code>(11%)</code
+      Mail: <b>1150</b> <code>(71%)</code><br />Daily Activity: <b>240</b>
+      <code>(15%)</code><br />Adventure: <b>195</b> <code>(11%)</code
       ><br />Events: <b>40</b> <code>(2%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>7</b> <code>(1%)</code><br />
@@ -6106,7 +6106,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>133</b></td>
+    <td><b>134</b></td>
   </tr>
 </table>
 
@@ -6119,7 +6119,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>445</b> <code>(rate -77)</code></td>
+    <td align="center"><b>510</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6140,11 +6140,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>380</b> <code>(85%)</code><br />Daily Activity: <b>60</b>
-      <code>(13%)</code><br />Adventure Rewards: <b>5</b> <code>(1%)</code
-      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>380</b> <code>(74%)</code><br />Daily Activity: <b>120</b>
+      <code>(23%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Adventure
+      Rewards: <b>10</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
