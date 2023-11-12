@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 11, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 12, 2023 08:24 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Fried Radish Balls</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-11 10:16:37+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-12 09:24:06+08:00</b></td>
   </tr>
 </table>
 
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1772</b> <code>(rate -46)</code></td>
+    <td align="center"><b>1989</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,18 +642,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>683605</b> <code>(rate -79)</code></td>
+    <td align="center"><b>834212</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(67%)</code><br />Daily Activity: <b>300</b>
-      <code>(16%)</code><br />Adventure: <b>255</b> <code>(14%)</code
-      ><br />Events: <b>40</b> <code>(2%)</code><br />Spiral Abyss: <b>0</b>
+      Mail: <b>1170</b> <code>(59%)</code><br />Daily Activity: <b>300</b>
+      <code>(15%)</code><br />Adventure: <b>290</b> <code>(14%)</code
+      ><br />Events: <b>220</b> <code>(11%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>7</b> <code>(1%)</code><br />
+      <b>9</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -1409,25 +1409,25 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Berserker<br />1 x Crimson Witch of Flames<br />1
-              x Instructor<br />
+              Artifacts<br />3 x Gladiator's Finale<br />1 x Crimson Witch of
+              Flames<br />1 x Instructor<br />
             </td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8ff7cbe1090b26c98c58f4fe7f12719f.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e5050af5eff38084f509f237b750b918.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
-              ⭐⭐⭐⭐<br />
-              Berserker's Rose<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/936e65d0cde6b830a509416518745828.png"
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Nostalgia<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a74736b87e4f7d1a009cf3cfb62bfd4.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
-              ⭐⭐⭐⭐<br />
-              Berserker's Indigo Feather<br /><img
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Destiny<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ed7273939ab0767a8d2f7951fb6da221.png"
                 ,
                 height="25"
@@ -1442,13 +1442,13 @@
               <code>+8</code><br />
               ⭐⭐⭐⭐<br />
               Instructor's Tea Cup<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b48422a4def891d59e52be5da8b3fb76.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/26f8b9bab3d23be7921e6692c2dcbf4f.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐<br />
-              Berserker's Battle Mask<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Triumphus<br />
             </td>
           </tr>
           <tr>
@@ -4064,11 +4064,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/960a56aa0edbf5361d7d0ba0c5018720.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/07f6b7cbd5bd9dfab17bbb2b6e038161.png"
             ,
             height="20"
           />
-          Iron Point
+          Black Tassel
         </h3>
       </th>
     </tr>
@@ -4085,7 +4085,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/960a56aa0edbf5361d7d0ba0c5018720.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/07f6b7cbd5bd9dfab17bbb2b6e038161.png"
             ,
             height="256"
           />
@@ -4136,7 +4136,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Iron Point</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4144,7 +4144,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4562,11 +4562,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/471a65107d4a5cb1fc8877078e0157f0.png"
             ,
             height="20"
           />
-          Apprentice's Notes
+          Thrilling Tales of Dragon Slayers
         </h3>
       </th>
     </tr>
@@ -4583,7 +4583,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/471a65107d4a5cb1fc8877078e0157f0.png"
             ,
             height="256"
           />
@@ -4634,7 +4634,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Apprentice's Notes</td>
+            <td align="center">Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4642,7 +4642,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5054,11 +5054,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png"
             ,
             height="20"
           />
-          Waster Greatsword
+          The Bell
         </h3>
       </th>
     </tr>
@@ -5075,7 +5075,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png"
             ,
             height="256"
           />
@@ -5126,7 +5126,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">The Bell</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5134,7 +5134,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5177,11 +5177,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/00195dfa0ddb0fc68b347c0e47afe663.png"
             ,
             height="20"
           />
-          Dull Blade
+          Cool Steel
         </h3>
       </th>
     </tr>
@@ -5198,7 +5198,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/00195dfa0ddb0fc68b347c0e47afe663.png"
             ,
             height="256"
           />
@@ -5249,7 +5249,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Dull Blade</td>
+            <td align="center">Cool Steel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5257,7 +5257,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5300,11 +5300,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/5af14ddc8e24ee025533843cc624a4ca.png"
             ,
             height="20"
           />
-          Waster Greatsword
+          Bloodtainted Greatsword
         </h3>
       </th>
     </tr>
@@ -5321,7 +5321,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/5af14ddc8e24ee025533843cc624a4ca.png"
             ,
             height="256"
           />
@@ -5372,7 +5372,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Bloodtainted Greatsword</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5380,7 +5380,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5423,11 +5423,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b90f7edc1c4a6c0c132e00da99918d84.png"
             ,
             height="20"
           />
-          Apprentice's Notes
+          Ballad of the Boundless Blue
         </h3>
       </th>
     </tr>
@@ -5444,7 +5444,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b90f7edc1c4a6c0c132e00da99918d84.png"
             ,
             height="256"
           />
@@ -5501,7 +5501,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Apprentice's Notes</td>
+            <td align="center">Ballad of the Boundless Blue</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5509,7 +5509,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5675,11 +5675,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/517ac1c923fc1c5e612e3e3a687b71a9.png"
             ,
             height="20"
           />
-          Hunter's Bow
+          Slingshot
         </h3>
       </th>
     </tr>
@@ -5696,7 +5696,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/517ac1c923fc1c5e612e3e3a687b71a9.png"
             ,
             height="256"
           />
@@ -5747,7 +5747,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Hunter's Bow</td>
+            <td align="center">Slingshot</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5755,7 +5755,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5798,11 +5798,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d88e20d9cc69d3d3d368133b1b5b46ba.png"
             ,
             height="20"
           />
-          Waster Greatsword
+          Ferrous Shadow
         </h3>
       </th>
     </tr>
@@ -5819,7 +5819,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d88e20d9cc69d3d3d368133b1b5b46ba.png"
             ,
             height="256"
           />
@@ -5870,7 +5870,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Waster Greatsword</td>
+            <td align="center">Ferrous Shadow</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -5878,7 +5878,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6061,22 +6061,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-11 10:16:38+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-12 09:24:08+08:00</b></td>
   </tr>
 </table>
 
