@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 12, 2023 13:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 12, 2023 19:32 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>447</b></td>
+    <td align="center"><b>450</b></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>39</b></td>
+    <td align="center"><b>40</b></td>
   </tr>
   <tr>
     <td>
@@ -251,7 +251,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1158</b></td>
+    <td align="center"><b>1159</b></td>
   </tr>
   <tr>
     <td>
@@ -631,7 +631,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1989</b> <code>(rate -40)</code></td>
+    <td align="center"><b>2326</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,18 +642,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>834212</b> <code>(rate -74)</code></td>
+    <td align="center"><b>1024969</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(59%)</code><br />Daily Activity: <b>300</b>
-      <code>(15%)</code><br />Adventure: <b>290</b> <code>(14%)</code
-      ><br />Events: <b>220</b> <code>(11%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>9</b> <code>(1%)</code><br />
+      Mail: <b>1170</b> <code>(51%)</code><br />Adventure: <b>395</b>
+      <code>(17%)</code><br />Daily Activity: <b>360</b> <code>(15%)</code
+      ><br />Events: <b>280</b> <code>(12%)</code><br />Quests: <b>110</b>
+      <code>(4%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>11</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
