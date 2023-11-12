@@ -36,5 +36,5 @@ jobs:
           git config user.name "Julius-Ulee"
           git config user.email "fidzlieazriel@gmail.com"
           git add .
-          git commit -m "King's Genshin & StarRail Stats `date +"%D %T"`"
+          git commit -m ":octocat: King's Genshin & StarRail Stats `date +"%D %T"`"
           git push
