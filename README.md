@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 13, 2023 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 13, 2023 14:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>450</b></td>
+    <td align="center"><b>455</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>245</b></td>
+    <td align="center"><b>246</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>343</b></td>
+    <td align="center"><b>360</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>930</b></td>
+    <td align="center"><b>931</b></td>
   </tr>
   <tr>
     <td>
@@ -340,6 +340,13 @@
     </th>
     <th>
       <img
+        src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png"
+        width="20"
+      />
+      Enkanomiya
+    </th>
+    <th>
+      <img
         src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png"
         width="20"
       />
@@ -396,6 +403,14 @@
       <p align="center">
         <img
           src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChasmsMaw.png"
+          width="250"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Enkanomiya.png"
           width="250"
         />
       </p>
@@ -495,12 +510,26 @@
         <tr>
           <td>Explored</td>
           <td>
+            <img src="https://progress-bar.dev/22/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td align="center">0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
             <img src="https://progress-bar.dev/23/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">6</td>
+          <td align="center">7</td>
         </tr>
       </table>
     </td>
@@ -631,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2706</b> <code>(rate -18)</code></td>
+    <td align="center"><b>2926</b> <code>(rate -11)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -642,17 +671,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1235245</b> <code>(rate -62)</code></td>
+    <td align="center"><b>1450179</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(44%)</code><br />Adventure: <b>552</b>
-      <code>(20%)</code><br />Daily Activity: <b>360</b> <code>(13%)</code
-      ><br />Quests: <b>330</b> <code>(12%)</code><br />Events: <b>280</b>
-      <code>(10%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Mail: <b>1170</b> <code>(40%)</code><br />Adventure: <b>632</b>
+      <code>(22%)</code><br />Daily Activity: <b>420</b> <code>(15%)</code
+      ><br />Events: <b>340</b> <code>(11%)</code><br />Quests: <b>350</b>
+      <code>(11%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>14</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -1564,7 +1593,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+7</code></td>
+            <td align="center"><code>+8</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
