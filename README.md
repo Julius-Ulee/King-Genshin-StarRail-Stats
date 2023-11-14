@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 14, 2023 08:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 14, 2023 19:35 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>456</b></td>
+    <td align="center"><b>457</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>246</b></td>
+    <td align="center"><b>247</b></td>
   </tr>
   <tr>
     <td>
@@ -251,14 +251,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1159</b></td>
+    <td align="center"><b>1160</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>932</b></td>
+    <td align="center"><b>935</b></td>
   </tr>
   <tr>
     <td>
@@ -510,7 +510,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/28/" width="80" />
+            <img src="https://progress-bar.dev/29/" width="80" />
           </td>
         </tr>
         <tr>
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3036</b> <code>(rate -8)</code></td>
+    <td align="center"><b>3166</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,17 +671,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1625910</b> <code>(rate -50)</code></td>
+    <td align="center"><b>1755878</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(39%)</code><br />Adventure: <b>699</b>
-      <code>(24%)</code><br />Daily Activity: <b>420</b> <code>(13%)</code
-      ><br />Quests: <b>390</b> <code>(12%)</code><br />Events: <b>340</b>
-      <code>(11%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Mail: <b>1170</b> <code>(37%)</code><br />Adventure: <b>709</b>
+      <code>(23%)</code><br />Daily Activity: <b>480</b> <code>(15%)</code
+      ><br />Events: <b>400</b> <code>(12%)</code><br />Quests: <b>390</b>
+      <code>(12%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -6123,7 +6123,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>98</b></td>
+    <td><b>99</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6148,7 +6148,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>815</b> <code>(rate -58)</code></td>
+    <td align="center"><b>875</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6169,8 +6169,8 @@
       Categories
     </td>
     <td>
-      Mail: <b>400</b> <code>(49%)</code><br />Daily Activity: <b>300</b>
-      <code>(36%)</code><br />Adventure Rewards: <b>115</b> <code>(14%)</code
+      Mail: <b>400</b> <code>(45%)</code><br />Daily Activity: <b>360</b>
+      <code>(41%)</code><br />Adventure Rewards: <b>115</b> <code>(13%)</code
       ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
@@ -6567,7 +6567,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
