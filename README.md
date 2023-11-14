@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 13, 2023 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 14, 2023 08:19 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-13 09:20:59+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-14 09:19:22+08:00</b></td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2958</b> <code>(rate -10)</code></td>
+    <td align="center"><b>3036</b> <code>(rate -8)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,18 +671,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1571391</b> <code>(rate -52)</code></td>
+    <td align="center"><b>1625910</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(40%)</code><br />Adventure: <b>662</b>
-      <code>(23%)</code><br />Daily Activity: <b>420</b> <code>(14%)</code
-      ><br />Events: <b>340</b> <code>(11%)</code><br />Quests: <b>350</b>
+      Mail: <b>1170</b> <code>(39%)</code><br />Adventure: <b>699</b>
+      <code>(24%)</code><br />Daily Activity: <b>420</b> <code>(13%)</code
+      ><br />Quests: <b>390</b> <code>(12%)</code><br />Events: <b>340</b>
       <code>(11%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>16</b> <code>(1%)</code><br />
+      ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -4016,7 +4016,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6090,22 +6090,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-13 09:21:01+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-14 09:19:22+08:00</b></td>
   </tr>
 </table>
 
