@@ -7,7 +7,6 @@ import requests
 
 class GetCodes:
     BASE_URL: str = "https://www.pockettactics.com/"
-
     GAME_CODES: dict = {
         "genshin": "genshin-impact",
         "hkrpg": "honkai-star-rail"
