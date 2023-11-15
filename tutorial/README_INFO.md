@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/images/banner/%E7%AB%8B%E7%BB%98_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82_skin1.png" width="470" alt="Goddess" />
+</p>
+
 # Anime Game Stats
 
 Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and a game called HSR. It utilizes the genshin library to interact with the Hoyolab API and retrieve data such as user stats, achievements, rewards, and character showcases. The retrieved data is then rendered using a Jinja2 template to generate an HTML report.
