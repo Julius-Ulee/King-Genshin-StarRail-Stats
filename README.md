@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 15, 2023 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 15, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>247</b></td>
+    <td align="center"><b>248</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>9-2</b></td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3166</b> <code>(rate -4)</code></td>
+    <td align="center"><b>3286</b> <code>(rate -1)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,17 +671,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1755878</b> <code>(rate -46)</code></td>
+    <td align="center"><b>1862272</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(37%)</code><br />Adventure: <b>709</b>
-      <code>(23%)</code><br />Daily Activity: <b>480</b> <code>(15%)</code
-      ><br />Events: <b>400</b> <code>(12%)</code><br />Quests: <b>390</b>
-      <code>(12%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Mail: <b>1170</b> <code>(36%)</code><br />Adventure: <b>709</b>
+      <code>(22%)</code><br />Daily Activity: <b>540</b> <code>(17%)</code
+      ><br />Events: <b>460</b> <code>(13%)</code><br />Quests: <b>390</b>
+      <code>(11%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -1267,7 +1267,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+9</code></td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6123,7 +6123,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>99</b></td>
+    <td><b>100</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
