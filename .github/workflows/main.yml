@@ -2,7 +2,7 @@ name: "Daily Check And Update"
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Run at 12.00
   workflow_dispatch:
 
 jobs:
