@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 01:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 01:45 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -684,12 +684,14 @@
     </td>
   </tr>
   <tr>
-    <td>🕐 Start Time</td>
-    <td align="center"><b>2023-10-31 20:00:00+00:00</b></td>
+    <td colspan="2" align="center">
+      🕐 Start Time: <b>2023-10-31 20:00:00+00:00</b>
+    </td>
   </tr>
   <tr>
-    <td>🕛 End Time</td>
-    <td align="center"><b>2023-11-15 19:59:59+00:00</b></td>
+    <td colspan="2" align="center">
+      🕛 End Time: <b>2023-11-15 19:59:59+00:00</b>
+    </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
