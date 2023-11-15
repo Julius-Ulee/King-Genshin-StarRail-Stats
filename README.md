@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 02:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 02:12 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -695,7 +695,7 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
@@ -721,7 +721,7 @@
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
@@ -732,7 +732,7 @@
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
@@ -743,7 +743,7 @@
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
@@ -754,7 +754,7 @@
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
@@ -765,7 +765,7 @@
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td align="center">
+    <td>
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
