@@ -213,12 +213,10 @@
       <td align="center"><img src="./images/logo/star.png", height="18"> Total Stars: <b>{{ genshin.abyss.total_stars }}</b></td>
     </tr>
     <tr>
-        <td>🕐 Start Time</td>
-        <td align="center"><b>{{ genshin.abyss.start_time }}</b></td>
+        <td colspan="2" align="center">🕐 Start Time: <b>{{ genshin.abyss.start_time }}</b></td>
     </tr>
     <tr>
-        <td>🕛 End Time</td>
-        <td align="center"><b>{{ genshin.abyss.end_time }}</b></td>
+        <td colspan="2" align="center">🕛 End Time: <b>{{ genshin.abyss.end_time }}</b></td>
     </tr>
     {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
