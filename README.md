@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 15, 2023 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 15, 2023 20:48 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-2</b></td>
+    <td align="center"><b>9-3</b></td>
   </tr>
 </table>
 
@@ -644,6 +644,130 @@
       <b>Visitor History</b>
     </td>
     <td align="center"><code>0</code></td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
+    <td align="center"><b>81</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
+    <td align="center"><b>2</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
+    <td align="center"><b>9-2</b></td>
+  </tr>
+  <tr>
+    <td>🕐 Start Time</td>
+    <td align="center"><b>2023-10-31 20:00:00+00:00</b></td>
+  </tr>
+  <tr>
+    <td>🕛 End Time</td>
+    <td align="center"><b>2023-11-15 19:59:59+00:00</b></td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(5)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(27)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(37505)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(26)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(71)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -6148,7 +6272,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>875</b> <code>(rate -55)</code></td>
+    <td align="center"><b>1535</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6158,7 +6282,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>2</b> <code>(rate -90)</code></td>
+    <td align="center"><b>3</b> <code>(rate -85)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6169,8 +6293,8 @@
       Categories
     </td>
     <td>
-      Mail: <b>400</b> <code>(45%)</code><br />Daily Activity: <b>360</b>
-      <code>(41%)</code><br />Adventure Rewards: <b>115</b> <code>(13%)</code
+      Mail: <b>1000</b> <code>(65%)</code><br />Daily Activity: <b>420</b>
+      <code>(27%)</code><br />Adventure Rewards: <b>115</b> <code>(7%)</code
       ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
