@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 15, 2023 20:48 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 00:54 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-15 09:20:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-16 01:54:52+08:00</b></td>
   </tr>
 </table>
 
@@ -666,19 +666,19 @@
   </tr>
   <tr>
     <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>3</b></td>
+    <td align="center"><b>8</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>5</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>6</b></td>
+    <td align="center"><b>7</b></td>
   </tr>
   <tr>
     <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>9-2</b></td>
+    <td align="center"><b>9-3</b></td>
   </tr>
   <tr>
     <td>🕐 Start Time</td>
@@ -689,84 +689,78 @@
     <td align="center"><b>2023-11-15 19:59:59+00:00</b></td>
   </tr>
   <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(5)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(27)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
+    <td align="center">
+      <b>Most Played Characters:</b><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
-        height="18"
+        height="50"
       />
-      <b>Zhongli</b> <code>(37505)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
+      <br /><b>Zhongli</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
-        height="18"
+        height="50"
       />
-      <b>Diluc</b> <code>(26)</code><br />
+      <br /><b>Diluc</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="50"
+      />
+      <br /><b>Bennett</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="50"
+      />
+      <br /><b>Sangonomiya Kokomi</b> <code>(5)</code><br />
     </td>
   </tr>
   <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
+    <td align="center">
+      <b>Most Defeats:</b><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="50"
+      />
+      <br /><b>Diluc</b> <code>(27)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Strongest Single Strike:</b><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="50"
+      />
+      <br /><b>Zhongli</b> <code>(37505)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Most Damage Taken:</b><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="50"
+      />
+      <br /><b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Elemental Bursts Unleashed:</b><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="50"
+      />
+      <br /><b>Diluc</b> <code>(26)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Elemental Skills Cast:</b><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
-        height="18"
+        height="50"
       />
-      <b>Bennett</b> <code>(71)</code><br />
+      <br /><b>Bennett</b> <code>(71)</code><br />
     </td>
   </tr>
 </table>
@@ -784,7 +778,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3286</b> <code>(rate -1)</code></td>
+    <td align="center"><b>3386</b> <code>(rate 1)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -795,17 +789,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1862272</b> <code>(rate -43)</code></td>
+    <td align="center"><b>1957272</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(36%)</code><br />Adventure: <b>709</b>
-      <code>(22%)</code><br />Daily Activity: <b>540</b> <code>(17%)</code
-      ><br />Events: <b>460</b> <code>(13%)</code><br />Quests: <b>390</b>
-      <code>(11%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Mail: <b>1170</b> <code>(35%)</code><br />Adventure: <b>709</b>
+      <code>(21%)</code><br />Daily Activity: <b>540</b> <code>(16%)</code
+      ><br />Events: <b>460</b> <code>(14%)</code><br />Quests: <b>390</b>
+      <code>(11%)</code><br />Spiral Abyss: <b>100</b> <code>(2%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -6214,22 +6208,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-15 09:20:55+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-16 01:54:52+08:00</b></td>
   </tr>
 </table>
 
