@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 00:58 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 01:08 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -689,8 +689,9 @@
     <td align="center"><b>2023-11-15 19:59:59+00:00</b></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Most Played Characters:</b><br /><img
+    <td>Most Played Characters</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="50"
@@ -714,8 +715,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Most Defeats:</b><br /><img
+    <td>Most Defeats</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="50"
@@ -724,8 +726,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Strongest Single Strike:</b><br /><img
+    <td>Strongest Single Strike</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="50"
@@ -734,8 +737,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Most Damage Taken:</b><br /><img
+    <td>Most Damage Taken</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="50"
@@ -744,8 +748,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Elemental Bursts Unleashed:</b><br /><img
+    <td>Elemental Bursts Unleashed</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="50"
@@ -754,8 +759,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>Elemental Skills Cast:</b><br /><img
+    <td>Elemental Skills Cast</td>
+    <td align="center">
+      <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="50"
