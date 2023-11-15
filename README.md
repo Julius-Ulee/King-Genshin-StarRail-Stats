@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 01:49 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 01:54 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -701,22 +701,22 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(5)</code><br /><img
+      <br /><b>Bennett</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(5)</code><br /><img
+      <br /><b>Sangonomiya Kokomi</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(5)</code><br /><img
+      <br /><b>Cyno</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(5)</code><br />
+      <br /><b>Xiangling</b> <code>(5)</code><br />
     </td>
   </tr>
   <tr>
@@ -727,7 +727,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(27)</code><br />
+      <br /><b>Diluc</b> <code>(27)</code><br />
     </td>
   </tr>
   <tr>
@@ -738,7 +738,7 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(37505)</code><br />
+      <br /><b>Zhongli</b> <code>(37505)</code><br />
     </td>
   </tr>
   <tr>
@@ -749,7 +749,7 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
+      <br /><b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
     </td>
   </tr>
   <tr>
@@ -760,7 +760,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(26)</code><br />
+      <br /><b>Diluc</b> <code>(26)</code><br />
     </td>
   </tr>
   <tr>
@@ -771,7 +771,7 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(71)</code><br />
+      <br /><b>Bennett</b> <code>(71)</code><br />
     </td>
   </tr>
 </table>
