@@ -202,24 +202,15 @@
 <h2 align="center"><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss <img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"></h2>
 <table align="center">
     <tr>
-        <td><img src="./images/logo/spiral-abyss.webp", height="18"> Season</td>
-        <td align="center"><b>{{ genshin.abyss.season }}</b></td>
+        <td colspan="2" align="center"><img src="./images/logo/spiral-abyss.webp", height="18"> Season: <b>{{ genshin.abyss.season }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/battle.webp", height="18"> Total Battles</td>
-        <td align="center"><b>{{ genshin.abyss.total_battles }}</b></td>
+      <td align="center"><img src="./images/logo/floor.webp", height="18"> Max Floor: <b>{{ genshin.abyss.max_floor }}</b></td>
+      <td align="center"><img src="./images/logo/battle.webp", height="18"> Total Battles: <b>{{ genshin.abyss.total_battles }}</b></td>
     </tr>
     <tr>
-        <td><img src="./images/logo/wins.webp", height="18"> Total Wins</td>
-        <td align="center"><b>{{ genshin.abyss.total_wins }}</b></td>
-    </tr>
-    <tr>
-        <td><img src="./images/logo/star.png", height="18"> Total Stars</td>
-        <td align="center"><b>{{ genshin.abyss.total_stars }}</b></td>
-    </tr>
-    <tr>
-        <td><img src="./images/logo/floor.webp", height="18"> Max Floor</td>
-        <td align="center"><b>{{ genshin.abyss.max_floor }}</b></td>
+      <td align="center"><img src="./images/logo/wins.webp", height="18"> Total Wins: <b>{{ genshin.abyss.total_wins }}</b></td>
+      <td align="center"><img src="./images/logo/star.png", height="18"> Total Stars: <b>{{ genshin.abyss.total_stars }}</b></td>
     </tr>
     <tr>
         <td>🕐 Start Time</td>
@@ -234,7 +225,7 @@
         <td>{{ field }}</td>
         <td align="center">
             {%- for character in characters -%}
-            <img src="{{ character.icon }}" , height="50"> <br><b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
+            <img src="{{ character.icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
             {%- endfor -%}
         </td>
     </tr>
