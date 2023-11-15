@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 01:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 01:39 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -661,24 +661,27 @@
 </h2>
 <table align="center">
   <tr>
-    <td><img src="./images/logo/spiral-abyss.webp" , height="18" /> Season</td>
-    <td align="center"><b>81</b></td>
+    <td colspan="2" align="center">
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
+      <b>81</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/battle.webp" , height="18" /> Total Battles</td>
-    <td align="center"><b>8</b></td>
+    <td align="center">
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
+      <b>8</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="./images/logo/wins.webp" , height="18" /> Total Wins</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/star.png" , height="18" /> Total Stars</td>
-    <td align="center"><b>7</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/logo/floor.webp" , height="18" /> Max Floor</td>
-    <td align="center"><b>9-3</b></td>
+    <td align="center">
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>5</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>7</b>
+    </td>
   </tr>
   <tr>
     <td>🕐 Start Time</td>
@@ -694,24 +697,24 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Zhongli</b> <code>(5)</code><br /><img
+      <b>Zhongli</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Diluc</b> <code>(5)</code><br /><img
+      <b>Diluc</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Bennett</b> <code>(5)</code><br /><img
+      <b>Bennett</b> <code>(5)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Sangonomiya Kokomi</b> <code>(5)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(5)</code><br />
     </td>
   </tr>
   <tr>
@@ -720,9 +723,9 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Diluc</b> <code>(27)</code><br />
+      <b>Diluc</b> <code>(27)</code><br />
     </td>
   </tr>
   <tr>
@@ -731,9 +734,9 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Zhongli</b> <code>(37505)</code><br />
+      <b>Zhongli</b> <code>(37505)</code><br />
     </td>
   </tr>
   <tr>
@@ -742,9 +745,9 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
     </td>
   </tr>
   <tr>
@@ -753,9 +756,9 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Diluc</b> <code>(26)</code><br />
+      <b>Diluc</b> <code>(26)</code><br />
     </td>
   </tr>
   <tr>
@@ -764,9 +767,9 @@
       <img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
-        height="50"
+        height="18"
       />
-      <br /><b>Bennett</b> <code>(71)</code><br />
+      <b>Bennett</b> <code>(71)</code><br />
     </td>
   </tr>
 </table>
