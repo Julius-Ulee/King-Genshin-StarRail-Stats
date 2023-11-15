@@ -231,10 +231,9 @@
     </tr>
     {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
-        <td>{{ field }}</td>
-        <td>
+        <td align="center"><b>{{ field }}:</b><br>
             {%- for character in characters -%}
-            <img src="{{ character.icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
+            <img src="{{ character.icon }}" , height="50"> <br><b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
             {%- endfor -%}
         </td>
     </tr>
@@ -463,15 +462,15 @@
         {%- for floor in hsr.forgotten_hall.floors -%}
         <tr>
             <td>Name</td>
-            <td align="center">{{ floor.name }}</td>
+            <td align="center"><b>{{ floor.name }}</b></td>
         </tr>
         <tr>
             <td>Floor {{ floor.floor }}</td>
-            <td align="center">{{ floor.star_num }} Stars</td>
+            <td align="center"><b>{{ floor.star_num }} Stars</b></td>
         </tr>
         <tr>
             <td>Cycles used</td>
-            <td align="center">{{ floor.round_num }}</td>
+            <td align="center"><b>{{ floor.round_num }}</b></td>
         </tr>
         <tr>
             <td>Party 1</td>
