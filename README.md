@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>457</b></td>
+    <td align="center"><b>458</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>248</b></td>
+    <td align="center"><b>249</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>9-3</b></td>
   </tr>
 </table>
 
@@ -454,7 +454,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/12/" width="80" />
+            <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
         <tr>
@@ -663,7 +663,7 @@
   <tr>
     <td colspan="2" align="center">
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>81</b>
+      <b>82</b>
     </td>
   </tr>
   <tr>
@@ -672,62 +672,62 @@
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>8</b>
+      <b>3</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>5</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>7</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>8</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕐 Start Time: <b>2023-10-31 20:00:00+00:00</b>
+      🕐 Start Time: <b>2023-11-15 20:00:00+00:00</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕛 End Time: <b>2023-11-15 19:59:59+00:00</b>
+      🕛 End Time: <b>2023-11-30 19:59:59+00:00</b>
     </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(3)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(5)</code><br /><img
+      <b>Xingqiu</b> <code>(3)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(5)</code><br />
+      <b>Sucrose</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(27)</code><br />
+      <b>Cyno</b> <code>(19)</code><br />
     </td>
   </tr>
   <tr>
@@ -738,18 +738,18 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(37505)</code><br />
+      <b>Zhongli</b> <code>(34042)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(52738)</code><br />
+      <b>Cyno</b> <code>(44091)</code><br />
     </td>
   </tr>
   <tr>
@@ -760,7 +760,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(26)</code><br />
+      <b>Diluc</b> <code>(14)</code><br />
     </td>
   </tr>
   <tr>
@@ -771,7 +771,7 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(71)</code><br />
+      <b>Bennett</b> <code>(20)</code><br />
     </td>
   </tr>
 </table>
@@ -789,7 +789,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3451</b> <code>(rate 3)</code></td>
+    <td align="center"><b>3551</b> <code>(rate 6)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -800,17 +800,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2002510</b> <code>(rate -39)</code></td>
+    <td align="center"><b>2154462</b> <code>(rate -34)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(34%)</code><br />Adventure: <b>714</b>
-      <code>(21%)</code><br />Daily Activity: <b>600</b> <code>(18%)</code
+      Mail: <b>1170</b> <code>(33%)</code><br />Adventure: <b>714</b>
+      <code>(21%)</code><br />Daily Activity: <b>600</b> <code>(17%)</code
       ><br />Events: <b>460</b> <code>(13%)</code><br />Quests: <b>390</b>
-      <code>(11%)</code><br />Spiral Abyss: <b>100</b> <code>(2%)</code
+      <code>(10%)</code><br />Spiral Abyss: <b>200</b> <code>(5%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -915,9 +915,7 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />4 x Gilded Dreams<br />1 x Deepwood Memories<br />
-            </td>
+            <td>Artifacts<br />5 x Gilded Dreams<br /></td>
             <td align="center">
               <img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/02fce9fc9b1bad8eafb1a743d8eea70a.png"
@@ -941,13 +939,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               The Sunken Years<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/981da9afdbc656c21e417f1752a85ca7.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e820663830d686e7ecb0e63d83b36b5d.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Lamp of the Lost<br /><img
+              Honeyed Final Feast<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/c5250278b52762039d89c4a32391c3e1.png"
                 ,
                 height="25"
