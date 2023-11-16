@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2023 02:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 16, 2023 08:21 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -697,26 +697,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+      <b>Xingqiu</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+      <b>Sucrose</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(5)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      <b>Zhongli</b> <code>(5)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(5)</code><br />
+      <b>Diluc</b> <code>(5)</code><br />
     </td>
   </tr>
   <tr>
@@ -789,7 +789,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3386</b> <code>(rate 1)</code></td>
+    <td align="center"><b>3451</b> <code>(rate 3)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -800,16 +800,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1957272</b> <code>(rate -40)</code></td>
+    <td align="center"><b>2002510</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1170</b> <code>(35%)</code><br />Adventure: <b>709</b>
-      <code>(21%)</code><br />Daily Activity: <b>540</b> <code>(16%)</code
-      ><br />Events: <b>460</b> <code>(14%)</code><br />Quests: <b>390</b>
+      Mail: <b>1170</b> <code>(34%)</code><br />Adventure: <b>714</b>
+      <code>(21%)</code><br />Daily Activity: <b>600</b> <code>(18%)</code
+      ><br />Events: <b>460</b> <code>(13%)</code><br />Quests: <b>390</b>
       <code>(11%)</code><br />Spiral Abyss: <b>100</b> <code>(2%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
@@ -6252,11 +6252,11 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>100</b></td>
+    <td><b>101</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>20</b></td>
+    <td><b>21</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
@@ -6277,7 +6277,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1535</b> <code>(rate -22)</code></td>
+    <td align="center"><b>1645</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6287,7 +6287,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>3</b> <code>(rate -85)</code></td>
+    <td align="center"><b>11</b> <code>(rate -45)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6298,9 +6298,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>1000</b> <code>(65%)</code><br />Daily Activity: <b>420</b>
-      <code>(27%)</code><br />Adventure Rewards: <b>115</b> <code>(7%)</code
-      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
+      Mail: <b>1050</b> <code>(63%)</code><br />Daily Activity: <b>480</b>
+      <code>(29%)</code><br />Adventure Rewards: <b>115</b> <code>(6%)</code
+      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -7456,7 +7456,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+58</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -7535,7 +7535,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -7825,7 +7825,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -7837,7 +7837,41 @@
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7881ed79ff4505b51b2d51eb3c56eff0.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
@@ -8761,6 +8795,131 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>5</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Lynx </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Lynx
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8807341d99298a2bb057f3c81c3b5474.png"
+            height="20"
+          />
+          Perfect Timing
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8a2f039fad15e1b501779a4c59b0ea18.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8807341d99298a2bb057f3c81c3b5474.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8250821e040a0b4216d069934078eaa0.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Passerby's Rejuvenated Wooden Hairstick<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80b3b07c1526ac1008beda61ada3d07f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Roaming Dragon Bracer<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d2f40301df337bc48b11db5a01399bf3.png"
+                ,
+                height="25"
+              />
+              <code>+9</code><br />
+              ⭐⭐⭐<br />
+              Passerby's Ragged Embroided Coat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8c87d847db6c73802c9da5aeda65da90.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Stygian Hiking Boots<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Perfect Timing</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
