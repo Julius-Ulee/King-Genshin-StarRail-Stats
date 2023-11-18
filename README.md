@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 17, 2023 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 18, 2023 08:20 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-17 09:21:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-18 09:20:32+08:00</b></td>
   </tr>
 </table>
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>250</b></td>
+    <td align="center"><b>251</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>10-3</b></td>
+    <td align="center"><b>11-3</b></td>
   </tr>
 </table>
 
@@ -669,19 +669,19 @@
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>10-3</b>
+      <b>11-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>9</b>
+      <b>12</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>12</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>17</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>22</b>
     </td>
   </tr>
   <tr>
@@ -698,16 +698,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -717,7 +707,17 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3861</b> <code>(rate 16)</code></td>
+    <td align="center"><b>4051</b> <code>(rate 21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,17 +801,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2367932</b> <code>(rate -28)</code></td>
+    <td align="center"><b>2599394</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1270</b> <code>(33%)</code><br />Adventure: <b>714</b>
-      <code>(19%)</code><br />Daily Activity: <b>660</b> <code>(17%)</code
-      ><br />Events: <b>460</b> <code>(11%)</code><br />Quests: <b>390</b>
-      <code>(10%)</code><br />Spiral Abyss: <b>350</b> <code>(9%)</code
+      Mail: <b>1270</b> <code>(32%)</code><br />Daily Activity: <b>720</b>
+      <code>(18%)</code><br />Adventure: <b>714</b> <code>(18%)</code
+      ><br />Events: <b>520</b> <code>(12%)</code><br />Quests: <b>410</b>
+      <code>(10%)</code><br />Spiral Abyss: <b>400</b> <code>(9%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -6227,22 +6227,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-17 09:21:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-18 09:20:34+08:00</b></td>
   </tr>
 </table>
 
@@ -6260,7 +6260,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>102</b></td>
+    <td><b>103</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6285,7 +6285,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1706</b> <code>(rate -14)</code></td>
+    <td align="center"><b>1796</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6295,7 +6295,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>13</b> <code>(rate -35)</code></td>
+    <td align="center"><b>14</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6306,9 +6306,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>1050</b> <code>(61%)</code><br />Daily Activity: <b>540</b>
-      <code>(31%)</code><br />Adventure Rewards: <b>115</b> <code>(6%)</code
-      ><br />Other: <b>1</b> <code>(2%)</code><br />Event: <b>0</b>
+      Mail: <b>1080</b> <code>(60%)</code><br />Daily Activity: <b>600</b>
+      <code>(33%)</code><br />Adventure Rewards: <b>115</b> <code>(6%)</code
+      ><br />Other: <b>1</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
