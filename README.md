@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 18, 2023 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 18, 2023 19:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -698,26 +698,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(9)</code><br /><img
+      <b>Sucrose</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -728,7 +728,7 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(48)</code><br />
+      <b>Cyno</b> <code>(56)</code><br />
     </td>
   </tr>
   <tr>
@@ -750,7 +750,7 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(118590)</code><br />
+      <b>Cyno</b> <code>(221030)</code><br />
     </td>
   </tr>
   <tr>
@@ -761,7 +761,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(42)</code><br />
+      <b>Diluc</b> <code>(68)</code><br />
     </td>
   </tr>
   <tr>
@@ -772,7 +772,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(57)</code><br />
+      <b>Diluc</b> <code>(90)</code><br />
     </td>
   </tr>
 </table>
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4051</b> <code>(rate 21)</code></td>
+    <td align="center"><b>4071</b> <code>(rate 22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,14 +801,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2599394</b> <code>(rate -21)</code></td>
+    <td align="center"><b>2622119</b> <code>(rate -20)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1270</b> <code>(32%)</code><br />Daily Activity: <b>720</b>
+      Mail: <b>1290</b> <code>(32%)</code><br />Daily Activity: <b>720</b>
       <code>(18%)</code><br />Adventure: <b>714</b> <code>(18%)</code
       ><br />Events: <b>520</b> <code>(12%)</code><br />Quests: <b>410</b>
       <code>(10%)</code><br />Spiral Abyss: <b>400</b> <code>(9%)</code
