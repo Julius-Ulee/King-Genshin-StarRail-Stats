@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 19, 2023 08:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 19, 2023 19:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -698,6 +698,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -712,12 +717,7 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(12)</code><br />
+      <b>Cyno</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4071</b> <code>(rate 22)</code></td>
+    <td align="center"><b>4131</b> <code>(rate 24)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,17 +801,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2638369</b> <code>(rate -20)</code></td>
+    <td align="center"><b>2679211</b> <code>(rate -19)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1290</b> <code>(32%)</code><br />Daily Activity: <b>720</b>
-      <code>(18%)</code><br />Adventure: <b>714</b> <code>(18%)</code
-      ><br />Events: <b>520</b> <code>(12%)</code><br />Quests: <b>410</b>
-      <code>(10%)</code><br />Spiral Abyss: <b>400</b> <code>(9%)</code
+      Mail: <b>1290</b> <code>(32%)</code><br />Daily Activity: <b>780</b>
+      <code>(19%)</code><br />Adventure: <b>714</b> <code>(18%)</code
+      ><br />Events: <b>520</b> <code>(12%)</code><br />Spiral Abyss:
+      <b>400</b> <code>(9%)</code><br />Quests: <b>410</b> <code>(9%)</code
       ><br />Other: <b>17</b> <code>(1%)</code><br />
     </td>
   </tr>
@@ -6260,7 +6260,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>103</b></td>
+    <td><b>104</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6268,7 +6268,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>137</b></td>
+    <td><b>138</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -7833,7 +7833,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
