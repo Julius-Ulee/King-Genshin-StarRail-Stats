@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 22, 2023 08:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 22, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>458</b></td>
+    <td align="center"><b>459</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>254</b></td>
+    <td align="center"><b>255</b></td>
   </tr>
   <tr>
     <td>
@@ -188,7 +188,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>38</b></td>
+    <td align="center"><b>39</b></td>
   </tr>
   <tr>
     <td>
@@ -698,16 +698,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -717,7 +707,17 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(12)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
