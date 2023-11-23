@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 23, 2023 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 23, 2023 10:11 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -698,33 +698,33 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+      <b>Zhongli</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+      <b>Diluc</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      <b>Bennett</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(12)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
         ,
         height="18"
       />
@@ -735,7 +735,7 @@
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
@@ -746,7 +746,7 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
         ,
         height="18"
       />
@@ -757,7 +757,7 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
         ,
         height="18"
       />
@@ -768,7 +768,7 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
         ,
         height="18"
       />
@@ -1566,18 +1566,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Gladiator's Finale<br />1 x Crimson Witch of
-              Flames<br />1 x Instructor<br />
+              Artifacts<br />2 x Crimson Witch of Flames<br />2 x Gladiator's
+              Finale<br />1 x Instructor<br />
             </td>
             <td align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e5050af5eff38084f509f237b750b918.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/160bccec5e332d62bc87989850f320ba.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Gladiator's Nostalgia<br /><img
+              Witch's Flower of Blaze<br /><img
                 src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a74736b87e4f7d1a009cf3cfb62bfd4.png"
                 ,
                 height="25"
