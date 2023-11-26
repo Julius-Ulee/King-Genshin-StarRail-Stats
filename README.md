@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 25, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 26, 2023 08:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-25 09:18:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-26 09:25:22+08:00</b></td>
   </tr>
 </table>
 
@@ -698,26 +698,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(12)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5157785</b> <code>(rate 55)</code></td>
+    <td align="center"><b>5187985</b> <code>(rate 56)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6350,22 +6350,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>2 x Refined Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-11-25 09:18:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-11-26 09:25:20+08:00</b></td>
   </tr>
 </table>
 
@@ -6408,7 +6408,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4427</b> <code>(rate 123)</code></td>
+    <td align="center"><b>5098</b> <code>(rate 156)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6429,11 +6429,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>1480</b> <code>(33%)</code><br />Adventure Rewards: <b>1375</b>
-      <code>(31%)</code><br />Daily Activity: <b>1020</b> <code>(23%)</code
-      ><br />Simulated Universe: <b>530</b> <code>(11%)</code><br />Other:
-      <b>2</b> <code>(2%)</code><br />Event: <b>20</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Adventure Rewards: <b>1645</b> <code>(32%)</code><br />Mail: <b>1480</b>
+      <code>(29%)</code><br />Daily Activity: <b>1020</b> <code>(20%)</code
+      ><br />Simulated Universe: <b>530</b> <code>(10%)</code><br />Forgotten
+      Hall: <b>400</b> <code>(7%)</code><br />Other: <b>3</b> <code>(2%)</code
+      ><br />Event: <b>20</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -6728,7 +6728,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
