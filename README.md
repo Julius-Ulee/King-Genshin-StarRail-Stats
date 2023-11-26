@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 26, 2023 08:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 26, 2023 19:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>258</b></td>
+    <td align="center"><b>259</b></td>
   </tr>
   <tr>
     <td>
@@ -621,7 +621,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>557</code></td>
+    <td align="center"><code>558</code></td>
   </tr>
   <tr>
     <td>
@@ -698,26 +698,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(12)</code><br />
+      <b>Zhongli</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5187985</b> <code>(rate 56)</code></td>
+    <td align="center"><b>5203435</b> <code>(rate 57)</code></td>
   </tr>
   <tr>
     <td align="center">
