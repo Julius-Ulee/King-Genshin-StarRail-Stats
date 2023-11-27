@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 27, 2023 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 27, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -698,11 +698,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
         ,
         height="18"
@@ -717,7 +712,12 @@
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(12)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6023</b> <code>(rate 81)</code></td>
+    <td align="center"><b>6173</b> <code>(rate 85)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,18 +801,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5569802</b> <code>(rate 68)</code></td>
+    <td align="center"><b>5787618</b> <code>(rate 74)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1670</b> <code>(28%)</code><br />Mail: <b>1290</b>
-      <code>(22%)</code><br />Daily Activity: <b>1200</b> <code>(20%)</code
-      ><br />Adventure: <b>784</b> <code>(14%)</code><br />Quests: <b>600</b>
+      Events: <b>1730</b> <code>(29%)</code><br />Daily Activity: <b>1260</b>
+      <code>(21%)</code><br />Mail: <b>1290</b> <code>(21%)</code
+      ><br />Adventure: <b>784</b> <code>(13%)</code><br />Quests: <b>600</b>
       <code>(9%)</code><br />Spiral Abyss: <b>400</b> <code>(6%)</code
-      ><br />Other: <b>79</b> <code>(1%)</code><br />
+      ><br />Other: <b>109</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
