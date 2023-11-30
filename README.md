@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Nov 30, 2023 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Nov 30, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>261</b></td>
+    <td align="center"><b>263</b></td>
   </tr>
   <tr>
     <td>
@@ -698,6 +698,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
         ,
         height="18"
@@ -712,12 +717,7 @@
         ,
         height="18"
       />
-      <b>Diluc</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(12)</code><br />
+      <b>Diluc</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
