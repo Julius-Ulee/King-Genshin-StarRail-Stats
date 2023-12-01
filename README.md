@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 01, 2023 08:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 01, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>263</b></td>
+    <td align="center"><b>264</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -698,26 +698,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+        ,
+        height="18"
+      />
+      <b>Diluc</b> <code>(12)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
       />
       <b>Xingqiu</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(12)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(12)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
-        ,
-        height="18"
-      />
-      <b>Diluc</b> <code>(12)</code><br />
+      <b>Zhongli</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>60</b> <code>(rate -99)</code></td>
+    <td align="center"><b>61</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,18 +801,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>59505</b> <code>(rate -99)</code></td>
+    <td align="center"><b>100055</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>60</b> <code>(100%)</code><br />Events: <b>0</b>
+      Daily Activity: <b>60</b> <code>(99%)</code><br />Events: <b>0</b>
       <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
       <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      <b>1</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
