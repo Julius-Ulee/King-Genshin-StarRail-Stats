@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 02, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 03, 2023 08:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,22 +124,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-02 09:18:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-03 09:25:28+08:00</b></td>
   </tr>
 </table>
 
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>61</b> <code>(rate -99)</code></td>
+    <td align="center"><b>321</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,18 +801,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>100055</b> <code>(rate -98)</code></td>
+    <td align="center"><b>211845</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>60</b> <code>(99%)</code><br />Events: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>1</b> <code>(1%)</code><br />
+      Mail: <b>200</b> <code>(62%)</code><br />Daily Activity: <b>120</b>
+      <code>(37%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
+      Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
+      <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -1485,6 +1485,169 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Diluc</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Diluc
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/73c9e161f7996f56756f76dbb8c35105.png"
+            ,
+            height="20"
+          />
+          Beacon of the Reed Sea
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/73c9e161f7996f56756f76dbb8c35105.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+9</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Crimson Witch of Flames<br />2 x Gladiator's
+              Finale<br />1 x Instructor<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/160bccec5e332d62bc87989850f320ba.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's Flower of Blaze<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a74736b87e4f7d1a009cf3cfb62bfd4.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Destiny<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ed7273939ab0767a8d2f7951fb6da221.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's End Time<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a41917e5835e05b47e7f348fbf567a93.png"
+                ,
+                height="25"
+              />
+              <code>+8</code><br />
+              ⭐⭐⭐⭐<br />
+              Instructor's Tea Cup<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/26f8b9bab3d23be7921e6692c2dcbf4f.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Triumphus<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Beacon of the Reed Sea</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Claymore</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
       ,
       height="18"
@@ -1624,169 +1787,6 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-      ,
-      height="18"
-    /><b> Diluc</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-            ,
-            height="20"
-          />
-          Diluc
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/73c9e161f7996f56756f76dbb8c35105.png"
-            ,
-            height="20"
-          />
-          Beacon of the Reed Sea
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Diluc_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/73c9e161f7996f56756f76dbb8c35105.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+8</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />2 x Crimson Witch of Flames<br />2 x Gladiator's
-              Finale<br />1 x Instructor<br />
-            </td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/160bccec5e332d62bc87989850f320ba.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Witch's Flower of Blaze<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a74736b87e4f7d1a009cf3cfb62bfd4.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Gladiator's Destiny<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ed7273939ab0767a8d2f7951fb6da221.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Witch's End Time<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a41917e5835e05b47e7f348fbf567a93.png"
-                ,
-                height="25"
-              />
-              <code>+8</code><br />
-              ⭐⭐⭐⭐<br />
-              Instructor's Tea Cup<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/26f8b9bab3d23be7921e6692c2dcbf4f.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Gladiator's Triumphus<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Beacon of the Reed Sea</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Claymore</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6350,22 +6350,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-02 09:18:27+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-03 09:25:25+08:00</b></td>
   </tr>
 </table>
 
@@ -6383,7 +6383,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>117</b></td>
+    <td><b>118</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6408,7 +6408,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>860</b> <code>(rate -84)</code></td>
+    <td align="center"><b>1060</b> <code>(rate -80)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6429,9 +6429,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>800</b> <code>(93%)</code><br />Daily Activity: <b>60</b>
-      <code>(6%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
-      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
+      Mail: <b>800</b> <code>(75%)</code><br />Event: <b>140</b>
+      <code>(13%)</code><br />Daily Activity: <b>120</b> <code>(11%)</code
+      ><br />Other: <b>0</b> <code>(1%)</code><br />Adventure Rewards: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
