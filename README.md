@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 04, 2023 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 04, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>581</b> <code>(rate -90)</code></td>
+    <td align="center"><b>861</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,15 +801,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>255505</b> <code>(rate -95)</code></td>
+    <td align="center"><b>312697</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>400</b> <code>(69%)</code><br />Daily Activity: <b>180</b>
-      <code>(30%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
+      Mail: <b>620</b> <code>(72%)</code><br />Daily Activity: <b>240</b>
+      <code>(27%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
       Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
@@ -834,6 +834,166 @@
   />
 </h2>
 <details open>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      ,
+      height="18"
+    /><b> Zhongli</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+            ,
+            height="20"
+          />
+          Zhongli
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png"
+            ,
+            height="20"
+          />
+          Favonius Lance
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                ,
+                height="18"
+              />
+              Geo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+10</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />5 x Archaic Petra<br /></td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8ed7c6977e04b6c38d266edde8998ca5.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Flower of Creviced Cliff<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/0fcbcee3d7b6867c614ad9c3307dfda4.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Feather of Jagged Peaks<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/cbccb2597fd4fae10527a445808e986b.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Sundial of Enduring Jade<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d682eb77937d4b4d0afdea182b6f3f80.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Goblet of Chiseled Crag<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8be0c83800b0476c944e65c506f1851f.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Mask of Solitude Basalt<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Favonius Lance</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Polearm</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary align="center">
     <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -1627,166 +1787,6 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>6</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-      ,
-      height="18"
-    /><b> Zhongli</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-            ,
-            height="20"
-          />
-          Zhongli
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png"
-            ,
-            height="20"
-          />
-          Favonius Lance
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                ,
-                height="18"
-              />
-              Geo
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+9</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />5 x Archaic Petra<br /></td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8ed7c6977e04b6c38d266edde8998ca5.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Flower of Creviced Cliff<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/0fcbcee3d7b6867c614ad9c3307dfda4.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Feather of Jagged Peaks<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/cbccb2597fd4fae10527a445808e986b.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Sundial of Enduring Jade<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d682eb77937d4b4d0afdea182b6f3f80.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Goblet of Chiseled Crag<br /><img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8be0c83800b0476c944e65c506f1851f.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Mask of Solitude Basalt<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Favonius Lance</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Polearm</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6383,7 +6383,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>118</b></td>
+    <td><b>119</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
