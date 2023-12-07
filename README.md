@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2023 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 07, 2023 19:36 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -2705,8 +2705,47 @@
             <td align="center"><code>2</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
+            <td>
+              Artifacts<br />3 x Golden Troupe<br />2 x Marechaussee Hunter<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/fadbbf8dbba05ad1ce0daeb4ebf89413.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Song's Variation<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/4ca24e57d1adc9f0247c6bffd164d8b7.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Bird's Shedding<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/de01dcbf2911968336afbbb61b455831.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Moment of Judgment<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b10902ae43e7f6d6619fe560829f7ba3.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Forgotten Vessel<br /><img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2f69d44e2e79a05adbe0c9fe6391ea33.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Troupe's Reward<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2730,7 +2769,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -6383,7 +6422,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>121</b></td>
+    <td><b>122</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6408,7 +6447,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1885</b> <code>(rate -65)</code></td>
+    <td align="center"><b>2075</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6418,7 +6457,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>12</b> <code>(rate -64)</code></td>
+    <td align="center"><b>13</b> <code>(rate -61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6429,9 +6468,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>820</b> <code>(43%)</code><br />Event: <b>420</b>
-      <code>(22%)</code><br />Daily Activity: <b>360</b> <code>(19%)</code
-      ><br />Simulated Universe: <b>260</b> <code>(13%)</code><br />Other:
+      Mail: <b>870</b> <code>(41%)</code><br />Event: <b>500</b>
+      <code>(24%)</code><br />Daily Activity: <b>420</b> <code>(20%)</code
+      ><br />Simulated Universe: <b>260</b> <code>(12%)</code><br />Other:
       <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>25</b>
       <code>(1%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
