@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 10, 2023 08:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 10, 2023 19:33 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -790,7 +790,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2391</b> <code>(rate -62)</code></td>
+    <td align="center"><b>2591</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -801,15 +801,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1625702</b> <code>(rate -73)</code></td>
+    <td align="center"><b>1828967</b> <code>(rate -70)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1520</b> <code>(64%)</code><br />Daily Activity: <b>540</b>
-      <code>(22%)</code><br />Events: <b>280</b> <code>(11%)</code><br />Quests:
+      Mail: <b>1520</b> <code>(58%)</code><br />Daily Activity: <b>600</b>
+      <code>(23%)</code><br />Events: <b>420</b> <code>(16%)</code><br />Quests:
       <b>40</b> <code>(1%)</code><br />Adventure: <b>10</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
@@ -6447,7 +6447,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4415</b> <code>(rate -19)</code></td>
+    <td align="center"><b>4475</b> <code>(rate -18)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6468,10 +6468,10 @@
       Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(55%)</code><br />Adventure Rewards: <b>605</b>
-      <code>(13%)</code><br />Daily Activity: <b>540</b> <code>(12%)</code
+      Mail: <b>2470</b> <code>(55%)</code><br />Daily Activity: <b>600</b>
+      <code>(13%)</code><br />Adventure Rewards: <b>605</b> <code>(13%)</code
       ><br />Event: <b>540</b> <code>(12%)</code><br />Simulated Universe:
-      <b>260</b> <code>(5%)</code><br />Other: <b>0</b> <code>(3%)</code
+      <b>260</b> <code>(5%)</code><br />Other: <b>0</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
