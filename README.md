@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 11, 2023 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 11, 2023 19:37 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>273</b></td>
+    <td align="center"><b>274</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>365</b></td>
+    <td align="center"><b>364</b></td>
   </tr>
   <tr>
     <td>
