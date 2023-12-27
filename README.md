@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 27, 2023 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 27, 2023 17:49 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>287</b></td>
+    <td align="center"><b>288</b></td>
   </tr>
   <tr>
     <td>
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4627</b> <code>(rate -27)</code></td>
+    <td align="center"><b>4707</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,16 +671,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4397532</b> <code>(rate -28)</code></td>
+    <td align="center"><b>4449602</b> <code>(rate -27)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2660</b> <code>(57%)</code><br />Daily Activity: <b>1440</b>
+      Mail: <b>2680</b> <code>(57%)</code><br />Daily Activity: <b>1480</b>
       <code>(31%)</code><br />Events: <b>460</b> <code>(9%)</code><br />Quests:
-      <b>40</b> <code>(1%)</code><br />Adventure: <b>25</b> <code>(1%)</code
+      <b>40</b> <code>(1%)</code><br />Adventure: <b>45</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>2</b>
       <code>(1%)</code><br />
     </td>
@@ -6415,7 +6415,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>139</b></td>
+    <td><b>140</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6440,7 +6440,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>6005</b> <code>(rate 9)</code></td>
+    <td align="center"><b>6665</b> <code>(rate 21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6450,7 +6450,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>23</b> <code>(rate -32)</code></td>
+    <td align="center"><b>24</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6461,10 +6461,10 @@
       Categories
     </td>
     <td>
-      Mail: <b>2810</b> <code>(46%)</code><br />Daily Activity: <b>1440</b>
-      <code>(23%)</code><br />Event: <b>850</b> <code>(14%)</code
-      ><br />Adventure Rewards: <b>645</b> <code>(10%)</code><br />Simulated
-      Universe: <b>260</b> <code>(4%)</code><br />Other: <b>0</b>
+      Mail: <b>3410</b> <code>(51%)</code><br />Daily Activity: <b>1500</b>
+      <code>(22%)</code><br />Event: <b>850</b> <code>(12%)</code
+      ><br />Adventure Rewards: <b>645</b> <code>(9%)</code><br />Simulated
+      Universe: <b>260</b> <code>(3%)</code><br />Other: <b>0</b>
       <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
