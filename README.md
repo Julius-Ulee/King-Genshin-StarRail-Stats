@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Dec 30, 2023 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Dec 31, 2023 08:25 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -124,7 +124,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -139,7 +139,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-30 09:18:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-31 09:25:42+08:00</b></td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4927</b> <code>(rate -22)</code></td>
+    <td align="center"><b>4957</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,14 +671,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4675978</b> <code>(rate -24)</code></td>
+    <td align="center"><b>4676978</b> <code>(rate -24)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2720</b> <code>(55%)</code><br />Daily Activity: <b>1660</b>
+      Mail: <b>2750</b> <code>(55%)</code><br />Daily Activity: <b>1660</b>
       <code>(33%)</code><br />Events: <b>460</b> <code>(9%)</code><br />Quests:
       <b>40</b> <code>(1%)</code><br />Adventure: <b>45</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>2</b>
@@ -6382,7 +6382,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6397,7 +6397,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2023-12-30 09:18:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2023-12-31 09:25:43+08:00</b></td>
   </tr>
 </table>
 
