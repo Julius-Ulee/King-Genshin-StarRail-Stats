@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 02, 2024 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 02, 2024 19:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>292</b></td>
+    <td align="center"><b>293</b></td>
   </tr>
   <tr>
     <td>
@@ -291,7 +291,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
