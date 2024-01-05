@@ -65,7 +65,7 @@
   </tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jan 05, 2024 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 05, 2024 19:34 +0700</u> (🤖Automated)
 </h3>
 <br />
 
@@ -166,7 +166,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>466</b></td>
+    <td align="center"><b>467</b></td>
   </tr>
   <tr>
     <td>
@@ -177,7 +177,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>295</b></td>
+    <td align="center"><b>297</b></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>364</b></td>
+    <td align="center"><b>365</b></td>
   </tr>
   <tr>
     <td>
@@ -454,7 +454,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/14/" width="80" />
           </td>
         </tr>
         <tr>
@@ -621,7 +621,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>563</code></td>
+    <td align="center"><code>565</code></td>
   </tr>
   <tr>
     <td>
@@ -660,7 +660,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1261</b> <code>(rate -75)</code></td>
+    <td align="center"><b>1382</b> <code>(rate -72)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -671,18 +671,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>940128</b> <code>(rate -80)</code></td>
+    <td align="center"><b>1049521</b> <code>(rate -78)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>860</b> <code>(69%)</code><br />Daily Activity: <b>300</b>
-      <code>(23%)</code><br />Adventure: <b>80</b> <code>(6%)</code><br />Mail:
+      Events: <b>860</b> <code>(63%)</code><br />Daily Activity: <b>300</b>
+      <code>(22%)</code><br />Adventure: <b>100</b> <code>(7%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
-      <code>(1%)</code><br />
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>102</b>
+      <code>(7%)</code><br />
     </td>
   </tr>
 </table>
