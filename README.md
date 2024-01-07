@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 07, 2024 11:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 07, 2024 19:33 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1467</b> <code>(rate -70)</code></td>
+    <td align="center"><b>1847</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -682,18 +682,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1174549</b> <code>(rate -76)</code></td>
+    <td align="center"><b>1345119</b> <code>(rate -72)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>860</b> <code>(59%)</code><br />Daily Activity: <b>360</b>
-      <code>(25%)</code><br />Adventure: <b>125</b> <code>(9%)</code><br />Mail:
+      Events: <b>860</b> <code>(47%)</code><br />Daily Activity: <b>420</b>
+      <code>(23%)</code><br />Adventure: <b>145</b> <code>(7%)</code><br />Mail:
       <b>20</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>102</b>
-      <code>(6%)</code><br />
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>402</b>
+      <code>(22%)</code><br />
     </td>
   </tr>
 </table>
@@ -798,8 +798,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Crimson Witch of Flames<br />2 x Gladiator's
-              Finale<br />1 x Instructor<br />
+              Artifacts<br />3 x Crimson Witch of Flames<br />2 x Gladiator's
+              Finale<br />
             </td>
             <td align="center">
               <img
@@ -824,13 +824,13 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Witch's End Time<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/ed65d689f9306c160a5c30b799e90076.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/57aab32b01e18a2165227bda89d0969a.png"
                 ,
                 height="25"
               />
-              <code>+8</code><br />
-              ⭐⭐⭐⭐<br />
-              Instructor's Tea Cup<br /><img
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's Heart Flames<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/78af4fd4f509d729a488314d7ce3d406.png"
                 ,
                 height="25"
@@ -6425,7 +6425,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>150</b></td>
+    <td><b>151</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6450,7 +6450,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>475</b> <code>(rate -93)</code></td>
+    <td align="center"><b>535</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6471,10 +6471,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>360</b> <code>(75%)</code><br />Mail: <b>70</b>
-      <code>(14%)</code><br />Event: <b>40</b> <code>(8%)</code><br />Other:
+      Daily Activity: <b>420</b> <code>(78%)</code><br />Mail: <b>70</b>
+      <code>(13%)</code><br />Event: <b>40</b> <code>(7%)</code><br />Other:
       <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>5</b>
-      <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
