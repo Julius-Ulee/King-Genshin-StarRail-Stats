@@ -64,10 +64,21 @@
     </th>
   </tr>
 </table>
+<p align="center">
+  <img
+    src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml/badge.svg"
+  />
+  <img
+    src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg"
+  />
+  <img
+    height="20"
+    src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png"
+  />
+</p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 07, 2024 08:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 07, 2024 10:24 +0700</u> (🤖Automated)
 </h3>
-<br />
 
 <p align="center">
   <img src="./images/banner/genshin-impact-banner.png" />
