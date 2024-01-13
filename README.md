@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 12, 2024 19:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 13, 2024 08:21 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-12 09:23:00+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-13 09:21:51+08:00</b></td>
   </tr>
 </table>
 
@@ -2091,8 +2091,48 @@
             <td align="center"><code>0</code></td>
           </tr>
           <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
+            <td>
+              Artifacts<br />1 x Marechaussee Hunter<br />3 x Nighttime Whispers
+              in the Echoing Woods<br />1 x Golden Troupe<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/93f089c36720a8848f77b65db8f92e44.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Hunter's Brooch<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/22f732d63bc06d0a229bb0ae17d3ac5d.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Honest Quill<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/0d8c3d90be88512f31ba4147dbe77f58.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Faithful Hourglass<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/3168d020a7a793165925c9f20925fa46.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Magnanimous Ink Bottle<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/02225f0f4f3d3229bdaeeb7789b40cdc.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Troupe's Reward<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -6515,22 +6555,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-12 09:23:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-13 09:21:53+08:00</b></td>
   </tr>
 </table>
 
@@ -6548,7 +6588,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>156</b></td>
+    <td><b>157</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6573,7 +6613,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>840</b> <code>(rate -88)</code></td>
+    <td align="center"><b>900</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6594,8 +6634,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>720</b> <code>(85%)</code><br />Mail: <b>70</b>
-      <code>(8%)</code><br />Event: <b>40</b> <code>(4%)</code><br />Other:
+      Daily Activity: <b>780</b> <code>(86%)</code><br />Mail: <b>70</b>
+      <code>(7%)</code><br />Event: <b>40</b> <code>(4%)</code><br />Other:
       <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
       <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
