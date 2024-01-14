@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 13, 2024 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 14, 2024 08:33 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-13 09:21:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-14 09:33:51+08:00</b></td>
   </tr>
 </table>
 
@@ -2101,14 +2101,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Brooch<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/22f732d63bc06d0a229bb0ae17d3ac5d.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+4</code><br />
               ⭐⭐⭐⭐⭐<br />
               Honest Quill<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/0d8c3d90be88512f31ba4147dbe77f58.png"
@@ -2129,7 +2129,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Golden Troupe's Reward<br />
             </td>
@@ -6555,22 +6555,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-13 09:21:53+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-14 09:33:51+08:00</b></td>
   </tr>
 </table>
 
