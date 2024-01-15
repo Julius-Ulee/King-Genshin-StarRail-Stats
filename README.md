@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 14, 2024 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 15, 2024 08:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-14 09:33:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-15 09:25:10+08:00</b></td>
   </tr>
 </table>
 
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2492</b> <code>(rate -50)</code></td>
+    <td align="center"><b>2872</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -682,18 +682,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2489542</b> <code>(rate -49)</code></td>
+    <td align="center"><b>2713267</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1000</b> <code>(41%)</code><br />Daily Activity: <b>780</b>
-      <code>(32%)</code><br />Adventure: <b>165</b> <code>(6%)</code><br />Mail:
-      <b>140</b> <code>(5%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Events: <b>1320</b> <code>(46%)</code><br />Daily Activity: <b>840</b>
+      <code>(30%)</code><br />Adventure: <b>165</b> <code>(5%)</code><br />Mail:
+      <b>140</b> <code>(4%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>407</b>
-      <code>(16%)</code><br />
+      <code>(15%)</code><br />
     </td>
   </tr>
 </table>
@@ -1030,7 +1030,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -2084,7 +2084,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+2</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6271,6 +6271,129 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
+    /><b> Kujou Sara</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+            ,
+            height="20"
+          />
+          Kujou Sara
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/0f569059fcaa87165c35933b3ba84ebd.png"
+            ,
+            height="20"
+          />
+          Hunter's Bow
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sara_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/0f569059fcaa87165c35933b3ba84ebd.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                ,
+                height="18"
+              />
+              Electro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Hunter's Bow</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
       ,
       height="18"
@@ -6555,22 +6678,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Energy Drink (sugar-free)</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-14 09:33:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-15 09:25:11+08:00</b></td>
   </tr>
 </table>
 
@@ -6588,7 +6711,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>157</b></td>
+    <td><b>158</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6613,7 +6736,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>900</b> <code>(rate -87)</code></td>
+    <td align="center"><b>980</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6634,11 +6757,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>780</b> <code>(86%)</code><br />Mail: <b>70</b>
-      <code>(7%)</code><br />Event: <b>40</b> <code>(4%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
-      <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>840</b> <code>(85%)</code><br />Mail: <b>90</b>
+      <code>(9%)</code><br />Event: <b>40</b> <code>(4%)</code><br />Adventure
+      Rewards: <b>10</b> <code>(1%)</code><br />Other: <b>0</b> <code>(1%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
