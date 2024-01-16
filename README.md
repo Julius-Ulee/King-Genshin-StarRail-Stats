@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 16, 2024 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 16, 2024 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>306</b></td>
+    <td align="center"><b>307</b></td>
   </tr>
   <tr>
     <td>
@@ -302,7 +302,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -484,7 +484,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">5</td>
+          <td align="center">6</td>
         </tr>
       </table>
     </td>
@@ -671,7 +671,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2872</b> <code>(rate -43)</code></td>
+    <td align="center"><b>3566</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -682,18 +682,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2741042</b> <code>(rate -44)</code></td>
+    <td align="center"><b>3649535</b> <code>(rate -25)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1320</b> <code>(46%)</code><br />Daily Activity: <b>840</b>
-      <code>(30%)</code><br />Adventure: <b>165</b> <code>(5%)</code><br />Mail:
-      <b>140</b> <code>(4%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>407</b>
-      <code>(15%)</code><br />
+      Events: <b>1320</b> <code>(38%)</code><br />Daily Activity: <b>900</b>
+      <code>(26%)</code><br />Adventure: <b>777</b> <code>(21%)</code
+      ><br />Mail: <b>140</b> <code>(3%)</code><br />Quests: <b>20</b>
+      <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>409</b> <code>(11%)</code><br />
     </td>
   </tr>
 </table>
@@ -738,11 +738,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/5e6856b8a23dfb63dcf369c496d4cc0a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
             ,
             height="20"
           />
-          Beacon of the Reed Sea
+          "Ultimate Overlord's Mega Magic Sword"
         </h3>
       </th>
     </tr>
@@ -759,7 +759,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/5e6856b8a23dfb63dcf369c496d4cc0a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
             ,
             height="256"
           />
@@ -850,7 +850,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Beacon of the Reed Sea</td>
+            <td align="center">"Ultimate Overlord's Mega Magic Sword"</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -858,7 +858,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -870,7 +870,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -2032,11 +2032,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/5e6856b8a23dfb63dcf369c496d4cc0a.png"
             ,
             height="20"
           />
-          "Ultimate Overlord's Mega Magic Sword"
+          Beacon of the Reed Sea
         </h3>
       </th>
     </tr>
@@ -2053,7 +2053,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/5e6856b8a23dfb63dcf369c496d4cc0a.png"
             ,
             height="256"
           />
@@ -2144,7 +2144,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">"Ultimate Overlord's Mega Magic Sword"</td>
+            <td align="center">Beacon of the Reed Sea</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -2152,7 +2152,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2164,7 +2164,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -5779,6 +5779,129 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Qiqi</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+            ,
+            height="20"
+          />
+          Qiqi
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/6ea08ffb3b61904dc411dfaca3909f7b.png"
+            ,
+            height="20"
+          />
+          Dull Blade
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Qiqi_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/6ea08ffb3b61904dc411dfaca3909f7b.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                ,
+                height="18"
+              />
+              Cryo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
       ,
       height="18"
@@ -6630,7 +6753,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -6711,7 +6834,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>158</b></td>
+    <td><b>159</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6736,7 +6859,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>986</b> <code>(rate -85)</code></td>
+    <td align="center"><b>1046</b> <code>(rate -85)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6757,11 +6880,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>840</b> <code>(85%)</code><br />Mail: <b>90</b>
-      <code>(9%)</code><br />Event: <b>40</b> <code>(4%)</code><br />Adventure
-      Rewards: <b>15</b> <code>(1%)</code><br />Other: <b>1</b> <code>(1%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>900</b> <code>(86%)</code><br />Mail: <b>90</b>
+      <code>(8%)</code><br />Event: <b>40</b> <code>(3%)</code><br />Other:
+      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
+      <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
