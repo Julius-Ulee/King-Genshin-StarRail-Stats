@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 17, 2024 17:54 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 17, 2024 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -709,26 +709,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
