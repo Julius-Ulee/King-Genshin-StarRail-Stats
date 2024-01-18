@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 18, 2024 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 18, 2024 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>308</b></td>
+    <td align="center"><b>309</b></td>
   </tr>
   <tr>
     <td>
@@ -709,6 +709,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
@@ -723,12 +728,7 @@
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Sucrose</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4222</b> <code>(rate -16)</code></td>
+    <td align="center"><b>4442</b> <code>(rate -11)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -812,18 +812,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4228244</b> <code>(rate -14)</code></td>
+    <td align="center"><b>4437713</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1400</b> <code>(34%)</code><br />Daily Activity: <b>960</b>
+      Events: <b>1480</b> <code>(34%)</code><br />Daily Activity: <b>1020</b>
       <code>(23%)</code><br />Adventure: <b>822</b> <code>(19%)</code
-      ><br />Spiral Abyss: <b>450</b> <code>(10%)</code><br />Mail: <b>140</b>
-      <code>(3%)</code><br />Quests: <b>20</b> <code>(1%)</code><br />Other:
-      <b>430</b> <code>(10%)</code><br />
+      ><br />Spiral Abyss: <b>450</b> <code>(10%)</code><br />Mail: <b>220</b>
+      <code>(4%)</code><br />Quests: <b>20</b> <code>(1%)</code><br />Other:
+      <b>430</b> <code>(9%)</code><br />
     </td>
   </tr>
 </table>
@@ -6964,7 +6964,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>160</b></td>
+    <td><b>161</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6989,7 +6989,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1206</b> <code>(rate -82)</code></td>
+    <td align="center"><b>1266</b> <code>(rate -81)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,11 +7010,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>960</b> <code>(79%)</code><br />Event: <b>140</b>
-      <code>(11%)</code><br />Mail: <b>90</b> <code>(7%)</code><br />Other:
-      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
-      <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>1020</b> <code>(80%)</code><br />Event: <b>140</b>
+      <code>(11%)</code><br />Mail: <b>90</b> <code>(7%)</code><br />Adventure
+      Rewards: <b>15</b> <code>(1%)</code><br />Other: <b>1</b> <code>(1%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
