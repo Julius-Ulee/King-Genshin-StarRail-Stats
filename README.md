@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 19, 2024 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 20, 2024 08:21 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fisherman's Toast</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-19 09:23:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-20 09:21:53+08:00</b></td>
   </tr>
 </table>
 
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>309</b></td>
+    <td align="center"><b>310</b></td>
   </tr>
   <tr>
     <td>
@@ -632,7 +632,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>568</code></td>
+    <td align="center"><code>569</code></td>
   </tr>
   <tr>
     <td>
@@ -709,26 +709,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Xingqiu</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4502</b> <code>(rate -10)</code></td>
+    <td align="center"><b>4831</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -812,18 +812,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4492776</b> <code>(rate -8)</code></td>
+    <td align="center"><b>4703109</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1480</b> <code>(33%)</code><br />Daily Activity: <b>1080</b>
-      <code>(24%)</code><br />Adventure: <b>822</b> <code>(19%)</code
-      ><br />Spiral Abyss: <b>450</b> <code>(10%)</code><br />Mail: <b>220</b>
-      <code>(4%)</code><br />Quests: <b>20</b> <code>(1%)</code><br />Other:
-      <b>430</b> <code>(9%)</code><br />
+      Events: <b>1560</b> <code>(33%)</code><br />Daily Activity: <b>1080</b>
+      <code>(23%)</code><br />Adventure: <b>836</b> <code>(17%)</code
+      ><br />Spiral Abyss: <b>450</b> <code>(9%)</code><br />Mail: <b>455</b>
+      <code>(9%)</code><br />Quests: <b>20</b> <code>(1%)</code><br />Other:
+      <b>430</b> <code>(8%)</code><br />
     </td>
   </tr>
 </table>
@@ -1637,11 +1637,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2252,7 +2252,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Magnanimous Ink Bottle<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/02225f0f4f3d3229bdaeeb7789b40cdc.png"
@@ -6875,7 +6875,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
@@ -6931,22 +6931,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-19 09:23:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-20 09:21:54+08:00</b></td>
   </tr>
 </table>
 
