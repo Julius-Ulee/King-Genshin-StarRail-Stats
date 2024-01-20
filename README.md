@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 20, 2024 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 20, 2024 19:33 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -262,14 +262,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1221</b></td>
+    <td align="center"><b>1223</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>963</b></td>
+    <td align="center"><b>965</b></td>
   </tr>
   <tr>
     <td>
@@ -535,7 +535,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/37/" width="80" />
+            <img src="https://progress-bar.dev/38/" width="80" />
           </td>
         </tr>
         <tr>
@@ -709,26 +709,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(9)</code><br />
+      <b>Xingqiu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4831</b> <code>(rate -4)</code></td>
+    <td align="center"><b>5361</b> <code>(rate 6)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -812,17 +812,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4703109</b> <code>(rate -4)</code></td>
+    <td align="center"><b>5014813</b> <code>(rate 1)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1560</b> <code>(33%)</code><br />Daily Activity: <b>1080</b>
-      <code>(23%)</code><br />Adventure: <b>836</b> <code>(17%)</code
-      ><br />Spiral Abyss: <b>450</b> <code>(9%)</code><br />Mail: <b>455</b>
-      <code>(9%)</code><br />Quests: <b>20</b> <code>(1%)</code><br />Other:
+      Events: <b>1640</b> <code>(31%)</code><br />Daily Activity: <b>1140</b>
+      <code>(22%)</code><br />Adventure: <b>1046</b> <code>(20%)</code
+      ><br />Mail: <b>555</b> <code>(10%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(8%)</code><br />Quests: <b>100</b> <code>(1%)</code><br />Other:
       <b>430</b> <code>(8%)</code><br />
     </td>
   </tr>
@@ -6964,7 +6964,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>162</b></td>
+    <td><b>163</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6989,7 +6989,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1326</b> <code>(rate -81)</code></td>
+    <td align="center"><b>1406</b> <code>(rate -79)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,8 +7010,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1080</b> <code>(81%)</code><br />Event: <b>140</b>
-      <code>(10%)</code><br />Mail: <b>90</b> <code>(6%)</code><br />Other:
+      Daily Activity: <b>1140</b> <code>(81%)</code><br />Event: <b>140</b>
+      <code>(9%)</code><br />Mail: <b>110</b> <code>(7%)</code><br />Other:
       <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
       <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
