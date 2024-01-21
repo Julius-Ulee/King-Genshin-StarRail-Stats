@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 20, 2024 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 21, 2024 08:34 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-20 09:21:53+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-21 09:34:08+08:00</b></td>
   </tr>
 </table>
 
@@ -177,7 +177,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>479</b></td>
+    <td align="center"><b>483</b></td>
   </tr>
   <tr>
     <td>
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>310</b></td>
+    <td align="center"><b>311</b></td>
   </tr>
   <tr>
     <td>
@@ -233,7 +233,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>55</b></td>
+    <td align="center"><b>61</b></td>
   </tr>
   <tr>
     <td>
@@ -262,28 +262,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1223</b></td>
+    <td align="center"><b>1255</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>965</b></td>
+    <td align="center"><b>981</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>264</b></td>
+    <td align="center"><b>266</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>95</b></td>
+    <td align="center"><b>97</b></td>
   </tr>
   <tr>
     <td>
@@ -535,7 +535,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/38/" width="80" />
+            <img src="https://progress-bar.dev/42/" width="80" />
           </td>
         </tr>
         <tr>
@@ -709,16 +709,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
         ,
         height="18"
@@ -728,7 +718,17 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -6931,22 +6931,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-20 09:21:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-21 09:34:09+08:00</b></td>
   </tr>
 </table>
 
