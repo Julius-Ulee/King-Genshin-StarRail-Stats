@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 22, 2024 19:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 23, 2024 08:24 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -135,22 +135,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-22 09:26:13+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-23 09:24:14+08:00</b></td>
   </tr>
 </table>
 
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>312</b></td>
+    <td align="center"><b>313</b></td>
   </tr>
   <tr>
     <td>
@@ -709,11 +709,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
@@ -728,7 +723,12 @@
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(9)</code><br />
+      <b>Cyno</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -812,7 +812,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5445710</b> <code>(rate 10)</code></td>
+    <td align="center"><b>5532706</b> <code>(rate 12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6931,22 +6931,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-22 09:26:14+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-23 09:24:15+08:00</b></td>
   </tr>
 </table>
 
@@ -6972,7 +6972,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>158</b></td>
+    <td><b>162</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -6989,7 +6989,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1566</b> <code>(rate -77)</code></td>
+    <td align="center"><b>1966</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6999,7 +6999,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>15</b> <code>(rate -48)</code></td>
+    <td align="center"><b>16</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,11 +7010,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1260</b> <code>(80%)</code><br />Event: <b>180</b>
-      <code>(11%)</code><br />Mail: <b>110</b> <code>(7%)</code><br />Other:
-      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
-      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>1260</b> <code>(64%)</code><br />Event: <b>540</b>
+      <code>(27%)</code><br />Mail: <b>110</b> <code>(5%)</code><br />Adventure
+      Rewards: <b>55</b> <code>(2%)</code><br />Other: <b>1</b> <code>(2%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -7249,21 +7249,21 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Rejuvenated Wooden Hairstick<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5626f8e7153c8dd734be49afae5e7654.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/0c4cfbc73eefda9b97af78c963cf726f.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Ragged Embroided Coat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/692bbc51f3ef2702f76572d53b29d3b2.png"
@@ -7394,7 +7394,7 @@
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/89d76fb0cac082e0beae5d29f14c7515.png"
@@ -7408,14 +7408,14 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Rivets Riding Boots<br />
             </td>
@@ -7450,7 +7450,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -7899,6 +7899,151 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+      height="18"
+    /><b> Yukong </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+            height="20"
+          />
+          Yukong
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/56c0669502c7cd144919e8bb017c1063.png"
+            height="20"
+          />
+          Mediation
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d548ae544df679792c14103e57977bc7.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/56c0669502c7cd144919e8bb017c1063.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>2</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/df365c16d8e2b408ec932b0042004a5f.png"
+                ,
+                height="25"
+              />
+              <code>+14</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/89d76fb0cac082e0beae5d29f14c7515.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
+                ,
+                height="25"
+              />
+              <code>+13</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Mediation</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+50</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>4</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
       height="18"
     /><b> Natasha </b>
@@ -7964,7 +8109,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -7974,29 +8119,29 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
-              ⭐⭐⭐⭐<br />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
               Passerby's Rejuvenated Wooden Hairstick<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5626f8e7153c8dd734be49afae5e7654.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/0c4cfbc73eefda9b97af78c963cf726f.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Passerby's Ragged Embroided Coat<br /><img
                 src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/692bbc51f3ef2702f76572d53b29d3b2.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
+              ⭐⭐⭐⭐⭐<br />
               Passerby's Stygian Hiking Boots<br />
             </td>
           </tr>
@@ -8325,151 +8470,6 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-      height="18"
-    /><b> Yukong </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-            height="20"
-          />
-          Yukong
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/56c0669502c7cd144919e8bb017c1063.png"
-            height="20"
-          />
-          Mediation
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d548ae544df679792c14103e57977bc7.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/56c0669502c7cd144919e8bb017c1063.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                height="18"
-              />
-              imaginary
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+50</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/df365c16d8e2b408ec932b0042004a5f.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/89d76fb0cac082e0beae5d29f14c7515.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/5abc1539a9b7eead2ab7c1565a9f8f8e.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/74f7702e2fde31e64691b7d0ad12df03.png"
-                ,
-                height="25"
-              />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Mediation</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+50</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
