@@ -77,7 +77,7 @@
   />
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 25, 2024 08:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 25, 2024 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -188,7 +188,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>315</b></td>
+    <td align="center"><b>316</b></td>
   </tr>
   <tr>
     <td>
@@ -632,7 +632,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>569</code></td>
+    <td align="center"><code>570</code></td>
   </tr>
   <tr>
     <td>
@@ -709,16 +709,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
         ,
         height="18"
@@ -728,7 +718,17 @@
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(9)</code><br />
+      <b>Xiangling</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +801,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6625</b> <code>(rate 31)</code></td>
+    <td align="center"><b>6725</b> <code>(rate 33)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -812,15 +812,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6488092</b> <code>(rate 31)</code></td>
+    <td align="center"><b>6582060</b> <code>(rate 33)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1840</b> <code>(28%)</code><br />Adventure: <b>1733</b>
-      <code>(27%)</code><br />Daily Activity: <b>1380</b> <code>(21%)</code
+      Events: <b>1880</b> <code>(28%)</code><br />Adventure: <b>1733</b>
+      <code>(26%)</code><br />Daily Activity: <b>1440</b> <code>(22%)</code
       ><br />Mail: <b>580</b> <code>(9%)</code><br />Spiral Abyss: <b>450</b>
       <code>(6%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
       <b>432</b> <code>(6%)</code><br />
@@ -1569,7 +1569,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>
@@ -6964,7 +6964,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>167</b></td>
+    <td><b>168</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6989,7 +6989,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2086</b> <code>(rate -70)</code></td>
+    <td align="center"><b>2146</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,9 +7010,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1380</b> <code>(66%)</code><br />Event: <b>540</b>
+      Daily Activity: <b>1440</b> <code>(67%)</code><br />Event: <b>540</b>
       <code>(25%)</code><br />Mail: <b>110</b> <code>(5%)</code><br />Adventure
-      Rewards: <b>55</b> <code>(2%)</code><br />Other: <b>1</b> <code>(2%)</code
+      Rewards: <b>55</b> <code>(2%)</code><br />Other: <b>1</b> <code>(1%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
       <b>0</b> <code>(0%)</code><br />
     </td>
