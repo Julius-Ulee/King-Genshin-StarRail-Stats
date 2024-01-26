@@ -91,10 +91,11 @@
   <a
     href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml"
     ><img
+      align="center"
       src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml/badge.svg"
   /></a>
 </p>
-<p>
+<p align="center">
   <a
     href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/README.md"
     >Readme</a
@@ -131,7 +132,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 26, 2024 14:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 26, 2024 14:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -242,7 +243,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>316</b></td>
+    <td align="center"><b>317</b></td>
   </tr>
   <tr>
     <td>
@@ -763,26 +764,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sucrose</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xiangling</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
