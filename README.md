@@ -66,7 +66,16 @@
 </table>
 <p align="center">
   <img
-    src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml/badge.svg"
+    src="https://img.shields.io/github/contributors/Julius-Ulee/King-Genshin-StarRail-Stats"
+  />
+  <img
+    src="https://img.shields.io/github/issues/Julius-Ulee/King-Genshin-StarRail-Stats"
+  />
+  <img
+    src="https://img.shields.io/github/issues-pr/Julius-Ulee/King-Genshin-StarRail-Stats"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/King-Genshin-StarRail-Stats"
   />
   <img
     src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg"
@@ -74,10 +83,55 @@
   <img
     height="20"
     src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png"
-  />
+  /><br />
+  <img src="https://img.shields.io/maintenance/yes/2024" />
+</p>
+<p align="center">
+  <b>Display GitHub Action Badge</b>
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml"
+    ><img
+      src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml/badge.svg"
+  /></a>
+</p>
+<p>
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/README.md"
+    >Readme</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/tutorial/README_INFO.md"
+    >Readme Info</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/.gitignore"
+    >Gitignore</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/requirements.txt"
+    >Requirements</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/main.py"
+    >main.py</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/files/redeemed_codes_genshin.txt"
+    >Codes Genshin</a
+  >
+  •
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/files/redeemed_codes_hkrpg.txt"
+    >Codes StarRail</a
+  >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 26, 2024 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 26, 2024 14:24 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -709,26 +763,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+      <b>Sucrose</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Navia</b> <code>(9)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -801,7 +855,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6725</b> <code>(rate 33)</code></td>
+    <td align="center"><b>6925</b> <code>(rate 37)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -812,16 +866,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6582060</b> <code>(rate 33)</code></td>
+    <td align="center"><b>6737827</b> <code>(rate 36)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>1880</b> <code>(28%)</code><br />Adventure: <b>1733</b>
-      <code>(26%)</code><br />Daily Activity: <b>1440</b> <code>(22%)</code
-      ><br />Mail: <b>580</b> <code>(9%)</code><br />Spiral Abyss: <b>450</b>
+      Events: <b>2020</b> <code>(30%)</code><br />Adventure: <b>1733</b>
+      <code>(26%)</code><br />Daily Activity: <b>1500</b> <code>(21%)</code
+      ><br />Mail: <b>580</b> <code>(8%)</code><br />Spiral Abyss: <b>450</b>
       <code>(6%)</code><br />Quests: <b>210</b> <code>(3%)</code><br />Other:
       <b>432</b> <code>(6%)</code><br />
     </td>
@@ -6964,7 +7018,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>168</b></td>
+    <td><b>169</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6989,7 +7043,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2146</b> <code>(rate -69)</code></td>
+    <td align="center"><b>2206</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,11 +7064,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1440</b> <code>(67%)</code><br />Event: <b>540</b>
-      <code>(25%)</code><br />Mail: <b>110</b> <code>(5%)</code><br />Adventure
-      Rewards: <b>55</b> <code>(2%)</code><br />Other: <b>1</b> <code>(1%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>1500</b> <code>(67%)</code><br />Event: <b>540</b>
+      <code>(24%)</code><br />Mail: <b>110</b> <code>(4%)</code><br />Other:
+      <b>1</b> <code>(3%)</code><br />Adventure Rewards: <b>55</b>
+      <code>(2%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
