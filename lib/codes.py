@@ -4,6 +4,7 @@ from typing import List
 import bs4
 import genshin
 import requests
+
 class GetCodes:
     BASE_URL: str = "https://www.pockettactics.com/"
     GAME_CODES: dict = {
