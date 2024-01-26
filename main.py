@@ -18,6 +18,7 @@ from dotenv import load_dotenv
 logger = logging.getLogger()
 load_dotenv()
 
+# Constants
 DEFAULT_TEMPLATE_PATH = "src/template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
 
