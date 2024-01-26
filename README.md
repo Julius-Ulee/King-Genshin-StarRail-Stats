@@ -132,7 +132,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 26, 2024 14:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 26, 2024 19:32 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -867,7 +867,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6737827</b> <code>(rate 36)</code></td>
+    <td align="center"><b>6759827</b> <code>(rate 37)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -923,11 +923,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/dfbd9376dc2167cbcb1ddfac35c9025d.png"
             ,
             height="20"
           />
-          "Ultimate Overlord's Mega Magic Sword"
+          Blackcliff Slasher
         </h3>
       </th>
     </tr>
@@ -944,7 +944,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/e9746462d7f11d3f1ccac5d1e8f4c63e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/dfbd9376dc2167cbcb1ddfac35c9025d.png"
             ,
             height="256"
           />
@@ -1035,7 +1035,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">"Ultimate Overlord's Mega Magic Sword"</td>
+            <td align="center">Blackcliff Slasher</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1055,7 +1055,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
