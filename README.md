@@ -132,7 +132,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 28, 2024 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 29, 2024 01:12 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -190,22 +190,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-28 09:21:36+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-29 02:12:28+08:00</b></td>
   </tr>
 </table>
 
@@ -243,7 +243,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>318</b></td>
+    <td align="center"><b>319</b></td>
   </tr>
   <tr>
     <td>
@@ -764,6 +764,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
@@ -773,17 +783,7 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(9)</code><br />
+      <b>Bennett</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -856,7 +856,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7025</b> <code>(rate 39)</code></td>
+    <td align="center"><b>7125</b> <code>(rate 41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -867,15 +867,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6824239</b> <code>(rate 38)</code></td>
+    <td align="center"><b>6907472</b> <code>(rate 40)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>2060</b> <code>(30%)</code><br />Adventure: <b>1733</b>
-      <code>(25%)</code><br />Daily Activity: <b>1560</b> <code>(23%)</code
+      Events: <b>2100</b> <code>(30%)</code><br />Adventure: <b>1733</b>
+      <code>(25%)</code><br />Daily Activity: <b>1620</b> <code>(23%)</code
       ><br />Mail: <b>580</b> <code>(8%)</code><br />Spiral Abyss: <b>450</b>
       <code>(6%)</code><br />Quests: <b>210</b> <code>(2%)</code><br />Other:
       <b>432</b> <code>(6%)</code><br />
@@ -2269,7 +2269,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6986,22 +6986,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Traveler's Guide</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-28 09:21:36+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-29 02:12:30+08:00</b></td>
   </tr>
 </table>
 
@@ -7019,7 +7019,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>170</b></td>
+    <td><b>171</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7044,7 +7044,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2576</b> <code>(rate -63)</code></td>
+    <td align="center"><b>2636</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7065,11 +7065,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1560</b> <code>(60%)</code><br />Event: <b>540</b>
-      <code>(20%)</code><br />Mail: <b>410</b> <code>(15%)</code><br />Other:
-      <b>1</b> <code>(3%)</code><br />Adventure Rewards: <b>65</b>
-      <code>(2%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>1620</b> <code>(61%)</code><br />Event: <b>540</b>
+      <code>(20%)</code><br />Mail: <b>410</b> <code>(15%)</code><br />Adventure
+      Rewards: <b>65</b> <code>(2%)</code><br />Other: <b>1</b> <code>(2%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
