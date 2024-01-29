@@ -132,7 +132,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2024 08:17 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 29, 2024 16:47 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -243,7 +243,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>319</b></td>
+    <td align="center"><b>320</b></td>
   </tr>
   <tr>
     <td>
@@ -764,11 +764,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
         ,
         height="18"
@@ -783,7 +778,12 @@
         ,
         height="18"
       />
-      <b>Bennett</b> <code>(9)</code><br />
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -2926,7 +2926,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+2</code></td>
+            <td align="center"><code>+3</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -7019,7 +7019,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>171</b></td>
+    <td><b>172</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
