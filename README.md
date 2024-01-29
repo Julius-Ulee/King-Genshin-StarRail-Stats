@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
       src="./images/banner/立绘_浊心斯卡蒂_skin1.png"
       width="470"
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href=""
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Anime+Game+Stats"
       alt="Typing SVG"
@@ -17,10 +17,11 @@
 <table align="center">
   <tr>
     <th align="center" colspan="2">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Genshin+Impact+/+Honkai:+Star+Rail"
-        alt="Typing SVG"
-      />
+      <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
+        ><img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Genshin+Impact+/+Honkai:+Star+Rail"
+          alt="Typing SVG"
+      /></a>
     </th>
   </tr>
   <tr>
@@ -65,18 +66,24 @@
   </tr>
 </table>
 <p align="center">
-  <img
-    src="https://img.shields.io/github/contributors/Julius-Ulee/King-Genshin-StarRail-Stats"
-  />
-  <img
-    src="https://img.shields.io/github/issues/Julius-Ulee/King-Genshin-StarRail-Stats"
-  />
-  <img
-    src="https://img.shields.io/github/issues-pr/Julius-Ulee/King-Genshin-StarRail-Stats"
-  />
-  <img
-    src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/King-Genshin-StarRail-Stats"
-  />
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/graphs/contributors"
+    ><img
+      src="https://img.shields.io/github/contributors/Julius-Ulee/King-Genshin-StarRail-Stats"
+  /></a>
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues"
+    ><img
+      src="https://img.shields.io/github/issues/Julius-Ulee/King-Genshin-StarRail-Stats"
+  /></a>
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/pulls"
+    ><img
+      src="https://img.shields.io/github/issues-pr/Julius-Ulee/King-Genshin-StarRail-Stats"
+  /></a>
+  <a
+    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/commits/master/"
+    ><img
+      src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/King-Genshin-StarRail-Stats"
+  /></a>
   <img
     src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg"
   />
@@ -84,7 +91,9 @@
     height="20"
     src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png"
   /><br />
-  <img src="https://img.shields.io/maintenance/yes/2024" />
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
+    ><img src="https://img.shields.io/maintenance/yes/2024"
+  /></a>
 </p>
 <p align="center">
   <b>Display GitHub Action Badge</b>
@@ -132,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2024 17:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 29, 2024 17:38 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -140,7 +149,7 @@
 </p>
 
 <p align="center">
-  <a href=""
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Genshin+Impact+Stats"
       alt="Typing SVG"
@@ -856,7 +865,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7125</b> <code>(rate 41)</code></td>
+    <td align="center"><b>7185</b> <code>(rate 42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -867,7 +876,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6920347</b> <code>(rate 40)</code></td>
+    <td align="center"><b>6973578</b> <code>(rate 41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -875,7 +884,7 @@
     </td>
     <td>
       Events: <b>2100</b> <code>(30%)</code><br />Adventure: <b>1733</b>
-      <code>(25%)</code><br />Daily Activity: <b>1620</b> <code>(23%)</code
+      <code>(25%)</code><br />Daily Activity: <b>1680</b> <code>(23%)</code
       ><br />Mail: <b>580</b> <code>(8%)</code><br />Spiral Abyss: <b>450</b>
       <code>(6%)</code><br />Quests: <b>210</b> <code>(2%)</code><br />Other:
       <b>432</b> <code>(6%)</code><br />
@@ -6948,7 +6957,7 @@
 <img align="center" src="./images/banner/star-rail-banner.png" />
 
 <p align="center">
-  <a href=""
+  <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=King's+Honkai:+Star+Rail+Stats"
       alt="Typing SVG"
