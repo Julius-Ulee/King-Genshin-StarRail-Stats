@@ -132,7 +132,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2024 01:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 29, 2024 08:17 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -867,7 +867,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>6907472</b> <code>(rate 40)</code></td>
+    <td align="center"><b>6920347</b> <code>(rate 40)</code></td>
   </tr>
   <tr>
     <td align="center">
