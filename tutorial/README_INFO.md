@@ -18,13 +18,24 @@ Anime Game Stats is a Python script that retrieves statistics and information fr
 To use Anime Game Stats, you can follow these steps:
 
 ### Fork this repository by clicking the "Fork" button on the top right corner of this page. This will create a copy of the repository in your GitHub account.
-#### Copy your cookies
 
-Log in at [hoyolab](https://hoyolab.com), open the developer console by pressing F12 on your keyboard and navigate to the console tab. Finally, paste the following in the console to copy your cookies to your clipboard
+#### Getting your HoYoLAB cookies
 
-`copy(document.cookie)`
+- Go to [HoYoLAB](https://www.hoyolab.com/) (https://www.hoyolab.com/) and log in.
+- Go to your profile page.
+- Open the developer tools (F12 or Ctrl+Shift+I).
+- Go to the "Network" tab.
+- Click on the "Preserve Log" / "Persist Logs" button.
+- Refresh the page.
+- Click on the getGameRecordCard request where the method is "GET" (it should be named "getGameRecordCard" with your HoYoLab UID).
+- Go to the "Cookies" tab.
+- Copy the "ltuid_v2" cookie value.
+- Copy the "ltoken_v2" cookie value.
+- Copy the "cookie_token_v2" cookie value.
+- Copy the "account_id_v2" cookie value.
+- Copy the "ltmid_v2" cookie value.
 
-![image](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/assets/61336116/2d21f1a1-aa91-44f4-9281-d22e1f38bf04)
+  ![image](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/assets/61336116/b3e812c0-1146-46eb-9827-a1208deec72d)
 
 After that, make it cookie into json format, for example
 ```json
