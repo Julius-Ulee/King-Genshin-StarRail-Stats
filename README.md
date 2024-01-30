@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2024 22:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jan 30, 2024 08:16 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,7 +199,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -214,7 +214,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-29 02:12:28+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-30 09:16:26+08:00</b></td>
   </tr>
 </table>
 
@@ -773,26 +773,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
         ,
         height="18"
       />
-      <b>Cyno</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
+      <b>Sucrose</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      <b>Xiangling</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Navia</b> <code>(9)</code><br />
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -865,7 +865,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7185</b> <code>(rate 42)</code></td>
+    <td align="center"><b>7245</b> <code>(rate 43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -883,11 +883,11 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>2100</b> <code>(30%)</code><br />Adventure: <b>1733</b>
-      <code>(25%)</code><br />Daily Activity: <b>1680</b> <code>(23%)</code
-      ><br />Mail: <b>580</b> <code>(8%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(6%)</code><br />Quests: <b>210</b> <code>(2%)</code><br />Other:
-      <b>432</b> <code>(6%)</code><br />
+      Events: <b>2100</b> <code>(29%)</code><br />Daily Activity: <b>1680</b>
+      <code>(24%)</code><br />Adventure: <b>1733</b> <code>(24%)</code
+      ><br />Mail: <b>640</b> <code>(9%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(7%)</code><br />Quests: <b>210</b> <code>(2%)</code><br />Other:
+      <b>432</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -6995,7 +6995,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7010,7 +7010,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-29 02:12:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-01-30 09:16:26+08:00</b></td>
   </tr>
 </table>
 
