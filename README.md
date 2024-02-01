@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jan 31, 2024 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 01, 2024 08:20 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -184,7 +184,7 @@
         ,
         height="18"
       />
-      <b>King</b> <code>Lv. 56</code>
+      <b>King</b> <code>Lv. 57</code>
     </td>
   </tr>
   <tr>
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-31 00:40:45+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-01 09:20:43+08:00</b></td>
   </tr>
 </table>
 
@@ -366,7 +366,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>11-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -831,16 +831,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(9)</code><br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
@@ -850,7 +840,17 @@
         ,
         height="18"
       />
-      <b>Navia</b> <code>(9)</code><br />
+      <b>Navia</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -923,7 +923,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>8375</b> <code>(rate 65)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -934,18 +934,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>7495545</b> <code>(rate 52)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>2100</b> <code>(26%)</code><br />Adventure: <b>2013</b>
-      <code>(25%)</code><br />Daily Activity: <b>1800</b> <code>(21%)</code
-      ><br />Mail: <b>1240</b> <code>(14%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(5%)</code><br />Quests: <b>340</b> <code>(4%)</code><br />Other:
-      <b>432</b> <code>(5%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -4214,7 +4214,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br />5 x Gilded Dreams<br /></td>
@@ -7053,22 +7053,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-01-31 00:40:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-01 09:20:44+08:00</b></td>
   </tr>
 </table>
 
@@ -7111,7 +7111,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2816</b> <code>(rate -59)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7121,7 +7121,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>18</b> <code>(rate -37)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7132,11 +7132,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1800</b> <code>(63%)</code><br />Event: <b>540</b>
-      <code>(19%)</code><br />Mail: <b>410</b> <code>(14%)</code><br />Adventure
-      Rewards: <b>65</b> <code>(2%)</code><br />Other: <b>1</b> <code>(2%)</code
+      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
