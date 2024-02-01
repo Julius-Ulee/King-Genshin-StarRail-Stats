@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 01, 2024 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 01, 2024 19:32 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -831,26 +831,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      <b>Xingqiu</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Navia_Card.png"
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      <b>Navia</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+      <b>Sangonomiya Kokomi</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Cyno_Card.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(9)</code><br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+      <b>Cyno</b> <code>(9)</code><br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xiangling_Card.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Xiangling</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
@@ -923,7 +923,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>142</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -934,18 +934,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>155708</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>60</b> <code>(43%)</code><br />Events: <b>40</b>
+      <code>(28%)</code><br />Adventure: <b>22</b> <code>(15%)</code><br />Mail:
+      <b>20</b> <code>(14%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -7086,7 +7086,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>174</b></td>
+    <td><b>175</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7111,7 +7111,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>60</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7132,7 +7132,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
+      Daily Activity: <b>60</b> <code>(100%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
       <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
