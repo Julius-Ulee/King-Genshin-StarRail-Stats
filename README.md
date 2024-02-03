@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 03, 2024 10:59 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 03, 2024 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>497</b></td>
+    <td align="center"><b>498</b></td>
   </tr>
   <tr>
     <td>
@@ -326,7 +326,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1343</b></td>
+    <td align="center"><b>1348</b></td>
   </tr>
   <tr>
     <td>
@@ -340,7 +340,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>279</b></td>
+    <td align="center"><b>280</b></td>
   </tr>
   <tr>
     <td>
@@ -643,7 +643,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/66/" width="80" />
+            <img src="https://progress-bar.dev/67/" width="80" />
           </td>
         </tr>
         <tr>
@@ -743,7 +743,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>11280</code></td>
+    <td align="center"><code>11880</code></td>
   </tr>
   <tr>
     <td>
@@ -923,7 +923,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>222</b> <code>(rate -97)</code></td>
+    <td align="center"><b>522</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -934,18 +934,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>268172</b> <code>(rate -96)</code></td>
+    <td align="center"><b>633972</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>140</b> <code>(64%)</code><br />Events: <b>40</b>
-      <code>(18%)</code><br />Adventure: <b>22</b> <code>(9%)</code><br />Mail:
-      <b>20</b> <code>(9%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Daily Activity: <b>180</b> <code>(35%)</code><br />Mail: <b>140</b>
+      <code>(27%)</code><br />Adventure: <b>102</b> <code>(20%)</code
+      ><br />Quests: <b>60</b> <code>(11%)</code><br />Events: <b>40</b>
+      <code>(7%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -4140,6 +4140,169 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
       ,
       height="18"
+    /><b> Nahida</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+            ,
+            height="20"
+          />
+          Nahida
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/fbfef0176690e26fc1aa7b66fa013a49.png"
+            ,
+            height="20"
+          />
+          Skyward Atlas
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/fbfef0176690e26fc1aa7b66fa013a49.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+40</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Deepwood Memories<br />1 x Crimson Witch of
+              Flames<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/aa0cddc8af4c7c3a41d888e202aa4a59.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Labyrinth Wayfarer<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/0be507b97559ec22ef591680cfa8aed1.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's Ever-Burning Plume<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/5c568fbc8d18fb619e788a6bd998590d.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              A Time of Insight<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/fea94043881821b49a9a8dc93bded1f1.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Lamp of the Lost<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/06e1333e9cb3a8b0a703c968e44f6e49.png"
+                ,
+                height="25"
+              />
+              <code>+10</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Laurel Coronet<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Skyward Atlas</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+20</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
     /><b> Collei</b>
   </summary>
   <br />
@@ -4497,7 +4660,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -6354,7 +6517,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
