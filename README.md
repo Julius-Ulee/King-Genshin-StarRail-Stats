@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 03, 2024 20:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 04, 2024 01:21 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+          src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-03 09:14:58+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-04 02:21:50+08:00</b></td>
   </tr>
 </table>
 
@@ -7216,22 +7216,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Canned Soda</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-03 09:14:59+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-04 02:21:49+08:00</b></td>
   </tr>
 </table>
 
