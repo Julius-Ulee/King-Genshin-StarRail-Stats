@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 04, 2024 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 04, 2024 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -923,7 +923,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>522</b> <code>(rate -93)</code></td>
+    <td align="center"><b>607</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -934,17 +934,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>633972</b> <code>(rate -91)</code></td>
+    <td align="center"><b>797806</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>180</b> <code>(35%)</code><br />Mail: <b>140</b>
-      <code>(27%)</code><br />Adventure: <b>102</b> <code>(20%)</code
-      ><br />Quests: <b>60</b> <code>(11%)</code><br />Events: <b>40</b>
-      <code>(7%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>240</b> <code>(40%)</code><br />Mail: <b>160</b>
+      <code>(27%)</code><br />Adventure: <b>107</b> <code>(18%)</code
+      ><br />Quests: <b>60</b> <code>(9%)</code><br />Events: <b>40</b>
+      <code>(6%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -2924,6 +2924,168 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
       ,
       height="18"
+    /><b> Fischl</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+            ,
+            height="20"
+          />
+          Fischl
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/bf89b7f4c9beed8bc682d453a4d4ec9e.png"
+            ,
+            height="20"
+          />
+          Polar Star
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/bf89b7f4c9beed8bc682d453a4d4ec9e.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                ,
+                height="18"
+              />
+              Electro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+4</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>2</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />3 x Golden Troupe<br />2 x Marechaussee Hunter<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/d8fd37f3104a1f4c1c708005f4a712dd.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Song's Variation<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/025fa529fcfd9bd41a04f29611f54429.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Bird's Shedding<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/d82176608542cc88ca629078821df786.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Moment of Judgment<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/4eec5c6b2e78f003b518f3ecb13a535f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Forgotten Vessel<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/5d9c9bb4f6473cbad7685c342bb0aaa1.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Golden Troupe's Reward<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Polar Star</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+20</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>2</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+      ,
+      height="18"
     /><b> Keqing</b>
   </summary>
   <br />
@@ -3074,168 +3236,6 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-      ,
-      height="18"
-    /><b> Fischl</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-            ,
-            height="20"
-          />
-          Fischl
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/bf89b7f4c9beed8bc682d453a4d4ec9e.png"
-            ,
-            height="20"
-          />
-          Polar Star
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Fischl_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/bf89b7f4c9beed8bc682d453a4d4ec9e.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                ,
-                height="18"
-              />
-              Electro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+60</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>2</code></td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />3 x Golden Troupe<br />2 x Marechaussee Hunter<br />
-            </td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/d8fd37f3104a1f4c1c708005f4a712dd.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Golden Song's Variation<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/025fa529fcfd9bd41a04f29611f54429.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Golden Bird's Shedding<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/d82176608542cc88ca629078821df786.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Moment of Judgment<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/4eec5c6b2e78f003b518f3ecb13a535f.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Forgotten Vessel<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u757vf/5d9c9bb4f6473cbad7685c342bb0aaa1.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Golden Troupe's Reward<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Polar Star</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Bow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+20</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -7249,7 +7249,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>177</b></td>
+    <td><b>178</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7274,7 +7274,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>180</b> <code>(rate -93)</code></td>
+    <td align="center"><b>240</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7295,7 +7295,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>180</b> <code>(100%)</code><br />Event: <b>0</b>
+      Daily Activity: <b>240</b> <code>(100%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
       <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
