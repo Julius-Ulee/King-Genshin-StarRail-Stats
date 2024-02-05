@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 05, 2024 20:59 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 05, 2024 22:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>499</b></td>
+    <td align="center"><b>500</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>369</b></td>
+    <td align="center"><b>370</b></td>
   </tr>
   <tr>
     <td>
@@ -333,7 +333,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1010</b></td>
+    <td align="center"><b>1011</b></td>
   </tr>
   <tr>
     <td>
