@@ -36,5 +36,5 @@ jobs:
           git config user.name "${{ github.repository_owner }}"
           git config user.email "fidzlieazriel@gmail.com"
           git add .
-          git commit -m "📝 Update King's Genshin & StarRail Stats `date +"%D %T"`"
+          git commit -m "📝 Update King's Genshin & StarRail Stats `date +'%Y-%m-%d %H:%M:%S %Z'`"
           git push
