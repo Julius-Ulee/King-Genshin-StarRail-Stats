@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 09, 2024 08:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 09, 2024 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>330</b></td>
+    <td align="center"><b>331</b></td>
   </tr>
   <tr>
     <td>
@@ -297,7 +297,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>105</b></td>
+    <td align="center"><b>106</b></td>
   </tr>
   <tr>
     <td>
@@ -347,7 +347,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>103</b></td>
+    <td align="center"><b>104</b></td>
   </tr>
   <tr>
     <td>
@@ -812,7 +812,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>571</code></td>
+    <td align="center"><code>572</code></td>
   </tr>
   <tr>
     <td>
