@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 08, 2024 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 09, 2024 08:15 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-08 09:15:29+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-09 09:15:16+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>329</b></td>
+    <td align="center"><b>330</b></td>
   </tr>
   <tr>
     <td>
@@ -981,7 +981,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1444</b> <code>(rate -82)</code></td>
+    <td align="center"><b>2084</b> <code>(rate -75)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -992,18 +992,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1462736</b> <code>(rate -80)</code></td>
+    <td align="center"><b>1846770</b> <code>(rate -75)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>480</b> <code>(34%)</code><br />Mail: <b>310</b>
-      <code>(22%)</code><br />Adventure: <b>237</b> <code>(17%)</code
-      ><br />Quests: <b>180</b> <code>(12%)</code><br />Events: <b>40</b>
-      <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>197</b> <code>(13%)</code><br />
+      Daily Activity: <b>540</b> <code>(26%)</code><br />Mail: <b>330</b>
+      <code>(16%)</code><br />Adventure: <b>247</b> <code>(12%)</code
+      ><br />Quests: <b>180</b> <code>(9%)</code><br />Events: <b>40</b>
+      <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>747</b> <code>(36%)</code><br />
     </td>
   </tr>
 </table>
@@ -1634,7 +1634,13 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_2/63c7fec37efa37b4bce06b2bc37d95c4.png"
+                height="80"
+              /><br />
+              Bamboo Rain<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -2071,7 +2077,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+8</code></td>
+            <td align="center"><code>+9</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2235,7 +2241,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>
@@ -7274,22 +7280,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-08 09:15:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-09 09:15:17+08:00</b></td>
   </tr>
 </table>
 
@@ -7307,7 +7313,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>182</b></td>
+    <td><b>183</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7332,7 +7338,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1257</b> <code>(rate -55)</code></td>
+    <td align="center"><b>1322</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7342,7 +7348,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>25</b> <code>(rate 38)</code></td>
+    <td align="center"><b>26</b> <code>(rate 44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7353,11 +7359,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(57%)</code><br />Daily Activity: <b>480</b>
-      <code>(38%)</code><br />Event: <b>40</b> <code>(3%)</code><br />Adventure
-      Rewards: <b>15</b> <code>(1%)</code><br />Other: <b>2</b> <code>(1%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />
+      Mail: <b>720</b> <code>(54%)</code><br />Daily Activity: <b>540</b>
+      <code>(40%)</code><br />Event: <b>40</b> <code>(3%)</code><br />Other:
+      <b>2</b> <code>(2%)</code><br />Adventure Rewards: <b>20</b>
+      <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
