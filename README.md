@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 10, 2024 08:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 10, 2024 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>331</b></td>
+    <td align="center"><b>332</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>383</b></td>
+    <td align="center"><b>386</b></td>
   </tr>
   <tr>
     <td>
@@ -589,7 +589,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/9/" width="80" />
+            <img src="https://progress-bar.dev/10/" width="80" />
           </td>
         </tr>
         <tr>
@@ -603,7 +603,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/5/" width="80" />
+            <img src="https://progress-bar.dev/8/" width="80" />
           </td>
         </tr>
         <tr>
@@ -812,7 +812,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>572</code></td>
+    <td align="center"><code>574</code></td>
   </tr>
   <tr>
     <td>
@@ -981,7 +981,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2084</b> <code>(rate -75)</code></td>
+    <td align="center"><b>2429</b> <code>(rate -70)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -992,18 +992,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1846770</b> <code>(rate -75)</code></td>
+    <td align="center"><b>2432613</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>540</b> <code>(26%)</code><br />Mail: <b>330</b>
-      <code>(16%)</code><br />Adventure: <b>247</b> <code>(12%)</code
-      ><br />Quests: <b>180</b> <code>(9%)</code><br />Events: <b>40</b>
+      Daily Activity: <b>600</b> <code>(25%)</code><br />Mail: <b>400</b>
+      <code>(17%)</code><br />Adventure: <b>262</b> <code>(11%)</code
+      ><br />Quests: <b>180</b> <code>(7%)</code><br />Events: <b>40</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>747</b> <code>(36%)</code><br />
+      ><br />Other: <b>947</b> <code>(39%)</code><br />
     </td>
   </tr>
 </table>
@@ -7313,7 +7313,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>183</b></td>
+    <td><b>184</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7338,7 +7338,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1322</b> <code>(rate -53)</code></td>
+    <td align="center"><b>1432</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7348,7 +7348,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>26</b> <code>(rate 44)</code></td>
+    <td align="center"><b>28</b> <code>(rate 55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7359,9 +7359,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(54%)</code><br />Daily Activity: <b>540</b>
-      <code>(40%)</code><br />Event: <b>40</b> <code>(3%)</code><br />Other:
-      <b>2</b> <code>(2%)</code><br />Adventure Rewards: <b>20</b>
+      Mail: <b>770</b> <code>(53%)</code><br />Daily Activity: <b>600</b>
+      <code>(41%)</code><br />Other: <b>2</b> <code>(3%)</code><br />Event:
+      <b>40</b> <code>(2%)</code><br />Adventure Rewards: <b>20</b>
       <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -7376,6 +7376,151 @@
   <img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20" />
 </h2>
 <details open>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+      height="18"
+    /><b> Huohuo </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+            height="20"
+          />
+          Huohuo
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1db677c8473a7fb218668511a17942e4.png"
+            height="20"
+          />
+          Time Waits for No One
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/85a2b5887bd06a40841f84cdc6098580.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1db677c8473a7fb218668511a17942e4.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                height="18"
+              />
+              wind
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/50270ce85414eb8af642dd19c592971d.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Rejuvenated Wooden Hairstick<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1f91732715870091abb0baa4247fb22d.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Roaming Dragon Bracer<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/badcbb177814408ee71836b945b6122c.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Ragged Embroided Coat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/7e5096be6da217c8252cd0bb474e1520.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Stygian Hiking Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/a33f1c896ff90c290140dee53b7eeb00.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/a177a224ddd285b8999609b599d92b1e.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Time Waits for No One</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary align="center">
     <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
@@ -7796,151 +7941,6 @@
           <tr>
             <td>Name</td>
             <td align="center">Mutual Demise</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+60</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-      height="18"
-    /><b> Huohuo </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-            height="20"
-          />
-          Huohuo
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1db677c8473a7fb218668511a17942e4.png"
-            height="20"
-          />
-          Time Waits for No One
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/85a2b5887bd06a40841f84cdc6098580.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1db677c8473a7fb218668511a17942e4.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-                height="18"
-              />
-              wind
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+60</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/50270ce85414eb8af642dd19c592971d.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Passerby's Rejuvenated Wooden Hairstick<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/1f91732715870091abb0baa4247fb22d.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/badcbb177814408ee71836b945b6122c.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Passerby's Ragged Embroided Coat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/7e5096be6da217c8252cd0bb474e1520.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Passerby's Stygian Hiking Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/a33f1c896ff90c290140dee53b7eeb00.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud9dkb/a177a224ddd285b8999609b599d92b1e.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Time Waits for No One</td>
           </tr>
           <tr>
             <td>Level</td>
