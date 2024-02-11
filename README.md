@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 10, 2024 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 11, 2024 08:21 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-10 09:14:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-11 09:21:30+08:00</b></td>
   </tr>
 </table>
 
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>508</b></td>
+    <td align="center"><b>511</b></td>
   </tr>
   <tr>
     <td>
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>332</b></td>
+    <td align="center"><b>333</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>386</b></td>
+    <td align="center"><b>387</b></td>
   </tr>
   <tr>
     <td>
@@ -617,7 +617,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/18/" width="80" />
+            <img src="https://progress-bar.dev/27/" width="80" />
           </td>
         </tr>
         <tr>
@@ -981,7 +981,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2429</b> <code>(rate -70)</code></td>
+    <td align="center"><b>2514</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -992,18 +992,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2432613</b> <code>(rate -67)</code></td>
+    <td align="center"><b>2481292</b> <code>(rate -66)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>600</b> <code>(25%)</code><br />Mail: <b>400</b>
-      <code>(17%)</code><br />Adventure: <b>262</b> <code>(11%)</code
-      ><br />Quests: <b>180</b> <code>(7%)</code><br />Events: <b>40</b>
+      Daily Activity: <b>660</b> <code>(27%)</code><br />Mail: <b>400</b>
+      <code>(16%)</code><br />Adventure: <b>267</b> <code>(11%)</code
+      ><br />Quests: <b>200</b> <code>(7%)</code><br />Events: <b>40</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>947</b> <code>(39%)</code><br />
+      ><br />Other: <b>947</b> <code>(38%)</code><br />
     </td>
   </tr>
 </table>
@@ -2400,7 +2400,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+6</code></td>
+            <td align="center"><code>+7</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5843,7 +5843,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -7280,22 +7280,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-10 09:14:06+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-11 09:21:32+08:00</b></td>
   </tr>
 </table>
 
@@ -7313,7 +7313,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>184</b></td>
+    <td><b>185</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7338,7 +7338,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1432</b> <code>(rate -49)</code></td>
+    <td align="center"><b>1492</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7348,7 +7348,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>28</b> <code>(rate 55)</code></td>
+    <td align="center"><b>29</b> <code>(rate 61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7359,9 +7359,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>770</b> <code>(53%)</code><br />Daily Activity: <b>600</b>
-      <code>(41%)</code><br />Other: <b>2</b> <code>(3%)</code><br />Event:
-      <b>40</b> <code>(2%)</code><br />Adventure Rewards: <b>20</b>
+      Mail: <b>770</b> <code>(51%)</code><br />Daily Activity: <b>660</b>
+      <code>(44%)</code><br />Event: <b>40</b> <code>(2%)</code><br />Other:
+      <b>2</b> <code>(2%)</code><br />Adventure Rewards: <b>20</b>
       <code>(1%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
