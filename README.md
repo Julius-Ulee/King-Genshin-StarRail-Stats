@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 12, 2024 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 13, 2024 08:16 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-12 09:16:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-13 09:16:49+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>333</b></td>
+    <td align="center"><b>334</b></td>
   </tr>
   <tr>
     <td>
@@ -981,7 +981,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2639</b> <code>(rate -68)</code></td>
+    <td align="center"><b>2669</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -992,18 +992,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2684427</b> <code>(rate -64)</code></td>
+    <td align="center"><b>2776442</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>720</b> <code>(28%)</code><br />Mail: <b>420</b>
-      <code>(16%)</code><br />Adventure: <b>282</b> <code>(10%)</code
+      Daily Activity: <b>720</b> <code>(27%)</code><br />Mail: <b>420</b>
+      <code>(16%)</code><br />Adventure: <b>282</b> <code>(11%)</code
       ><br />Quests: <b>200</b> <code>(7%)</code><br />Events: <b>40</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>977</b> <code>(38%)</code><br />
+      ><br />Other: <b>1007</b> <code>(38%)</code><br />
     </td>
   </tr>
 </table>
@@ -7280,22 +7280,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-02-12 09:16:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-02-13 09:16:50+08:00</b></td>
   </tr>
 </table>
 
