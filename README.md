@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 18, 2024 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 18, 2024 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -2433,7 +2433,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>191</b></td>
+    <td><b>192</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
