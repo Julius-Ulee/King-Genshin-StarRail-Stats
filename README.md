@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2024 08:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 23, 2024 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3844</b> <code>(rate -54)</code></td>
+    <td align="center"><b>3904</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,15 +862,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4050061</b> <code>(rate -45)</code></td>
+    <td align="center"><b>4108989</b> <code>(rate -45)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1260</b> <code>(33%)</code><br />Mail: <b>440</b>
-      <code>(12%)</code><br />Adventure: <b>332</b> <code>(8%)</code
+      Daily Activity: <b>1320</b> <code>(34%)</code><br />Mail: <b>440</b>
+      <code>(11%)</code><br />Adventure: <b>332</b> <code>(8%)</code
       ><br />Quests: <b>200</b> <code>(5%)</code><br />Events: <b>80</b>
       <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>1532</b> <code>(40%)</code><br />
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2132</b> <code>(rate -24)</code></td>
+    <td align="center"><b>2192</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,8 +7229,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1260</b> <code>(59%)</code><br />Mail: <b>810</b>
-      <code>(37%)</code><br />Other: <b>2</b> <code>(3%)</code><br />Event:
+      Daily Activity: <b>1320</b> <code>(60%)</code><br />Mail: <b>810</b>
+      <code>(36%)</code><br />Other: <b>2</b> <code>(3%)</code><br />Event:
       <b>40</b> <code>(1%)</code><br />Adventure Rewards: <b>20</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
