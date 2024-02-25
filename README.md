@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 25, 2024 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 25, 2024 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>344</b></td>
+    <td align="center"><b>345</b></td>
   </tr>
   <tr>
     <td>
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3964</b> <code>(rate -52)</code></td>
+    <td align="center"><b>4029</b> <code>(rate -51)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,17 +862,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4168965</b> <code>(rate -44)</code></td>
+    <td align="center"><b>4217664</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1380</b> <code>(35%)</code><br />Mail: <b>440</b>
-      <code>(11%)</code><br />Adventure: <b>332</b> <code>(8%)</code
-      ><br />Quests: <b>200</b> <code>(5%)</code><br />Events: <b>80</b>
-      <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>1440</b> <code>(36%)</code><br />Mail: <b>440</b>
+      <code>(11%)</code><br />Adventure: <b>337</b> <code>(9%)</code
+      ><br />Quests: <b>200</b> <code>(4%)</code><br />Events: <b>80</b>
+      <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Other: <b>1532</b> <code>(39%)</code><br />
     </td>
   </tr>
@@ -2433,7 +2433,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+5</code></td>
+            <td align="center"><code>+6</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>197</b></td>
+    <td><b>198</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2252</b> <code>(rate -20)</code></td>
+    <td align="center"><b>2312</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,8 +7229,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1380</b> <code>(61%)</code><br />Mail: <b>810</b>
-      <code>(35%)</code><br />Other: <b>2</b> <code>(3%)</code><br />Event:
+      Daily Activity: <b>1440</b> <code>(62%)</code><br />Mail: <b>810</b>
+      <code>(35%)</code><br />Other: <b>2</b> <code>(2%)</code><br />Event:
       <b>40</b> <code>(1%)</code><br />Adventure Rewards: <b>20</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
