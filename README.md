@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 27, 2024 08:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 27, 2024 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>347</b></td>
+    <td align="center"><b>348</b></td>
   </tr>
   <tr>
     <td>
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4299</b> <code>(rate -48)</code></td>
+    <td align="center"><b>4464</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,18 +862,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4501571</b> <code>(rate -39)</code></td>
+    <td align="center"><b>4705809</b> <code>(rate -37)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1500</b> <code>(35%)</code><br />Mail: <b>440</b>
-      <code>(11%)</code><br />Adventure: <b>337</b> <code>(8%)</code
+      Daily Activity: <b>1560</b> <code>(35%)</code><br />Mail: <b>440</b>
+      <code>(10%)</code><br />Adventure: <b>337</b> <code>(8%)</code
       ><br />Quests: <b>200</b> <code>(4%)</code><br />Events: <b>80</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>1742</b> <code>(41%)</code><br />
+      ><br />Other: <b>1847</b> <code>(42%)</code><br />
     </td>
   </tr>
 </table>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2372</b> <code>(rate -15)</code></td>
+    <td align="center"><b>2432</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,8 +7229,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1500</b> <code>(63%)</code><br />Mail: <b>810</b>
-      <code>(34%)</code><br />Other: <b>2</b> <code>(2%)</code><br />Event:
+      Daily Activity: <b>1560</b> <code>(64%)</code><br />Mail: <b>810</b>
+      <code>(33%)</code><br />Other: <b>2</b> <code>(2%)</code><br />Event:
       <b>40</b> <code>(1%)</code><br />Adventure Rewards: <b>20</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
