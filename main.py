@@ -56,7 +56,7 @@ class AnimeGame(genshin.Client):
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
-        super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
+        super().__init__(cookies, debug=False, game="genshin", lang=self.args.lang)
 
     async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
@@ -77,8 +77,7 @@ class AnimeGame(genshin.Client):
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         codes = self.codes.get_codes()
-        if codes:
-            await self.codes.redeem_codes(self, codes)
+        await self.codes.redeem_codes(self, codes)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -92,10 +91,9 @@ class AnimeGame(genshin.Client):
         diary = await self.get_starrail_diary()
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
-        reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
-        codes = self.codes.get_codes(genshin.Game.STARRAIL)
-        if codes:
-            await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
+        reward, reward_info = await self._claim_daily("hkrpg")
+        codes = self.codes.get_codes("hkrpg")
+        await self.codes.redeem_codes(self, codes, "hkrpg")
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
