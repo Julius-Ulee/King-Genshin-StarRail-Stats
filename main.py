@@ -108,7 +108,7 @@ class AnimeGame(genshin.Client):
             forgotten_hall=forgotten_hall,
             reward=reward,
             reward_info=reward_info,
-            notes=notes,
+            notes=notes
         )
 
     async def main(self):
@@ -134,6 +134,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_PATH, type=pathlib.Path)
     parser.add_argument("-c", "--cookies", default=None)
     parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+    parser.add_argument("-si", "--skip-images", default=False)
     return parser.parse_args()
 
 if __name__ == "__main__":
