@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 17, 2024 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 17, 2024 22:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -930,7 +930,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b21496ed7122ea5c184b76312d65a8e2.png"
             ,
             height="256"
           />
@@ -1093,7 +1093,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/07a1035dc74dd434c0d42336e5b97436.png"
             ,
             height="256"
           />
@@ -1253,7 +1253,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Cyno.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/39b90e36b7ac4a7dbc8dd58439017b50.png"
             ,
             height="256"
           />
@@ -1413,7 +1413,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/211b4144462302c82766d338124bf512.png"
             ,
             height="256"
           />
@@ -1581,7 +1581,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1505f3a9e1a6127448c15b93e5941fa9.png"
             ,
             height="256"
           />
@@ -1744,7 +1744,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/fc74e3994da51037edab7014f493a969.png"
             ,
             height="256"
           />
@@ -1907,7 +1907,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a8e6e241e8eb4a3ea5238303b4910fdf.png"
             ,
             height="256"
           />
@@ -2067,7 +2067,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/7e7f706c65c8956818c2ba74f0a28ac5.png"
             ,
             height="256"
           />
@@ -2230,7 +2230,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/4ba437132ef28cf1280197f5c03f3432.png"
             ,
             height="256"
           />
@@ -2393,7 +2393,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/679689c150574d37a4fc0a193109a04d.png"
             ,
             height="256"
           />
@@ -2556,7 +2556,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png"
+            src="https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png"
             ,
             height="256"
           />
@@ -2719,7 +2719,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kaeya.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/7d9c77d9ecad6a21715bbc688ce1e580.png"
             ,
             height="256"
           />
@@ -2888,7 +2888,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Fischl.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/cc5d90bb4888c76d65de583c08dc8e6e.png"
             ,
             height="256"
           />
@@ -3050,7 +3050,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Keqing.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e272e16b563c67bafd3ca8ab5b06ee6c.png"
             ,
             height="256"
           />
@@ -3212,7 +3212,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yaoyao.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/f150fc4f06b7dd181eec0b8957305206.png"
             ,
             height="256"
           />
@@ -3375,7 +3375,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/94e7b9bbd105724c313b52b86c502092.png"
             ,
             height="256"
           />
@@ -3504,7 +3504,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e1448dcf82a29a36a3e7ed47f0e1b709.png"
             ,
             height="256"
           />
@@ -3642,7 +3642,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Barbara.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/830a859881dc4cb5273baa3069d330c3.png"
             ,
             height="256"
           />
@@ -3805,7 +3805,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Ambor.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/eb34a69ac766139faf6df3057efc5d34.png"
             ,
             height="256"
           />
@@ -3964,7 +3964,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Razor.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1edf49104c4aa82b0840a8b7d747ac16.png"
             ,
             height="256"
           />
@@ -4113,7 +4113,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Ningguang.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6bf2d3a9d2865db26e05764415544641.png"
             ,
             height="256"
           />
@@ -4236,7 +4236,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Chongyun.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a8179c6f09de38ab7aab1e60388cf96d.png"
             ,
             height="256"
           />
@@ -4396,7 +4396,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Collei.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b68b64e72e6dec4d962c8859c0ccbb1f.png"
             ,
             height="256"
           />
@@ -4556,7 +4556,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Layla.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1edce8f473a237e163e75bc9ec0499e4.png"
             ,
             height="256"
           />
@@ -4679,7 +4679,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Faruzan.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a0d6b4cc466f7932da3b16065e79aea.png"
             ,
             height="256"
           />
@@ -4802,7 +4802,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a183094f3f2fcc1e2bcbd385a9d70075.png"
             ,
             height="256"
           />
@@ -4925,7 +4925,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Mika.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/742a9ab2ee22b10003a997f726b0967d.png"
             ,
             height="256"
           />
@@ -5048,7 +5048,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/7f2988b6f65dad15585eb1c9c87df342.png"
             ,
             height="256"
           />
@@ -5171,7 +5171,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xinyan.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/86644f62dc5d8af1b08a2be54ef5431d.png"
             ,
             height="256"
           />
@@ -5294,7 +5294,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/9707b9586c9f7a768145e8ec9133c6fc.png"
             ,
             height="256"
           />
@@ -5423,7 +5423,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/f0f2e7c3b725b715f35f3a41ef2cf8f7.png"
             ,
             height="256"
           />
@@ -5546,7 +5546,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yunjin.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/29fcf6006f4a7dc6dc5bb458c3d34e0b.png"
             ,
             height="256"
           />
@@ -5669,7 +5669,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d9d6ff779ee198fc476387088f77651.png"
             ,
             height="256"
           />
@@ -5792,7 +5792,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Dori.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/c63663b428f01c8575fd16b6465f1634.png"
             ,
             height="256"
           />
@@ -5915,7 +5915,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Linette.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ee133a6b059c181d78394bdfe0ac10dc.png"
             ,
             height="256"
           />
@@ -6038,7 +6038,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kaveh.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b1b88ae35a61f6f4cca1fe25635c1062.png"
             ,
             height="256"
           />
@@ -6161,7 +6161,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Qiqi.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e94538d51145bd40e7d2f832a8c7d2db.png"
             ,
             height="256"
           />
@@ -6284,7 +6284,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Beidou.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/7a245797eb209e006623fddf38a07836.png"
             ,
             height="256"
           />
@@ -6407,7 +6407,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Noel.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0f656099e2b60f9dd3ba7360c9414bba.png"
             ,
             height="256"
           />
@@ -6530,7 +6530,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Diona.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/118a32098c69280cdd2791ccaf5191db.png"
             ,
             height="256"
           />
@@ -6653,7 +6653,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Sayu.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6481e8d8ad26342219767101ea7117f7.png"
             ,
             height="256"
           />
@@ -6776,7 +6776,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Sara.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/c969b7327cfc7e0b4f61e71b66a996b7.png"
             ,
             height="256"
           />
@@ -6899,7 +6899,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Candace.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/24935fbff084397ecafcb463981add48.png"
             ,
             height="256"
           />
@@ -7022,7 +7022,7 @@
       <td>
         <p align="center">
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Freminet.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/36ec093c46811afca9a81083d8e2f3fa.png"
             ,
             height="256"
           />
