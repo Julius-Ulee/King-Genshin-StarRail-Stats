@@ -114,6 +114,7 @@ class AnimeGame(genshin.Client):
             hsr=_hsr,
             _int=int,
             _enumerate=enumerate,
+            _zip=zip,
             updated_at=format_date(_hsr.reward.time)
         )
         self.args.output.write_text(rendered)
