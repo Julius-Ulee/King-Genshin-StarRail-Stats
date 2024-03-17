@@ -30,6 +30,7 @@ class GenshinRes:
     diary: genshin.models.Diary
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
+    notes: genshin.models.Notes
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -42,6 +43,7 @@ class HsrRes:
     forgotten_hall: genshin.models.StarRailChallenge
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
+    notes: genshin.models.StarRailNote
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -78,6 +80,7 @@ class AnimeGame(genshin.Client):
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
+        notes = await self.get_genshin_notes()
         codes = self.codes.get_codes()
         await self.codes.redeem_codes(self, codes)
         return GenshinRes(
@@ -85,7 +88,8 @@ class AnimeGame(genshin.Client):
             abyss=abyss,
             diary=diary,
             reward=reward,
-            reward_info=reward_info
+            reward_info=reward_info,
+            notes=notes
         )
 
     async def get_hsr_res(self) -> HsrRes:
@@ -94,6 +98,7 @@ class AnimeGame(genshin.Client):
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily("hkrpg")
+        notes = await self.get_starrail_notes()
         codes = self.codes.get_codes("hkrpg")
         await self.codes.redeem_codes(self, codes, "hkrpg")
         return HsrRes(
@@ -102,7 +107,8 @@ class AnimeGame(genshin.Client):
             diary=diary,
             forgotten_hall=forgotten_hall,
             reward=reward,
-            reward_info=reward_info
+            reward_info=reward_info,
+            notes=notes,
         )
 
     async def main(self):
