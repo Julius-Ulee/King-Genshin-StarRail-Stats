@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 30, 2024 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 31, 2024 08:23 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,7 +199,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -214,7 +214,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-30 09:14:33+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-31 09:23:34+08:00</b></td>
   </tr>
 </table>
 
@@ -7150,7 +7150,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7165,7 +7165,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-03-30 09:14:35+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-03-31 09:23:36+08:00</b></td>
   </tr>
 </table>
 
