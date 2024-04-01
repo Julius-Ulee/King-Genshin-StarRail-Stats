@@ -1,7 +1,8 @@
 genshin
 Jinja2
-pydantic==1.*
+pydantic
 python-dotenv
 pytz
 requests
 bs4
+qrcode[pil]
