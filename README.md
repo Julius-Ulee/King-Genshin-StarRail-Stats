@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 02, 2024 00:45 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 02, 2024 08:21 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>60</b> <code>(rate -95)</code></td>
+    <td align="center"><b>120</b> <code>(rate -91)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,14 +862,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>93124</b> <code>(rate -88)</code></td>
+    <td align="center"><b>341244</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>60</b> <code>(100%)</code><br />Events: <b>0</b>
+      Daily Activity: <b>120</b> <code>(100%)</code><br />Events: <b>0</b>
       <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
       <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
@@ -7183,15 +7183,15 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>212</b></td>
+    <td><b>213</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>26</b></td>
+    <td><b>27</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>166</b></td>
+    <td><b>167</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>160</b> <code>(rate -88)</code></td>
+    <td align="center"><b>1296</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7218,7 +7218,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>12</b> <code>(rate -7)</code></td>
+    <td align="center"><b>16</b> <code>(rate 23)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,11 +7229,11 @@
       Categories
     </td>
     <td>
-      Mail: <b>100</b> <code>(62%)</code><br />Daily Activity: <b>60</b>
-      <code>(37%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
-      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
-      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Event: <b>980</b> <code>(75%)</code><br />Mail: <b>130</b>
+      <code>(10%)</code><br />Daily Activity: <b>120</b> <code>(9%)</code
+      ><br />Other: <b>61</b> <code>(6%)</code><br />Adventure Rewards:
+      <b>5</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
+      <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9923,7 +9923,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -10699,6 +10699,91 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Xueyi </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Xueyi
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/bf5715028e110f0fb0f201aab8696186.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
