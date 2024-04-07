@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 07, 2024 08:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 07, 2024 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>725</b> <code>(rate -50)</code></td>
+    <td align="center"><b>790</b> <code>(rate -45)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,16 +862,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>899650</b> <code>(rate 6)</code></td>
+    <td align="center"><b>981799</b> <code>(rate 16)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>460</b> <code>(64%)</code><br />Daily Activity: <b>240</b>
-      <code>(33%)</code><br />Mail: <b>20</b> <code>(2%)</code><br />Adventure:
-      <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Events: <b>460</b> <code>(59%)</code><br />Daily Activity: <b>300</b>
+      <code>(38%)</code><br />Mail: <b>20</b> <code>(2%)</code><br />Adventure:
+      <b>10</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
     </td>
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>215</b></td>
+    <td><b>216</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7191,7 +7191,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>168</b></td>
+    <td><b>169</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1441</b> <code>(rate 1)</code></td>
+    <td align="center"><b>1506</b> <code>(rate 5)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7218,7 +7218,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>27</b> <code>(rate 107)</code></td>
+    <td align="center"><b>29</b> <code>(rate 123)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,9 +7229,9 @@
       Categories
     </td>
     <td>
-      Event: <b>980</b> <code>(68%)</code><br />Daily Activity: <b>240</b>
-      <code>(16%)</code><br />Mail: <b>150</b> <code>(10%)</code><br />Other:
-      <b>61</b> <code>(6%)</code><br />Adventure Rewards: <b>10</b>
+      Event: <b>980</b> <code>(65%)</code><br />Daily Activity: <b>300</b>
+      <code>(19%)</code><br />Mail: <b>150</b> <code>(9%)</code><br />Other:
+      <b>61</b> <code>(7%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
