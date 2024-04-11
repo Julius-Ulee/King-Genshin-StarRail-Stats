@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 11, 2024 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 11, 2024 19:34 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -1788,7 +1788,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>
