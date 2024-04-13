@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 13, 2024 19:29 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 13, 2024 21:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -838,6 +838,131 @@
   </tr>
 </table>
 <h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
+      <b>91</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-2</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
+      <b>3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>2</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>6</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕐 Start Time: <b>2024-03-31 20:00:00+00:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕛 End Time: <b>2024-04-15 19:59:59+00:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(2)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(15)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(186727)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Cyno.png" , height="18" />
+      <b>Cyno</b> <code>(22332)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(5)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(11)</code><br />
+    </td>
+  </tr>
+</table>
+<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -851,7 +976,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1290</b> <code>(rate -11)</code></td>
+    <td align="center"><b>1390</b> <code>(rate -4)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,17 +987,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1183992</b> <code>(rate 40)</code></td>
+    <td align="center"><b>1265242</b> <code>(rate 50)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>480</b> <code>(38%)</code><br />Events: <b>460</b>
-      <code>(35%)</code><br />Mail: <b>340</b> <code>(26%)</code
-      ><br />Adventure: <b>10</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      Daily Activity: <b>480</b> <code>(35%)</code><br />Events: <b>460</b>
+      <code>(33%)</code><br />Mail: <b>340</b> <code>(24%)</code><br />Spiral
+      Abyss: <b>100</b> <code>(7%)</code><br />Adventure: <b>10</b>
+      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
