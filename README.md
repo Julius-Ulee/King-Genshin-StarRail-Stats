@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 14, 2024 08:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 14, 2024 21:48 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -888,26 +888,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(2)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(2)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(2)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(2)</code><br />
+      <b>Sucrose</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      <b>Sangonomiya Kokomi</b> <code>(2)</code><br />
     </td>
   </tr>
   <tr>
@@ -976,7 +976,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1390</b> <code>(rate -4)</code></td>
+    <td align="center"><b>1450</b> <code>(rate 0)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -987,16 +987,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1265242</b> <code>(rate 50)</code></td>
+    <td align="center"><b>1323858</b> <code>(rate 57)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>480</b> <code>(35%)</code><br />Events: <b>460</b>
-      <code>(33%)</code><br />Mail: <b>340</b> <code>(24%)</code><br />Spiral
-      Abyss: <b>100</b> <code>(7%)</code><br />Adventure: <b>10</b>
+      Daily Activity: <b>540</b> <code>(38%)</code><br />Events: <b>460</b>
+      <code>(32%)</code><br />Mail: <b>340</b> <code>(23%)</code><br />Spiral
+      Abyss: <b>100</b> <code>(6%)</code><br />Adventure: <b>10</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -7308,7 +7308,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>220</b></td>
+    <td><b>221</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7333,7 +7333,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1766</b> <code>(rate 23)</code></td>
+    <td align="center"><b>1826</b> <code>(rate 28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7354,8 +7354,8 @@
       Categories
     </td>
     <td>
-      Event: <b>980</b> <code>(55%)</code><br />Daily Activity: <b>540</b>
-      <code>(30%)</code><br />Mail: <b>170</b> <code>(9%)</code><br />Other:
+      Event: <b>980</b> <code>(53%)</code><br />Daily Activity: <b>600</b>
+      <code>(32%)</code><br />Mail: <b>170</b> <code>(9%)</code><br />Other:
       <b>61</b> <code>(6%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
