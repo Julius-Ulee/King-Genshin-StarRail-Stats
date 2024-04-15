@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 15, 2024 10:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 15, 2024 19:32 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -888,26 +888,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(2)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      <b>Sangonomiya Kokomi</b> <code>(2)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      <b>Cyno</b> <code>(2)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(2)</code><br />
+      <b>Nahida</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      <b>Xingqiu</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(2)</code><br />
     </td>
   </tr>
   <tr>
@@ -7308,7 +7308,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>221</b></td>
+    <td><b>222</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
