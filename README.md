@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 15, 2024 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 16, 2024 08:17 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-15 11:34:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-16 09:17:51+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>368</b></td>
+    <td align="center"><b>369</b></td>
   </tr>
   <tr>
     <td>
@@ -366,7 +366,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-2</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -888,16 +888,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(2)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(2)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
         ,
         height="18"
@@ -907,7 +897,17 @@
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(2)</code><br />
+      <b>Sucrose</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(2)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(2)</code><br />
     </td>
   </tr>
   <tr>
@@ -976,7 +976,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1450</b> <code>(rate 0)</code></td>
+    <td align="center"><b>1510</b> <code>(rate 3)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -987,15 +987,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1323858</b> <code>(rate 57)</code></td>
+    <td align="center"><b>1375236</b> <code>(rate 63)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>540</b> <code>(38%)</code><br />Events: <b>460</b>
-      <code>(32%)</code><br />Mail: <b>340</b> <code>(23%)</code><br />Spiral
+      Daily Activity: <b>600</b> <code>(40%)</code><br />Events: <b>460</b>
+      <code>(31%)</code><br />Mail: <b>340</b> <code>(22%)</code><br />Spiral
       Abyss: <b>100</b> <code>(6%)</code><br />Adventure: <b>10</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
@@ -7275,22 +7275,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-15 11:34:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-16 09:17:54+08:00</b></td>
   </tr>
 </table>
 
@@ -7333,7 +7333,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1826</b> <code>(rate 28)</code></td>
+    <td align="center"><b>1886</b> <code>(rate 32)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7354,8 +7354,8 @@
       Categories
     </td>
     <td>
-      Event: <b>980</b> <code>(53%)</code><br />Daily Activity: <b>600</b>
-      <code>(32%)</code><br />Mail: <b>170</b> <code>(9%)</code><br />Other:
+      Event: <b>980</b> <code>(51%)</code><br />Daily Activity: <b>660</b>
+      <code>(34%)</code><br />Mail: <b>170</b> <code>(9%)</code><br />Other:
       <b>61</b> <code>(6%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
