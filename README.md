@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 25, 2024 19:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 26, 2024 08:19 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Hero's Wit</b>
+      <b>3 x Almond Tofu</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-25 09:21:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-26 09:19:39+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>373</b></td>
+    <td align="center"><b>374</b></td>
   </tr>
   <tr>
     <td>
@@ -976,7 +976,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2465</b> <code>(rate 69)</code></td>
+    <td align="center"><b>2525</b> <code>(rate 73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -987,16 +987,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1594662</b> <code>(rate 89)</code></td>
+    <td align="center"><b>1645716</b> <code>(rate 95)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1020</b> <code>(42%)</code><br />Daily Activity: <b>840</b>
-      <code>(34%)</code><br />Events: <b>480</b> <code>(19%)</code><br />Spiral
-      Abyss: <b>100</b> <code>(4%)</code><br />Adventure: <b>25</b>
+      Mail: <b>1020</b> <code>(41%)</code><br />Daily Activity: <b>900</b>
+      <code>(36%)</code><br />Events: <b>480</b> <code>(19%)</code><br />Spiral
+      Abyss: <b>100</b> <code>(3%)</code><br />Adventure: <b>25</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -7275,22 +7275,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://act.hoyoverse.com/event-static/2023/10/19/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_155303366567207389.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Disposable Kinetic Arm</b>
+      <b>10000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-25 09:21:21+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-26 09:19:42+08:00</b></td>
   </tr>
 </table>
 
@@ -7308,7 +7308,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>226</b></td>
+    <td><b>227</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7333,7 +7333,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2296</b> <code>(rate 61)</code></td>
+    <td align="center"><b>2356</b> <code>(rate 65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7354,8 +7354,8 @@
       Categories
     </td>
     <td>
-      Event: <b>980</b> <code>(42%)</code><br />Daily Activity: <b>900</b>
-      <code>(39%)</code><br />Mail: <b>340</b> <code>(14%)</code><br />Other:
+      Event: <b>980</b> <code>(41%)</code><br />Daily Activity: <b>960</b>
+      <code>(40%)</code><br />Mail: <b>340</b> <code>(14%)</code><br />Other:
       <b>61</b> <code>(5%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
