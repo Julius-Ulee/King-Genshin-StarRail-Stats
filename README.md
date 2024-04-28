@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2024 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2024 08:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 09:18:14+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:24:58+08:00</b></td>
   </tr>
 </table>
 
@@ -976,7 +976,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2689</b> <code>(rate 84)</code></td>
+    <td align="center"><b>2714</b> <code>(rate 86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -987,7 +987,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1783337</b> <code>(rate 111)</code></td>
+    <td align="center"><b>1964170</b> <code>(rate 133)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -996,8 +996,8 @@
     <td>
       Daily Activity: <b>1020</b> <code>(38%)</code><br />Mail: <b>1020</b>
       <code>(38%)</code><br />Events: <b>500</b> <code>(19%)</code><br />Spiral
-      Abyss: <b>100</b> <code>(4%)</code><br />Adventure: <b>49</b>
-      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      Abyss: <b>100</b> <code>(3%)</code><br />Adventure: <b>74</b>
+      <code>(2%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -6084,7 +6084,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -7275,22 +7275,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Crystal</b>
+      <b>3 x Traveler's Guide</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 09:18:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:24:59+08:00</b></td>
   </tr>
 </table>
 
@@ -7308,7 +7308,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>229</b></td>
+    <td><b>230</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7320,7 +7320,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>140</b></td>
+    <td><b>142</b></td>
   </tr>
 </table>
 
