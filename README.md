@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 13, 2024 03:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 13, 2024 07:50 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>391</b></td>
+    <td align="center"><b>392</b></td>
   </tr>
   <tr>
     <td>
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>243</b></td>
+    <td><b>244</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1401</b> <code>(rate -70)</code></td>
+    <td align="center"><b>1481</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7218,7 +7218,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>10</b> <code>(rate -72)</code></td>
+    <td align="center"><b>11</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,9 +7229,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>690</b> <code>(49%)</code><br />Daily Activity: <b>660</b>
-      <code>(47%)</code><br />Event: <b>40</b> <code>(2%)</code><br />Other:
-      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
+      Daily Activity: <b>720</b> <code>(48%)</code><br />Mail: <b>710</b>
+      <code>(47%)</code><br />Other: <b>1</b> <code>(3%)</code><br />Event:
+      <b>40</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
