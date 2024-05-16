@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 16, 2024 22:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 17, 2024 03:11 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-16 04:12:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-17 04:11:16+08:00</b></td>
   </tr>
 </table>
 
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>940</b> <code>(rate -68)</code></td>
+    <td align="center"><b>1300</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,15 +862,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>821786</b> <code>(rate -62)</code></td>
+    <td align="center"><b>1142454</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>900</b> <code>(96%)</code><br />Mail: <b>40</b>
-      <code>(4%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
+      Daily Activity: <b>960</b> <code>(74%)</code><br />Events: <b>300</b>
+      <code>(23%)</code><br />Mail: <b>40</b> <code>(3%)</code><br />Spiral
       Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
@@ -1371,6 +1371,169 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>5</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
+    /><b> Nahida</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+            ,
+            height="20"
+          />
+          Nahida
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/609ceb22683b92c97215884bdc048b73.png"
+            ,
+            height="20"
+          />
+          Sacrificial Fragments
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/609ceb22683b92c97215884bdc048b73.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+10</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />4 x Deepwood Memories<br />1 x Crimson Witch of
+              Flames<br />
+            </td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2eabf0cac30c540d4ce4ac9da3a63ac7.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Labyrinth Wayfarer<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/633de9e5a30bb9d7ab0ed14b9d77cbc1.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Witch's Ever-Burning Plume<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/80527a7259ec15ad72ef40195153aaee.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              A Time of Insight<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/39eab367e62fc81809ab4370eb6020d9.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Lamp of the Lost<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/936190b684103d74abd9b772288d63bf.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Laurel Coronet<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Sacrificial Fragments</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Catalyst</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+90</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>6</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -2184,169 +2347,6 @@
           <tr>
             <td>Ascension</td>
             <td align="center"><code>4</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-      ,
-      height="18"
-    /><b> Nahida</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-            ,
-            height="20"
-          />
-          Nahida
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/609ceb22683b92c97215884bdc048b73.png"
-            ,
-            height="20"
-          />
-          Sacrificial Fragments
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/609ceb22683b92c97215884bdc048b73.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                ,
-                height="18"
-              />
-              Dendro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+9</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />4 x Deepwood Memories<br />1 x Crimson Witch of
-              Flames<br />
-            </td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2eabf0cac30c540d4ce4ac9da3a63ac7.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Labyrinth Wayfarer<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/633de9e5a30bb9d7ab0ed14b9d77cbc1.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Witch's Ever-Burning Plume<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/80527a7259ec15ad72ef40195153aaee.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              A Time of Insight<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/39eab367e62fc81809ab4370eb6020d9.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Lamp of the Lost<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/936190b684103d74abd9b772288d63bf.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Laurel Coronet<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Sacrificial Fragments</td>
-          </tr>
-          <tr>
-            <td>Type</td>
-            <td align="center">Catalyst</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+90</code></td>
-          </tr>
-          <tr>
-            <td>Ascension</td>
-            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -7150,22 +7150,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-16 04:12:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-17 04:11:17+08:00</b></td>
   </tr>
 </table>
 
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1601</b> <code>(rate -65)</code></td>
+    <td align="center"><b>1666</b> <code>(rate -64)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,9 +7229,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>840</b> <code>(52%)</code><br />Mail: <b>710</b>
-      <code>(44%)</code><br />Event: <b>40</b> <code>(2%)</code><br />Other:
-      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>10</b>
+      Daily Activity: <b>900</b> <code>(54%)</code><br />Mail: <b>710</b>
+      <code>(42%)</code><br />Event: <b>40</b> <code>(2%)</code><br />Other:
+      <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
