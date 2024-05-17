@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 17, 2024 03:11 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 17, 2024 07:48 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>529</b></td>
+    <td align="center"><b>530</b></td>
   </tr>
   <tr>
     <td>
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>394</b></td>
+    <td align="center"><b>395</b></td>
   </tr>
   <tr>
     <td>
@@ -366,7 +366,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -812,7 +812,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>575</code></td>
+    <td align="center"><code>581</code></td>
   </tr>
   <tr>
     <td>
@@ -862,7 +862,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1142454</b> <code>(rate -47)</code></td>
+    <td align="center"><b>1143334</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
