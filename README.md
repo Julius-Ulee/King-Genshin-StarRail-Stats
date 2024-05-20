@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 20, 2024 17:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 20, 2024 22:11 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1445</b> <code>(rate -51)</code></td>
+    <td align="center"><b>1505</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,15 +862,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1236321</b> <code>(rate -43)</code></td>
+    <td align="center"><b>1285869</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1080</b> <code>(75%)</code><br />Events: <b>300</b>
-      <code>(20%)</code><br />Mail: <b>60</b> <code>(4%)</code><br />Adventure:
+      Daily Activity: <b>1140</b> <code>(76%)</code><br />Events: <b>300</b>
+      <code>(20%)</code><br />Mail: <b>60</b> <code>(3%)</code><br />Adventure:
       <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>249</b></td>
+    <td><b>250</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1786</b> <code>(rate -62)</code></td>
+    <td align="center"><b>1866</b> <code>(rate -60)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,7 +7229,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1020</b> <code>(57%)</code><br />Mail: <b>710</b>
+      Daily Activity: <b>1080</b> <code>(57%)</code><br />Mail: <b>730</b>
       <code>(39%)</code><br />Event: <b>40</b> <code>(2%)</code><br />Other:
       <b>1</b> <code>(2%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
