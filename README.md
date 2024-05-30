@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 30, 2024 07:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 30, 2024 19:13 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -862,7 +862,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1488208</b> <code>(rate -31)</code></td>
+    <td align="center"><b>1510458</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7183,7 +7183,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>253</b></td>
+    <td><b>254</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7208,7 +7208,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2046</b> <code>(rate -56)</code></td>
+    <td align="center"><b>2156</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7218,7 +7218,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>16</b> <code>(rate -55)</code></td>
+    <td align="center"><b>21</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7229,8 +7229,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1260</b> <code>(61%)</code><br />Mail: <b>730</b>
-      <code>(35%)</code><br />Other: <b>1</b> <code>(3%)</code><br />Event:
+      Daily Activity: <b>1320</b> <code>(61%)</code><br />Mail: <b>780</b>
+      <code>(36%)</code><br />Other: <b>1</b> <code>(2%)</code><br />Event:
       <b>40</b> <code>(1%)</code><br />Adventure Rewards: <b>15</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
@@ -9778,7 +9778,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -9923,7 +9923,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
