@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 30, 2024 19:13 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 31, 2024 07:34 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,7 +199,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -214,7 +214,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-30 08:34:31+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-31 08:34:12+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>401</b></td>
+    <td align="center"><b>402</b></td>
   </tr>
   <tr>
     <td>
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1985</b> <code>(rate -33)</code></td>
+    <td align="center"><b>2045</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,15 +862,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1510458</b> <code>(rate -30)</code></td>
+    <td align="center"><b>1550285</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1320</b> <code>(66%)</code><br />Mail: <b>360</b>
-      <code>(18%)</code><br />Events: <b>300</b> <code>(15%)</code
+      Daily Activity: <b>1380</b> <code>(68%)</code><br />Mail: <b>360</b>
+      <code>(17%)</code><br />Events: <b>300</b> <code>(14%)</code
       ><br />Adventure: <b>5</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
       <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
@@ -7150,7 +7150,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7165,7 +7165,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-30 08:34:33+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-31 08:34:13+08:00</b></td>
   </tr>
 </table>
 
