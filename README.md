@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 13, 2024 07:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 13, 2024 19:14 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -7306,7 +7306,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>254</b></td>
+    <td><b>255</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10481,7 +10481,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
