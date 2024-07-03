@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jul 02, 2024 19:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 03, 2024 07:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-07-02 08:35:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-07-03 08:35:43+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>405</b></td>
+    <td align="center"><b>406</b></td>
   </tr>
   <tr>
     <td>
@@ -851,7 +851,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>180</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -862,18 +862,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>131092</b> <code>(rate 61)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Events: <b>100</b> <code>(56%)</code><br />Daily Activity: <b>60</b>
+      <code>(33%)</code><br />Mail: <b>20</b> <code>(11%)</code><br />Spiral
+      Abyss: <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -6451,7 +6451,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -7273,22 +7273,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-07-02 08:35:49+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-07-03 08:35:44+08:00</b></td>
   </tr>
 </table>
 
@@ -7306,7 +7306,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>255</b></td>
+    <td><b>256</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7331,7 +7331,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>660</b> <code>(rate 73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7341,7 +7341,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>6</b> <code>(rate -40)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7352,11 +7352,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>600</b> <code>(90%)</code><br />Daily Activity: <b>60</b>
+      <code>(9%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
+      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
+      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -8096,7 +8096,7 @@
 <details>
   <summary align="center">
     <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
       height="18"
     /><b> Trailblazer </b>
   </summary>
@@ -8106,36 +8106,26 @@
       <th align="center">
         <h3>
           <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
             height="20"
           />
           Trailblazer
         </h3>
       </th>
       <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/041fd6e167711f5d960793a28ea6d70f.png"
-            height="20"
-          />
-          Mutual Demise
-        </h3>
+        <h3><img src="" height="20" /></h3>
       </th>
     </tr>
     <tr>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/4418ce054a2de0b877caa04c59a65948.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/60732fbea69eee399e3e379809f6acaa.png"
           />
         </p>
       </td>
       <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/041fd6e167711f5d960793a28ea6d70f.png"
-          />
-        </p>
+        <p align="center"><img src="" /></p>
       </td>
     </tr>
     <tr>
@@ -8149,10 +8139,10 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              imaginary
             </td>
           </tr>
           <tr>
@@ -8161,61 +8151,11 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/09c33d9840d77472b2f55c27f8ceb6af.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Champion's Headgear<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/80813e677700b653825bcb08cc40bae4.png"
-                ,
-                height="25"
-              />
-              <code>+13</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Heavy Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/35bf82dee23a46be4a3fa3a5b7561b2f.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Champion's Chest Guard<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/440a240dcd6214010bec6bb37957fe02.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Champion's Fleetfoot Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/815a20e9eef28c222f2c12c456bf941d.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1020025cf873219f9e399ea4ffbd0a59.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Herta's Wandering Trek<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -8223,15 +8163,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Mutual Demise</td>
+            <td align="center"></td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code></code></td>
           </tr>
         </table>
       </td>
