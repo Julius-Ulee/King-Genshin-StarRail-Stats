@@ -1,4 +1,4 @@
-genshin
+genshin==1.7.3
 Jinja2
 pydantic
 python-dotenv
