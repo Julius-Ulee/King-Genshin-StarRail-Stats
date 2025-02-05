@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 05, 2025 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 05, 2025 22:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -323,6 +323,17 @@
   </tr>
   <tr>
     <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/i_n107028.webp"
+        ,
+        height="18"
+      />
+      Pyroculus
+    </td>
+    <td align="center"><b>1</b></td>
+  </tr>
+  <tr>
+    <td>
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
@@ -367,6 +378,17 @@
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
     <td align="center"><b>9-3</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/acat_33.webp"
+        ,
+        height="18"
+      />
+      Days Active
+    </td>
+    <td align="center"><b>9</b></td>
   </tr>
 </table>
 
@@ -841,7 +863,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>581</code></td>
+    <td align="center"><code>582</code></td>
   </tr>
   <tr>
     <td>
@@ -863,7 +885,7 @@
       />
       <b>Visitor History</b>
     </td>
-    <td align="center"><code>0</code></td>
+    <td align="center"><code>1</code></td>
   </tr>
 </table>
 <h2 align="center">
@@ -880,7 +902,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1901</b> <code>(rate 49)</code></td>
+    <td align="center"><b>2101</b> <code>(rate 65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -891,18 +913,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>322915</b> <code>(rate -29)</code></td>
+    <td align="center"><b>449165</b> <code>(rate -2)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1660</b> <code>(87%)</code><br />Daily Activity: <b>240</b>
-      <code>(12%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />Imaginarium Theater: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure:
-      <b>0</b> <code>(0%)</code><br />Other: <b>1</b> <code>(1%)</code><br />
+      Mail: <b>1660</b> <code>(79%)</code><br />Daily Activity: <b>240</b>
+      <code>(11%)</code><br />Spiral Abyss: <b>200</b> <code>(9%)</code
+      ><br />Events: <b>0</b> <code>(0%)</code><br />Imaginarium Theater:
+      <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
+      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
+      <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -6901,7 +6924,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>257</b></td>
+    <td><b>258</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
