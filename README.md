@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 05, 2025 22:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 05, 2025 22:12 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Days Active
+      Max Friendship Characters
     </td>
     <td align="center"><b>9</b></td>
   </tr>
