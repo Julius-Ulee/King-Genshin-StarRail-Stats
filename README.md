@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 06, 2025 14:56 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 06, 2025 19:33 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -902,7 +902,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2453</b> <code>(rate 93)</code></td>
+    <td align="center"><b>2513</b> <code>(rate 98)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -913,15 +913,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>836500</b> <code>(rate 82)</code></td>
+    <td align="center"><b>880758</b> <code>(rate 92)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1690</b> <code>(69%)</code><br />Spiral Abyss: <b>500</b>
-      <code>(20%)</code><br />Daily Activity: <b>240</b> <code>(9%)</code
+      Mail: <b>1690</b> <code>(68%)</code><br />Spiral Abyss: <b>500</b>
+      <code>(19%)</code><br />Daily Activity: <b>300</b> <code>(11%)</code
       ><br />Adventure: <b>5</b> <code>(1%)</code><br />Events: <b>0</b>
       <code>(0%)</code><br />Imaginarium Theater: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>18</b>
@@ -6569,7 +6569,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2037</b> <code>(rate 203600)</code></td>
+    <td align="center"><b>2137</b> <code>(rate 213600)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6590,8 +6590,8 @@
       Categories
     </td>
     <td>
-      Mail: <b>870</b> <code>(42%)</code><br />Event: <b>700</b>
-      <code>(34%)</code><br />Other: <b>407</b> <code>(22%)</code><br />Daily
+      Mail: <b>870</b> <code>(40%)</code><br />Event: <b>700</b>
+      <code>(32%)</code><br />Other: <b>507</b> <code>(26%)</code><br />Daily
       Activity: <b>60</b> <code>(2%)</code><br />Adventure Rewards: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
