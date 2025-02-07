@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 06, 2025 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 07, 2025 08:15 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Sweet Madame</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-06 20:16:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-07 17:15:47+08:00</b></td>
   </tr>
 </table>
 
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>536</b></td>
+    <td align="center"><b>537</b></td>
   </tr>
   <tr>
     <td>
@@ -902,7 +902,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2513</b> <code>(rate 98)</code></td>
+    <td align="center"><b>2544</b> <code>(rate 100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -913,18 +913,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>880758</b> <code>(rate 92)</code></td>
+    <td align="center"><b>920930</b> <code>(rate 100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>1690</b> <code>(68%)</code><br />Spiral Abyss: <b>500</b>
-      <code>(19%)</code><br />Daily Activity: <b>300</b> <code>(11%)</code
-      ><br />Adventure: <b>5</b> <code>(1%)</code><br />Events: <b>0</b>
+      Mail: <b>1690</b> <code>(67%)</code><br />Spiral Abyss: <b>500</b>
+      <code>(20%)</code><br />Daily Activity: <b>300</b> <code>(11%)</code
+      ><br />Adventure: <b>15</b> <code>(1%)</code><br />Events: <b>0</b>
       <code>(0%)</code><br />Imaginarium Theater: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>18</b>
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>39</b>
       <code>(1%)</code><br />
     </td>
   </tr>
@@ -2329,6 +2329,121 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
+    /><b> Arlecchino</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Arlecchino
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/6b894de6e420cfca97101ced133079ed.png"
+            ,
+            height="20"
+          />
+          Crimson Moon's Semblance
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/6b894de6e420cfca97101ced133079ed.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+2</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Crimson Moon's Semblance</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+60</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
       ,
       height="18"
@@ -3466,121 +3581,6 @@
           <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-      ,
-      height="18"
-    /><b> Arlecchino</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-            ,
-            height="20"
-          />
-          Arlecchino
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/6b894de6e420cfca97101ced133079ed.png"
-            ,
-            height="20"
-          />
-          Crimson Moon's Semblance
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/6b894de6e420cfca97101ced133079ed.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                ,
-                height="18"
-              />
-              Pyro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+40</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+2</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Crimson Moon's Semblance</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -6507,22 +6507,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Canned Soda</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-06 20:16:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-07 17:15:47+08:00</b></td>
   </tr>
 </table>
 
