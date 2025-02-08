@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 08, 2025 19:29 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 08, 2025 21:44 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -902,7 +902,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3812</b> <code>(rate 200)</code></td>
+    <td align="center"><b>3842</b> <code>(rate 202)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -913,7 +913,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1785502</b> <code>(rate 289)</code></td>
+    <td align="center"><b>1826752</b> <code>(rate 298)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -922,10 +922,10 @@
     <td>
       Mail: <b>1740</b> <code>(46%)</code><br />Events: <b>760</b>
       <code>(20%)</code><br />Spiral Abyss: <b>500</b> <code>(14%)</code
-      ><br />Daily Activity: <b>420</b> <code>(11%)</code><br />Quests:
+      ><br />Daily Activity: <b>420</b> <code>(10%)</code><br />Quests:
       <b>220</b> <code>(5%)</code><br />Adventure: <b>42</b> <code>(1%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>130</b> <code>(3%)</code><br />
+      <b>160</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
