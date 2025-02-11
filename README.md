@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 11, 2025 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 11, 2025 20:18 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -6854,6 +6854,10 @@
             <td align="center">Quid Pro Quo</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+60</code></td>
           </tr>
@@ -6999,6 +7003,10 @@
             <td align="center">Woof! Walk Time!</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+70</code></td>
           </tr>
@@ -7135,6 +7143,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Time Waits for No One</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -7282,6 +7294,10 @@
             <td align="center">River Flows in Spring</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+60</code></td>
           </tr>
@@ -7425,6 +7441,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Indelible Promise</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -7572,6 +7592,10 @@
             <td align="center">Mediation</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+50</code></td>
           </tr>
@@ -7708,6 +7732,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Dance! Dance! Dance!</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -7855,6 +7883,10 @@
             <td align="center">Fermata</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -7998,6 +8030,10 @@
           <tr>
             <td>Name</td>
             <td align="center">We Are Wildfire</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -8145,6 +8181,10 @@
             <td align="center">Meshing Cogs</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+60</code></td>
           </tr>
@@ -8288,6 +8328,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Post-Op Conversation</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -8435,6 +8479,10 @@
             <td align="center">Passkey</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+58</code></td>
           </tr>
@@ -8578,6 +8626,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Chorus</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -8725,6 +8777,10 @@
             <td align="center">Mediation</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -8868,6 +8924,10 @@
           <tr>
             <td>Name</td>
             <td align="center">The Seriousness of Breakfast</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9015,6 +9075,10 @@
             <td align="center">Shattered Home</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -9158,6 +9222,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Adversarial</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9305,6 +9373,10 @@
             <td align="center">Hidden Shadow</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -9448,6 +9520,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Mutual Demise</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9595,6 +9671,10 @@
             <td align="center">Good Night and Sleep Well</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -9738,6 +9818,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Data Bank</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -9885,6 +9969,10 @@
             <td align="center">Arrows</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+50</code></td>
           </tr>
@@ -10028,6 +10116,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Collapsing Sky</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10175,6 +10267,10 @@
             <td align="center">Subscribe for More!</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -10311,6 +10407,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Swordplay</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10458,6 +10558,10 @@
             <td align="center">Mediation</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -10601,6 +10705,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Mutual Demise</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10748,6 +10856,10 @@
             <td align="center">Perfect Timing</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -10891,6 +11003,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Eyes of the Prey</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
