@@ -241,7 +241,7 @@
     <tr>
         <td colspan="2" align="center">🕛 End Time: <b>{{ genshin.abyss.end_time }}</b></td>
     </tr>
-    {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
+    {%- for field, characters in genshin.abyss.ranks.dict().items() -%}
     <tr>
         <td>{{ field }}</td>
         <td>
