@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2025 10:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 23, 2025 10:48 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -6820,7 +6820,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>14818</b> <code>(rate 1481700)</code></td>
+    <td align="center"><b>14948</b> <code>(rate 1494700)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,9 +6841,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>4945</b> <code>(33%)</code><br />Event: <b>3090</b>
-      <code>(20%)</code><br />Simulated Universe: <b>2810</b> <code>(18%)</code
-      ><br />Other: <b>763</b> <code>(9%)</code><br />Mail: <b>1330</b>
+      Adventure Rewards: <b>4955</b> <code>(33%)</code><br />Event: <b>3090</b>
+      <code>(20%)</code><br />Simulated Universe: <b>2930</b> <code>(19%)</code
+      ><br />Mail: <b>1330</b> <code>(8%)</code><br />Other: <b>763</b>
       <code>(8%)</code><br />Daily Activity: <b>1080</b> <code>(7%)</code
       ><br />Forgotten Hall: <b>800</b> <code>(5%)</code><br />
     </td>
@@ -6993,7 +6993,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -7142,7 +7142,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
-              lightning
+              Lightning
             </td>
           </tr>
           <tr>
@@ -7291,7 +7291,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
-              wind
+              Wind
             </td>
           </tr>
           <tr>
@@ -7440,7 +7440,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
-              fire
+              Fire
             </td>
           </tr>
           <tr>
@@ -7589,7 +7589,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
-              lightning
+              Lightning
             </td>
           </tr>
           <tr>
@@ -7738,7 +7738,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                 height="18"
               />
-              imaginary
+              Imaginary
             </td>
           </tr>
           <tr>
@@ -7887,7 +7887,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
-              lightning
+              Lightning
             </td>
           </tr>
           <tr>
@@ -8036,7 +8036,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -8185,7 +8185,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              Physical
             </td>
           </tr>
           <tr>
@@ -8334,7 +8334,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                 height="18"
               />
-              imaginary
+              Imaginary
             </td>
           </tr>
           <tr>
@@ -8483,7 +8483,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
-              wind
+              Wind
             </td>
           </tr>
           <tr>
@@ -8632,7 +8632,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -8781,7 +8781,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
-              wind
+              Wind
             </td>
           </tr>
           <tr>
@@ -8930,7 +8930,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              Physical
             </td>
           </tr>
           <tr>
@@ -9079,7 +9079,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
-              lightning
+              Lightning
             </td>
           </tr>
           <tr>
@@ -9228,7 +9228,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
-              fire
+              Fire
             </td>
           </tr>
           <tr>
@@ -9377,7 +9377,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
                 height="18"
               />
-              quantum
+              Quantum
             </td>
           </tr>
           <tr>
@@ -9526,7 +9526,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                 height="18"
               />
-              lightning
+              Lightning
             </td>
           </tr>
           <tr>
@@ -9675,7 +9675,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              Physical
             </td>
           </tr>
           <tr>
@@ -9824,7 +9824,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              Physical
             </td>
           </tr>
           <tr>
@@ -9973,7 +9973,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
-              fire
+              Fire
             </td>
           </tr>
           <tr>
@@ -10122,7 +10122,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -10271,7 +10271,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -10420,7 +10420,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
-              wind
+              Wind
             </td>
           </tr>
           <tr>
@@ -10569,7 +10569,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                 height="18"
               />
-              ice
+              Ice
             </td>
           </tr>
           <tr>
@@ -10718,7 +10718,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                 height="18"
               />
-              imaginary
+              Imaginary
             </td>
           </tr>
           <tr>
@@ -10867,7 +10867,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                 height="18"
               />
-              physical
+              Physical
             </td>
           </tr>
           <tr>
@@ -11016,7 +11016,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
                 height="18"
               />
-              quantum
+              Quantum
             </td>
           </tr>
           <tr>
@@ -11165,7 +11165,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
                 height="18"
               />
-              fire
+              Fire
             </td>
           </tr>
           <tr>
@@ -11314,7 +11314,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
                 height="18"
               />
-              quantum
+              Quantum
             </td>
           </tr>
           <tr>
@@ -11463,7 +11463,7 @@
                 src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
                 height="18"
               />
-              wind
+              Wind
             </td>
           </tr>
           <tr>
