@@ -241,12 +241,12 @@
     <tr>
         <td colspan="2" align="center">🕛 End Time: <b>{{ genshin.abyss.end_time }}</b></td>
     </tr>
-    {%- for field, characters in genshin.abyss.ranks.dict().items() -%}
+    {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field }}</td>
         <td>
             {%- for character in characters -%}
-            <img src="{{ character.card_icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
+            <img src="{{ character.icon }}" , height="18"> <b>{{ character.name }}</b> <code>({{ character.value }})</code><br>
             {%- endfor -%}
         </td>
     </tr>
@@ -418,7 +418,7 @@
             {%- else -%}
             <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
             {%- endif -%}
-            <td><b>{{ value }}</b></td>
+            <td align="center"><b>{{ value }}</b></td>
         </tr>
         {%- endif -%}
         {%- endfor -%}
