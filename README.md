@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2025 11:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 23, 2025 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>456</b></td>
+    <td align="center"><b>457</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7507</b> <code>(rate 492)</code></td>
+    <td align="center"><b>7567</b> <code>(rate 496)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,7 +1049,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4628007</b> <code>(rate 909)</code></td>
+    <td align="center"><b>4679987</b> <code>(rate 920)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1057,9 +1057,9 @@
     </td>
     <td>
       Mail: <b>2470</b> <code>(33%)</code><br />Events: <b>1910</b>
-      <code>(26%)</code><br />Daily Activity: <b>1260</b> <code>(17%)</code
+      <code>(26%)</code><br />Daily Activity: <b>1320</b> <code>(18%)</code
       ><br />Imaginarium Theater: <b>620</b> <code>(9%)</code><br />Spiral
-      Abyss: <b>500</b> <code>(7%)</code><br />Adventure: <b>267</b>
+      Abyss: <b>500</b> <code>(6%)</code><br />Adventure: <b>267</b>
       <code>(3%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
       <b>260</b> <code>(3%)</code><br />
     </td>
@@ -6820,7 +6820,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>14948</b> <code>(rate 1494700)</code></td>
+    <td align="center"><b>14958</b> <code>(rate 1495700)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,7 +6841,7 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>4955</b> <code>(33%)</code><br />Event: <b>3090</b>
+      Adventure Rewards: <b>4965</b> <code>(33%)</code><br />Event: <b>3090</b>
       <code>(20%)</code><br />Simulated Universe: <b>2930</b> <code>(19%)</code
       ><br />Mail: <b>1330</b> <code>(8%)</code><br />Other: <b>763</b>
       <code>(8%)</code><br />Daily Activity: <b>1080</b> <code>(7%)</code
