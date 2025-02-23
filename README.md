@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2025 10:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 23, 2025 10:12 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -945,37 +945,83 @@
   <tr>
     <td>most_played</td>
     <td>
-      <img src="" , height="18" /> <b>Xingqiu</b> <code>(9)</code><br /><img
-        src=""
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/651781294115fa441c20a5b2d73b285c.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br /><img src="" , height="18" />
-      <b>Bennett</b> <code>(9)</code><br /><img src="" , height="18" />
+      <b>Xingqiu</b> <code>(9)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(9)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/98db000d223748ed7d1e645c5aa38906.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(9)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/092d91d9b2b1685903b51a18f86ed840.png"
+        ,
+        height="18"
+      />
       <b>Sangonomiya Kokomi</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
     <td>most_kills</td>
-    <td><img src="" , height="18" /> <b>Navia</b> <code>(65)</code><br /></td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(65)</code><br />
+    </td>
   </tr>
   <tr>
     <td>strongest_strike</td>
     <td>
-      <img src="" , height="18" /> <b>Navia</b> <code>(163531)</code><br />
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(163531)</code><br />
     </td>
   </tr>
   <tr>
     <td>most_damage_taken</td>
-    <td><img src="" , height="18" /> <b>Cyno</b> <code>(99328)</code><br /></td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/a997a911451444398904e3efcbe724a3.png"
+        ,
+        height="18"
+      />
+      <b>Cyno</b> <code>(99328)</code><br />
+    </td>
   </tr>
   <tr>
     <td>most_bursts_used</td>
-    <td><img src="" , height="18" /> <b>Zhongli</b> <code>(31)</code><br /></td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/4c83ec54cc48c79c3d61a084012ab490.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(31)</code><br />
+    </td>
   </tr>
   <tr>
     <td>most_skills_used</td>
-    <td><img src="" , height="18" /> <b>Navia</b> <code>(65)</code><br /></td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(65)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -6745,23 +6791,23 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>276</b></td>
+    <td align="center"><b>276</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>31</b></td>
+    <td align="center"><b>31</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>284</b></td>
+    <td align="center"><b>284</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>294</b></td>
+    <td align="center"><b>294</b></td>
   </tr>
   <tr>
     <td>Sticker Pass Dreamscape</td>
-    <td><b>0</b></td>
+    <td align="center"><b>0</b></td>
   </tr>
 </table>
 
