@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2025 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 24, 2025 08:18 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-23 17:21:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-24 17:18:30+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>559</b></td>
+    <td align="center"><b>560</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>457</b></td>
+    <td align="center"><b>458</b></td>
   </tr>
   <tr>
     <td>
@@ -350,7 +350,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1015</b></td>
+    <td align="center"><b>1017</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7567</b> <code>(rate 496)</code></td>
+    <td align="center"><b>7877</b> <code>(rate 521)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,19 +1049,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4679987</b> <code>(rate 920)</code></td>
+    <td align="center"><b>4994022</b> <code>(rate 988)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(33%)</code><br />Events: <b>1910</b>
-      <code>(26%)</code><br />Daily Activity: <b>1320</b> <code>(18%)</code
-      ><br />Imaginarium Theater: <b>620</b> <code>(9%)</code><br />Spiral
-      Abyss: <b>500</b> <code>(6%)</code><br />Adventure: <b>267</b>
-      <code>(3%)</code><br />Quests: <b>220</b> <code>(2%)</code><br />Other:
-      <b>260</b> <code>(3%)</code><br />
+      Mail: <b>2470</b> <code>(32%)</code><br />Events: <b>1910</b>
+      <code>(25%)</code><br />Daily Activity: <b>1380</b> <code>(18%)</code
+      ><br />Imaginarium Theater: <b>620</b> <code>(8%)</code><br />Spiral
+      Abyss: <b>500</b> <code>(6%)</code><br />Quests: <b>310</b>
+      <code>(3%)</code><br />Adventure: <b>277</b> <code>(3%)</code><br />Other:
+      <b>410</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -6758,22 +6758,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-23 17:21:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-24 17:18:32+08:00</b></td>
   </tr>
 </table>
 
