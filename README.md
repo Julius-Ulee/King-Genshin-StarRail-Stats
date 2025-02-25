@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 24, 2025 19:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 25, 2025 08:17 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-24 17:18:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-25 17:17:52+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>560</b></td>
+    <td align="center"><b>561</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>458</b></td>
+    <td align="center"><b>459</b></td>
   </tr>
   <tr>
     <td>
@@ -350,14 +350,14 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1017</b></td>
+    <td align="center"><b>1018</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>281</b></td>
+    <td align="center"><b>283</b></td>
   </tr>
   <tr>
     <td>
@@ -371,13 +371,13 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>19</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>46</b></td>
+    <td align="center"><b>47</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>7967</b> <code>(rate 528)</code></td>
+    <td align="center"><b>8052</b> <code>(rate 535)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,18 +1049,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5036624</b> <code>(rate 998)</code></td>
+    <td align="center"><b>5118427</b> <code>(rate 1015)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(32%)</code><br />Events: <b>1990</b>
-      <code>(25%)</code><br />Daily Activity: <b>1380</b> <code>(18%)</code
+      Mail: <b>2470</b> <code>(31%)</code><br />Events: <b>2070</b>
+      <code>(26%)</code><br />Daily Activity: <b>1380</b> <code>(18%)</code
       ><br />Imaginarium Theater: <b>620</b> <code>(8%)</code><br />Spiral
       Abyss: <b>500</b> <code>(6%)</code><br />Quests: <b>310</b>
-      <code>(3%)</code><br />Adventure: <b>287</b> <code>(3%)</code><br />Other:
+      <code>(3%)</code><br />Adventure: <b>292</b> <code>(3%)</code><br />Other:
       <b>410</b> <code>(5%)</code><br />
     </td>
   </tr>
@@ -3291,11 +3291,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/0abed33a31e950904cad9f5854ede496.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/64d7024558432b77668365e4b0846a19.png"
             ,
             height="20"
           />
-          The Widsith
+          Skyward Atlas
         </h3>
       </th>
     </tr>
@@ -3312,7 +3312,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/0abed33a31e950904cad9f5854ede496.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/64d7024558432b77668365e4b0846a19.png"
             ,
             height="256"
           />
@@ -3363,19 +3363,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Widsith</td>
+            <td align="center">Skyward Atlas</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6758,22 +6758,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Gold Fragment</b>
+      <b>8000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-24 17:18:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-25 17:17:52+08:00</b></td>
   </tr>
 </table>
 
@@ -6791,7 +6791,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>276</b></td>
+    <td align="center"><b>277</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6820,7 +6820,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>14958</b> <code>(rate 1495700)</code></td>
+    <td align="center"><b>15218</b> <code>(rate 1521700)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6830,7 +6830,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>51</b> <code>(rate 5000)</code></td>
+    <td align="center"><b>52</b> <code>(rate 5100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,10 +6841,10 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>4965</b> <code>(33%)</code><br />Event: <b>3090</b>
-      <code>(20%)</code><br />Simulated Universe: <b>2930</b> <code>(19%)</code
+      Adventure Rewards: <b>4970</b> <code>(32%)</code><br />Event: <b>3090</b>
+      <code>(20%)</code><br />Simulated Universe: <b>3125</b> <code>(20%)</code
       ><br />Mail: <b>1330</b> <code>(8%)</code><br />Other: <b>763</b>
-      <code>(8%)</code><br />Daily Activity: <b>1080</b> <code>(7%)</code
+      <code>(8%)</code><br />Daily Activity: <b>1140</b> <code>(7%)</code
       ><br />Forgotten Hall: <b>800</b> <code>(5%)</code><br />
     </td>
   </tr>
