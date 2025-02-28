@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 27, 2025 19:33 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 28, 2025 08:18 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Almond Tofu</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-27 17:17:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:18:14+08:00</b></td>
   </tr>
 </table>
 
@@ -6758,22 +6758,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Refined Aether</b>
+      <b>2 x Lost Crystal</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-27 17:17:52+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:18:15+08:00</b></td>
   </tr>
 </table>
 
