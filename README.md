@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 28, 2025 19:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 01, 2025 08:22 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,7 +205,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:18:14+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-01 17:22:52+08:00</b></td>
   </tr>
 </table>
 
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>9064</b> <code>(rate 614)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,19 +1049,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5664033</b> <code>(rate 1134)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2470</b> <code>(28%)</code><br />Events: <b>2330</b>
-      <code>(26%)</code><br />Daily Activity: <b>1620</b> <code>(18%)</code
-      ><br />Adventure: <b>804</b> <code>(9%)</code><br />Imaginarium Theater:
-      <b>620</b> <code>(7%)</code><br />Spiral Abyss: <b>500</b>
-      <code>(5%)</code><br />Quests: <b>310</b> <code>(3%)</code><br />Other:
-      <b>410</b> <code>(4%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
+      <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -6758,22 +6758,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Lost Crystal</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:18:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-01 17:22:52+08:00</b></td>
   </tr>
 </table>
 
@@ -6820,7 +6820,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>15988</b> <code>(rate 1598700)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6830,7 +6830,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>54</b> <code>(rate 5300)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,11 +6841,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>4970</b> <code>(31%)</code><br />Event: <b>3090</b>
-      <code>(19%)</code><br />Simulated Universe: <b>3125</b> <code>(19%)</code
-      ><br />Mail: <b>1980</b> <code>(12%)</code><br />Daily Activity:
-      <b>1260</b> <code>(7%)</code><br />Other: <b>763</b> <code>(7%)</code
-      ><br />Forgotten Hall: <b>800</b> <code>(5%)</code><br />
+      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
