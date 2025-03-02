@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 02, 2025 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 02, 2025 19:29 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>568</b></td>
+    <td align="center"><b>569</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>463</b></td>
+    <td align="center"><b>464</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>60</b> <code>(rate -99)</code></td>
+    <td align="center"><b>346</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,19 +1049,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>100392</b> <code>(rate -98)</code></td>
+    <td align="center"><b>326011</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>60</b> <code>(100%)</code><br />Events: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
-      <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Imaginarium Theater: <b>220</b> <code>(64%)</code><br />Daily Activity:
+      <b>120</b> <code>(34%)</code><br />Adventure: <b>5</b> <code>(1%)</code
+      ><br />Events: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Mail:
+      <b>0</b> <code>(0%)</code><br />Other: <b>1</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -1158,7 +1157,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+6</code></td>
+            <td align="center"><code>+7</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6791,7 +6790,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>280</b></td>
+    <td align="center"><b>281</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6799,7 +6798,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td align="center"><b>291</b></td>
+    <td align="center"><b>293</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -6820,7 +6819,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1838</b> <code>(rate -88)</code></td>
+    <td align="center"><b>1968</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6830,7 +6829,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>17</b> <code>(rate -68)</code></td>
+    <td align="center"><b>20</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,9 +6840,9 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(60%)</code><br />Simulated Universe: <b>360</b>
-      <code>(19%)</code><br />Adventure Rewards: <b>295</b> <code>(16%)</code
-      ><br />Daily Activity: <b>60</b> <code>(3%)</code><br />Other: <b>3</b>
+      Event: <b>1120</b> <code>(56%)</code><br />Adventure Rewards: <b>365</b>
+      <code>(18%)</code><br />Simulated Universe: <b>360</b> <code>(18%)</code
+      ><br />Daily Activity: <b>120</b> <code>(6%)</code><br />Other: <b>3</b>
       <code>(2%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -7669,6 +7668,155 @@
           <tr>
             <td>Level</td>
             <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
+    /><b> Tribbie </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Tribbie
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
+            height="20"
+          />
+          Dance! Dance! Dance!
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/22c92a0001750e3d2fffdba2e823a29e.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              Quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/66936212b907f1897e967ed4d44f1c4d.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Dill Wreath<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0b227895e246037f929b712fbb541ccb.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Gilded Bracelet<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/d8896b402d3a799b3196284887b73b42.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Star-Studded Skirt<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/562dbd91d9ba676622cc0c10dadbfa97.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Silver-Studded Shoes<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/78f7f02d7a9d479d9a7d282ef87c7315.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Lushaka's Waterscape<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0e46a4c21e4b0e0e51e110ac22b2f13b.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Lushaka's Twinlanes<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dance! Dance! Dance!</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+30</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -9602,155 +9750,6 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-      height="18"
-    /><b> Tribbie </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-            height="20"
-          />
-          Tribbie
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
-            height="20"
-          />
-          Dance! Dance! Dance!
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/22c92a0001750e3d2fffdba2e823a29e.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                height="18"
-              />
-              Quantum
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+40</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/66936212b907f1897e967ed4d44f1c4d.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Dill Wreath<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0b227895e246037f929b712fbb541ccb.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Gilded Bracelet<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/d8896b402d3a799b3196284887b73b42.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Star-Studded Skirt<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/562dbd91d9ba676622cc0c10dadbfa97.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Silver-Studded Shoes<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/78f7f02d7a9d479d9a7d282ef87c7315.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Lushaka's Waterscape<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0e46a4c21e4b0e0e51e110ac22b2f13b.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Lushaka's Twinlanes<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Dance! Dance! Dance!</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
