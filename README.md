@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 05, 2025 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 05, 2025 19:34 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -190,7 +190,7 @@
         ,
         height="18"
       />
-      <b>魈•zhang</b> <code>Lv. 57</code>
+      <b>魈•zhang</b> <code>Lv. 58</code>
     </td>
   </tr>
   <tr>
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>569</b></td>
+    <td align="center"><b>575</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>466</b></td>
+    <td align="center"><b>467</b></td>
   </tr>
   <tr>
     <td>
@@ -303,7 +303,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>126</b></td>
+    <td align="center"><b>144</b></td>
   </tr>
   <tr>
     <td>
@@ -343,28 +343,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1393</b></td>
+    <td align="center"><b>1438</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1038</b></td>
+    <td align="center"><b>1061</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>289</b></td>
+    <td align="center"><b>296</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>108</b></td>
+    <td align="center"><b>112</b></td>
   </tr>
   <tr>
     <td>
@@ -744,7 +744,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/77/" width="80" />
+            <img src="https://progress-bar.xyz/88/" width="80" />
           </td>
         </tr>
         <tr>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>608</code></td>
+    <td align="center"><code>615</code></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>526</b> <code>(rate -94)</code></td>
+    <td align="center"><b>1069</b> <code>(rate -88)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,16 +1049,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>467861</b> <code>(rate -91)</code></td>
+    <td align="center"><b>911308</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>240</b> <code>(46%)</code><br />Imaginarium Theater:
-      <b>220</b> <code>(42%)</code><br />Events: <b>40</b> <code>(7%)</code
-      ><br />Mail: <b>20</b> <code>(3%)</code><br />Adventure: <b>5</b>
+      Adventure: <b>348</b> <code>(33%)</code><br />Daily Activity: <b>300</b>
+      <code>(29%)</code><br />Imaginarium Theater: <b>220</b> <code>(20%)</code
+      ><br />Events: <b>180</b> <code>(16%)</code><br />Mail: <b>20</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
@@ -4382,7 +4382,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4842,7 +4842,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -6791,7 +6791,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>283</b></td>
+    <td align="center"><b>284</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6820,7 +6820,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2533</b> <code>(rate -84)</code></td>
+    <td align="center"><b>2613</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6830,7 +6830,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>24</b> <code>(rate -55)</code></td>
+    <td align="center"><b>27</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,11 +6841,11 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(44%)</code><br />Simulated Universe: <b>795</b>
-      <code>(31%)</code><br />Adventure Rewards: <b>375</b> <code>(14%)</code
-      ><br />Daily Activity: <b>240</b> <code>(9%)</code><br />Other: <b>3</b>
-      <code>(2%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />
+      Event: <b>1120</b> <code>(42%)</code><br />Simulated Universe: <b>795</b>
+      <code>(30%)</code><br />Adventure Rewards: <b>375</b> <code>(14%)</code
+      ><br />Daily Activity: <b>300</b> <code>(11%)</code><br />Other: <b>3</b>
+      <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>20</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -7033,7 +7033,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+3</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
