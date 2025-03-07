@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 07, 2025 08:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 07, 2025 19:33 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>584</b></td>
+    <td align="center"><b>593</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>468</b></td>
+    <td align="center"><b>469</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>49</b></td>
+    <td align="center"><b>50</b></td>
   </tr>
   <tr>
     <td>
@@ -303,7 +303,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>160</b></td>
+    <td align="center"><b>181</b></td>
   </tr>
   <tr>
     <td>
@@ -343,35 +343,35 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>1480</b></td>
+    <td align="center"><b>1508</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1075</b></td>
+    <td align="center"><b>1100</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>300</b></td>
+    <td align="center"><b>310</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>114</b></td>
+    <td align="center"><b>116</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>26</b></td>
+    <td align="center"><b>40</b></td>
   </tr>
   <tr>
     <td>
@@ -744,7 +744,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/96/" width="80" />
+            <img src="https://progress-bar.xyz/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>616</code></td>
+    <td align="center"><code>618</code></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1603</b> <code>(rate -82)</code></td>
+    <td align="center"><b>2162</b> <code>(rate -76)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,19 +1049,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1240677</b> <code>(rate -78)</code></td>
+    <td align="center"><b>1565258</b> <code>(rate -72)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>762</b> <code>(48%)</code><br />Daily Activity: <b>360</b>
-      <code>(23%)</code><br />Imaginarium Theater: <b>220</b> <code>(13%)</code
-      ><br />Events: <b>180</b> <code>(11%)</code><br />Quests: <b>60</b>
-      <code>(3%)</code><br />Mail: <b>20</b> <code>(1%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b> <code>(1%)</code
-      ><br />
+      Adventure: <b>1101</b> <code>(51%)</code><br />Daily Activity: <b>420</b>
+      <code>(20%)</code><br />Events: <b>320</b> <code>(14%)</code
+      ><br />Imaginarium Theater: <b>220</b> <code>(10%)</code><br />Quests:
+      <b>80</b> <code>(3%)</code><br />Mail: <b>20</b> <code>(1%)</code
+      ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
+      <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -3462,7 +3462,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5340,6 +5340,121 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+      ,
+      height="18"
+    /><b> Furina</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+            ,
+            height="20"
+          />
+          Furina
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            ,
+            height="20"
+          />
+          Dull Blade
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Furina_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                ,
+                height="18"
+              />
+              Hydro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
       ,
       height="18"
@@ -6791,7 +6906,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>285</b></td>
+    <td align="center"><b>286</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6820,7 +6935,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2673</b> <code>(rate -83)</code></td>
+    <td align="center"><b>2733</b> <code>(rate -82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6841,10 +6956,10 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(41%)</code><br />Simulated Universe: <b>795</b>
-      <code>(29%)</code><br />Adventure Rewards: <b>375</b> <code>(14%)</code
-      ><br />Daily Activity: <b>360</b> <code>(13%)</code><br />Other: <b>3</b>
-      <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
+      Event: <b>1120</b> <code>(40%)</code><br />Simulated Universe: <b>795</b>
+      <code>(29%)</code><br />Daily Activity: <b>420</b> <code>(15%)</code
+      ><br />Adventure Rewards: <b>375</b> <code>(13%)</code><br />Other:
+      <b>3</b> <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>20</b> <code>(0%)</code><br />
     </td>
   </tr>
