@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 07, 2025 19:47 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 08, 2025 08:03 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-07 09:19:44+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-08 09:03:46+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>593</b></td>
+    <td align="center"><b>594</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>469</b></td>
+    <td align="center"><b>470</b></td>
   </tr>
   <tr>
     <td>
@@ -371,7 +371,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>40</b></td>
+    <td align="center"><b>54</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2162</b> <code>(rate -76)</code></td>
+    <td align="center"><b>2529</b> <code>(rate -72)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,17 +1049,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1565258</b> <code>(rate -72)</code></td>
+    <td align="center"><b>2660134</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1101</b> <code>(51%)</code><br />Daily Activity: <b>420</b>
-      <code>(20%)</code><br />Events: <b>320</b> <code>(14%)</code
-      ><br />Imaginarium Theater: <b>220</b> <code>(10%)</code><br />Quests:
-      <b>80</b> <code>(3%)</code><br />Mail: <b>20</b> <code>(1%)</code
+      Adventure: <b>1338</b> <code>(53%)</code><br />Daily Activity: <b>480</b>
+      <code>(19%)</code><br />Events: <b>320</b> <code>(13%)</code
+      ><br />Imaginarium Theater: <b>220</b> <code>(8%)</code><br />Quests:
+      <b>150</b> <code>(5%)</code><br />Mail: <b>20</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
     </td>
@@ -5361,11 +5361,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
             ,
             height="20"
           />
-          Dull Blade
+          Favonius Sword
         </h3>
       </th>
     </tr>
@@ -5382,7 +5382,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
             ,
             height="256"
           />
@@ -5409,7 +5409,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+2</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -5433,11 +5433,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Dull Blade</td>
+            <td align="center">Favonius Sword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5445,7 +5445,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -6873,22 +6873,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>1 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-07 09:19:44+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-08 09:03:47+08:00</b></td>
   </tr>
 </table>
 
@@ -6906,7 +6906,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>286</b></td>
+    <td align="center"><b>287</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6935,7 +6935,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2733</b> <code>(rate -82)</code></td>
+    <td align="center"><b>2793</b> <code>(rate -82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6957,9 +6957,9 @@
     </td>
     <td>
       Event: <b>1120</b> <code>(40%)</code><br />Simulated Universe: <b>795</b>
-      <code>(29%)</code><br />Daily Activity: <b>420</b> <code>(15%)</code
+      <code>(28%)</code><br />Daily Activity: <b>480</b> <code>(17%)</code
       ><br />Adventure Rewards: <b>375</b> <code>(13%)</code><br />Other:
-      <b>3</b> <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
+      <b>3</b> <code>(2%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>20</b> <code>(0%)</code><br />
     </td>
   </tr>
