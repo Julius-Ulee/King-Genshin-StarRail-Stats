@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 08, 2025 08:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 08, 2025 19:24 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>594</b></td>
+    <td align="center"><b>595</b></td>
   </tr>
   <tr>
     <td>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>618</code></td>
+    <td align="center"><code>622</code></td>
   </tr>
   <tr>
     <td>
@@ -1049,7 +1049,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2660134</b> <code>(rate -53)</code></td>
+    <td align="center"><b>2682385</b> <code>(rate -52)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -2801,6 +2801,121 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+      ,
+      height="18"
+    /><b> Furina</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+            ,
+            height="20"
+          />
+          Furina
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
+            ,
+            height="20"
+          />
+          Favonius Sword
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Furina_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                ,
+                height="18"
+              />
+              Hydro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+50</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Favonius Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -5331,121 +5446,6 @@
           <tr>
             <td>Refinement</td>
             <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-      ,
-      height="18"
-    /><b> Furina</b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-            ,
-            height="20"
-          />
-          Furina
-        </h3>
-      </th>
-      <th>
-        <h3 align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
-            ,
-            height="20"
-          />
-          Favonius Sword
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Furina_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                ,
-                height="18"
-              />
-              Hydro
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+2</code></td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td align="center"><code>0</code></td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td align="center"></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td align="center"></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">Favonius Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+1</code></td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
