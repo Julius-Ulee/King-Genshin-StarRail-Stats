@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 09, 2025 19:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 10, 2025 08:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-09 09:09:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-10 09:07:21+08:00</b></td>
   </tr>
 </table>
 
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>471</b></td>
+    <td align="center"><b>472</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2754</b> <code>(rate -69)</code></td>
+    <td align="center"><b>2814</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,15 +1049,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2844620</b> <code>(rate -49)</code></td>
+    <td align="center"><b>2884095</b> <code>(rate -49)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1343</b> <code>(49%)</code><br />Daily Activity: <b>540</b>
-      <code>(20%)</code><br />Events: <b>460</b> <code>(16%)</code
+      Adventure: <b>1343</b> <code>(48%)</code><br />Daily Activity: <b>600</b>
+      <code>(21%)</code><br />Events: <b>460</b> <code>(16%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(7%)</code><br />Quests:
       <b>170</b> <code>(6%)</code><br />Mail: <b>20</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
@@ -6873,22 +6873,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-09 09:09:15+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-10 09:07:22+08:00</b></td>
   </tr>
 </table>
 
