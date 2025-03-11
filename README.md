@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 11, 2025 08:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 11, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>595</b></td>
+    <td align="center"><b>597</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>472</b></td>
+    <td align="center"><b>473</b></td>
   </tr>
   <tr>
     <td>
@@ -350,7 +350,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1100</b></td>
+    <td align="center"><b>1101</b></td>
   </tr>
   <tr>
     <td>
@@ -371,7 +371,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>54</b></td>
+    <td align="center"><b>57</b></td>
   </tr>
   <tr>
     <td>
@@ -842,11 +842,11 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://act-webstatic.hoyoverse.com/game_record/genshin/home/UI_Homeworld_Comfort_7.png"
+        src="https://act-webstatic.hoyoverse.com/game_record/genshin/home/UI_Homeworld_Comfort_8.png"
         ,
         height="100"
       /><br />
-      <b>Extraordinary</b>
+      <b>Stately</b>
     </td>
   </tr>
   <tr>
@@ -858,7 +858,7 @@
       />
       <b>Highest Adeptal Energy</b>
     </td>
-    <td align="center"><code>11880</code></td>
+    <td align="center"><code>12490</code></td>
   </tr>
   <tr>
     <td>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>624</code></td>
+    <td align="center"><code>645</code></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2814</b> <code>(rate -68)</code></td>
+    <td align="center"><b>2964</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,17 +1049,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>2926420</b> <code>(rate -48)</code></td>
+    <td align="center"><b>3018134</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1343</b> <code>(48%)</code><br />Daily Activity: <b>600</b>
-      <code>(21%)</code><br />Events: <b>460</b> <code>(16%)</code
+      Adventure: <b>1383</b> <code>(47%)</code><br />Daily Activity: <b>660</b>
+      <code>(23%)</code><br />Events: <b>460</b> <code>(15%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(7%)</code><br />Quests:
-      <b>170</b> <code>(6%)</code><br />Mail: <b>20</b> <code>(1%)</code
+      <b>200</b> <code>(6%)</code><br />Mail: <b>40</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
     </td>
@@ -6906,7 +6906,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>289</b></td>
+    <td align="center"><b>290</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6935,7 +6935,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2913</b> <code>(rate -81)</code></td>
+    <td align="center"><b>2973</b> <code>(rate -81)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6956,8 +6956,8 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(38%)</code><br />Simulated Universe: <b>795</b>
-      <code>(27%)</code><br />Daily Activity: <b>600</b> <code>(20%)</code
+      Event: <b>1120</b> <code>(37%)</code><br />Simulated Universe: <b>795</b>
+      <code>(26%)</code><br />Daily Activity: <b>660</b> <code>(22%)</code
       ><br />Adventure Rewards: <b>375</b> <code>(12%)</code><br />Other:
       <b>3</b> <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>20</b> <code>(0%)</code><br />
