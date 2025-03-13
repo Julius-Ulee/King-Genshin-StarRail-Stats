@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 12, 2025 19:34 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 13, 2025 08:20 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-12 09:18:49+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-13 09:20:14+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>597</b></td>
+    <td align="center"><b>598</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>473</b></td>
+    <td align="center"><b>474</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>403</b></td>
+    <td align="center"><b>405</b></td>
   </tr>
   <tr>
     <td>
@@ -357,7 +357,7 @@
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>310</b></td>
+    <td align="center"><b>311</b></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2974</b> <code>(rate -67)</code></td>
+    <td align="center"><b>3269</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,17 +1049,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3047093</b> <code>(rate -46)</code></td>
+    <td align="center"><b>3274118</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1393</b> <code>(47%)</code><br />Daily Activity: <b>660</b>
-      <code>(23%)</code><br />Events: <b>460</b> <code>(15%)</code
-      ><br />Imaginarium Theater: <b>220</b> <code>(7%)</code><br />Quests:
-      <b>200</b> <code>(6%)</code><br />Mail: <b>40</b> <code>(1%)</code
+      Adventure: <b>1438</b> <code>(44%)</code><br />Daily Activity: <b>720</b>
+      <code>(23%)</code><br />Events: <b>630</b> <code>(19%)</code
+      ><br />Imaginarium Theater: <b>220</b> <code>(6%)</code><br />Quests:
+      <b>220</b> <code>(6%)</code><br />Mail: <b>40</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
       <code>(1%)</code><br />
     </td>
@@ -6873,22 +6873,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-12 09:18:50+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-13 09:20:13+08:00</b></td>
   </tr>
 </table>
 
@@ -6906,7 +6906,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>290</b></td>
+    <td align="center"><b>291</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
