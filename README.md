@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 13, 2025 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 13, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -350,7 +350,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1101</b></td>
+    <td align="center"><b>1102</b></td>
   </tr>
   <tr>
     <td>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>648</code></td>
+    <td align="center"><code>649</code></td>
   </tr>
   <tr>
     <td>
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3269</b> <code>(rate -63)</code></td>
+    <td align="center"><b>3274</b> <code>(rate -63)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,15 +1049,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3274118</b> <code>(rate -42)</code></td>
+    <td align="center"><b>3597181</b> <code>(rate -36)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1438</b> <code>(44%)</code><br />Daily Activity: <b>720</b>
-      <code>(23%)</code><br />Events: <b>630</b> <code>(19%)</code
+      Adventure: <b>1443</b> <code>(45%)</code><br />Daily Activity: <b>720</b>
+      <code>(22%)</code><br />Events: <b>630</b> <code>(19%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(6%)</code><br />Quests:
       <b>220</b> <code>(6%)</code><br />Mail: <b>40</b> <code>(1%)</code
       ><br />Spiral Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b>
@@ -2685,7 +2685,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -6935,7 +6935,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>2973</b> <code>(rate -81)</code></td>
+    <td align="center"><b>3033</b> <code>(rate -81)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6956,8 +6956,8 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(37%)</code><br />Simulated Universe: <b>795</b>
-      <code>(26%)</code><br />Daily Activity: <b>660</b> <code>(22%)</code
+      Event: <b>1120</b> <code>(36%)</code><br />Simulated Universe: <b>795</b>
+      <code>(26%)</code><br />Daily Activity: <b>720</b> <code>(23%)</code
       ><br />Adventure Rewards: <b>375</b> <code>(12%)</code><br />Other:
       <b>3</b> <code>(3%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>20</b> <code>(0%)</code><br />
