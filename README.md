@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 15, 2025 08:18 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 15, 2025 19:30 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>598</b></td>
+    <td align="center"><b>599</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>475</b></td>
+    <td align="center"><b>476</b></td>
   </tr>
   <tr>
     <td>
@@ -350,14 +350,14 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1102</b></td>
+    <td align="center"><b>1103</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>311</b></td>
+    <td align="center"><b>312</b></td>
   </tr>
   <tr>
     <td>
@@ -394,7 +394,7 @@
       />
       Max Friendship Characters
     </td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>10</b></td>
   </tr>
 </table>
 
@@ -1038,7 +1038,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>3354</b> <code>(rate -62)</code></td>
+    <td align="center"><b>3789</b> <code>(rate -58)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1049,17 +1049,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3709316</b> <code>(rate -34)</code></td>
+    <td align="center"><b>3871218</b> <code>(rate -31)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1443</b> <code>(44%)</code><br />Daily Activity: <b>780</b>
-      <code>(23%)</code><br />Events: <b>630</b> <code>(18%)</code><br />Quests:
-      <b>240</b> <code>(7%)</code><br />Imaginarium Theater: <b>220</b>
-      <code>(6%)</code><br />Mail: <b>40</b> <code>(1%)</code><br />Spiral
+      Adventure: <b>1498</b> <code>(40%)</code><br />Daily Activity: <b>840</b>
+      <code>(23%)</code><br />Events: <b>630</b> <code>(17%)</code><br />Mail:
+      <b>340</b> <code>(8%)</code><br />Quests: <b>260</b> <code>(6%)</code
+      ><br />Imaginarium Theater: <b>220</b> <code>(5%)</code><br />Spiral
       Abyss: <b>0</b> <code>(0%)</code><br />Other: <b>1</b> <code>(1%)</code
       ><br />
     </td>
@@ -2538,7 +2538,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+9</code></td>
+            <td align="center"><code>+10</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2649,7 +2649,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+89</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -6906,7 +6906,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>292</b></td>
+    <td align="center"><b>293</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6935,7 +6935,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3113</b> <code>(rate -80)</code></td>
+    <td align="center"><b>3173</b> <code>(rate -80)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6956,9 +6956,9 @@
       Categories
     </td>
     <td>
-      Event: <b>1120</b> <code>(35%)</code><br />Daily Activity: <b>780</b>
-      <code>(25%)</code><br />Simulated Universe: <b>795</b> <code>(25%)</code
-      ><br />Adventure Rewards: <b>375</b> <code>(12%)</code><br />Other:
+      Event: <b>1120</b> <code>(35%)</code><br />Daily Activity: <b>840</b>
+      <code>(26%)</code><br />Simulated Universe: <b>795</b> <code>(25%)</code
+      ><br />Adventure Rewards: <b>375</b> <code>(11%)</code><br />Other:
       <b>3</b> <code>(2%)</code><br />Mail: <b>40</b> <code>(1%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
