@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 22, 2025 08:19 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 22, 2025 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>481</b></td>
+    <td align="center"><b>482</b></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4604</b> <code>(rate -49)</code></td>
+    <td align="center"><b>4664</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,7 +919,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4555082</b> <code>(rate -19)</code></td>
+    <td align="center"><b>4595557</b> <code>(rate -18)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -927,7 +927,7 @@
     </td>
     <td>
       Adventure: <b>1503</b> <code>(33%)</code><br />Daily Activity:
-      <b>1140</b> <code>(25%)</code><br />Events: <b>880</b> <code>(20%)</code
+      <b>1200</b> <code>(26%)</code><br />Events: <b>880</b> <code>(19%)</code
       ><br />Mail: <b>360</b> <code>(7%)</code><br />Quests: <b>300</b>
       <code>(6%)</code><br />Spiral Abyss: <b>200</b> <code>(4%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(4%)</code><br />Other:
@@ -6891,7 +6891,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>298</b></td>
+    <td align="center"><b>299</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6920,7 +6920,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5095</b> <code>(rate -68)</code></td>
+    <td align="center"><b>5155</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6930,7 +6930,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>29</b> <code>(rate -46)</code></td>
+    <td align="center"><b>31</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6942,9 +6942,9 @@
     </td>
     <td>
       Simulated Universe: <b>2335</b> <code>(45%)</code><br />Daily Activity:
-      <b>1140</b> <code>(22%)</code><br />Event: <b>1120</b> <code>(21%)</code
-      ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Other:
-      <b>5</b> <code>(3%)</code><br />Mail: <b>110</b> <code>(2%)</code
+      <b>1200</b> <code>(23%)</code><br />Event: <b>1120</b> <code>(21%)</code
+      ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Mail:
+      <b>110</b> <code>(2%)</code><br />Other: <b>5</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
