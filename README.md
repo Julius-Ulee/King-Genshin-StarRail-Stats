@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 22, 2025 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 23, 2025 08:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-22 09:19:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-23 09:25:45+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>599</b></td>
+    <td align="center"><b>600</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>482</b></td>
+    <td align="center"><b>483</b></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>4664</b> <code>(rate -48)</code></td>
+    <td align="center"><b>4744</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,16 +919,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>4595557</b> <code>(rate -18)</code></td>
+    <td align="center"><b>4695439</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Adventure: <b>1503</b> <code>(33%)</code><br />Daily Activity:
-      <b>1200</b> <code>(26%)</code><br />Events: <b>880</b> <code>(19%)</code
-      ><br />Mail: <b>360</b> <code>(7%)</code><br />Quests: <b>300</b>
+      Adventure: <b>1503</b> <code>(32%)</code><br />Daily Activity:
+      <b>1260</b> <code>(27%)</code><br />Events: <b>880</b> <code>(19%)</code
+      ><br />Mail: <b>360</b> <code>(7%)</code><br />Quests: <b>320</b>
       <code>(6%)</code><br />Spiral Abyss: <b>200</b> <code>(4%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(4%)</code><br />Other:
       <b>1</b> <code>(1%)</code><br />
@@ -6858,22 +6858,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-22 09:19:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-23 09:25:45+08:00</b></td>
   </tr>
 </table>
 
@@ -6891,7 +6891,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>299</b></td>
+    <td align="center"><b>300</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6920,7 +6920,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5155</b> <code>(rate -67)</code></td>
+    <td align="center"><b>5215</b> <code>(rate -67)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6941,8 +6941,8 @@
       Categories
     </td>
     <td>
-      Simulated Universe: <b>2335</b> <code>(45%)</code><br />Daily Activity:
-      <b>1200</b> <code>(23%)</code><br />Event: <b>1120</b> <code>(21%)</code
+      Simulated Universe: <b>2335</b> <code>(44%)</code><br />Daily Activity:
+      <b>1260</b> <code>(24%)</code><br />Event: <b>1120</b> <code>(21%)</code
       ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Mail:
       <b>110</b> <code>(2%)</code><br />Other: <b>5</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
@@ -7133,7 +7133,7 @@
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
