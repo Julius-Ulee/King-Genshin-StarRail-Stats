@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 26, 2025 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 26, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>485</b></td>
+    <td align="center"><b>486</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>405</b></td>
+    <td align="center"><b>406</b></td>
   </tr>
   <tr>
     <td>
@@ -2523,7 +2523,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+3</code></td>
+            <td align="center"><code>+4</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -6891,7 +6891,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>301</b></td>
+    <td align="center"><b>302</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6920,7 +6920,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5275</b> <code>(rate -67)</code></td>
+    <td align="center"><b>5335</b> <code>(rate -66)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6941,10 +6941,10 @@
       Categories
     </td>
     <td>
-      Simulated Universe: <b>2335</b> <code>(44%)</code><br />Daily Activity:
-      <b>1320</b> <code>(25%)</code><br />Event: <b>1120</b> <code>(21%)</code
-      ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Mail:
-      <b>110</b> <code>(2%)</code><br />Other: <b>5</b> <code>(1%)</code
+      Simulated Universe: <b>2335</b> <code>(43%)</code><br />Daily Activity:
+      <b>1380</b> <code>(25%)</code><br />Event: <b>1120</b> <code>(20%)</code
+      ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Other:
+      <b>5</b> <code>(3%)</code><br />Mail: <b>110</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -7133,7 +7133,7 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
               Hunter's Soft Elkskin Boots<br />
             </td>
