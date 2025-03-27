@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 27, 2025 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 27, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>649</code></td>
+    <td align="center"><code>651</code></td>
   </tr>
   <tr>
     <td>
@@ -919,7 +919,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5011366</b> <code>(rate -11)</code></td>
+    <td align="center"><b>5018850</b> <code>(rate -11)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -2555,7 +2555,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
