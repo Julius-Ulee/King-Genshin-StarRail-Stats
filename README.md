@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 29, 2025 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 29, 2025 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>600</b></td>
+    <td align="center"><b>601</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>488</b></td>
+    <td align="center"><b>489</b></td>
   </tr>
   <tr>
     <td>
@@ -869,7 +869,7 @@
       />
       <b>Total Furnishings Obtained</b>
     </td>
-    <td align="center"><code>651</code></td>
+    <td align="center"><code>652</code></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5684</b> <code>(rate -37)</code></td>
+    <td align="center"><b>5764</b> <code>(rate -36)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,15 +919,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5162199</b> <code>(rate -8)</code></td>
+    <td align="center"><b>5288324</b> <code>(rate -6)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1500</b> <code>(27%)</code><br />Adventure:
-      <b>1513</b> <code>(27%)</code><br />Mail: <b>1050</b> <code>(19%)</code
+      Daily Activity: <b>1560</b> <code>(28%)</code><br />Adventure:
+      <b>1533</b> <code>(27%)</code><br />Mail: <b>1050</b> <code>(18%)</code
       ><br />Events: <b>880</b> <code>(15%)</code><br />Quests: <b>320</b>
       <code>(5%)</code><br />Spiral Abyss: <b>200</b> <code>(3%)</code
       ><br />Imaginarium Theater: <b>220</b> <code>(3%)</code><br />Other:
