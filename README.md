@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 29, 2025 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 30, 2025 08:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,7 +205,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-29 09:20:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-30 09:27:35+08:00</b></td>
   </tr>
 </table>
 
@@ -919,7 +919,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5288324</b> <code>(rate -6)</code></td>
+    <td align="center"><b>5293374</b> <code>(rate -6)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6858,7 +6858,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6873,7 +6873,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-29 09:20:20+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-30 09:27:36+08:00</b></td>
   </tr>
 </table>
 
@@ -6891,7 +6891,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>302</b></td>
+    <td align="center"><b>303</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -6920,7 +6920,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5335</b> <code>(rate -66)</code></td>
+    <td align="center"><b>5695</b> <code>(rate -64)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6941,10 +6941,10 @@
       Categories
     </td>
     <td>
-      Simulated Universe: <b>2335</b> <code>(43%)</code><br />Daily Activity:
-      <b>1380</b> <code>(25%)</code><br />Event: <b>1120</b> <code>(20%)</code
-      ><br />Adventure Rewards: <b>385</b> <code>(7%)</code><br />Other:
-      <b>5</b> <code>(3%)</code><br />Mail: <b>110</b> <code>(2%)</code
+      Simulated Universe: <b>2335</b> <code>(41%)</code><br />Daily Activity:
+      <b>1440</b> <code>(25%)</code><br />Event: <b>1120</b> <code>(19%)</code
+      ><br />Mail: <b>410</b> <code>(7%)</code><br />Adventure Rewards:
+      <b>385</b> <code>(6%)</code><br />Other: <b>5</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10082,7 +10082,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Relics</td>
