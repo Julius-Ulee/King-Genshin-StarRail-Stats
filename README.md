@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 30, 2025 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 31, 2025 08:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,7 +205,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-30 09:27:35+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-31 09:25:24+08:00</b></td>
   </tr>
 </table>
 
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>489</b></td>
+    <td align="center"><b>490</b></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5764</b> <code>(rate -36)</code></td>
+    <td align="center"><b>5824</b> <code>(rate -35)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,14 +919,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5293374</b> <code>(rate -6)</code></td>
+    <td align="center"><b>5349099</b> <code>(rate -5)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>1560</b> <code>(28%)</code><br />Adventure:
+      Daily Activity: <b>1620</b> <code>(28%)</code><br />Adventure:
       <b>1533</b> <code>(27%)</code><br />Mail: <b>1050</b> <code>(18%)</code
       ><br />Events: <b>880</b> <code>(15%)</code><br />Quests: <b>320</b>
       <code>(5%)</code><br />Spiral Abyss: <b>200</b> <code>(3%)</code
@@ -6858,7 +6858,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6873,7 +6873,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-30 09:27:36+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-31 09:25:25+08:00</b></td>
   </tr>
 </table>
 
@@ -6946,83 +6946,6 @@
       ><br />Mail: <b>410</b> <code>(7%)</code><br />Adventure Rewards:
       <b>385</b> <code>(6%)</code><br />Other: <b>5</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1021</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Strife of Creation (I)</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>3</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Strife of Creation (I)</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>2 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>19</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/bab087f7fb64814a8a449170716a8bbf.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b0eb8e5987158fd59167264e74bb477a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/7ce807fec0f20c26583b40d05e941ebf.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/6744fb7d75a3c6b11a51bffe6e94bc11.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/37d12cc754413d0d59f863d74068d205.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/1cf4050523ac774ae0e048adf6f29703.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/051f3237d360751a8f7876f227eb5117.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/986c599d6fb3dcd25c3f0c2c3b453ec2.png"
-        height="18"
-      />
     </td>
   </tr>
 </table>
