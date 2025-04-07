@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 07, 2025 08:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 07, 2025 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>90</b> <code>(rate -98)</code></td>
+    <td align="center"><b>145</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,17 +919,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>133150</b> <code>(rate -97)</code></td>
+    <td align="center"><b>166050</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>70</b> <code>(78%)</code><br />Mail: <b>20</b>
-      <code>(22%)</code><br />Events: <b>0</b> <code>(0%)</code><br />Spiral
-      Abyss: <b>0</b> <code>(0%)</code><br />Imaginarium Theater: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure:
+      Daily Activity: <b>120</b> <code>(83%)</code><br />Mail: <b>20</b>
+      <code>(14%)</code><br />Adventure: <b>5</b> <code>(3%)</code><br />Events:
+      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
       <b>0</b> <code>(0%)</code><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
