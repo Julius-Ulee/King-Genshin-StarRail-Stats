@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 12, 2025 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 12, 2025 19:31 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>492</b></td>
+    <td align="center"><b>493</b></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +908,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>145</b> <code>(rate -97)</code></td>
+    <td align="center"><b>225</b> <code>(rate -96)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -919,15 +919,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>166050</b> <code>(rate -96)</code></td>
+    <td align="center"><b>233149</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>120</b> <code>(83%)</code><br />Mail: <b>20</b>
-      <code>(14%)</code><br />Adventure: <b>5</b> <code>(3%)</code><br />Events:
+      Daily Activity: <b>180</b> <code>(81%)</code><br />Mail: <b>40</b>
+      <code>(17%)</code><br />Adventure: <b>5</b> <code>(2%)</code><br />Events:
       <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
       <b>0</b> <code>(0%)</code><br />Other: <b>0</b> <code>(0%)</code><br />
@@ -6890,11 +6890,11 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>307</b></td>
+    <td align="center"><b>308</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td align="center"><b>32</b></td>
+    <td align="center"><b>34</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
@@ -6919,7 +6919,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>200</b> <code>(rate -96)</code></td>
+    <td align="center"><b>970</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6929,7 +6929,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>8</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -6940,11 +6940,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>180</b> <code>(90%)</code><br />Mail: <b>20</b>
-      <code>(10%)</code><br />Event: <b>0</b> <code>(0%)</code><br />Adventure
-      Rewards: <b>0</b> <code>(0%)</code><br />Simulated Universe: <b>0</b>
-      <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>730</b> <code>(75%)</code><br />Daily Activity: <b>240</b>
+      <code>(24%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
+      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
+      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -11133,6 +11133,304 @@
     <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
       height="18"
+    /><b> Castorice </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+            height="20"
+          />
+          Castorice
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6e2037a115cba9628af4cb189b03b668.png"
+            height="20"
+          />
+          Geniuses' Greetings
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/984cbf7c3571a91b1877f507bf17bc90.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6e2037a115cba9628af4cb189b03b668.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                height="18"
+              />
+              Quantum
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f8d163eb127b51220426a5df31307782.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Dill Wreath<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6bd62b0256d7abda0b53f99928602f55.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Gilded Bracelet<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/00d4c1fa9a873096f6cdc29716fcd3b0.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Star-Studded Skirt<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/29341f54d8fe283acf8992f5fa20f71f.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Poet's Silver-Studded Shoes<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/22de0f8b9afcf0ce74a17a5b247ea9cf.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              BananAmusement Park's BananAxis Plaza<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/4a44604b98a4696f1f3c5439b9603c17.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              BananAmusement Park's Memetic Cables<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Geniuses' Greetings</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+      height="18"
+    /><b> Luocha </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+            height="20"
+          />
+          Luocha
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/972d41c9220439d98793caba6c58c02b.png"
+            height="20"
+          />
+          Perfect Timing
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/953a75df178c9585ba36d18886eb92bd.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/972d41c9220439d98793caba6c58c02b.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                height="18"
+              />
+              Imaginary
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/520ad17949426a14072936ec8ff29d22.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Rejuvenated Wooden Hairstick<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/e292c4278cca41a6aee48c1e46ee89eb.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Roaming Dragon Bracer<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2c49038a52851a82e8b668e9b5a6ad80.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Ragged Embroided Coat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/64f9a35775a32357a68765e1ff377f08.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Passerby's Stygian Hiking Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8d9741e45529eff5731c599c3d81cef8.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐<br />
+              Lushaka's Waterscape<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6a2465827bfb294e7f01f952b7fd6e93.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Lushaka's Twinlanes<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Perfect Timing</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+      height="18"
     /><b> Xueyi </b>
   </summary>
   <br />
@@ -11448,10 +11746,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/972d41c9220439d98793caba6c58c02b.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6197f2adae55af4ef7eafebc7a895763.png"
             height="20"
           />
-          Perfect Timing
+          Shared Feeling
         </h3>
       </th>
     </tr>
@@ -11466,7 +11764,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/972d41c9220439d98793caba6c58c02b.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6197f2adae55af4ef7eafebc7a895763.png"
           />
         </p>
       </td>
@@ -11494,7 +11792,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -11556,7 +11854,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Perfect Timing</td>
+            <td align="center">Shared Feeling</td>
           </tr>
           <tr>
             <td>Rarity</td>
