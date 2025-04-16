@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 15, 2025 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 16, 2025 08:24 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-15 09:24:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-16 09:24:11+08:00</b></td>
   </tr>
 </table>
 
@@ -383,7 +383,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>9-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
   <tr>
     <td>
@@ -892,6 +892,135 @@
       <b>Visitor History</b>
     </td>
     <td align="center"><code>1</code></td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
+      <b>105</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
+      <b>3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕐 Start Time: <b>2025-03-15 20:00:00+08:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕛 End Time: <b>2025-04-15 19:59:59+08:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Played</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+        ,
+        height="18"
+      />
+      <b>Arlecchino</b> <code>(3)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Kills</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/a95ff98fd903760381128a2f42fdf6de.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(21)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest_Strike</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/a95ff98fd903760381128a2f42fdf6de.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(104398)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Damage_Taken</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/4cbb3a9f099fb8e31117047189192471.png"
+        ,
+        height="18"
+      />
+      <b>Arlecchino</b> <code>(3078)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Bursts_Used</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/cf93186ac38ea6cc0b2f6beec7a74813.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(4)</code><br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Skills_Used</td>
+    <td>
+      <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/a95ff98fd903760381128a2f42fdf6de.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(10)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -6857,22 +6986,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-15 09:24:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-16 09:24:12+08:00</b></td>
   </tr>
 </table>
 
