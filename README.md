@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 17, 2025 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 18, 2025 08:22 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-17 09:23:10+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-18 09:22:19+08:00</b></td>
   </tr>
 </table>
 
@@ -945,26 +945,26 @@
     <td>Most_Played</td>
     <td>
       <img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
-        ,
-        height="18"
-      />
-      <b>Navia</b> <code>(3)</code><br /><img
         src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+        ,
+        height="18"
+      />
+      <b>Arlecchino</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png"
+        ,
+        height="18"
+      />
+      <b>Bennett</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -6986,22 +6986,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-17 09:23:10+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-18 09:22:20+08:00</b></td>
   </tr>
 </table>
 
