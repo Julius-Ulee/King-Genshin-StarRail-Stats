@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 24, 2025 08:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 24, 2025 19:37 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -945,6 +945,16 @@
     <td>Most_Played</td>
     <td>
       <img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
+        ,
+        height="18"
+      />
+      <b>Navia</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png"
+        ,
+        height="18"
+      />
+      <b>Sucrose</b> <code>(3)</code><br /><img
         src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
         ,
         height="18"
@@ -954,17 +964,7 @@
         ,
         height="18"
       />
-      <b>Arlecchino</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png"
-        ,
-        height="18"
-      />
-      <b>Bennett</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
-        ,
-        height="18"
-      />
-      <b>Xiangling</b> <code>(3)</code><br />
+      <b>Arlecchino</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
