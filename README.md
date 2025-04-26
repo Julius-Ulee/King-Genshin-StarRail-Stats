@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 26, 2025 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 26, 2025 19:32 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -945,16 +945,6 @@
     <td>Most_Played</td>
     <td>
       <img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(3)</code><br /><img
         src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
         ,
         height="18"
@@ -964,7 +954,17 @@
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br />
+      <b>Sucrose</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+        ,
+        height="18"
+      />
+      <b>Arlecchino</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -7019,7 +7019,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>309</b></td>
+    <td align="center"><b>310</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7048,7 +7048,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1050</b> <code>(rate -81)</code></td>
+    <td align="center"><b>2680</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7058,7 +7058,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>10</b> <code>(rate -67)</code></td>
+    <td align="center"><b>14</b> <code>(rate -54)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -7069,9 +7069,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>750</b> <code>(71%)</code><br />Daily Activity: <b>300</b>
-      <code>(28%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
-      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
+      Event: <b>1600</b> <code>(59%)</code><br />Mail: <b>770</b>
+      <code>(28%)</code><br />Daily Activity: <b>310</b> <code>(11%)</code
+      ><br />Other: <b>0</b> <code>(2%)</code><br />Adventure Rewards: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
