@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2025 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2025 08:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-27 09:36:33+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-28 09:26:35+08:00</b></td>
   </tr>
 </table>
 
@@ -945,11 +945,6 @@
     <td>Most_Played</td>
     <td>
       <img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png"
-        ,
-        height="18"
-      />
-      <b>Xingqiu</b> <code>(3)</code><br /><img
         src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
         ,
         height="18"
@@ -964,7 +959,12 @@
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(3)</code><br />
+      <b>Zhongli</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+        ,
+        height="18"
+      />
+      <b>Arlecchino</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -6986,22 +6986,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>28</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+          src="https://act.hoyoverse.com/event-static/2023/10/19/5ec24224c0e731d65270c6f2310e84a4_1327294036092457046.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-27 09:36:34+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-28 09:26:36+08:00</b></td>
   </tr>
 </table>
 
