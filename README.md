@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 28, 2025 08:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2025 19:39 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>494</b></td>
+    <td align="center"><b>495</b></td>
   </tr>
   <tr>
     <td>
@@ -383,7 +383,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
   <tr>
     <td>
@@ -945,26 +945,26 @@
     <td>Most_Played</td>
     <td>
       <img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png"
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
         ,
         height="18"
       />
-      <b>Navia</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png"
+      <b>Xiangling</b> <code>(3)</code><br /><img
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png"
         ,
         height="18"
       />
-      <b>Sucrose</b> <code>(3)</code><br /><img
+      <b>Xingqiu</b> <code>(3)</code><br /><img
         src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(3)</code><br /><img
-        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+        src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png"
         ,
         height="18"
       />
-      <b>Arlecchino</b> <code>(3)</code><br />
+      <b>Bennett</b> <code>(3)</code><br />
     </td>
   </tr>
   <tr>
@@ -1037,7 +1037,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>285</b> <code>(rate -95)</code></td>
+    <td align="center"><b>605</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1048,15 +1048,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>309124</b> <code>(rate -94)</code></td>
+    <td align="center"><b>417124</b> <code>(rate -92)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>240</b> <code>(85%)</code><br />Mail: <b>40</b>
-      <code>(14%)</code><br />Adventure: <b>5</b> <code>(1%)</code><br />Events:
+      Mail: <b>360</b> <code>(60%)</code><br />Daily Activity: <b>240</b>
+      <code>(39%)</code><br />Adventure: <b>5</b> <code>(1%)</code><br />Events:
       <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
       <b>0</b> <code>(0%)</code><br />Other: <b>0</b> <code>(0%)</code><br />
