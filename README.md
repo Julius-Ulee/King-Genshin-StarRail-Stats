@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 29, 2025 19:39 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 30, 2025 08:24 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,7 +205,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-29 09:24:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-30 09:24:50+08:00</b></td>
   </tr>
 </table>
 
@@ -6986,22 +6986,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+          src="https://act.hoyoverse.com/event-static/2023/10/19/6b6ff68f20a7d6d647ca02a7fe5e7a6a_6821519863151223655.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-29 09:24:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-30 09:24:50+08:00</b></td>
   </tr>
 </table>
 
