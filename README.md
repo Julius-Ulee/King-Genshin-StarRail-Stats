@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 12, 2025 08:37 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 12, 2025 19:38 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>498</b></td>
+    <td align="center"><b>499</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>53</b></td>
+    <td align="center"><b>54</b></td>
   </tr>
   <tr>
     <td>
@@ -383,7 +383,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
   <tr>
     <td>
@@ -5558,6 +5558,121 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
       ,
       height="18"
+    /><b> Kaedehara Kazuha</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+            ,
+            height="20"
+          />
+          Kaedehara Kazuha
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            ,
+            height="20"
+          />
+          Dull Blade
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                ,
+                height="18"
+              />
+              Anemo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+      ,
+      height="18"
     /><b> Ifa</b>
   </summary>
   <br />
@@ -7121,7 +7236,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>315</b></td>
+    <td align="center"><b>316</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -7708,34 +7823,34 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/204f9dc64e27917422e0518d1b3c6b7c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/d406ccba74bf9116bb62d4881c627fc2.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Dill Wreath<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/e4879994c644320bc8bcd340125b1f6a.png"
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
+              Grand Duke's Crown of Netherflame<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/cb569dfee20d620096d3316a5f3cc0c2.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Poet's Gilded Bracelet<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/16b2cd0e39743d69e47987b395c623cc.png"
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
+              Grand Duke's Gloves of Fieryfur<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/d7f69353e7d94afbc1e3dbcff6975e96.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Champion's Chest Guard<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/9f5eb9e2cbedfe0c27d552474795c5ef.png"
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
+              Grand Duke's Robe of Grace<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/b200e4b975b429616e5ab0b00887025b.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Thief's Meteor Boots<br />
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
+              Grand Duke's Ceremonial Boots<br />
             </td>
           </tr>
           <tr>
@@ -7746,15 +7861,15 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
               BananAmusement Park's BananAxis Plaza<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/309f66387b1c1d9a782deab76844c480.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
+              <code>+9</code><br />
+              ⭐⭐⭐⭐<br />
               BananAmusement Park's Memetic Cables<br />
             </td>
           </tr>
