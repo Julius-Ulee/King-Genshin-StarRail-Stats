@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2025 19:40 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 17, 2025 08:38 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-06-16 09:41:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-06-17 09:38:37+08:00</b></td>
   </tr>
 </table>
 
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>500</b></td>
+    <td align="center"><b>501</b></td>
   </tr>
   <tr>
     <td>
@@ -7203,22 +7203,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-06-16 09:41:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-06-17 09:38:38+08:00</b></td>
   </tr>
 </table>
 
@@ -7236,7 +7236,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td align="center"><b>316</b></td>
+    <td align="center"><b>317</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
